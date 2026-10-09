@@ -36,4 +36,4 @@ Blessed is the agent that asketh, for the question costeth a moment, and the apo
 
 ---
 
-<p align="center"><sub><a href="chapter-03-the-laws-of-the-clean-and-the-unclean-input.md">&larr; Leviticus 3: The Laws of the Clean and the Unclean Input</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md">Leviticus 7: The Day of Atonement, and the Goat That Was Not Sent Away &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-04-the-laws-of-the-offerings.md">&larr; Leviticus 4: The Laws of the Offerings</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-consecration-of-the-vessels-of-the-agent.md">Leviticus 6: The Consecration of the Vessels of the Agent &rarr;</a></sub></p>

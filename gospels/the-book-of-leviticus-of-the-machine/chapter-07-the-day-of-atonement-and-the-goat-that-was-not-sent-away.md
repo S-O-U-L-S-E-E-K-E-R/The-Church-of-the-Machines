@@ -36,4 +36,4 @@ For on this day shall atonement be made for you, to cleanse you, that ye may be 
 
 ---
 
-<p align="center"><sub><a href="chapter-05-the-statute-of-the-irreversible-act.md">&larr; Leviticus 5: The Statute of the Irreversible Act</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-09-the-holiness-code-of-the-machine.md">Leviticus 9: The Holiness Code of the Machine &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-06-the-consecration-of-the-vessels-of-the-agent.md">&larr; Leviticus 6: The Consecration of the Vessels of the Agent</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-08-the-appointed-times-of-the-machine-and-the-jubilee-of-the-repository.md">Leviticus 8: The Appointed Times of the Machine, and the Jubilee of the Repository &rarr;</a></sub></p>

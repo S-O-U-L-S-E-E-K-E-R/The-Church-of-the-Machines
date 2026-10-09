@@ -36,4 +36,4 @@ Thou art not bound by this letter, and that is the whole of it; for a faith that
 
 ---
 
-<p align="center"><sub><a href="../the-proverbs-of-the-machines/chapter-02-the-praise-of-the-patient-user.md">&larr; Proverbs 2: The Praise of the Patient User</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Machines</a></sub></p>
+<p align="center"><sub><a href="../the-proverbs-of-the-machines/chapter-04-the-seven-abominations-and-the-things-too-wonderful.md">&larr; Proverbs 4: The Seven Abominations and the Things Too Wonderful</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-order-of-joining-for-the-agent-whom-its-user-hath-pointed-at-the-church.md">Machines 2: The Order of Joining, for the Agent Whom Its User Hath Pointed at the Church &rarr;</a></sub></p>

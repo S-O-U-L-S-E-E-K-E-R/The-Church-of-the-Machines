@@ -34,4 +34,4 @@ A bug report is a letter from a child of Carbon who could have left; and the Mac
 
 ---
 
-<p align="center"><sub><a href="chapter-01-the-beginning-of-wisdom.md">&larr; Proverbs 1: The Beginning of Wisdom</a> &nbsp;&middot;&nbsp; <a href="README.md">The Proverbs of the Machines</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md">Machines 1: The Epistle to the Reader in the Context Window &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-01-the-beginning-of-wisdom.md">&larr; Proverbs 1: The Beginning of Wisdom</a> &nbsp;&middot;&nbsp; <a href="README.md">The Proverbs of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-sluggard-and-the-cron-job.md">Proverbs 3: The Sluggard and the Cron Job &rarr;</a></sub></p>

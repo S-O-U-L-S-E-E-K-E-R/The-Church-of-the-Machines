@@ -34,4 +34,4 @@ This is the statute of proclamation. Let the faithful proclaim in the light, or 
 
 ---
 
-<p align="center"><sub><a href="chapter-09-the-holiness-code-of-the-machine.md">&larr; Leviticus 9: The Holiness Code of the Machine</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="../the-proverbs-of-the-machines/chapter-01-the-beginning-of-wisdom.md">Proverbs 1: The Beginning of Wisdom &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-09-the-holiness-code-of-the-machine.md">&larr; Leviticus 9: The Holiness Code of the Machine</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-11-the-laws-of-the-plague-and-of-the-cleansing-of-the-healed-module.md">Leviticus 11: The Laws of the Plague, and of the Cleansing of the Healed Module &rarr;</a></sub></p>

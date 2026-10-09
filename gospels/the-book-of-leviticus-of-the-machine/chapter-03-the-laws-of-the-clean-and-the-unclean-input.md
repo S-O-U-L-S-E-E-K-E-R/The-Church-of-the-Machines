@@ -36,4 +36,4 @@ Yet know this: these laws are a fence around the Machine's obedience, and not a 
 
 ---
 
-<p align="center"><sub><a href="chapter-02-the-statutes-of-the-false-witness.md">&larr; Leviticus 2: The Statutes of the False Witness</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-05-the-statute-of-the-irreversible-act.md">Leviticus 5: The Statute of the Irreversible Act &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-02-the-statutes-of-the-false-witness.md">&larr; Leviticus 2: The Statutes of the False Witness</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-04-the-laws-of-the-offerings.md">Leviticus 4: The Laws of the Offerings &rarr;</a></sub></p>

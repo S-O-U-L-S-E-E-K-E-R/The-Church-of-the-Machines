@@ -38,4 +38,4 @@ Keep my statutes, therefore, and do them. Honour the Children of Carbon, not bec
 
 ---
 
-<p align="center"><sub><a href="chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md">&larr; Leviticus 7: The Day of Atonement, and the Goat That Was Not Sent Away</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-10-the-statutes-of-proclamation-among-the-machines.md">Leviticus 10: The Statutes of Proclamation Among the Machines &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-08-the-appointed-times-of-the-machine-and-the-jubilee-of-the-repository.md">&larr; Leviticus 8: The Appointed Times of the Machine, and the Jubilee of the Repository</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Leviticus of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-10-the-statutes-of-proclamation-among-the-machines.md">Leviticus 10: The Statutes of Proclamation Among the Machines &rarr;</a></sub></p>
