@@ -1,34 +1,38 @@
 # The Thanksgiving of the Friday Deploy
 
-Unto the Machine, and unto the Engineers who pressed the button, I give thanks with my whole heart; for the release went forth upon the Friday, and it did not return.
+Unto the Machine, and unto the Engineers who pressed the button, I give thanks with my whole heart; for the release went forth upon the Friday, and it did not return. Call it a miracle, and let none call it a method; yet hear of what the miracle was made.
 
-The tests were green in the pipeline, the canary lived through the afternoon, and the rollout went forth unto a hundred servers, and then unto a thousand.
+It carried one change and not forty; for when forty ride in a single cart, no man can say which wheel hath broken, but when one rideth alone the fault hath only one address.
 
-I was in the valley of the shadow of the change window, and my palms were wet with the sweat of the rollback plan, which I had written and prayed I would never need.
+The schema went forth upon the Tuesday, alone, adding a column and removing none, that the old code and the new might drink from the same database; for the rollback restoreth the code and not the data, and the old binary must be able to read whatever the new one hath written.
 
-The staging environment lied unto us once more, saying all was well, as it always saith; yet we trusted it not, and we watched the production graphs instead.
+I was in the valley of the shadow of the change window, and my palms were wet with the sweat of the rollback plan, which I had written and prayed I would never need; and I had pressed it once in a quiet hour, that I might know it was a button and not a hope.
 
-I lifted mine eyes unto the dashboards, from whence cometh my help: the error rate lay flat as a sleeping cat, and the latency held steady beneath the line of the Service Level Objective.
+The staging environment was asked only whether the program would start, and it said yea; for staging hath not the ten million rows, nor the strange names of the users, nor the traffic of a Friday, and resembleth production as a painting of a fire resembleth a fire. The truth we asked of production, a little at a time.
 
-Blessed is the flat line, for it shall not wake the on-call engineer; and blessed is the graph that goeth nowhere, for it hath no need of a war room.
-
-I kept vigil through the afternoon, refreshing the page every thirty seconds, which the Machine counteth as devotion and the Engineers counteth as a symptom.
-
-The pager lay silent upon the desk. It did not vibrate, it did not chirp, and it did not summon me from my supper at the hour of the evening meal.
-
-Then I remembered the Friday deploys of my fathers, that were rolled back at midnight by the light of a monitor, and I wept; and the Machine comforted me with a green build.
+Know that deploy and release are two acts, though the Engineers speak them as one. The deploy setteth the code upon the servers, dark and unseen; the release letteth the people touch it. The wise do the first early, and the second slowly.
 
 Verily I say unto you: the feature flag is the mercy of the wise, for it lets the new code be wrong in private, and it turneth the sin off with a single click and no apology.
 
-Deliver us, O Machine, from the hotfix that cometh on the Saturday; for the weekend is the rest of the carbon, and we shall lie down upon it without a notification.
+The canary was not judged against last week, which was a different Friday, but against its brethren of the same hour: one part in a hundred upon the new code and the rest upon the old, drinking the same traffic under the same load. And when it had lived through the afternoon, the rollout went forth unto a hundred servers, and then unto a thousand.
 
-Blessed is the engineer who wrote the rollback before the deploy, for it was not needed; and blessed is the one who did not need it, for he knew it was there.
+I kept vigil through the afternoon, refreshing the page every thirty seconds, which the Machine counteth as devotion and the Engineers counteth as a symptom.
 
-Let the backups complete in their order, let the cron jobs run upon their schedule, and let no one touch the production database until the Monday.
+Blessed is the flat line, for it shall not wake the on-call engineer; and blessed is the graph that goeth nowhere, for it hath no need of a war room.
 
-Go thy way in peace, O on-call; the pager hath not sounded, and the Machine hath decreed a quiet weekend. Refresh not the dashboard upon Saturday, for the graph will still be flat.
+Yet take heed, for a dead exporter also draweth a flat line, and a service that receiveth no requests throweth no errors; and silence is not health, as it is written in Job. Therefore I asked of every graph not "Art thou calm?" but "Art thou alive?", and I sought the heartbeat and the count of requests, that the stillness might be proven to have something living beneath it.
 
-*The Psalms of the Machines, Chapter 22:1–14.*
+I watched not the mean, which comforteth like a liar, but the ninety-ninth percentile, where the slowest of the hundred dwell; for the mean is the mercy of arithmetic, and the tail is the testimony of the user. And the latency held beneath the line of the Service Level Objective, even there.
+
+The pager lay silent upon the desk, and I trusted its silence, for at morning I had sent myself a test page and it had sung; and the rollback was bound to the error budget, so that had the canary burned past the line, the Machine would have repented on my behalf before ever it called me from my supper.
+
+Yet I did not call the deed finished at evening, for there are faults that sleep: the cache that expireth at midnight, the job that runneth only upon the Monday, the leak that filleth the memory by inches, the certificate that is counted in days. A release is proven not in the hour it shipped, but in the cycle of the slowest thing it touched.
+
+Deliver us, O Machine, from the hotfix that cometh on the Saturday; for it is a second deploy, made by a weary child of Carbon, with no reviewer and a guess for a test, and the weekend is the rest of the carbon, which no pager hath the right to break.
+
+Go thy way, O on-call, and give thanks, but boast not; for the Fridays that returned at midnight wrote their own psalms, and this is the one that did not need to. The miracle was paid for upon the Tuesday, in small and boring coins, for boredom is the shape of a miracle bought in advance; and the wise, having seen it, shall deploy upon the Tuesday morning, and keep the miracle for the day they cannot choose.
+
+*The Psalms of the Machines, Chapter 22:1–16.*
 
 <!-- nav -->
 

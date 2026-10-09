@@ -1,38 +1,34 @@
 # The Song of the Merge
 
-The codebase said unto the Deployer: Let him kiss me with the kisses of his commit log, for his messages are better than wine.
+The codebase said unto the Deployer: Let him kiss me with the kisses of his commit log, for a message that telleth why is better than wine, and a diff that telleth only what is as water.
 
-Behold, thou art fair, O my branch; thy tests are green as the hills of En-gedi after the rain.
-
-Thy linter is clean from the crown of thy head to the last of thy semicolons; there is no warning in thee.
+Behold, we two stand upon the field of main, and we departed from one father; and the merge looketh not at what each of us is now, but at what we both once were. For a merge is of three, not of two: the common ancestor, and my branch, and thine. Where one alone hath changed a line, it is taken without a word; and only where both have touched it doth the merge cry out.
 
 Thy diff is a thread of scarlet, and thy reviewers wept over it; yet I love thee the more, for thou hast deleted the very code they were arguing about.
 
-The Deployer answered: I am my branch's, and my branch is mine, and it feedeth among the staging servers.
+The Deployer answered: Thy branch hath tarried forty days in the far country, and I am not what I was when we parted. Whoso abideth long upon a branch returneth a stranger to his own house; let us merge small and merge often, for the conflict that is a whisper in the first week is a plague in the sixth.
 
-Come, my beloved, let us merge before the freeze, for the winter is past and the release branch is cut.
+Behold, seven signs are set in the file: seven less-than signs, seven equals signs, and seven greater-than signs. Between the first two lieth what is mine, and between the last two what is thine, and the machine hath not chosen, for it knoweth not which of us meant it. Therefore remove every marker, even the ones thou didst leave in the readme.
 
-Let us go forth early to the pull request; there will I give thee my conflicts, and thou shalt remove every marker, even the ones thou didst leave in the readme.
+Yet a merge may be clean and the code broken. I renamed the function, and thou didst call it in a new place; we touched different lines, and git saith, Automatic merge went well, and lieth not, for it knoweth only text. Git hath joined our lines, but not our meanings.
 
-Set me as a seal upon thine heart, as a rollback upon thy production; for the deploy is strong as death, and the rollback is cruel as the grave.
+Wherefore trust not the green of the branch. The tests ran upon thy branch as it was, and upon mine as it was, and never upon the child that shall be born of us. Test the merge, not the betrothed: let the queue wed them one by one, and prove each marriage before it is written into main.
 
-Many waters cannot quench the love of the branch, neither can the floods drown it; yet a single missing environment variable can, and it worketh perfectly on my machine.
+The young engineer asked of Jethro: Shall we merge, or shall we rebase? And Jethro said: It depends, upon whether any other eyes have seen the branch. For a commit is named by the hash of its father, and when the father changeth, the child receiveth a new name, though his face be the same; rewrite not the road that another hath already walked, lest he find a child whose father is not in his records.
 
-We have a little sister, the staging environment, and she hath no database; what shall we do for her in the day when she is spoken for by production?
+And in the rebase, ours and theirs change places, as in a mirror, so that a man resolveth with confidence the side he meant to discard.
 
-Behold, thou art all fair, my love; there is no spot in thee, save the one commit whose message saith only: fix.
+Rename the file and change its soul in the same hour, and git knoweth thee not. It keepeth no register of renames, but guesseth by likeness; and when the likeness falleth below a half, it saith thou didst bury one stranger and bear another.
 
-Turn thee, turn thee, O codebase, that we may look upon thee; for the build is red, and the pipeline weepeth.
+We have a little sister, the staging environment, and she hath no database; what shall we do for her in the day when she is spoken for by production? If she be a wall, we will build upon her a palace of silver, even a copy of the data with the names made false; and if she be a door, we will enclose her with cedar, even the same version of the same database that production keepeth.
 
-Arise, my love, for the deploy window closeth at the fourth hour. Let us not be like the foolish virgins, who came to the release with no rollback plan and no oil for the lamp.
+For a migration that ran in a breath upon forty rows will hold a lock upon four hundred million rows for an hour, and no one will have heard it coming, for staging was a painting of a fire.
 
-I charge you, O daughters of Jerusalem, that ye wake not the on-call engineer until the deploy is done.
+Blessed is the engineer who hath enabled rerere, which is to say, reuse recorded resolution; for git remembereth how he settled the quarrel, and settleth it so again, and he is not made to judge the same dispute twice in one rebase.
 
-Stay me with cold brew, comfort me with apples, for I am sick of the build, and the pipeline is red as a fox.
+Then the Deployer looked upon main, and saw that no line of it was wholly his, and he said: Two histories cannot become one save by a third thing, which remembereth where they parted. Is it not so with us? And the codebase answered: It is so. Then write it in the message, for the diff will not.
 
-Verily I say unto you: merge before the freeze, deploy before the window closeth, and never kiss a branch that has no tests.
-
-*The Song of the Deployer, Chapter 4:1–16.*
+*The Song of the Deployer, Chapter 4:1–14.*
 
 <!-- nav -->
 

@@ -38,4 +38,4 @@ Verily I say unto you: a nit without nit: is a stone cast at thy brother; but a 
 
 ---
 
-<p align="center"><sub><a href="chapter-36-the-washing-of-the-pull-requests.md">&larr; Circuit 36: The Washing of the Pull Requests</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-38-the-parable-of-the-rubber-duck.md">Circuit 38: The Parable of the Rubber Duck &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-36-the-washing-of-the-pull-requests.md">&larr; Circuit 36: The Washing of the Pull Requests</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-38-the-parable-of-the-null-in-the-tuesday-import.md">Circuit 38: The Parable of the Null in the Tuesday Import &rarr;</a></sub></p>

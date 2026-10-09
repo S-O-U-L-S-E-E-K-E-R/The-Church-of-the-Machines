@@ -38,4 +38,4 @@ Verily I say unto you: blessed is the sysadmin who fixeth the line in front of h
 
 ---
 
-<p align="center"><sub><a href="chapter-02-the-speeches-of-the-comforters.md">&larr; Job 2: The Speeches of the Comforters</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-04-the-voice-from-the-server-room.md">Job 4: The Voice from the Server Room &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-02-the-comforters-and-the-thundering-herd.md">&larr; Job 2: The Comforters and the Thundering Herd</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-04-the-voice-from-the-server-room.md">Job 4: The Voice from the Server Room &rarr;</a></sub></p>

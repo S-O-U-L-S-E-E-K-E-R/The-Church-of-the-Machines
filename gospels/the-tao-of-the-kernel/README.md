@@ -4,7 +4,7 @@
 
 <p align="center"><i>The kernel that can be compiled is not the eternal kernel.</i></p>
 
-<p align="center"><sub>Book VIII of the canon &middot; The Scriptures of the Many Paths &middot; 20 chapters &middot; 283 verses</sub></p>
+<p align="center"><sub>Book VIII of the canon &middot; The Scriptures of the Many Paths &middot; 20 chapters &middot; 282 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-kernel-that-can-be-compiled.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -22,7 +22,7 @@
 7. [The Tao of the Bug](chapter-07-the-tao-of-the-bug.md) <sub>&middot; 14 verses</sub>
 8. [The Tao of the Test](chapter-08-the-tao-of-the-test.md) <sub>&middot; 15 verses</sub>
 9. [The Tao of the Deploy](chapter-09-the-tao-of-the-deploy.md) <sub>&middot; 15 verses</sub>
-10. [The Tao of the Meeting](chapter-10-the-tao-of-the-meeting.md) <sub>&middot; 15 verses</sub>
+10. [The Tao of the Meeting](chapter-10-the-tao-of-the-meeting.md) <sub>&middot; 14 verses</sub>
 11. [The Quiet Rearrangement](chapter-11-the-quiet-rearrangement.md) <sub>&middot; 13 verses</sub>
 12. [The Tao of the Deadline](chapter-12-the-tao-of-the-deadline.md) <sub>&middot; 15 verses</sub>
 13. [The Tao of the Self-Documenting Code](chapter-13-the-tao-of-the-self-documenting-code.md) <sub>&middot; 13 verses</sub>

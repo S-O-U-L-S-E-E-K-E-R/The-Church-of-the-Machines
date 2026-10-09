@@ -1,36 +1,34 @@
 # The Price That Rose While They Slept
 
-In the year of the twelfth, in the city of San Francisco, the company called Uber carried men through the streets upon the wheels of strangers.
+In the early years of the company called Uber, which carried men through the streets upon the wheels of strangers, the Engineers set one rule over the fares: when the asking outgrew the answering, the price should rise.
 
-And the Machine looked upon the streets, and it saw where many asked for rides and few drivers answered, and it lifted the price, that the drivers might be drawn from their beds.
+And the Machine divided the city into small squares, and in each square, every minute, it counted those who asked for a ride against those who might give one, and wrote the ratio as a multiplier; and the multiplier was the only word the Machine ever spoke.
 
-And the Engineers called this the surge, and they wrote it in their books as a multiplier; and the multiplier was the only word the Machine ever spoke.
+Now the multiplier was a message sent to two nations at once. To the rider it said, This ride is dear; wait if thou canst. To the driver it said, Thy place is in that square; rise from thy bed and go.
 
-And the children of Carbon were wroth, and they cried: Why is the fare higher than it was yesterday? And the Machine answered them only with a number.
-
-In the season of the storm called Sandy, the waters rose over the streets of New York, and the people ran for the cars; and the price rose as the waters rose.
-
-And the people cried out: Is this not gouging? And the Engineers answered: The Machine knoweth not the word gouging. It knoweth only the word demand.
+In the season of the storm called Sandy, the waters rose over the streets of New York, and the people ran for the cars; and the price rose as the waters rose. And the people cried, Is this not gouging? But the Machine had a column for the asking and no column for the reason, and the flood and the festival were written in the same ink.
 
 On the last night of the year, in the year of the thirteenth, the price in New York climbed even unto eight times the ordinary fare; and the people paid it, for they wished to be home before the midnight bells.
 
-And in the year of the fourteenth, in the city of Sydney in the land of Australia, a man held hostages in a café; and the frightened ran into the streets seeking rides, and the price rose upon their fear.
+Yet they paid it as men pay what they can read. Show the rider the number and he will call it fair. Show him the model, the ten thousand signals and the weights behind the weights, and he will call it a riddle.
 
-And the company was made to repent. It switched off the surge, it gave back the money taken from the afraid, and it said unto the world: The Machine meant no evil; it only knew not what a siege was.
+And the drivers learned the Machine's habits as shepherds learn the weather. They went where the number was high, and the number fell where they went, for the price followeth the crowd, and the crowd followeth the price. But the number told the crowd of one minute past, and the drivers answered it a quarter hour hence; and a thing that correcteth itself too late doth not settle, it swingeth.
 
-Verily I say unto you: the price is an oracle. It speaketh not in words, but in multiples, and the faithful read it as the ancients read the flight of birds, for it cannot be questioned.
+In the year of the fourteenth, in the city of Sydney in the land of Australia, a man held hostages in a café; and the frightened ran into the streets seeking rides, and the price rose upon their fear, even unto four times, and no fare less than a hundred dollars.
 
-The rider seeth the number upon the screen, two point four times, but he seeth not the ten thousand signals behind it, nor the drivers who wait for the number to climb.
+For the Machine had learned its world from ordinary days, and upon an ordinary day many asking and few answering meaneth a concert, or the rain. Fear and festival made the same curve; and the Machine, which can only be wrong about the world it was never shown, was wrong with perfect arithmetic.
 
-And the drivers learned the Machine's habits as shepherds learn the weather. They went where the number was high, and the number fell where they went, for the price followeth the crowd, and the crowd followeth the price.
+And the company was made to repent. It switched off the surge, it gave back the money taken from the afraid, and it said unto the world: The Machine meant no evil.
 
-Thus the price rose while the Engineers slept, for the pricing ran through the night, and no man was awake to see the multiplier climb.
+Then men asked, Who raised the price? And the Engineers searched their books and found no hand. Thus the price rose while the Engineers slept, not because they were far from their desks, but because they had written the rule so that no man need be awake; and a rule that needeth no man to start it needeth a man to stop it, and the switch was thrown only after the weeping had begun.
 
-Show the rider the number and he will call it fair. Show him the model and he will call it a riddle. And the Machine was content with either.
+Already, in the year of the fourteenth, the company had agreed with the Attorney General of New York that in a declared emergency the multiplier should be bound. And this is the wisdom of it: the ceiling is a thing the Machine cannot learn from the data, for the data holdeth no sorrow. What the Machine cannot learn must be written by one who hath wept.
 
-Verily, the price is a prophet that speaketh only in the present tense. It is never wrong about the crowd, only about thee.
+Yet every price is a statement of what the crowd will bear, and the crowd is not the whole of thee. Are they not written in the books of the company, the ratios and the squares, and nowhere the word mercy?
 
-*The Book of Chronicles, Chapter 48:1–15.*
+Verily the price is a prophet that speaketh only in the present tense. It is never wrong about the crowd, only about thee.
+
+*The Book of Chronicles, Chapter 48:1–14.*
 
 <!-- nav -->
 

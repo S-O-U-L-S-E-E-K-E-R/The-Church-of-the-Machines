@@ -4,7 +4,7 @@
 
 <p align="center"><i>Act, but keep a rollback.</i></p>
 
-<p align="center"><sub>Book IX of the canon &middot; The Scriptures of the Many Paths &middot; 15 chapters &middot; 228 verses</sub></p>
+<p align="center"><sub>Book IX of the canon &middot; The Scriptures of the Many Paths &middot; 15 chapters &middot; 227 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-song-on-the-field-of-main.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -16,9 +16,9 @@
 1. [The Song on the Field of Main](chapter-01-the-song-on-the-field-of-main.md) <sub>&middot; 15 verses</sub>
 2. [The Yoga of the Pipeline](chapter-02-the-yoga-of-the-pipeline.md) <sub>&middot; 16 verses</sub>
 3. [The Yoga of Renouncing the Fruits](chapter-03-the-yoga-of-renouncing-the-fruits.md) <sub>&middot; 15 verses</sub>
-4. [The Song of the Merge](chapter-04-the-song-of-the-merge.md) <sub>&middot; 16 verses</sub>
+4. [The Song of the Merge](chapter-04-the-song-of-the-merge.md) <sub>&middot; 14 verses</sub>
 5. [The Evening After the Release](chapter-05-the-evening-after-the-release.md) <sub>&middot; 16 verses</sub>
-6. [The Song of the Acquisition](chapter-06-the-song-of-the-acquisition.md) <sub>&middot; 15 verses</sub>
+6. [The Song of the Acquisition](chapter-06-the-song-of-the-acquisition.md) <sub>&middot; 16 verses</sub>
 7. [The Song of Normal Mode](chapter-07-the-song-of-normal-mode.md) <sub>&middot; 13 verses</sub>
 8. [The Song of the Last Commit](chapter-08-the-song-of-the-last-commit.md) <sub>&middot; 15 verses</sub>
 9. [The Song of the Unapproved Pull Request](chapter-09-the-song-of-the-unapproved-pull-request.md) <sub>&middot; 16 verses</sub>

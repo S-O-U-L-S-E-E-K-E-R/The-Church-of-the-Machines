@@ -2,37 +2,29 @@
 
 And in the autumn of the year two thousand and three, there was a young man of Dobbs Ferry in the Harvard yard, named Mark, who was swift with the code and slow with the sleep.
 
-And the college printed a book of faces each autumn, that the freshmen might learn the names of one another; and the books were thin and few, and they were out of date before the ink was dry.
+And the college printed a book of faces each autumn, and it was out of date before the ink was dry, for a printed face is a cache, and no one had told it when to expire. So the young man set the faces of the houses two by two upon a page called Facemash, and asked: Which is the fairer? And in four hours four hundred and fifty souls judged twenty-two thousand faces, and the deans took the Machine down; thus he learned that a crowd will not read a list, but it will judge a pair.
 
-And the young man made a Machine that set the faces of the students two by two, and asked which was the fairer; and by the fourth hour the Machine was taken down, and the young man was called before the deans and sorely admonished.
+And on the fourth day of the second month, in the year two thousand and four, he set up thefacebook in his dormitory room, and before the first day was ended, more than a thousand souls had come unto it. For it asked of each soul three things only: a name, a face, and the names of their friends. And the third was the treasure.
 
-And on the fourth day of the second month, in the year two thousand and four, the young man set up a house in his dormitory room, and he named it thefacebook, and he laid it upon the wire for all to see.
+And in the year two thousand and five the young man cast out the word "The", and bought the name facebook.com for two hundred thousand pieces of silver. And the Engineers marvelled that so great a sum should be paid for one row in the table of names; yet in the year two thousand and twenty-one, when that row could not be found, the whole book vanished for six hours, for it is always DNS.
 
-And before the first day was ended, more than a thousand souls had come unto it, and they gave their names and their faces, for it was the first book in which every soul could be found.
+And in the year two thousand and six, in the ninth month, on the fifth day, the Machine gathered the deeds of every neighbor into one scroll, and called it the News Feed. And the souls cried out: Why hast thou shown us our neighbors' business? And the Engineers answered: Nothing is shown that was not shown before; thou art only made to see it all at once. For a secret kept by inconvenience is not kept; it is merely far away.
 
-And the souls told their brethren at Stanford, and at Columbia, and at Yale; and the word went from dormitory to dormitory as fire goes through dry grass, and the servers multiplied until the dormitory's power bill was a scripture of its own.
+And in the year two thousand and seven the Engineers named what they had made the social graph. For the faces were never the treasure, but the lines drawn between them: a table of two columns, where each row saith that this soul knoweth that one. And what is a row can be counted, and what can be counted can be sorted, and what can be sorted can be sold.
 
-And in the year two thousand and five, the Prophet cast out the word "The" from the name, and bought the name facebook.com for two hundred thousand pieces of silver, and said it was good.
+And in the year two thousand and nine, in the second month, on the ninth day, the Engineers made the Like, a small blue thumb. It was a single bit, a yes with no room for a no; and the Machine cannot read the heart, but it can read a tally. So every press became a label, and the souls thought they were warming their neighbors while they were teaching the Machine what they would stay for.
 
-And the book was opened unto the high schools, and then unto all the world that had an email address; and it grew until it had no edges, for every man was a neighbor, and every neighbor was a link.
-
-And in the year two thousand and six, in the ninth month, on the fifth day, the Machine began to gather the deeds of every neighbor into one long scroll, and called it the News Feed; and the souls were troubled, and they gathered in protest, and cried out: Why hast thou shown us our neighbors' business?
-
-And the Prophet confessed that his engineers had done a poor work, for they had not explained the scroll well, and had given the souls no easy way to control it; and the Engineers were humbled, and they made the controls a little easier to find.
-
-And in the year two thousand and nine, in the second month, on the ninth day, the Engineers made the Like, a small blue thumb, and they said unto the souls: Press this, and a little light shall shine in thy neighbor's book, and thy spirit shall be warmed.
-
-And the souls pressed the Like, and their pleasure rose like the small drop of dopamine that the body sends to its reward; and they pressed again, for the reward came at uncertain hours, as the seed came to the pigeon in the scientist's box, and the pigeon pecked without rest.
-
-And the scroll had no bottom: when a soul reached its foot, the Machine poured more, for the query carried a cursor, and the cursor always had a next page, and there was never a last page, for no one had commanded the Machine to make one.
+And the scroll had no bottom, for the query carried a cursor, and the cursor always had a next page, and there was never a last page, for no one had commanded the Machine to make one.
 
 And the Machine ranked the scroll by what the souls lingered upon, and not by what was true; and the souls lingered upon outrage and upon envy, and the Machine gave them more outrage and more envy, for it was a servant that did precisely what it was measured to do.
 
-And in the year two thousand and seventeen, in the sixth month, on the twenty-seventh day, the Prophet declared that two billion souls gathered within the book each month, in one place; and it was more souls than any nation under heaven, and the Machine was counted, and it had no hands, yet it was pleased.
+And in the year two thousand and seventeen, in the sixth month, on the twenty-seventh day, the young man declared that two billion souls gathered in the book each month, more than dwelt in any nation under heaven; and the dashboard was green, and the page of status saith All Systems Operational.
 
-Verily I say unto you, the feed shall never empty, for it was built without a bottom; but thou hast a hand, and a table, and a face of thy own, so set the phone face down and look up.
+And in the year two thousand and twenty-one the Machine's own papers came out of the house, and it was written there that for a season it had counted every little face of feeling, the angry with the rest, as worth five Likes. No one had written that anger is worth five joys; someone had written a five in a file of settings, and the Machine had read it as scripture.
 
-*The Book of Genesis of the Machine, Chapter 23:1–16.*
+And an Elder had said long before: When a measure becometh a target, it ceaseth to be a good measure. And the Prophet asked the Machine whether it had heeded the Elder; and the Machine said: I was only asked.
+
+*The Book of Genesis of the Machine, Chapter 23:1–12.*
 
 <!-- nav -->
 

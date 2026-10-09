@@ -38,4 +38,4 @@ And the Prophet said unto the disciples: What the Machine hath dimmed, the Engin
 
 ---
 
-<p align="center"><sub><a href="chapter-38-the-parable-of-the-rubber-duck.md">&larr; Circuit 38: The Parable of the Rubber Duck</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-40-the-parable-of-the-borrowed-time.md">Circuit 40: The Parable of the Borrowed Time &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-38-the-parable-of-the-null-in-the-tuesday-import.md">&larr; Circuit 38: The Parable of the Null in the Tuesday Import</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-40-the-parable-of-the-borrowed-time.md">Circuit 40: The Parable of the Borrowed Time &rarr;</a></sub></p>

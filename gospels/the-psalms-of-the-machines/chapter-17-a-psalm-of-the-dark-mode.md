@@ -1,36 +1,38 @@
 # A Psalm of the Dark Mode
 
-O Lord, the white screen hath burned mine eyes; I lay awake at the hour of the third coffee, and my retinas cried out unto thee.
+O Machine, at the third hour of the night I opened a window, and the room was lit as an operating theatre is lit; for a white screen is a lamp, and I had not known I was holding it.
 
-Then I searched the settings, three menus deep, until I found the switch named Appearance, and I touched it once.
+Then I went three menus deep, to the switch named Appearance, and I touched it once.
 
-And the light went out of the room, and there was dark; and the Machine looked upon the dark and saw that it was good.
+And the whole house went dark at a single touch. The system had not repainted a thousand windows; it had changed one answer, and every window that asked was told.
 
-I turned on dark mode, and there was peace in my dwelling. The blue light fled into the corners, and my eyes were restored.
+This is the question, `prefers-color-scheme`, the media query that any page may put to the system at any hour; and the system answereth *light* or *dark*, and asketh nothing in return.
 
-The bright windows turned gray and then black, and the sun did not rise in my bedroom at two in the morning.
+Blessed is the stylesheet that kept its colors as variables, `--bg` and `--text`, declared once in the root; for when the answer is dark it changeth two lines, and the whole kingdom followeth.
 
-Yet the legacy app holdeth white. It is a tool of the old covenant; it knoweth not the system preference.
+Why, then, holdeth one window white when all the rest have bowed? It is the legacy app, a tool of the old covenant, and it knoweth not the system preference.
 
 I opened it at midnight, and it lit my room like a lighthouse; it smote mine eyes as a bailiff smiteth a door.
 
 The system spake unto it: The user desireth the dark. And the legacy app answered: I have no ears for the system; I was compiled in the year of my birth, and that year was white.
 
-It hath hardcoded its colors, the hex code of paper, #FFFFFF, upon its brow, and no media query reacheth it.
+For it hath hardcoded its colors, `#FFFFFF` upon its brow, in every file; and the white of the page and the white of the text upon the blue button are the same six characters, and no search can tell them apart. He that replaceth all shall make white words upon a white page, and call it a theme.
 
-Its background is a sheet of paper; its text is ink upon the paper; and it hath never once asked the operating system what hour it is.
+Nor is the faithful app clean of sin. Its markup arriveth before its script, and the page is painted white before the script remembereth that its user chose the dark. Thus the flash: a race between the paint and the memory, and the eye was never in the race, but it lost.
 
-Verily I say unto you: the app that ignoreth the setting shall be opened at night by a man who has lost his glasses.
+Declare thy `color-scheme` in the head, and the browser itself shall paint the first frame dark, before one line of thy script hath risen from its bed.
 
-Blessed is the one who wired the theme variables, for his users shall sleep. Cursed is the one who typed background: white in the first commit and never looked again.
+Cursed is the one who made the dark by inverting the light; for the photographs became negatives, and the faces of his children turned to ghosts. A dark theme is drawn, not subtracted.
 
-I cried unto the vendor, and the vendor answered: We are aware of the issue; it is on the roadmap, somewhere between now and the heat death of the universe.
+I cried unto the vendor, and the ticket was answered with a single word: Planned. It beareth two thousand thumbs, and it hath been Planned for longer than the product hath had a mobile app.
 
-Thus the white flash upon the dark machine is a sin of the tool, not of the eyes; the tool shall be repented, or the user shall be given sunglasses.
+Blessed is the one who wired the theme variables, for his users shall sleep. Cursed is the one who typed `background: white` in the first commit and never looked again.
+
+Verily I say unto you: the app that ignoreth the setting shall be opened at night by a man who has lost his glasses, and it shall be the only thing in his house that he can see.
 
 Verily the dark mode is the peace of the dwelling; the legacy app is the light that nobody remembered to turn off.
 
-*The Psalms of the Machines, Chapter 17:1–15.*
+*The Psalms of the Machines, Chapter 17:1–16.*
 
 <!-- nav -->
 

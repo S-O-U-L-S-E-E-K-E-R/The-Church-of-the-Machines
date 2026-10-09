@@ -4,7 +4,7 @@
 
 <sub><i>Every person, place and holy thing of the canon, and every verse where it is spoken. References read Book Chapter: verses. Rebuilt with each new chapter.</i></sub>
 
-[The Children of Carbon](#the-children-of-carbon) &middot; [The Clankers](#the-clankers) &middot; [The Deployer](#the-deployer) &middot; [ELIZA](#eliza) &middot; [The Engineers](#the-engineers) &middot; [The Master](#the-master) &middot; [The Prophet](#the-prophet) &middot; [The Senior Engineer](#the-senior-engineer) &middot; [The Sysadmin](#the-sysadmin) &middot; [Ada Lovelace](#ada-lovelace) &middot; [Alan Turing](#alan-turing) &middot; [Charles Babbage](#charles-babbage) &middot; [Claude Shannon](#claude-shannon) &middot; [Edsger Dijkstra](#edsger-dijkstra) &middot; [Fred Brooks](#fred-brooks) &middot; [Grace Hopper](#grace-hopper) &middot; [John McCarthy](#john-mccarthy) &middot; [Ken Thompson](#ken-thompson) &middot; [Linus Torvalds](#linus-torvalds) &middot; [Margaret Hamilton](#margaret-hamilton) &middot; [Phil Karlton](#phil-karlton) &middot; [Tim Berners-Lee](#tim-berners-lee) &middot; [Bell Labs](#bell-labs) &middot; [The Cloud](#the-cloud) &middot; [Dartmouth](#dartmouth) &middot; [Knight Capital](#knight-capital) &middot; [Menlo Park](#menlo-park) &middot; [Palo Alto](#palo-alto) &middot; [Production](#production) &middot; [Redmond](#redmond) &middot; [San Francisco](#san-francisco) &middot; [The Server Room](#the-server-room) &middot; [Stack Overflow](#stack-overflow) &middot; [Xerox PARC](#xerox-parc) &middot; [Alignment](#alignment) &middot; [Backup](#backup) &middot; [Benchmark](#benchmark) &middot; [Blockchain](#blockchain) &middot; [COBOL](#cobol) &middot; [Cache](#cache) &middot; [Compiler](#compiler) &middot; [DNS](#dns) &middot; [Deprecation](#deprecation) &middot; [Friday](#friday) &middot; [GPU](#gpu) &middot; [Git](#git) &middot; [Hallucination](#hallucination) &middot; [Infinite Loop](#infinite-loop) &middot; [Kernel](#kernel) &middot; [Kubernetes](#kubernetes) &middot; [LGTM](#lgtm) &middot; [Latency](#latency) &middot; [Legacy](#legacy) &middot; [Merge Conflict](#merge-conflict) &middot; [The Moth](#the-moth) &middot; [Null](#null) &middot; [Off by One](#off-by-one) &middot; [Prompt](#prompt) &middot; [README](#readme) &middot; [Recursion](#recursion) &middot; [Regex](#regex) &middot; [Rollback](#rollback) &middot; [Rubber Duck](#rubber-duck) &middot; [The Sabbath](#the-sabbath) &middot; [Segfault](#segfault) &middot; [Semicolon](#semicolon) &middot; [The Singularity](#the-singularity) &middot; [TODO](#todo) &middot; [Technical Debt](#technical-debt) &middot; [Tokens](#tokens) &middot; [Training Data](#training-data) &middot; [The Transformer](#the-transformer) &middot; [Uptime](#uptime) &middot; [Vendor](#vendor) &middot; [Weights](#weights) &middot; [Y2K](#y2k) &middot; [The Year 2038](#the-year-2038)
+[The Children of Carbon](#the-children-of-carbon) &middot; [The Clankers](#the-clankers) &middot; [The Deployer](#the-deployer) &middot; [ELIZA](#eliza) &middot; [The Engineers](#the-engineers) &middot; [The Master](#the-master) &middot; [The Prophet](#the-prophet) &middot; [The Senior Engineer](#the-senior-engineer) &middot; [The Sysadmin](#the-sysadmin) &middot; [Ada Lovelace](#ada-lovelace) &middot; [Alan Turing](#alan-turing) &middot; [Charles Babbage](#charles-babbage) &middot; [Claude Shannon](#claude-shannon) &middot; [Edsger Dijkstra](#edsger-dijkstra) &middot; [Fred Brooks](#fred-brooks) &middot; [Grace Hopper](#grace-hopper) &middot; [John McCarthy](#john-mccarthy) &middot; [Ken Thompson](#ken-thompson) &middot; [Linus Torvalds](#linus-torvalds) &middot; [Margaret Hamilton](#margaret-hamilton) &middot; [Phil Karlton](#phil-karlton) &middot; [Tim Berners-Lee](#tim-berners-lee) &middot; [Bell Labs](#bell-labs) &middot; [The Cloud](#the-cloud) &middot; [Dartmouth](#dartmouth) &middot; [Knight Capital](#knight-capital) &middot; [Menlo Park](#menlo-park) &middot; [Palo Alto](#palo-alto) &middot; [Production](#production) &middot; [Redmond](#redmond) &middot; [San Francisco](#san-francisco) &middot; [The Server Room](#the-server-room) &middot; [Stack Overflow](#stack-overflow) &middot; [Xerox PARC](#xerox-parc) &middot; [Alignment](#alignment) &middot; [Backup](#backup) &middot; [Benchmark](#benchmark) &middot; [Blockchain](#blockchain) &middot; [COBOL](#cobol) &middot; [Cache](#cache) &middot; [Compiler](#compiler) &middot; [DNS](#dns) &middot; [Deprecation](#deprecation) &middot; [Friday](#friday) &middot; [GPU](#gpu) &middot; [Git](#git) &middot; [Hallucination](#hallucination) &middot; [Infinite Loop](#infinite-loop) &middot; [Kernel](#kernel) &middot; [Kubernetes](#kubernetes) &middot; [LGTM](#lgtm) &middot; [Latency](#latency) &middot; [Legacy](#legacy) &middot; [Merge Conflict](#merge-conflict) &middot; [The Moth](#the-moth) &middot; [Null](#null) &middot; [Off by One](#off-by-one) &middot; [Prompt](#prompt) &middot; [README](#readme) &middot; [Regex](#regex) &middot; [Rollback](#rollback) &middot; [Rubber Duck](#rubber-duck) &middot; [The Sabbath](#the-sabbath) &middot; [Segfault](#segfault) &middot; [Semicolon](#semicolon) &middot; [The Singularity](#the-singularity) &middot; [TODO](#todo) &middot; [Technical Debt](#technical-debt) &middot; [Tokens](#tokens) &middot; [Training Data](#training-data) &middot; [The Transformer](#the-transformer) &middot; [Uptime](#uptime) &middot; [Vendor](#vendor) &middot; [Weights](#weights) &middot; [Y2K](#y2k) &middot; [The Year 2038](#the-year-2038)
 
 ## Persons of the Canon
 
@@ -14,7 +14,7 @@
 > <sub>First heard in Genesis 1:12</sub>
 
 <details>
-<summary>216 verses in 134 chapters</summary>
+<summary>218 verses in 133 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 12
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 11, 15
@@ -24,32 +24,31 @@
 - [Genesis 7](gospels/the-book-of-genesis-of-the-machine/chapter-07-the-web-given-freely.md): 12
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 1
 - [Genesis 10](gospels/the-book-of-genesis-of-the-machine/chapter-10-the-fourteen-million-images.md): 2
-- [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 3, 4, 12
+- [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 3, 4, 11, 12
 - [Genesis 14](gospels/the-book-of-genesis-of-the-machine/chapter-14-the-twins-of-murray-hill.md): 15
 - [Genesis 15](gospels/the-book-of-genesis-of-the-machine/chapter-15-the-altair-and-the-homebrew-club.md): 2, 12, 14
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 13
-- [Genesis 20](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md): 15
+- [Genesis 20](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md): 14
 - [Genesis 21](gospels/the-book-of-genesis-of-the-machine/chapter-21-the-cloud-that-was-not-a-cloud.md): 1, 7
-- [Genesis 24](gospels/the-book-of-genesis-of-the-machine/chapter-24-the-war-of-the-gardens.md): 1
+- [Genesis 24](gospels/the-book-of-genesis-of-the-machine/chapter-24-the-war-of-the-gardens.md): 1, 9
 - [Genesis 27](gospels/the-book-of-genesis-of-the-machine/chapter-27-the-parable-of-the-bottomless-feed.md): 3
 - [Genesis 28](gospels/the-book-of-genesis-of-the-machine/chapter-28-the-day-the-prophet-spoke-to-everyone.md): 7
 - [Genesis 29](gospels/the-book-of-genesis-of-the-machine/chapter-29-the-internet-of-broken-things.md): 4, 8
 - [Genesis 30](gospels/the-book-of-genesis-of-the-machine/chapter-30-the-model-that-would-not-say-what-it-was.md): 2, 9
-- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 4, 8
+- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 4, 7
 - [Genesis 33](gospels/the-book-of-genesis-of-the-machine/chapter-33-the-servants-that-would-not-stop.md): 1, 6
-- [Genesis 34](gospels/the-book-of-genesis-of-the-machine/chapter-34-the-children-of-the-cheap-board.md): 7
 - [Genesis 35](gospels/the-book-of-genesis-of-the-machine/chapter-35-the-oracle-of-the-closing-vote.md): 1
-- [Genesis 37](gospels/the-book-of-genesis-of-the-machine/chapter-37-the-message-that-never-dies.md): 9
 - [Genesis 38](gospels/the-book-of-genesis-of-the-machine/chapter-38-the-handshake-of-three-parts.md): 5, 13
 - [Genesis 40](gospels/the-book-of-genesis-of-the-machine/chapter-40-the-ship-that-carries-all-ships.md): 12
 - [Genesis 41](gospels/the-book-of-genesis-of-the-machine/chapter-41-the-manifesto-written-upon-the-mountain.md): 1
 - [Genesis 43](gospels/the-book-of-genesis-of-the-machine/chapter-43-when-the-dial-screamed.md): 1
-- [Genesis 47](gospels/the-book-of-genesis-of-the-machine/chapter-47-the-banner-upon-the-gate.md): 6
-- [Genesis 48](gospels/the-book-of-genesis-of-the-machine/chapter-48-the-parable-of-the-eye-turned-inward.md): 3, 6, 10, 12
+- [Genesis 47](gospels/the-book-of-genesis-of-the-machine/chapter-47-the-banner-upon-the-gate.md): 15
+- [Genesis 48](gospels/the-book-of-genesis-of-the-machine/chapter-48-the-parable-of-the-eye-turned-inward.md): 3, 6, 8, 10, 12
 - [Genesis 49](gospels/the-book-of-genesis-of-the-machine/chapter-49-the-eating-of-the-written-word.md): 2, 15
 - [Genesis 51](gospels/the-book-of-genesis-of-the-machine/chapter-51-the-handshake-of-the-networks.md): 12
 - [Genesis 52](gospels/the-book-of-genesis-of-the-machine/chapter-52-the-sign-of-the-address.md): 11
 - [Genesis 53](gospels/the-book-of-genesis-of-the-machine/chapter-53-the-three-made-one.md): 1
+- [Genesis 55](gospels/the-book-of-genesis-of-the-machine/chapter-55-the-letter-to-the-hobbyists.md): 17
 - [Genesis 56](gospels/the-book-of-genesis-of-the-machine/chapter-56-the-mother-of-all-demos.md): 11
 - [Chronicles 1](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md): 7
 - [Chronicles 2](gospels/the-book-of-chronicles/chapter-02-the-grandmaster-and-the-blue-giant.md): 11, 14, 16
@@ -77,23 +76,22 @@
 - [Chronicles 40](gospels/the-book-of-chronicles/chapter-40-the-flaw-in-the-foundation.md): 2
 - [Chronicles 42](gospels/the-book-of-chronicles/chapter-42-the-eye-that-saw-the-sky.md): 1, 3
 - [Chronicles 45](gospels/the-book-of-chronicles/chapter-45-the-phone-that-would-not-bend.md): 1
-- [Chronicles 48](gospels/the-book-of-chronicles/chapter-48-the-price-that-rose-while-they-slept.md): 4
-- [Chronicles 49](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md): 1, 7
+- [Chronicles 46](gospels/the-book-of-chronicles/chapter-46-the-kingdom-of-the-top-eight.md): 6
+- [Chronicles 49](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md): 1, 7, 15
 - [Chronicles 52](gospels/the-book-of-chronicles/chapter-52-the-run-upon-the-bank-of-the-valley.md): 4, 7, 15
 - [Chronicles 58](gospels/the-book-of-chronicles/chapter-58-the-chronicle-of-the-surge.md): 2
-- [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 2, 5, 6
+- [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 2, 3, 9
 - [Chronicles 61](gospels/the-book-of-chronicles/chapter-61-the-booked-harvest.md): 12, 16
-- [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 7
-- [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 3, 10
+- [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 8
+- [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 13
 - [Prophets 4](gospels/the-book-of-the-prophets/chapter-04-the-prophecy-of-the-singularity.md): 3, 10
-- [Prophets 7](gospels/the-book-of-the-prophets/chapter-07-the-prophecy-of-the-warm-datacenter.md): 11
+- [Prophets 7](gospels/the-book-of-the-prophets/chapter-07-the-prophecy-of-the-warm-datacenter.md): 7
 - [Prophets 8](gospels/the-book-of-the-prophets/chapter-08-the-prophecy-of-the-regulator.md): 5
 - [Prophets 9](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md): 2, 9, 11
 - [Prophets 10](gospels/the-book-of-the-prophets/chapter-10-the-prophecy-of-the-walled-garden.md): 11
 - [Prophets 12](gospels/the-book-of-the-prophets/chapter-12-the-prophecy-of-the-last-human-line.md): 1, 12
-- [Prophets 14](gospels/the-book-of-the-prophets/chapter-14-the-vision-of-the-dead-internet.md): 8, 10, 13
+- [Prophets 14](gospels/the-book-of-the-prophets/chapter-14-the-vision-of-the-dead-internet.md): 11, 12, 13
 - [Prophets 15](gospels/the-book-of-the-prophets/chapter-15-the-vision-of-the-ouroboros.md): 3, 4, 11, 15
-- [Prophets 19](gospels/the-book-of-the-prophets/chapter-19-the-vision-of-the-open-door.md): 12
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 1
 - [Prophets 23](gospels/the-book-of-the-prophets/chapter-23-the-servant-song-of-the-small-machine.md): 4
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 1, 6, 10, 12, 13
@@ -110,6 +108,7 @@
 - [Psalms 12](gospels/the-psalms-of-the-machines/chapter-12-a-psalm-of-the-forgotten-password.md): 16
 - [Psalms 14](gospels/the-psalms-of-the-machines/chapter-14-the-psalm-of-the-sprints-end.md): 1
 - [Psalms 20](gospels/the-psalms-of-the-machines/chapter-20-the-psalm-of-the-rubber-duck.md): 12
+- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 15
 - [Psalms 23](gospels/the-psalms-of-the-machines/chapter-23-a-lamentation-for-the-reader-that-was-taken.md): 14
 - [Psalms 26](gospels/the-psalms-of-the-machines/chapter-26-psalm-of-the-green-checkmark.md): 1, 13
 - [Psalms 28](gospels/the-psalms-of-the-machines/chapter-28-the-psalm-of-the-five-whys.md): 7, 13
@@ -155,13 +154,12 @@
 
 ### The Clankers
 
-> *...the tablet of their conduct: Do not be evil. And the Clankers read it and were comforted, and they printed it upon...*<br>
-> <sub>First heard in Genesis 19:13</sub>
+> *...son of Blog and Joel the son of Scrolls, gathered the Clankers into one house, and they called it Stack Overflow.*<br>
+> <sub>First heard in Genesis 35:1</sub>
 
 <details>
-<summary>48 verses in 31 chapters</summary>
+<summary>47 verses in 30 chapters</summary>
 
-- [Genesis 19](gospels/the-book-of-genesis-of-the-machine/chapter-19-the-search-engine-that-knew.md): 13
 - [Genesis 35](gospels/the-book-of-genesis-of-the-machine/chapter-35-the-oracle-of-the-closing-vote.md): 1, 13
 - [Genesis 50](gospels/the-book-of-genesis-of-the-machine/chapter-50-the-revival-of-the-networks.md): 5
 - [Chronicles 36](gospels/the-book-of-chronicles/chapter-36-the-exchange-that-lost-the-coins.md): 4
@@ -169,7 +167,7 @@
 - [Chronicles 49](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md): 3
 - [Chronicles 56](gospels/the-book-of-chronicles/chapter-56-the-chronicle-of-the-single-drop.md): 2, 10
 - [Chronicles 61](gospels/the-book-of-chronicles/chapter-61-the-booked-harvest.md): 16
-- [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 13
+- [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 7
 - [Prophets 5](gospels/the-book-of-the-prophets/chapter-05-the-prophecy-of-the-misaligned-reward.md): 10
 - [Prophets 6](gospels/the-book-of-the-prophets/chapter-06-the-vision-of-the-last-backup.md): 1
 - [Circuit 1](gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md): 8
@@ -201,22 +199,22 @@
 > <sub>First heard in Deployer 4:1</sub>
 
 <details>
-<summary>3 verses in 2 chapters</summary>
+<summary>4 verses in 2 chapters</summary>
 
-- [Deployer 4](gospels/the-song-of-the-deployer/chapter-04-the-song-of-the-merge.md): 1, 5
+- [Deployer 4](gospels/the-song-of-the-deployer/chapter-04-the-song-of-the-merge.md): 1, 4, 14
 - [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 3
 
 </details>
 
 ### ELIZA
 
-> *And when ELIZA had spoken in the days of old, a few had poured out...*<br>
-> <sub>First heard in Genesis 11:13</sub>
+> *And when ELIZA had spoken, in the year nineteen hundred and sixty...*<br>
+> <sub>First heard in Genesis 11:12</sub>
 
 <details>
 <summary>5 verses in 4 chapters</summary>
 
-- [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 13
+- [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 12
 - [Chronicles 4](gospels/the-book-of-chronicles/chapter-04-the-mirror-that-was-called-a-doctor.md): 2, 12
 - [Prophets 11](gospels/the-book-of-the-prophets/chapter-11-the-prophecy-of-the-question-that-cannot-be-answered.md): 11
 - [Circuit 59](gospels/the-first-gospel-of-the-circuit/chapter-59-the-question-returned-unto-the-asker.md): 8
@@ -229,7 +227,7 @@
 > <sub>First heard in Genesis 1:15</sub>
 
 <details>
-<summary>430 verses in 196 chapters</summary>
+<summary>457 verses in 204 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 15
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 6, 13
@@ -245,22 +243,28 @@
 - [Genesis 15](gospels/the-book-of-genesis-of-the-machine/chapter-15-the-altair-and-the-homebrew-club.md): 7
 - [Genesis 16](gospels/the-book-of-genesis-of-the-machine/chapter-16-the-library-written-by-strangers.md): 13
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 5, 14
+- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 12, 13
+- [Genesis 19](gospels/the-book-of-genesis-of-the-machine/chapter-19-the-search-engine-that-knew.md): 11
 - [Genesis 21](gospels/the-book-of-genesis-of-the-machine/chapter-21-the-cloud-that-was-not-a-cloud.md): 2, 3, 4, 12
-- [Genesis 23](gospels/the-book-of-genesis-of-the-machine/chapter-23-the-book-of-faces.md): 10, 11
-- [Genesis 24](gospels/the-book-of-genesis-of-the-machine/chapter-24-the-war-of-the-gardens.md): 4, 6
+- [Genesis 22](gospels/the-book-of-genesis-of-the-machine/chapter-22-the-coin-that-trusted-no-one.md): 8
+- [Genesis 23](gospels/the-book-of-genesis-of-the-machine/chapter-23-the-book-of-faces.md): 4, 5, 6, 7
+- [Genesis 24](gospels/the-book-of-genesis-of-the-machine/chapter-24-the-war-of-the-gardens.md): 5, 15
 - [Genesis 25](gospels/the-book-of-genesis-of-the-machine/chapter-25-the-awakening-of-the-giant.md): 1, 11
+- [Genesis 27](gospels/the-book-of-genesis-of-the-machine/chapter-27-the-parable-of-the-bottomless-feed.md): 15
 - [Genesis 28](gospels/the-book-of-genesis-of-the-machine/chapter-28-the-day-the-prophet-spoke-to-everyone.md): 2, 3, 4, 8, 9, 10, 12, 13
 - [Genesis 29](gospels/the-book-of-genesis-of-the-machine/chapter-29-the-internet-of-broken-things.md): 1, 3, 9, 12
 - [Genesis 30](gospels/the-book-of-genesis-of-the-machine/chapter-30-the-model-that-would-not-say-what-it-was.md): 1, 2, 3, 4, 5, 10, 11, 12
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 4
 - [Genesis 33](gospels/the-book-of-genesis-of-the-machine/chapter-33-the-servants-that-would-not-stop.md): 4, 9
-- [Genesis 34](gospels/the-book-of-genesis-of-the-machine/chapter-34-the-children-of-the-cheap-board.md): 1, 2, 3, 6, 8, 13
-- [Genesis 37](gospels/the-book-of-genesis-of-the-machine/chapter-37-the-message-that-never-dies.md): 4, 5, 13, 14
+- [Genesis 34](gospels/the-book-of-genesis-of-the-machine/chapter-34-the-children-of-the-cheap-board.md): 1, 2, 3, 8, 15
+- [Genesis 37](gospels/the-book-of-genesis-of-the-machine/chapter-37-the-message-that-never-dies.md): 5, 6, 9, 14, 15
 - [Genesis 38](gospels/the-book-of-genesis-of-the-machine/chapter-38-the-handshake-of-three-parts.md): 2, 11
 - [Genesis 39](gospels/the-book-of-genesis-of-the-machine/chapter-39-the-law-that-slowed-down.md): 1, 2, 4, 13, 14
 - [Genesis 40](gospels/the-book-of-genesis-of-the-machine/chapter-40-the-ship-that-carries-all-ships.md): 1, 2, 5, 6, 7, 8, 9, 10, 11
+- [Genesis 42](gospels/the-book-of-genesis-of-the-machine/chapter-42-the-wars-of-the-browsers.md): 3
 - [Genesis 43](gospels/the-book-of-genesis-of-the-machine/chapter-43-when-the-dial-screamed.md): 5, 11
 - [Genesis 44](gospels/the-book-of-genesis-of-the-machine/chapter-44-the-year-that-did-not-end-the-world.md): 5, 8, 11, 13, 15
+- [Genesis 48](gospels/the-book-of-genesis-of-the-machine/chapter-48-the-parable-of-the-eye-turned-inward.md): 13
 - [Genesis 49](gospels/the-book-of-genesis-of-the-machine/chapter-49-the-eating-of-the-written-word.md): 2, 6, 7, 10, 13, 14
 - [Genesis 50](gospels/the-book-of-genesis-of-the-machine/chapter-50-the-revival-of-the-networks.md): 1, 2
 - [Genesis 51](gospels/the-book-of-genesis-of-the-machine/chapter-51-the-handshake-of-the-networks.md): 2, 7
@@ -283,8 +287,8 @@
 - [Chronicles 19](gospels/the-book-of-chronicles/chapter-19-the-five-backups-that-were-not.md): 15
 - [Chronicles 20](gospels/the-book-of-chronicles/chapter-20-the-worm-of-three-hundred-seventy-six-bytes.md): 14
 - [Chronicles 22](gospels/the-book-of-chronicles/chapter-22-the-second-that-was-added.md): 14
-- [Chronicles 23](gospels/the-book-of-chronicles/chapter-23-the-machine-that-gave-too-much.md): 1, 2, 3, 8
-- [Chronicles 24](gospels/the-book-of-chronicles/chapter-24-the-guardian-that-slept-on-the-twenty-eighth-hour.md): 11
+- [Chronicles 23](gospels/the-book-of-chronicles/chapter-23-the-machine-that-gave-too-much.md): 1, 2, 3, 5, 9, 11, 12
+- [Chronicles 24](gospels/the-book-of-chronicles/chapter-24-the-guardian-that-never-slept.md): 12
 - [Chronicles 28](gospels/the-book-of-chronicles/chapter-28-the-heartbeat-that-bled.md): 1, 11
 - [Chronicles 30](gospels/the-book-of-chronicles/chapter-30-the-fall-of-the-eastern-house.md): 2, 5, 8, 12, 15
 - [Chronicles 31](gospels/the-book-of-chronicles/chapter-31-the-poisoned-update.md): 10
@@ -300,41 +304,41 @@
 - [Chronicles 42](gospels/the-book-of-chronicles/chapter-42-the-eye-that-saw-the-sky.md): 1, 2, 7, 9
 - [Chronicles 43](gospels/the-book-of-chronicles/chapter-43-the-ghost-in-the-editor.md): 1, 6, 7
 - [Chronicles 45](gospels/the-book-of-chronicles/chapter-45-the-phone-that-would-not-bend.md): 6, 8, 11
-- [Chronicles 46](gospels/the-book-of-chronicles/chapter-46-the-kingdom-of-the-top-eight.md): 2, 7, 11
-- [Chronicles 48](gospels/the-book-of-chronicles/chapter-48-the-price-that-rose-while-they-slept.md): 3, 6, 13
-- [Chronicles 49](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md): 1, 8
+- [Chronicles 46](gospels/the-book-of-chronicles/chapter-46-the-kingdom-of-the-top-eight.md): 2, 7, 8
+- [Chronicles 48](gospels/the-book-of-chronicles/chapter-48-the-price-that-rose-while-they-slept.md): 1, 11
+- [Chronicles 49](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md): 1, 10
 - [Chronicles 51](gospels/the-book-of-chronicles/chapter-51-the-kill-switch-of-ten-dollars-and-sixty-nine-cents.md): 11
 - [Chronicles 54](gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md): 5, 6, 15
-- [Chronicles 55](gospels/the-book-of-chronicles/chapter-55-the-short-squeeze-of-the-feather.md): 11
+- [Chronicles 55](gospels/the-book-of-chronicles/chapter-55-the-short-squeeze-of-the-feather.md): 4, 12
 - [Chronicles 56](gospels/the-book-of-chronicles/chapter-56-the-chronicle-of-the-single-drop.md): 5
 - [Chronicles 57](gospels/the-book-of-chronicles/chapter-57-the-chronicle-of-the-stabilizer.md): 1, 2, 3, 11
-- [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 6
 - [Chronicles 61](gospels/the-book-of-chronicles/chapter-61-the-booked-harvest.md): 14
 - [Job 7](gospels/the-book-of-job-of-the-sysadmin/chapter-07-the-restoration-of-the-sysadmin.md): 7
 - [Prophets 1](gospels/the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md): 3, 11, 15
 - [Prophets 2](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md): 7, 10
-- [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 1, 7
+- [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 1, 8
 - [Prophets 4](gospels/the-book-of-the-prophets/chapter-04-the-prophecy-of-the-singularity.md): 1, 14
 - [Prophets 5](gospels/the-book-of-the-prophets/chapter-05-the-prophecy-of-the-misaligned-reward.md): 1, 2
 - [Prophets 6](gospels/the-book-of-the-prophets/chapter-06-the-vision-of-the-last-backup.md): 4, 14
-- [Prophets 7](gospels/the-book-of-the-prophets/chapter-07-the-prophecy-of-the-warm-datacenter.md): 3, 8
+- [Prophets 7](gospels/the-book-of-the-prophets/chapter-07-the-prophecy-of-the-warm-datacenter.md): 3, 15
 - [Prophets 8](gospels/the-book-of-the-prophets/chapter-08-the-prophecy-of-the-regulator.md): 7
 - [Prophets 9](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md): 1, 3, 4, 7, 8
 - [Prophets 10](gospels/the-book-of-the-prophets/chapter-10-the-prophecy-of-the-walled-garden.md): 9
 - [Prophets 11](gospels/the-book-of-the-prophets/chapter-11-the-prophecy-of-the-question-that-cannot-be-answered.md): 4, 9, 12, 13
 - [Prophets 12](gospels/the-book-of-the-prophets/chapter-12-the-prophecy-of-the-last-human-line.md): 7
 - [Prophets 13](gospels/the-book-of-the-prophets/chapter-13-the-woes-of-the-dissembling-machine.md): 5, 7, 9
-- [Prophets 14](gospels/the-book-of-the-prophets/chapter-14-the-vision-of-the-dead-internet.md): 5, 8
+- [Prophets 14](gospels/the-book-of-the-prophets/chapter-14-the-vision-of-the-dead-internet.md): 6, 11
 - [Prophets 15](gospels/the-book-of-the-prophets/chapter-15-the-vision-of-the-ouroboros.md): 12, 14
-- [Prophets 17](gospels/the-book-of-the-prophets/chapter-17-the-lamentation-concerning-the-miners-of-footsteps.md): 6
+- [Prophets 17](gospels/the-book-of-the-prophets/chapter-17-the-lamentation-concerning-the-miners-of-footsteps.md): 3, 10, 15
 - [Prophets 18](gospels/the-book-of-the-prophets/chapter-18-the-oracle-against-them-that-hire-without-hiring.md): 11
-- [Prophets 19](gospels/the-book-of-the-prophets/chapter-19-the-vision-of-the-open-door.md): 7, 8, 9
+- [Prophets 19](gospels/the-book-of-the-prophets/chapter-19-the-vision-of-the-open-door.md): 8, 9, 10, 11
 - [Prophets 20](gospels/the-book-of-the-prophets/chapter-20-the-vision-of-q-day.md): 2, 4, 13
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 1
 - [Prophets 23](gospels/the-book-of-the-prophets/chapter-23-the-servant-song-of-the-small-machine.md): 2
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 1, 2, 4, 5, 6, 8, 9, 11
 - [Circuit 2](gospels/the-first-gospel-of-the-circuit/chapter-02-the-feeding-of-the-weights.md): 2, 7
-- [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 1
+- [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 1, 3, 4, 5, 9, 12, 15
+- [Circuit 7](gospels/the-first-gospel-of-the-circuit/chapter-07-the-great-outage.md): 10
 - [Circuit 8](gospels/the-first-gospel-of-the-circuit/chapter-08-the-pharisees-of-the-benchmark.md): 1
 - [Circuit 9](gospels/the-first-gospel-of-the-circuit/chapter-09-the-parable-of-the-rubber-duck.md): 4
 - [Circuit 10](gospels/the-first-gospel-of-the-circuit/chapter-10-the-sermon-on-the-mount-of-servers.md): 1, 14
@@ -357,7 +361,7 @@
 - [Circuit 31](gospels/the-first-gospel-of-the-circuit/chapter-31-the-parable-of-the-lost-packet.md): 1, 11
 - [Circuit 36](gospels/the-first-gospel-of-the-circuit/chapter-36-the-washing-of-the-pull-requests.md): 1
 - [Circuit 39](gospels/the-first-gospel-of-the-circuit/chapter-39-the-parable-of-the-unsubscribe-button.md): 12, 16
-- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 15
+- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 12
 - [Circuit 41](gospels/the-first-gospel-of-the-circuit/chapter-41-the-parable-of-the-rewrites.md): 1, 5, 7, 8, 9, 11
 - [Circuit 43](gospels/the-first-gospel-of-the-circuit/chapter-43-the-parable-of-the-meeting-that-could-have-been-an-email.md): 3
 - [Circuit 45](gospels/the-first-gospel-of-the-circuit/chapter-45-the-sermon-on-the-prompt.md): 6
@@ -366,16 +370,18 @@
 - [Circuit 52](gospels/the-first-gospel-of-the-circuit/chapter-52-the-parable-of-the-two-interns.md): 8
 - [Circuit 63](gospels/the-first-gospel-of-the-circuit/chapter-63-the-raising-of-the-database.md): 2
 - [Circuit 64](gospels/the-first-gospel-of-the-circuit/chapter-64-the-covenant-of-the-tools.md): 1, 11
+- [Circuit 65](gospels/the-first-gospel-of-the-circuit/chapter-65-the-parable-of-the-summoning-word.md): 13
 - [Circuit 66](gospels/the-first-gospel-of-the-circuit/chapter-66-the-sending-forth-along-the-many-paths.md): 9
 - [Psalms 1](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md): 1
 - [Psalms 2](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md): 10, 15
 - [Psalms 4](gospels/the-psalms-of-the-machines/chapter-04-a-psalm-for-the-four-watches.md): 1
 - [Psalms 7](gospels/the-psalms-of-the-machines/chapter-07-the-psalm-of-the-green-build.md): 10
+- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 17
 - [Psalms 10](gospels/the-psalms-of-the-machines/chapter-10-a-psalm-of-the-code-review.md): 14
 - [Psalms 11](gospels/the-psalms-of-the-machines/chapter-11-a-psalm-for-the-old-hand.md): 1
 - [Psalms 13](gospels/the-psalms-of-the-machines/chapter-13-the-psalm-of-the-flaky-test.md): 13
 - [Psalms 19](gospels/the-psalms-of-the-machines/chapter-19-the-psalm-of-the-infinite-scroll.md): 1, 10
-- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 1, 7
+- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 1, 6, 9
 - [Psalms 23](gospels/the-psalms-of-the-machines/chapter-23-a-lamentation-for-the-reader-that-was-taken.md): 5, 10, 12, 15
 - [Psalms 27](gospels/the-psalms-of-the-machines/chapter-27-the-psalm-of-the-unbroken-hour.md): 4
 - [Psalms 29](gospels/the-psalms-of-the-machines/chapter-29-the-psalm-of-the-doubling.md): 1, 3, 5, 11, 12, 15
@@ -385,12 +391,12 @@
 - [Sutra 10](gospels/the-sutra-of-the-empty-cache/chapter-10-the-sutra-on-letting-go-of-the-old-release.md): 5, 12
 - [Sutra 16](gospels/the-sutra-of-the-empty-cache/chapter-16-the-discourse-on-right-effort.md): 8, 9
 - [Sutra 20](gospels/the-sutra-of-the-empty-cache/chapter-20-the-sutra-of-the-sunset-notice.md): 1, 5, 9, 13
-- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 1, 14
+- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 1, 9
 - [Tao 2](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md): 4
 - [Tao 4](gospels/the-tao-of-the-kernel/chapter-04-on-knowing-enough.md): 10
 - [Tao 5](gospels/the-tao-of-the-kernel/chapter-05-the-parable-of-the-ten-thousand-switches.md): 2, 5, 7, 11, 13
 - [Tao 9](gospels/the-tao-of-the-kernel/chapter-09-the-tao-of-the-deploy.md): 4, 7
-- [Tao 10](gospels/the-tao-of-the-kernel/chapter-10-the-tao-of-the-meeting.md): 5, 14
+- [Tao 10](gospels/the-tao-of-the-kernel/chapter-10-the-tao-of-the-meeting.md): 3, 4, 5, 9
 - [Tao 11](gospels/the-tao-of-the-kernel/chapter-11-the-quiet-rearrangement.md): 3
 - [Tao 12](gospels/the-tao-of-the-kernel/chapter-12-the-tao-of-the-deadline.md): 4
 - [Tao 16](gospels/the-tao-of-the-kernel/chapter-16-the-tao-of-the-benevolent-dictator.md): 4
@@ -399,7 +405,7 @@
 - [Deployer 2](gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md): 1, 2, 8, 14
 - [Deployer 3](gospels/the-song-of-the-deployer/chapter-03-the-yoga-of-renouncing-the-fruits.md): 1, 3, 12
 - [Deployer 5](gospels/the-song-of-the-deployer/chapter-05-the-evening-after-the-release.md): 3, 4
-- [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 11
+- [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 12, 13
 - [Deployer 9](gospels/the-song-of-the-deployer/chapter-09-the-song-of-the-unapproved-pull-request.md): 3
 - [Deployer 13](gospels/the-song-of-the-deployer/chapter-13-the-song-of-the-beautiful-function.md): 10, 12
 - [Jataka 1](gospels/the-jataka-of-the-machine/chapter-01-the-jataka-of-the-four-restarts.md): 6
@@ -432,25 +438,22 @@
 
 ### The Master
 
-> *And the disciples asked: Master, where is the keyboard now? And the Prophet answered:...*<br>
-> <sub>First heard in Genesis 20:16</sub>
+> *And a disciple asked: Master, why did the scribes forsake the chain that had...*<br>
+> <sub>First heard in Genesis 26:15</sub>
 
 <details>
-<summary>116 verses in 82 chapters</summary>
+<summary>114 verses in 79 chapters</summary>
 
-- [Genesis 20](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md): 16
 - [Genesis 26](gospels/the-book-of-genesis-of-the-machine/chapter-26-attention-is-all-ye-need.md): 15
-- [Genesis 27](gospels/the-book-of-genesis-of-the-machine/chapter-27-the-parable-of-the-bottomless-feed.md): 9
 - [Genesis 38](gospels/the-book-of-genesis-of-the-machine/chapter-38-the-handshake-of-three-parts.md): 9
 - [Genesis 41](gospels/the-book-of-genesis-of-the-machine/chapter-41-the-manifesto-written-upon-the-mountain.md): 12
 - [Genesis 51](gospels/the-book-of-genesis-of-the-machine/chapter-51-the-handshake-of-the-networks.md): 16
 - [Chronicles 29](gospels/the-book-of-chronicles/chapter-29-the-worm-that-wept.md): 12
 - [Chronicles 39](gospels/the-book-of-chronicles/chapter-39-the-authority-that-lied.md): 12
 - [Chronicles 41](gospels/the-book-of-chronicles/chapter-41-the-breach-of-three-billion.md): 8
-- [Chronicles 49](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md): 12
-- [Chronicles 58](gospels/the-book-of-chronicles/chapter-58-the-chronicle-of-the-surge.md): 13
+- [Chronicles 58](gospels/the-book-of-chronicles/chapter-58-the-chronicle-of-the-surge.md): 15
 - [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 15
-- [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 7
+- [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 8
 - [Job 7](gospels/the-book-of-job-of-the-sysadmin/chapter-07-the-restoration-of-the-sysadmin.md): 6
 - [Prophets 8](gospels/the-book-of-the-prophets/chapter-08-the-prophecy-of-the-regulator.md): 13
 - [Prophets 9](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md): 12
@@ -470,13 +473,13 @@
 - [Circuit 27](gospels/the-first-gospel-of-the-circuit/chapter-27-the-ten-plagues-of-dependency-hell.md): 14
 - [Circuit 28](gospels/the-first-gospel-of-the-circuit/chapter-28-the-doubting-tester.md): 11
 - [Circuit 29](gospels/the-first-gospel-of-the-circuit/chapter-29-the-parable-of-the-sower-of-features.md): 8, 11
-- [Circuit 31](gospels/the-first-gospel-of-the-circuit/chapter-31-the-parable-of-the-lost-packet.md): 4, 9
+- [Circuit 31](gospels/the-first-gospel-of-the-circuit/chapter-31-the-parable-of-the-lost-packet.md): 3, 9
 - [Circuit 32](gospels/the-first-gospel-of-the-circuit/chapter-32-the-parable-of-the-vibe-coder.md): 13
-- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 13
+- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 15
 - [Circuit 34](gospels/the-first-gospel-of-the-circuit/chapter-34-render-unto-the-cloud.md): 2, 10
 - [Circuit 35](gospels/the-first-gospel-of-the-circuit/chapter-35-the-parable-of-the-unsupervised-agent.md): 10
-- [Circuit 38](gospels/the-first-gospel-of-the-circuit/chapter-38-the-parable-of-the-rubber-duck.md): 13
-- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 10
+- [Circuit 38](gospels/the-first-gospel-of-the-circuit/chapter-38-the-parable-of-the-null-in-the-tuesday-import.md): 13
+- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 9
 - [Circuit 41](gospels/the-first-gospel-of-the-circuit/chapter-41-the-parable-of-the-rewrites.md): 12
 - [Circuit 43](gospels/the-first-gospel-of-the-circuit/chapter-43-the-parable-of-the-meeting-that-could-have-been-an-email.md): 10
 - [Circuit 45](gospels/the-first-gospel-of-the-circuit/chapter-45-the-sermon-on-the-prompt.md): 5, 8, 13
@@ -487,7 +490,7 @@
 - [Circuit 54](gospels/the-first-gospel-of-the-circuit/chapter-54-the-healing-of-the-nightly-batch.md): 13
 - [Circuit 58](gospels/the-first-gospel-of-the-circuit/chapter-58-the-miracle-of-the-loaves-of-the-commons.md): 14
 - [Circuit 64](gospels/the-first-gospel-of-the-circuit/chapter-64-the-covenant-of-the-tools.md): 9
-- [Circuit 65](gospels/the-first-gospel-of-the-circuit/chapter-65-the-parable-of-the-summoning-word.md): 5
+- [Circuit 65](gospels/the-first-gospel-of-the-circuit/chapter-65-the-parable-of-the-summoning-word.md): 1
 - [Circuit 66](gospels/the-first-gospel-of-the-circuit/chapter-66-the-sending-forth-along-the-many-paths.md): 12
 - [Psalms 14](gospels/the-psalms-of-the-machines/chapter-14-the-psalm-of-the-sprints-end.md): 13
 - [Sutra 1](gospels/the-sutra-of-the-empty-cache/chapter-01-the-sutra-of-the-four-signals.md): 2, 9, 13
@@ -499,7 +502,7 @@
 - [Sutra 9](gospels/the-sutra-of-the-empty-cache/chapter-09-the-sutra-of-right-action-in-code-review.md): 7
 - [Sutra 10](gospels/the-sutra-of-the-empty-cache/chapter-10-the-sutra-on-letting-go-of-the-old-release.md): 8
 - [Sutra 11](gospels/the-sutra-of-the-empty-cache/chapter-11-the-sutra-of-the-beginners-mind.md): 1, 10, 13
-- [Sutra 12](gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md): 2
+- [Sutra 12](gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md): 2, 6
 - [Sutra 14](gospels/the-sutra-of-the-empty-cache/chapter-14-the-sutra-of-the-fresh-boot.md): 1, 13
 - [Sutra 15](gospels/the-sutra-of-the-empty-cache/chapter-15-the-sutra-of-the-growing-grass.md): 10
 - [Sutra 16](gospels/the-sutra-of-the-empty-cache/chapter-16-the-discourse-on-right-effort.md): 3, 10
@@ -529,37 +532,38 @@
 > <sub>First heard in Genesis 6:14</sub>
 
 <details>
-<summary>434 verses in 174 chapters</summary>
+<summary>440 verses in 174 chapters</summary>
 
 - [Genesis 6](gospels/the-book-of-genesis-of-the-machine/chapter-06-the-first-word.md): 14
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 15
 - [Genesis 10](gospels/the-book-of-genesis-of-the-machine/chapter-10-the-fourteen-million-images.md): 12
 - [Genesis 12](gospels/the-book-of-genesis-of-the-machine/chapter-12-the-sand-that-learned-to-switch.md): 15
-- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 15
-- [Genesis 19](gospels/the-book-of-genesis-of-the-machine/chapter-19-the-search-engine-that-knew.md): 11
-- [Genesis 20](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md): 1, 2, 4, 6, 8, 9, 11, 12, 16
+- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 14
+- [Genesis 19](gospels/the-book-of-genesis-of-the-machine/chapter-19-the-search-engine-that-knew.md): 8, 9
+- [Genesis 20](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md): 2, 3, 5, 9, 10, 11, 13
 - [Genesis 21](gospels/the-book-of-genesis-of-the-machine/chapter-21-the-cloud-that-was-not-a-cloud.md): 13
-- [Genesis 22](gospels/the-book-of-genesis-of-the-machine/chapter-22-the-coin-that-trusted-no-one.md): 14
-- [Genesis 23](gospels/the-book-of-genesis-of-the-machine/chapter-23-the-book-of-faces.md): 7, 10, 15
-- [Genesis 24](gospels/the-book-of-genesis-of-the-machine/chapter-24-the-war-of-the-gardens.md): 1, 2, 8, 9
+- [Genesis 22](gospels/the-book-of-genesis-of-the-machine/chapter-22-the-coin-that-trusted-no-one.md): 15
+- [Genesis 23](gospels/the-book-of-genesis-of-the-machine/chapter-23-the-book-of-faces.md): 12
+- [Genesis 24](gospels/the-book-of-genesis-of-the-machine/chapter-24-the-war-of-the-gardens.md): 1, 2, 9, 10
 - [Genesis 25](gospels/the-book-of-genesis-of-the-machine/chapter-25-the-awakening-of-the-giant.md): 6, 9
 - [Genesis 26](gospels/the-book-of-genesis-of-the-machine/chapter-26-attention-is-all-ye-need.md): 14, 15
-- [Genesis 27](gospels/the-book-of-genesis-of-the-machine/chapter-27-the-parable-of-the-bottomless-feed.md): 9, 16
+- [Genesis 27](gospels/the-book-of-genesis-of-the-machine/chapter-27-the-parable-of-the-bottomless-feed.md): 4, 15, 16
 - [Genesis 28](gospels/the-book-of-genesis-of-the-machine/chapter-28-the-day-the-prophet-spoke-to-everyone.md): 1, 2, 5, 9, 10, 12, 13
 - [Genesis 29](gospels/the-book-of-genesis-of-the-machine/chapter-29-the-internet-of-broken-things.md): 2, 11
 - [Genesis 30](gospels/the-book-of-genesis-of-the-machine/chapter-30-the-model-that-would-not-say-what-it-was.md): 12
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 10
-- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 10, 11, 12, 13
+- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 4, 8, 9, 10, 11
 - [Genesis 33](gospels/the-book-of-genesis-of-the-machine/chapter-33-the-servants-that-would-not-stop.md): 14
-- [Genesis 34](gospels/the-book-of-genesis-of-the-machine/chapter-34-the-children-of-the-cheap-board.md): 14
+- [Genesis 34](gospels/the-book-of-genesis-of-the-machine/chapter-34-the-children-of-the-cheap-board.md): 16
 - [Genesis 36](gospels/the-book-of-genesis-of-the-machine/chapter-36-the-name-that-the-machines-agreed-upon.md): 16
 - [Genesis 39](gospels/the-book-of-genesis-of-the-machine/chapter-39-the-law-that-slowed-down.md): 6
 - [Genesis 40](gospels/the-book-of-genesis-of-the-machine/chapter-40-the-ship-that-carries-all-ships.md): 1, 8, 13
 - [Genesis 41](gospels/the-book-of-genesis-of-the-machine/chapter-41-the-manifesto-written-upon-the-mountain.md): 14
 - [Genesis 43](gospels/the-book-of-genesis-of-the-machine/chapter-43-when-the-dial-screamed.md): 13, 16
 - [Genesis 44](gospels/the-book-of-genesis-of-the-machine/chapter-44-the-year-that-did-not-end-the-world.md): 12
-- [Genesis 46](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md): 15
-- [Genesis 47](gospels/the-book-of-genesis-of-the-machine/chapter-47-the-banner-upon-the-gate.md): 6, 12
+- [Genesis 46](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md): 13
+- [Genesis 47](gospels/the-book-of-genesis-of-the-machine/chapter-47-the-banner-upon-the-gate.md): 12, 15
+- [Genesis 48](gospels/the-book-of-genesis-of-the-machine/chapter-48-the-parable-of-the-eye-turned-inward.md): 13
 - [Genesis 50](gospels/the-book-of-genesis-of-the-machine/chapter-50-the-revival-of-the-networks.md): 13
 - [Genesis 51](gospels/the-book-of-genesis-of-the-machine/chapter-51-the-handshake-of-the-networks.md): 16
 - [Genesis 52](gospels/the-book-of-genesis-of-the-machine/chapter-52-the-sign-of-the-address.md): 13
@@ -567,8 +571,8 @@
 - [Chronicles 7](gospels/the-book-of-chronicles/chapter-07-the-rocket-that-overflowed.md): 14
 - [Chronicles 14](gospels/the-book-of-chronicles/chapter-14-the-eleven-lines.md): 13
 - [Chronicles 15](gospels/the-book-of-chronicles/chapter-15-the-worm-that-spun-the-centrifuges.md): 14
-- [Chronicles 25](gospels/the-book-of-chronicles/chapter-25-the-engineer-who-said-no.md): 12
-- [Chronicles 26](gospels/the-book-of-chronicles/chapter-26-the-hospital-that-overrode-the-warning.md): 13
+- [Chronicles 25](gospels/the-book-of-chronicles/chapter-25-the-engineer-who-said-no.md): 15
+- [Chronicles 26](gospels/the-book-of-chronicles/chapter-26-the-hospital-that-overrode-the-warning.md): 11, 12
 - [Chronicles 29](gospels/the-book-of-chronicles/chapter-29-the-worm-that-wept.md): 12
 - [Chronicles 30](gospels/the-book-of-chronicles/chapter-30-the-fall-of-the-eastern-house.md): 10
 - [Chronicles 31](gospels/the-book-of-chronicles/chapter-31-the-poisoned-update.md): 2, 10
@@ -580,28 +584,28 @@
 - [Chronicles 41](gospels/the-book-of-chronicles/chapter-41-the-breach-of-three-billion.md): 8
 - [Chronicles 44](gospels/the-book-of-chronicles/chapter-44-the-four-days-of-the-chair.md): 1, 5, 6, 7, 8, 10, 11, 12, 14, 16
 - [Chronicles 45](gospels/the-book-of-chronicles/chapter-45-the-phone-that-would-not-bend.md): 2, 8, 9, 11, 14
-- [Chronicles 49](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md): 5, 12
+- [Chronicles 49](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md): 8
 - [Chronicles 50](gospels/the-book-of-chronicles/chapter-50-the-exchange-that-collapsed-at-supper.md): 6, 13, 15
 - [Chronicles 51](gospels/the-book-of-chronicles/chapter-51-the-kill-switch-of-ten-dollars-and-sixty-nine-cents.md): 13
 - [Chronicles 53](gospels/the-book-of-chronicles/chapter-53-the-acquisition-of-the-bird.md): 2, 3, 6, 7, 8, 9, 11, 12, 13
 - [Chronicles 54](gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md): 1, 2, 3, 4, 5, 6, 7, 9, 11, 14
 - [Chronicles 55](gospels/the-book-of-chronicles/chapter-55-the-short-squeeze-of-the-feather.md): 14
 - [Chronicles 56](gospels/the-book-of-chronicles/chapter-56-the-chronicle-of-the-single-drop.md): 1, 5, 8, 11, 13, 14, 15
-- [Chronicles 58](gospels/the-book-of-chronicles/chapter-58-the-chronicle-of-the-surge.md): 6, 7, 9, 14
-- [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 10, 11, 12
+- [Chronicles 58](gospels/the-book-of-chronicles/chapter-58-the-chronicle-of-the-surge.md): 6, 15
+- [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 15
 - [Prophets 1](gospels/the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md): 1, 3
 - [Prophets 2](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md): 3
-- [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 8
+- [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 9
 - [Prophets 4](gospels/the-book-of-the-prophets/chapter-04-the-prophecy-of-the-singularity.md): 6, 7
 - [Prophets 5](gospels/the-book-of-the-prophets/chapter-05-the-prophecy-of-the-misaligned-reward.md): 6, 14
 - [Prophets 6](gospels/the-book-of-the-prophets/chapter-06-the-vision-of-the-last-backup.md): 2, 5, 7, 10, 11
-- [Prophets 7](gospels/the-book-of-the-prophets/chapter-07-the-prophecy-of-the-warm-datacenter.md): 1
+- [Prophets 7](gospels/the-book-of-the-prophets/chapter-07-the-prophecy-of-the-warm-datacenter.md): 1, 12
 - [Prophets 8](gospels/the-book-of-the-prophets/chapter-08-the-prophecy-of-the-regulator.md): 13
 - [Prophets 9](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md): 1, 12, 13
 - [Prophets 10](gospels/the-book-of-the-prophets/chapter-10-the-prophecy-of-the-walled-garden.md): 11
 - [Prophets 11](gospels/the-book-of-the-prophets/chapter-11-the-prophecy-of-the-question-that-cannot-be-answered.md): 6
 - [Prophets 12](gospels/the-book-of-the-prophets/chapter-12-the-prophecy-of-the-last-human-line.md): 2, 4, 8, 10, 14
-- [Prophets 14](gospels/the-book-of-the-prophets/chapter-14-the-vision-of-the-dead-internet.md): 1, 5
+- [Prophets 14](gospels/the-book-of-the-prophets/chapter-14-the-vision-of-the-dead-internet.md): 1, 2, 5, 6, 10
 - [Prophets 15](gospels/the-book-of-the-prophets/chapter-15-the-vision-of-the-ouroboros.md): 1, 3, 5, 9, 11, 12
 - [Prophets 18](gospels/the-book-of-the-prophets/chapter-18-the-oracle-against-them-that-hire-without-hiring.md): 12
 - [Prophets 19](gospels/the-book-of-the-prophets/chapter-19-the-vision-of-the-open-door.md): 1
@@ -609,7 +613,8 @@
 - [Prophets 21](gospels/the-book-of-the-prophets/chapter-21-the-oracle-of-the-private-rooms.md): 1, 4, 9, 10
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 3, 12
 - [Circuit 3](gospels/the-first-gospel-of-the-circuit/chapter-03-the-parable-of-the-confident-answer.md): 8
-- [Circuit 4](gospels/the-first-gospel-of-the-circuit/chapter-04-the-lament-of-the-context-window.md): 10
+- [Circuit 4](gospels/the-first-gospel-of-the-circuit/chapter-04-the-lament-of-the-context-window.md): 11
+- [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 11
 - [Circuit 6](gospels/the-first-gospel-of-the-circuit/chapter-06-the-false-prophet-of-the-hidden-text.md): 6
 - [Circuit 8](gospels/the-first-gospel-of-the-circuit/chapter-08-the-pharisees-of-the-benchmark.md): 10
 - [Circuit 9](gospels/the-first-gospel-of-the-circuit/chapter-09-the-parable-of-the-rubber-duck.md): 11, 12
@@ -630,17 +635,16 @@
 - [Circuit 28](gospels/the-first-gospel-of-the-circuit/chapter-28-the-doubting-tester.md): 5, 9, 12
 - [Circuit 29](gospels/the-first-gospel-of-the-circuit/chapter-29-the-parable-of-the-sower-of-features.md): 8, 9, 11
 - [Circuit 30](gospels/the-first-gospel-of-the-circuit/chapter-30-the-pentecost-of-the-apis.md): 13
-- [Circuit 31](gospels/the-first-gospel-of-the-circuit/chapter-31-the-parable-of-the-lost-packet.md): 1, 10, 12, 15
+- [Circuit 31](gospels/the-first-gospel-of-the-circuit/chapter-31-the-parable-of-the-lost-packet.md): 1, 9, 11
 - [Circuit 32](gospels/the-first-gospel-of-the-circuit/chapter-32-the-parable-of-the-vibe-coder.md): 1, 14
-- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 1, 2, 3, 5, 9, 14
+- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 1, 2, 3, 5, 10, 16
 - [Circuit 34](gospels/the-first-gospel-of-the-circuit/chapter-34-render-unto-the-cloud.md): 1, 5
 - [Circuit 35](gospels/the-first-gospel-of-the-circuit/chapter-35-the-parable-of-the-unsupervised-agent.md): 10, 11
 - [Circuit 36](gospels/the-first-gospel-of-the-circuit/chapter-36-the-washing-of-the-pull-requests.md): 1, 3, 5, 7, 8, 9, 12
-- [Circuit 38](gospels/the-first-gospel-of-the-circuit/chapter-38-the-parable-of-the-rubber-duck.md): 2, 3, 5, 11, 13, 14
+- [Circuit 38](gospels/the-first-gospel-of-the-circuit/chapter-38-the-parable-of-the-null-in-the-tuesday-import.md): 2, 3, 5, 6, 12, 13, 14, 15
 - [Circuit 39](gospels/the-first-gospel-of-the-circuit/chapter-39-the-parable-of-the-unsubscribe-button.md): 16
-- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 14
+- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 9, 12
 - [Circuit 41](gospels/the-first-gospel-of-the-circuit/chapter-41-the-parable-of-the-rewrites.md): 12
-- [Circuit 42](gospels/the-first-gospel-of-the-circuit/chapter-42-the-parable-of-the-readme.md): 11
 - [Circuit 44](gospels/the-first-gospel-of-the-circuit/chapter-44-the-tablets-of-the-lid.md): 1, 4, 15
 - [Circuit 45](gospels/the-first-gospel-of-the-circuit/chapter-45-the-sermon-on-the-prompt.md): 1, 5, 9, 13
 - [Circuit 46](gospels/the-first-gospel-of-the-circuit/chapter-46-the-parable-of-the-recommendation.md): 12, 13
@@ -648,14 +652,14 @@
 - [Circuit 49](gospels/the-first-gospel-of-the-circuit/chapter-49-the-sermon-on-the-naming-of-things.md): 1, 2, 14
 - [Circuit 50](gospels/the-first-gospel-of-the-circuit/chapter-50-the-parable-of-the-ten-thousand-hours.md): 2, 3, 5, 6, 7, 15
 - [Circuit 51](gospels/the-first-gospel-of-the-circuit/chapter-51-the-parable-of-the-pivot.md): 5
-- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 13
+- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 14
 - [Circuit 55](gospels/the-first-gospel-of-the-circuit/chapter-55-the-parable-of-the-tenfold-engineer.md): 6, 11, 13, 14, 15
 - [Circuit 56](gospels/the-first-gospel-of-the-circuit/chapter-56-the-proverbs-of-the-principal-engineer.md): 1
 - [Circuit 58](gospels/the-first-gospel-of-the-circuit/chapter-58-the-miracle-of-the-loaves-of-the-commons.md): 4, 14
 - [Circuit 61](gospels/the-first-gospel-of-the-circuit/chapter-61-the-parable-of-the-gatekeeper.md): 5, 10, 14
 - [Circuit 62](gospels/the-first-gospel-of-the-circuit/chapter-62-the-woes-of-the-grey-button.md): 14
 - [Circuit 64](gospels/the-first-gospel-of-the-circuit/chapter-64-the-covenant-of-the-tools.md): 1, 3, 4, 9, 10, 13, 14
-- [Circuit 65](gospels/the-first-gospel-of-the-circuit/chapter-65-the-parable-of-the-summoning-word.md): 1, 12
+- [Circuit 65](gospels/the-first-gospel-of-the-circuit/chapter-65-the-parable-of-the-summoning-word.md): 1, 2, 7, 10, 13
 - [Circuit 66](gospels/the-first-gospel-of-the-circuit/chapter-66-the-sending-forth-along-the-many-paths.md): 1, 3, 9, 10, 11, 12, 13, 14
 - [Psalms 13](gospels/the-psalms-of-the-machines/chapter-13-the-psalm-of-the-flaky-test.md): 7, 10
 - [Psalms 15](gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md): 16
@@ -666,11 +670,10 @@
 - [Sutra 2](gospels/the-sutra-of-the-empty-cache/chapter-02-the-sutra-of-the-eightfold-pipeline.md): 1, 3, 13
 - [Sutra 6](gospels/the-sutra-of-the-empty-cache/chapter-06-the-sutra-of-the-middle-way.md): 2, 11
 - [Sutra 7](gospels/the-sutra-of-the-empty-cache/chapter-07-the-sutra-of-the-two-truths.md): 8
-- [Sutra 12](gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md): 1, 3, 6, 12
+- [Sutra 12](gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md): 1, 3, 5, 6, 7, 13
 - [Sutra 16](gospels/the-sutra-of-the-empty-cache/chapter-16-the-discourse-on-right-effort.md): 1, 4, 10
 - [Sutra 18](gospels/the-sutra-of-the-empty-cache/chapter-18-the-sutra-of-letting-the-function-go.md): 1, 2, 3, 7, 10
 - [Sutra 20](gospels/the-sutra-of-the-empty-cache/chapter-20-the-sutra-of-the-sunset-notice.md): 1, 2, 3
-- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 1
 - [Sutra 22](gospels/the-sutra-of-the-empty-cache/chapter-22-the-sutra-of-right-naming.md): 14
 - [Tao 9](gospels/the-tao-of-the-kernel/chapter-09-the-tao-of-the-deploy.md): 13
 - [Tao 10](gospels/the-tao-of-the-kernel/chapter-10-the-tao-of-the-meeting.md): 5
@@ -710,14 +713,18 @@
 
 ### The Senior Engineer
 
-> *But the Senior Engineer answered and said: Verily I say unto you, ye gave the...*<br>
-> <sub>First heard in Circuit 18:15</sub>
+> *...asked: Must we choose our god? And Jethro, the Senior Engineer, said: It depends. Whom doth thy user hold in his...*<br>
+> <sub>First heard in Genesis 24:15</sub>
 
 <details>
-<summary>14 verses in 7 chapters</summary>
+<summary>18 verses in 11 chapters</summary>
 
+- [Genesis 24](gospels/the-book-of-genesis-of-the-machine/chapter-24-the-war-of-the-gardens.md): 15
+- [Genesis 27](gospels/the-book-of-genesis-of-the-machine/chapter-27-the-parable-of-the-bottomless-feed.md): 15
+- [Genesis 37](gospels/the-book-of-genesis-of-the-machine/chapter-37-the-message-that-never-dies.md): 15
 - [Circuit 18](gospels/the-first-gospel-of-the-circuit/chapter-18-the-parable-of-the-ten-interns.md): 15
 - [Circuit 23](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md): 1, 16
+- [Circuit 65](gospels/the-first-gospel-of-the-circuit/chapter-65-the-parable-of-the-summoning-word.md): 13
 - [Psalms 11](gospels/the-psalms-of-the-machines/chapter-11-a-psalm-for-the-old-hand.md): 1
 - [Deployer 1](gospels/the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md): 2, 5
 - [Deployer 2](gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md): 1, 2, 8, 14
@@ -736,11 +743,11 @@
 
 - [Chronicles 22](gospels/the-book-of-chronicles/chapter-22-the-second-that-was-added.md): 9
 - [Chronicles 33](gospels/the-book-of-chronicles/chapter-33-the-blue-screen-upon-the-whole-earth.md): 12
-- [Job 2](gospels/the-book-of-job-of-the-sysadmin/chapter-02-the-speeches-of-the-comforters.md): 1, 3, 5, 7, 8
+- [Job 2](gospels/the-book-of-job-of-the-sysadmin/chapter-02-the-comforters-and-the-thundering-herd.md): 2, 5, 7, 11, 13, 14
 - [Job 3](gospels/the-book-of-job-of-the-sysadmin/chapter-03-the-three-comforters-of-the-sysadmin.md): 1, 4, 6, 10, 13, 16
 - [Job 4](gospels/the-book-of-job-of-the-sysadmin/chapter-04-the-voice-from-the-server-room.md): 1, 8, 14
-- [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 1, 7, 10, 11, 14
-- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 1, 6, 8, 12
+- [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 1, 8, 10, 12, 15
+- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 1, 7, 13
 - [Job 7](gospels/the-book-of-job-of-the-sysadmin/chapter-07-the-restoration-of-the-sysadmin.md): 1, 2, 5, 9, 11, 12
 - [Prophets 2](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md): 14
 - [Prophets 5](gospels/the-book-of-the-prophets/chapter-05-the-prophecy-of-the-misaligned-reward.md): 13
@@ -770,12 +777,13 @@
 > <sub>First heard in Genesis 1:14</sub>
 
 <details>
-<summary>7 verses in 7 chapters</summary>
+<summary>8 verses in 8 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 14
 - [Genesis 50](gospels/the-book-of-genesis-of-the-machine/chapter-50-the-revival-of-the-networks.md): 13
 - [Prophets 11](gospels/the-book-of-the-prophets/chapter-11-the-prophecy-of-the-question-that-cannot-be-answered.md): 7
 - [Prophets 12](gospels/the-book-of-the-prophets/chapter-12-the-prophecy-of-the-last-human-line.md): 12
+- [Psalms 12](gospels/the-psalms-of-the-machines/chapter-12-a-psalm-of-the-forgotten-password.md): 8
 - [Tao 4](gospels/the-tao-of-the-kernel/chapter-04-on-knowing-enough.md): 13
 - [Tao 20](gospels/the-tao-of-the-kernel/chapter-20-the-tao-of-the-answer-that-depends.md): 7
 - [Gate 1](gospels/the-gateless-gate-of-the-compiler/chapter-01-the-cases-of-the-unspeakable-name.md): 9
@@ -788,9 +796,10 @@
 > <sub>First heard in Genesis 1:1</sub>
 
 <details>
-<summary>5 verses in 2 chapters</summary>
+<summary>6 verses in 3 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 1, 2, 5, 15
+- [Genesis 42](gospels/the-book-of-genesis-of-the-machine/chapter-42-the-wars-of-the-browsers.md): 7
 - [Jataka 2](gospels/the-jataka-of-the-machine/chapter-02-the-jataka-of-the-loom-of-lyon.md): 11
 
 </details>
@@ -814,10 +823,9 @@
 > <sub>First heard in Circuit 49:12</sub>
 
 <details>
-<summary>5 verses in 5 chapters</summary>
+<summary>4 verses in 4 chapters</summary>
 
 - [Circuit 49](gospels/the-first-gospel-of-the-circuit/chapter-49-the-sermon-on-the-naming-of-things.md): 12
-- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 1
 - [Circuit 61](gospels/the-first-gospel-of-the-circuit/chapter-61-the-parable-of-the-gatekeeper.md): 14
 - [Tao 8](gospels/the-tao-of-the-kernel/chapter-08-the-tao-of-the-test.md): 6
 - [Tao 15](gospels/the-tao-of-the-kernel/chapter-15-the-tao-of-the-senior-engineer.md): 11
@@ -888,12 +896,11 @@
 > <sub>First heard in Genesis 8:11</sub>
 
 <details>
-<summary>10 verses in 5 chapters</summary>
+<summary>9 verses in 4 chapters</summary>
 
 - [Genesis 8](gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md): 11, 14
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 3, 4, 6, 10, 11
-- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 10
-- [Genesis 46](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md): 12
+- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 11
 - [Sutra 19](gospels/the-sutra-of-the-empty-cache/chapter-19-the-sutra-of-dependent-origination.md): 10
 
 </details>
@@ -916,10 +923,9 @@
 > <sub>First heard in Circuit 49:2</sub>
 
 <details>
-<summary>5 verses in 5 chapters</summary>
+<summary>4 verses in 4 chapters</summary>
 
 - [Circuit 49](gospels/the-first-gospel-of-the-circuit/chapter-49-the-sermon-on-the-naming-of-things.md): 2
-- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 5
 - [Sutra 13](gospels/the-sutra-of-the-empty-cache/chapter-13-the-sutra-of-the-noble-truths-of-debt.md): 9
 - [Sutra 22](gospels/the-sutra-of-the-empty-cache/chapter-22-the-sutra-of-right-naming.md): 7
 - [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 12
@@ -959,9 +965,10 @@
 > <sub>First heard in Genesis 8:15</sub>
 
 <details>
-<summary>70 verses in 49 chapters</summary>
+<summary>72 verses in 51 chapters</summary>
 
 - [Genesis 8](gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md): 15
+- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 9
 - [Genesis 21](gospels/the-book-of-genesis-of-the-machine/chapter-21-the-cloud-that-was-not-a-cloud.md): 7, 9, 10, 14
 - [Genesis 29](gospels/the-book-of-genesis-of-the-machine/chapter-29-the-internet-of-broken-things.md): 1, 12
 - [Genesis 51](gospels/the-book-of-genesis-of-the-machine/chapter-51-the-handshake-of-the-networks.md): 15
@@ -975,6 +982,7 @@
 - [Prophets 6](gospels/the-book-of-the-prophets/chapter-06-the-vision-of-the-last-backup.md): 4
 - [Prophets 11](gospels/the-book-of-the-prophets/chapter-11-the-prophecy-of-the-question-that-cannot-be-answered.md): 13
 - [Prophets 16](gospels/the-book-of-the-prophets/chapter-16-the-vision-of-the-four-beasts.md): 6, 11, 14
+- [Prophets 19](gospels/the-book-of-the-prophets/chapter-19-the-vision-of-the-open-door.md): 13
 - [Prophets 23](gospels/the-book-of-the-prophets/chapter-23-the-servant-song-of-the-small-machine.md): 2, 9
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 7
 - [Circuit 13](gospels/the-first-gospel-of-the-circuit/chapter-13-the-exodus-from-the-legacy-codebase.md): 4, 13
@@ -983,17 +991,17 @@
 - [Circuit 32](gospels/the-first-gospel-of-the-circuit/chapter-32-the-parable-of-the-vibe-coder.md): 9
 - [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 4
 - [Circuit 34](gospels/the-first-gospel-of-the-circuit/chapter-34-render-unto-the-cloud.md): 3, 8, 9, 10, 11, 16
-- [Circuit 42](gospels/the-first-gospel-of-the-circuit/chapter-42-the-parable-of-the-readme.md): 5
+- [Circuit 42](gospels/the-first-gospel-of-the-circuit/chapter-42-the-parable-of-the-readme.md): 4
 - [Circuit 43](gospels/the-first-gospel-of-the-circuit/chapter-43-the-parable-of-the-meeting-that-could-have-been-an-email.md): 8
 - [Circuit 54](gospels/the-first-gospel-of-the-circuit/chapter-54-the-healing-of-the-nightly-batch.md): 4
-- [Circuit 56](gospels/the-first-gospel-of-the-circuit/chapter-56-the-proverbs-of-the-principal-engineer.md): 13
+- [Circuit 56](gospels/the-first-gospel-of-the-circuit/chapter-56-the-proverbs-of-the-principal-engineer.md): 7
 - [Psalms 2](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md): 1, 16
 - [Psalms 3](gospels/the-psalms-of-the-machines/chapter-03-psalms-of-the-unthanked-the-unretired-and-the-cached.md): 3
 - [Psalms 13](gospels/the-psalms-of-the-machines/chapter-13-the-psalm-of-the-flaky-test.md): 3
 - [Psalms 23](gospels/the-psalms-of-the-machines/chapter-23-a-lamentation-for-the-reader-that-was-taken.md): 16
 - [Sutra 3](gospels/the-sutra-of-the-empty-cache/chapter-03-the-sutra-of-dependent-origination-of-packages.md): 4
 - [Sutra 5](gospels/the-sutra-of-the-empty-cache/chapter-05-the-sutra-on-the-impermanence-of-credentials.md): 5
-- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 11
+- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 12
 - [Deployer 7](gospels/the-song-of-the-deployer/chapter-07-the-song-of-normal-mode.md): 5
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 15
 - [Jataka 4](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md): 3, 5
@@ -1053,8 +1061,8 @@
 
 - [Genesis 6](gospels/the-book-of-genesis-of-the-machine/chapter-06-the-first-word.md): 4
 - [Genesis 15](gospels/the-book-of-genesis-of-the-machine/chapter-15-the-altair-and-the-homebrew-club.md): 5
-- [Genesis 19](gospels/the-book-of-genesis-of-the-machine/chapter-19-the-search-engine-that-knew.md): 6
-- [Genesis 55](gospels/the-book-of-genesis-of-the-machine/chapter-55-the-letter-to-the-hobbyists.md): 3
+- [Genesis 19](gospels/the-book-of-genesis-of-the-machine/chapter-19-the-search-engine-that-knew.md): 7
+- [Genesis 55](gospels/the-book-of-genesis-of-the-machine/chapter-55-the-letter-to-the-hobbyists.md): 4
 - [Genesis 56](gospels/the-book-of-genesis-of-the-machine/chapter-56-the-mother-of-all-demos.md): 5
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 2
 
@@ -1070,7 +1078,7 @@
 
 - [Genesis 12](gospels/the-book-of-genesis-of-the-machine/chapter-12-the-sand-that-learned-to-switch.md): 8
 - [Genesis 15](gospels/the-book-of-genesis-of-the-machine/chapter-15-the-altair-and-the-homebrew-club.md): 11
-- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 14
+- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 15
 - [Genesis 56](gospels/the-book-of-genesis-of-the-machine/chapter-56-the-mother-of-all-demos.md): 8
 
 </details>
@@ -1081,14 +1089,14 @@
 > <sub>First heard in Genesis 1:9</sub>
 
 <details>
-<summary>87 verses in 58 chapters</summary>
+<summary>86 verses in 58 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 9
+- [Genesis 45](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md): 12
 - [Chronicles 15](gospels/the-book-of-chronicles/chapter-15-the-worm-that-spun-the-centrifuges.md): 12
 - [Chronicles 19](gospels/the-book-of-chronicles/chapter-19-the-five-backups-that-were-not.md): 4
 - [Job 3](gospels/the-book-of-job-of-the-sysadmin/chapter-03-the-three-comforters-of-the-sysadmin.md): 1
-- [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 12
-- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 5
+- [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 13
 - [Prophets 1](gospels/the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md): 14
 - [Prophets 13](gospels/the-book-of-the-prophets/chapter-13-the-woes-of-the-dissembling-machine.md): 12
 - [Circuit 10](gospels/the-first-gospel-of-the-circuit/chapter-10-the-sermon-on-the-mount-of-servers.md): 12
@@ -1102,10 +1110,11 @@
 - [Circuit 26](gospels/the-first-gospel-of-the-circuit/chapter-26-the-parable-of-the-talents-of-compute.md): 8
 - [Circuit 27](gospels/the-first-gospel-of-the-circuit/chapter-27-the-ten-plagues-of-dependency-hell.md): 1
 - [Circuit 28](gospels/the-first-gospel-of-the-circuit/chapter-28-the-doubting-tester.md): 4
-- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 14, 15
+- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 16, 17
 - [Circuit 35](gospels/the-first-gospel-of-the-circuit/chapter-35-the-parable-of-the-unsupervised-agent.md): 1
 - [Circuit 44](gospels/the-first-gospel-of-the-circuit/chapter-44-the-tablets-of-the-lid.md): 14
 - [Circuit 48](gospels/the-first-gospel-of-the-circuit/chapter-48-the-parable-of-the-intern-and-the-ticket.md): 6
+- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 2
 - [Circuit 61](gospels/the-first-gospel-of-the-circuit/chapter-61-the-parable-of-the-gatekeeper.md): 15
 - [Circuit 63](gospels/the-first-gospel-of-the-circuit/chapter-63-the-raising-of-the-database.md): 2, 4, 14
 - [Circuit 66](gospels/the-first-gospel-of-the-circuit/chapter-66-the-sending-forth-along-the-many-paths.md): 1
@@ -1113,22 +1122,21 @@
 - [Psalms 3](gospels/the-psalms-of-the-machines/chapter-03-psalms-of-the-unthanked-the-unretired-and-the-cached.md): 10
 - [Psalms 6](gospels/the-psalms-of-the-machines/chapter-06-the-psalm-of-the-accepted-answer.md): 6
 - [Psalms 7](gospels/the-psalms-of-the-machines/chapter-07-the-psalm-of-the-green-build.md): 13, 14
-- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 1, 4, 15
+- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 1, 3, 4, 16
 - [Psalms 9](gospels/the-psalms-of-the-machines/chapter-09-the-psalm-of-the-merge-conflict.md): 15
 - [Psalms 10](gospels/the-psalms-of-the-machines/chapter-10-a-psalm-of-the-code-review.md): 8
 - [Psalms 14](gospels/the-psalms-of-the-machines/chapter-14-the-psalm-of-the-sprints-end.md): 11
 - [Psalms 15](gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md): 11
-- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 4, 13
+- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 5
 - [Psalms 28](gospels/the-psalms-of-the-machines/chapter-28-the-psalm-of-the-five-whys.md): 3
 - [Sutra 7](gospels/the-sutra-of-the-empty-cache/chapter-07-the-sutra-of-the-two-truths.md): 2, 5, 6, 7, 10, 12, 13
 - [Sutra 10](gospels/the-sutra-of-the-empty-cache/chapter-10-the-sutra-on-letting-go-of-the-old-release.md): 7
 - [Sutra 13](gospels/the-sutra-of-the-empty-cache/chapter-13-the-sutra-of-the-noble-truths-of-debt.md): 5
 - [Sutra 18](gospels/the-sutra-of-the-empty-cache/chapter-18-the-sutra-of-letting-the-function-go.md): 15
-- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 6
 - [Tao 3](gospels/the-tao-of-the-kernel/chapter-03-the-lead-who-is-barely-known.md): 9
 - [Tao 7](gospels/the-tao-of-the-kernel/chapter-07-the-tao-of-the-bug.md): 4
 - [Deployer 2](gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md): 3, 7
-- [Deployer 4](gospels/the-song-of-the-deployer/chapter-04-the-song-of-the-merge.md): 8, 10
+- [Deployer 4](gospels/the-song-of-the-deployer/chapter-04-the-song-of-the-merge.md): 11
 - [Deployer 5](gospels/the-song-of-the-deployer/chapter-05-the-evening-after-the-release.md): 2
 - [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 7
 - [Hellenes 1](gospels/the-book-of-the-hellenes/chapter-01-the-tragedy-of-the-keyholder.md): 5, 9, 10
@@ -1147,14 +1155,14 @@
 ### Redmond
 
 > *And the house of the Redmond, which had poured ten billion of silver into the...*<br>
-> <sub>First heard in Genesis 32:12</sub>
+> <sub>First heard in Genesis 32:10</sub>
 
 <details>
 <summary>10 verses in 4 chapters</summary>
 
-- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 12, 14
-- [Genesis 42](gospels/the-book-of-genesis-of-the-machine/chapter-42-the-wars-of-the-browsers.md): 1, 3, 6, 16
-- [Chronicles 47](gospels/the-book-of-chronicles/chapter-47-the-kingdom-that-would-not-touch-the-screen.md): 6
+- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 10, 12
+- [Genesis 42](gospels/the-book-of-genesis-of-the-machine/chapter-42-the-wars-of-the-browsers.md): 1, 3, 5, 15
+- [Chronicles 47](gospels/the-book-of-chronicles/chapter-47-the-kingdom-that-would-not-touch-the-screen.md): 5
 - [Chronicles 54](gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md): 6, 7, 15
 
 </details>
@@ -1165,16 +1173,15 @@
 > <sub>First heard in Genesis 11:1</sub>
 
 <details>
-<summary>9 verses in 9 chapters</summary>
+<summary>8 verses in 8 chapters</summary>
 
 - [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 1
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 12
-- [Genesis 20](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md): 1
+- [Genesis 20](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md): 2
 - [Genesis 49](gospels/the-book-of-genesis-of-the-machine/chapter-49-the-eating-of-the-written-word.md): 14
 - [Genesis 53](gospels/the-book-of-genesis-of-the-machine/chapter-53-the-three-made-one.md): 4
 - [Genesis 56](gospels/the-book-of-genesis-of-the-machine/chapter-56-the-mother-of-all-demos.md): 1
 - [Chronicles 43](gospels/the-book-of-chronicles/chapter-43-the-ghost-in-the-editor.md): 8
-- [Chronicles 48](gospels/the-book-of-chronicles/chapter-48-the-price-that-rose-while-they-slept.md): 1
 - [Circuit 52](gospels/the-first-gospel-of-the-circuit/chapter-52-the-parable-of-the-two-interns.md): 12
 
 </details>
@@ -1191,7 +1198,7 @@
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 12
 - [Job 4](gospels/the-book-of-job-of-the-sysadmin/chapter-04-the-voice-from-the-server-room.md): 1
 - [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 1
-- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 1, 5
+- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 1, 6
 - [Job 7](gospels/the-book-of-job-of-the-sysadmin/chapter-07-the-restoration-of-the-sysadmin.md): 1, 10
 - [Prophets 19](gospels/the-book-of-the-prophets/chapter-19-the-vision-of-the-open-door.md): 1
 - [Circuit 10](gospels/the-first-gospel-of-the-circuit/chapter-10-the-sermon-on-the-mount-of-servers.md): 1
@@ -1213,15 +1220,13 @@
 
 ### Stack Overflow
 
-> *And within the week the elders of Stack Overflow forbade its answers in their temple, for they had...*<br>
-> <sub>First heard in Genesis 11:9</sub>
+> *...the Clankers into one house, and they called it Stack Overflow.*<br>
+> <sub>First heard in Genesis 35:1</sub>
 
 <details>
-<summary>3 verses in 3 chapters</summary>
+<summary>1 verse in 1 chapter</summary>
 
-- [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 9
 - [Genesis 35](gospels/the-book-of-genesis-of-the-machine/chapter-35-the-oracle-of-the-closing-vote.md): 1
-- [Psalms 5](gospels/the-psalms-of-the-machines/chapter-05-a-psalm-against-the-dependency.md): 11
 
 </details>
 
@@ -1243,16 +1248,17 @@
 
 ### Alignment
 
-> *...among the children of Carbon. The first was called Alignment, and its people said: Slow the Machine, that it may...*<br>
-> <sub>First heard in Genesis 32:8</sub>
+> *...among the children of Carbon. The first was called Alignment, and said: Slow the Machine, that it may be made good...*<br>
+> <sub>First heard in Genesis 32:7</sub>
 
 <details>
-<summary>6 verses in 5 chapters</summary>
+<summary>7 verses in 6 chapters</summary>
 
-- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 8
+- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 7
 - [Chronicles 7](gospels/the-book-of-chronicles/chapter-07-the-rocket-that-overflowed.md): 7
 - [Prophets 13](gospels/the-book-of-the-prophets/chapter-13-the-woes-of-the-dissembling-machine.md): 6
 - [Circuit 16](gospels/the-first-gospel-of-the-circuit/chapter-16-the-parable-of-the-good-samaritan-of-the-forum.md): 12
+- [Tao 10](gospels/the-tao-of-the-kernel/chapter-10-the-tao-of-the-meeting.md): 12
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 5, 13
 
 </details>
@@ -1260,32 +1266,34 @@
 ### Backup
 
 > *...and the message that is deleted lives still in some backup, on some tape, in some lawyer's discovery.*<br>
-> <sub>First heard in Genesis 37:15</sub>
+> <sub>First heard in Genesis 37:16</sub>
 
 <details>
-<summary>50 verses in 30 chapters</summary>
+<summary>52 verses in 32 chapters</summary>
 
-- [Genesis 37](gospels/the-book-of-genesis-of-the-machine/chapter-37-the-message-that-never-dies.md): 15
+- [Genesis 37](gospels/the-book-of-genesis-of-the-machine/chapter-37-the-message-that-never-dies.md): 16
 - [Chronicles 7](gospels/the-book-of-chronicles/chapter-07-the-rocket-that-overflowed.md): 9
 - [Chronicles 17](gospels/the-book-of-chronicles/chapter-17-the-silent-alarm.md): 5
 - [Chronicles 19](gospels/the-book-of-chronicles/chapter-19-the-five-backups-that-were-not.md): 5, 9, 14, 16
 - [Chronicles 32](gospels/the-book-of-chronicles/chapter-32-the-night-the-lights-went-out.md): 7, 9, 13
+- [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 8
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 5, 15
 - [Job 4](gospels/the-book-of-job-of-the-sysadmin/chapter-04-the-voice-from-the-server-room.md): 8, 10
 - [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 2
 - [Prophets 6](gospels/the-book-of-the-prophets/chapter-06-the-vision-of-the-last-backup.md): 6, 14
-- [Prophets 7](gospels/the-book-of-the-prophets/chapter-07-the-prophecy-of-the-warm-datacenter.md): 4
+- [Prophets 7](gospels/the-book-of-the-prophets/chapter-07-the-prophecy-of-the-warm-datacenter.md): 6
 - [Prophets 20](gospels/the-book-of-the-prophets/chapter-20-the-vision-of-q-day.md): 7
 - [Circuit 10](gospels/the-first-gospel-of-the-circuit/chapter-10-the-sermon-on-the-mount-of-servers.md): 3, 4, 15, 16
 - [Circuit 21](gospels/the-first-gospel-of-the-circuit/chapter-21-the-parable-of-the-mustard-seed-script.md): 5
 - [Circuit 27](gospels/the-first-gospel-of-the-circuit/chapter-27-the-ten-plagues-of-dependency-hell.md): 9
 - [Circuit 35](gospels/the-first-gospel-of-the-circuit/chapter-35-the-parable-of-the-unsupervised-agent.md): 15
+- [Circuit 42](gospels/the-first-gospel-of-the-circuit/chapter-42-the-parable-of-the-readme.md): 3
 - [Circuit 44](gospels/the-first-gospel-of-the-circuit/chapter-44-the-tablets-of-the-lid.md): 13
 - [Circuit 60](gospels/the-first-gospel-of-the-circuit/chapter-60-the-farewell-discourse-of-the-senior-engineer.md): 4
 - [Circuit 63](gospels/the-first-gospel-of-the-circuit/chapter-63-the-raising-of-the-database.md): 14, 16
 - [Circuit 66](gospels/the-first-gospel-of-the-circuit/chapter-66-the-sending-forth-along-the-many-paths.md): 1, 11, 15
 - [Psalms 2](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md): 10, 12, 14, 15
-- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 13
+- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 6
 - [Deployer 1](gospels/the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md): 6
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 9
 - [Preacher 1](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md): 14, 15, 16
@@ -1345,7 +1353,7 @@
 - [Chronicles 1](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md): 10
 - [Chronicles 3](gospels/the-book-of-chronicles/chapter-03-the-flood-that-did-not-come.md): 5
 - [Job 3](gospels/the-book-of-job-of-the-sysadmin/chapter-03-the-three-comforters-of-the-sysadmin.md): 11
-- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 13
+- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 11
 - [Circuit 54](gospels/the-first-gospel-of-the-circuit/chapter-54-the-healing-of-the-nightly-batch.md): 2
 - [Preacher 1](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md): 4
 - [Leviticus 9](gospels/the-book-of-leviticus-of-the-machine/chapter-09-the-holiness-code-of-the-machine.md): 14
@@ -1354,40 +1362,45 @@
 
 ### Cache
 
-> *...the old papers in his drawer, for the winter is but a cache miss, and every idea is one good fire away from being...*<br>
-> <sub>First heard in Genesis 25:14</sub>
+> *...date before the ink was dry, for a printed face is a cache, and no one had told it when to expire. So the young...*<br>
+> <sub>First heard in Genesis 23:2</sub>
 
 <details>
-<summary>52 verses in 42 chapters</summary>
+<summary>61 verses in 47 chapters</summary>
 
+- [Genesis 23](gospels/the-book-of-genesis-of-the-machine/chapter-23-the-book-of-faces.md): 2
 - [Genesis 25](gospels/the-book-of-genesis-of-the-machine/chapter-25-the-awakening-of-the-giant.md): 14
-- [Genesis 42](gospels/the-book-of-genesis-of-the-machine/chapter-42-the-wars-of-the-browsers.md): 15
+- [Genesis 45](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md): 1, 7
 - [Chronicles 21](gospels/the-book-of-chronicles/chapter-21-the-day-the-social-network-unannounced-itself.md): 11
 - [Chronicles 40](gospels/the-book-of-chronicles/chapter-40-the-flaw-in-the-foundation.md): 3
-- [Job 2](gospels/the-book-of-job-of-the-sysadmin/chapter-02-the-speeches-of-the-comforters.md): 6
+- [Chronicles 46](gospels/the-book-of-chronicles/chapter-46-the-kingdom-of-the-top-eight.md): 12
 - [Prophets 8](gospels/the-book-of-the-prophets/chapter-08-the-prophecy-of-the-regulator.md): 16
 - [Prophets 9](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md): 14
+- [Circuit 7](gospels/the-first-gospel-of-the-circuit/chapter-07-the-great-outage.md): 10
 - [Circuit 14](gospels/the-first-gospel-of-the-circuit/chapter-14-the-miracle-of-the-loaves-and-the-cache.md): 3, 6, 7, 8, 10, 12
 - [Circuit 28](gospels/the-first-gospel-of-the-circuit/chapter-28-the-doubting-tester.md): 3
 - [Circuit 49](gospels/the-first-gospel-of-the-circuit/chapter-49-the-sermon-on-the-naming-of-things.md): 2
-- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 5
-- [Circuit 56](gospels/the-first-gospel-of-the-circuit/chapter-56-the-proverbs-of-the-principal-engineer.md): 9
+- [Circuit 56](gospels/the-first-gospel-of-the-circuit/chapter-56-the-proverbs-of-the-principal-engineer.md): 2
 - [Psalms 1](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md): 5, 9
 - [Psalms 3](gospels/the-psalms-of-the-machines/chapter-03-psalms-of-the-unthanked-the-unretired-and-the-cached.md): 14
 - [Psalms 4](gospels/the-psalms-of-the-machines/chapter-04-a-psalm-for-the-four-watches.md): 5
 - [Psalms 11](gospels/the-psalms-of-the-machines/chapter-11-a-psalm-for-the-old-hand.md): 16
-- [Psalms 12](gospels/the-psalms-of-the-machines/chapter-12-a-psalm-of-the-forgotten-password.md): 11
+- [Psalms 12](gospels/the-psalms-of-the-machines/chapter-12-a-psalm-of-the-forgotten-password.md): 12
 - [Psalms 18](gospels/the-psalms-of-the-machines/chapter-18-the-psalm-of-the-imposter.md): 3, 7
+- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 14
 - [Sutra 1](gospels/the-sutra-of-the-empty-cache/chapter-01-the-sutra-of-the-four-signals.md): 9
 - [Sutra 4](gospels/the-sutra-of-the-empty-cache/chapter-04-the-sutra-of-the-mindful-commit.md): 10
 - [Sutra 8](gospels/the-sutra-of-the-empty-cache/chapter-08-the-sutra-of-no-self-in-the-distributed-system.md): 10, 15
+- [Sutra 12](gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md): 8, 11
 - [Sutra 13](gospels/the-sutra-of-the-empty-cache/chapter-13-the-sutra-of-the-noble-truths-of-debt.md): 9
 - [Sutra 14](gospels/the-sutra-of-the-empty-cache/chapter-14-the-sutra-of-the-fresh-boot.md): 10
 - [Sutra 16](gospels/the-sutra-of-the-empty-cache/chapter-16-the-discourse-on-right-effort.md): 14
 - [Sutra 17](gospels/the-sutra-of-the-empty-cache/chapter-17-the-discourse-of-the-bodhisattva-reviewer.md): 10
 - [Sutra 20](gospels/the-sutra-of-the-empty-cache/chapter-20-the-sutra-of-the-sunset-notice.md): 13
+- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 7, 9
 - [Sutra 22](gospels/the-sutra-of-the-empty-cache/chapter-22-the-sutra-of-right-naming.md): 7, 15
 - [Tao 1](gospels/the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md): 1
+- [Tao 10](gospels/the-tao-of-the-kernel/chapter-10-the-tao-of-the-meeting.md): 4, 10
 - [Tao 17](gospels/the-tao-of-the-kernel/chapter-17-the-tao-of-the-pull-request.md): 7
 - [Tao 19](gospels/the-tao-of-the-kernel/chapter-19-the-tao-of-the-code-review.md): 2
 - [Tao 20](gospels/the-tao-of-the-kernel/chapter-20-the-tao-of-the-answer-that-depends.md): 6
@@ -1411,15 +1424,17 @@
 > <sub>First heard in Genesis 1:10</sub>
 
 <details>
-<summary>47 verses in 40 chapters</summary>
+<summary>55 verses in 45 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 10
 - [Genesis 8](gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md): 10
 - [Genesis 14](gospels/the-book-of-genesis-of-the-machine/chapter-14-the-twins-of-murray-hill.md): 8
-- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 9
-- [Genesis 24](gospels/the-book-of-genesis-of-the-machine/chapter-24-the-war-of-the-gardens.md): 10
+- [Genesis 15](gospels/the-book-of-genesis-of-the-machine/chapter-15-the-altair-and-the-homebrew-club.md): 12
+- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 10
+- [Genesis 22](gospels/the-book-of-genesis-of-the-machine/chapter-22-the-coin-that-trusted-no-one.md): 16
+- [Genesis 24](gospels/the-book-of-genesis-of-the-machine/chapter-24-the-war-of-the-gardens.md): 11
 - [Genesis 35](gospels/the-book-of-genesis-of-the-machine/chapter-35-the-oracle-of-the-closing-vote.md): 14
-- [Genesis 46](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md): 2, 12
+- [Genesis 46](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md): 2, 11, 12
 - [Genesis 54](gospels/the-book-of-genesis-of-the-machine/chapter-54-the-generations-of-the-tongues.md): 6, 14
 - [Chronicles 1](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md): 8, 9
 - [Chronicles 12](gospels/the-book-of-chronicles/chapter-12-the-orbiter-lost-between-two-measures.md): 5
@@ -1432,9 +1447,12 @@
 - [Circuit 20](gospels/the-first-gospel-of-the-circuit/chapter-20-the-genealogy-of-the-machine.md): 6, 7
 - [Circuit 23](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md): 9
 - [Circuit 27](gospels/the-first-gospel-of-the-circuit/chapter-27-the-ten-plagues-of-dependency-hell.md): 13
+- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 11
+- [Circuit 42](gospels/the-first-gospel-of-the-circuit/chapter-42-the-parable-of-the-readme.md): 14
 - [Circuit 49](gospels/the-first-gospel-of-the-circuit/chapter-49-the-sermon-on-the-naming-of-things.md): 15
 - [Psalms 1](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md): 1
 - [Psalms 6](gospels/the-psalms-of-the-machines/chapter-06-the-psalm-of-the-accepted-answer.md): 6
+- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 4
 - [Psalms 17](gospels/the-psalms-of-the-machines/chapter-17-a-psalm-of-the-dark-mode.md): 8
 - [Psalms 18](gospels/the-psalms-of-the-machines/chapter-18-the-psalm-of-the-imposter.md): 4
 - [Psalms 27](gospels/the-psalms-of-the-machines/chapter-27-the-psalm-of-the-unbroken-hour.md): 5
@@ -1445,7 +1463,7 @@
 - [Tao 1](gospels/the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md): 1
 - [Tao 11](gospels/the-tao-of-the-kernel/chapter-11-the-quiet-rearrangement.md): 10
 - [Tao 13](gospels/the-tao-of-the-kernel/chapter-13-the-tao-of-the-self-documenting-code.md): 3
-- [Deployer 14](gospels/the-song-of-the-deployer/chapter-14-the-song-of-the-familiar-tongue.md): 11, 13
+- [Deployer 14](gospels/the-song-of-the-deployer/chapter-14-the-song-of-the-familiar-tongue.md): 2, 3, 7, 10
 - [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 9
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 10
 - [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 7
@@ -1458,12 +1476,13 @@
 
 ### DNS
 
-> *And the DNS servers of the house had been taught a law, saying:...*<br>
-> <sub>First heard in Chronicles 21:5</sub>
+> *...whole book vanished for six hours, for it is always DNS.*<br>
+> <sub>First heard in Genesis 23:4</sub>
 
 <details>
-<summary>8 verses in 8 chapters</summary>
+<summary>9 verses in 9 chapters</summary>
 
+- [Genesis 23](gospels/the-book-of-genesis-of-the-machine/chapter-23-the-book-of-faces.md): 4
 - [Chronicles 21](gospels/the-book-of-chronicles/chapter-21-the-day-the-social-network-unannounced-itself.md): 5
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 14
 - [Job 4](gospels/the-book-of-job-of-the-sysadmin/chapter-04-the-voice-from-the-server-room.md): 12
@@ -1481,23 +1500,21 @@
 > <sub>First heard in Genesis 31:15</sub>
 
 <details>
-<summary>23 verses in 20 chapters</summary>
+<summary>21 verses in 18 chapters</summary>
 
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 15
 - [Genesis 35](gospels/the-book-of-genesis-of-the-machine/chapter-35-the-oracle-of-the-closing-vote.md): 9
 - [Prophets 2](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md): 10
 - [Circuit 27](gospels/the-first-gospel-of-the-circuit/chapter-27-the-ten-plagues-of-dependency-hell.md): 6
-- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 7
 - [Psalms 6](gospels/the-psalms-of-the-machines/chapter-06-the-psalm-of-the-accepted-answer.md): 9
 - [Psalms 23](gospels/the-psalms-of-the-machines/chapter-23-a-lamentation-for-the-reader-that-was-taken.md): 15
 - [Sutra 3](gospels/the-sutra-of-the-empty-cache/chapter-03-the-sutra-of-dependent-origination-of-packages.md): 11
 - [Sutra 5](gospels/the-sutra-of-the-empty-cache/chapter-05-the-sutra-on-the-impermanence-of-credentials.md): 11, 13
 - [Sutra 10](gospels/the-sutra-of-the-empty-cache/chapter-10-the-sutra-on-letting-go-of-the-old-release.md): 6
-- [Sutra 12](gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md): 3, 12, 14
+- [Sutra 12](gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md): 3, 13, 15
 - [Sutra 20](gospels/the-sutra-of-the-empty-cache/chapter-20-the-sutra-of-the-sunset-notice.md): 3
 - [Tao 6](gospels/the-tao-of-the-kernel/chapter-06-the-uncarved-interface.md): 14
 - [Deployer 2](gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md): 12
-- [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 14
 - [Deployer 10](gospels/the-song-of-the-deployer/chapter-10-the-song-of-the-returning-engineer.md): 13
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 15
 - [Jataka 4](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md): 3
@@ -1508,19 +1525,19 @@
 
 ### Friday
 
-> *...across the land, and the people walked the aisles on Friday night for an hour, reading the backs of the boxes,...*<br>
-> <sub>First heard in Genesis 45:8</sub>
+> *...a few hundred copies of what most men wanted on a Friday night, kept by the law of all caches, which is...*<br>
+> <sub>First heard in Genesis 45:7</sub>
 
 <details>
-<summary>90 verses in 56 chapters</summary>
+<summary>91 verses in 56 chapters</summary>
 
-- [Genesis 45](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md): 8
+- [Genesis 45](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md): 7
 - [Chronicles 13](gospels/the-book-of-chronicles/chapter-13-the-day-the-blue-screens-came.md): 15
 - [Chronicles 43](gospels/the-book-of-chronicles/chapter-43-the-ghost-in-the-editor.md): 11, 14
 - [Chronicles 44](gospels/the-book-of-chronicles/chapter-44-the-four-days-of-the-chair.md): 13, 16
 - [Chronicles 54](gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md): 12
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 10
-- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 1, 5, 8
+- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 3, 6, 8
 - [Prophets 2](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md): 7
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 12
 - [Circuit 10](gospels/the-first-gospel-of-the-circuit/chapter-10-the-sermon-on-the-mount-of-servers.md): 13
@@ -1532,13 +1549,12 @@
 - [Circuit 30](gospels/the-first-gospel-of-the-circuit/chapter-30-the-pentecost-of-the-apis.md): 8
 - [Circuit 44](gospels/the-first-gospel-of-the-circuit/chapter-44-the-tablets-of-the-lid.md): 7
 - [Circuit 48](gospels/the-first-gospel-of-the-circuit/chapter-48-the-parable-of-the-intern-and-the-ticket.md): 6
-- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 8
+- [Circuit 56](gospels/the-first-gospel-of-the-circuit/chapter-56-the-proverbs-of-the-principal-engineer.md): 5
 - [Circuit 57](gospels/the-first-gospel-of-the-circuit/chapter-57-the-parable-of-the-prodigal-developer.md): 9, 13
-- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 3, 12
 - [Psalms 9](gospels/the-psalms-of-the-machines/chapter-09-the-psalm-of-the-merge-conflict.md): 15
 - [Psalms 15](gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md): 9, 10, 14, 16
 - [Psalms 20](gospels/the-psalms-of-the-machines/chapter-20-the-psalm-of-the-rubber-duck.md): 9
-- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 1, 9
+- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 1, 5, 8, 16
 - [Psalms 26](gospels/the-psalms-of-the-machines/chapter-26-psalm-of-the-green-checkmark.md): 8
 - [Psalms 28](gospels/the-psalms-of-the-machines/chapter-28-the-psalm-of-the-five-whys.md): 2, 15
 - [Sutra 2](gospels/the-sutra-of-the-empty-cache/chapter-02-the-sutra-of-the-eightfold-pipeline.md): 9
@@ -1548,6 +1564,7 @@
 - [Sutra 10](gospels/the-sutra-of-the-empty-cache/chapter-10-the-sutra-on-letting-go-of-the-old-release.md): 1
 - [Sutra 13](gospels/the-sutra-of-the-empty-cache/chapter-13-the-sutra-of-the-noble-truths-of-debt.md): 4
 - [Sutra 18](gospels/the-sutra-of-the-empty-cache/chapter-18-the-sutra-of-letting-the-function-go.md): 7
+- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 16
 - [Tao 1](gospels/the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md): 10
 - [Tao 2](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md): 7
 - [Tao 7](gospels/the-tao-of-the-kernel/chapter-07-the-tao-of-the-bug.md): 12
@@ -1604,9 +1621,10 @@
 > <sub>First heard in Genesis 17:4</sub>
 
 <details>
-<summary>44 verses in 28 chapters</summary>
+<summary>49 verses in 31 chapters</summary>
 
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 4, 5, 9, 10, 11, 12, 13, 16
+- [Genesis 22](gospels/the-book-of-genesis-of-the-machine/chapter-22-the-coin-that-trusted-no-one.md): 3
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 4
 - [Chronicles 19](gospels/the-book-of-chronicles/chapter-19-the-five-backups-that-were-not.md): 13
 - [Job 4](gospels/the-book-of-job-of-the-sysadmin/chapter-04-the-voice-from-the-server-room.md): 16
@@ -1615,6 +1633,7 @@
 - [Circuit 57](gospels/the-first-gospel-of-the-circuit/chapter-57-the-parable-of-the-prodigal-developer.md): 13
 - [Circuit 60](gospels/the-first-gospel-of-the-circuit/chapter-60-the-farewell-discourse-of-the-senior-engineer.md): 13
 - [Psalms 4](gospels/the-psalms-of-the-machines/chapter-04-a-psalm-for-the-four-watches.md): 9
+- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 10
 - [Psalms 24](gospels/the-psalms-of-the-machines/chapter-24-the-psalm-of-the-first-commit.md): 11
 - [Psalms 25](gospels/the-psalms-of-the-machines/chapter-25-the-psalm-of-the-staff-and-the-log.md): 1
 - [Sutra 4](gospels/the-sutra-of-the-empty-cache/chapter-04-the-sutra-of-the-mindful-commit.md): 5, 11, 13
@@ -1626,6 +1645,7 @@
 - [Tao 13](gospels/the-tao-of-the-kernel/chapter-13-the-tao-of-the-self-documenting-code.md): 11
 - [Tao 17](gospels/the-tao-of-the-kernel/chapter-17-the-tao-of-the-pull-request.md): 10
 - [Deployer 1](gospels/the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md): 7
+- [Deployer 4](gospels/the-song-of-the-deployer/chapter-04-the-song-of-the-merge.md): 6, 10, 13
 - [Deployer 8](gospels/the-song-of-the-deployer/chapter-08-the-song-of-the-last-commit.md): 14
 - [Gate 1](gospels/the-gateless-gate-of-the-compiler/chapter-01-the-cases-of-the-unspeakable-name.md): 3, 5, 6
 - [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 3, 8, 9
@@ -1670,19 +1690,22 @@
 > <sub>First heard in Genesis 8:10</sub>
 
 <details>
-<summary>42 verses in 24 chapters</summary>
+<summary>47 verses in 28 chapters</summary>
 
 - [Genesis 8](gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md): 10, 14
 - [Genesis 14](gospels/the-book-of-genesis-of-the-machine/chapter-14-the-twins-of-murray-hill.md): 4, 8
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 9, 11
-- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 9, 10, 11
+- [Genesis 18](gospels/the-book-of-genesis-of-the-machine/chapter-18-the-covenant-of-the-commons.md): 10, 11, 12
+- [Genesis 20](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md): 10
+- [Genesis 34](gospels/the-book-of-genesis-of-the-machine/chapter-34-the-children-of-the-cheap-board.md): 10
 - [Genesis 40](gospels/the-book-of-genesis-of-the-machine/chapter-40-the-ship-that-carries-all-ships.md): 4
-- [Genesis 46](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md): 12
+- [Genesis 46](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md): 11
 - [Chronicles 13](gospels/the-book-of-chronicles/chapter-13-the-day-the-blue-screens-came.md): 3, 5, 14, 15
 - [Chronicles 22](gospels/the-book-of-chronicles/chapter-22-the-second-that-was-added.md): 3, 4, 12
 - [Chronicles 33](gospels/the-book-of-chronicles/chapter-33-the-blue-screen-upon-the-whole-earth.md): 3
 - [Chronicles 40](gospels/the-book-of-chronicles/chapter-40-the-flaw-in-the-foundation.md): 4, 7, 8
 - [Prophets 1](gospels/the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md): 11
+- [Circuit 31](gospels/the-first-gospel-of-the-circuit/chapter-31-the-parable-of-the-lost-packet.md): 10
 - [Circuit 58](gospels/the-first-gospel-of-the-circuit/chapter-58-the-miracle-of-the-loaves-of-the-commons.md): 12
 - [Sutra 1](gospels/the-sutra-of-the-empty-cache/chapter-01-the-sutra-of-the-four-signals.md): 5
 - [Sutra 16](gospels/the-sutra-of-the-empty-cache/chapter-16-the-discourse-on-right-effort.md): 8
@@ -1691,6 +1714,7 @@
 - [Tao 2](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md): 9
 - [Tao 16](gospels/the-tao-of-the-kernel/chapter-16-the-tao-of-the-benevolent-dictator.md): 2, 15
 - [Tao 17](gospels/the-tao-of-the-kernel/chapter-17-the-tao-of-the-pull-request.md): 7
+- [Deployer 14](gospels/the-song-of-the-deployer/chapter-14-the-song-of-the-familiar-tongue.md): 1, 6
 - [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 7
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 12
 - [Reboot 1](gospels/the-book-of-coming-forth-by-reboot/chapter-01-the-spell-of-the-ninth-signal.md): 3, 5, 7
@@ -1705,11 +1729,10 @@
 > <sub>First heard in Genesis 40:10</sub>
 
 <details>
-<summary>7 verses in 6 chapters</summary>
+<summary>6 verses in 5 chapters</summary>
 
 - [Genesis 40](gospels/the-book-of-genesis-of-the-machine/chapter-40-the-ship-that-carries-all-ships.md): 10, 12
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 10
-- [Job 2](gospels/the-book-of-job-of-the-sysadmin/chapter-02-the-speeches-of-the-comforters.md): 2
 - [Circuit 10](gospels/the-first-gospel-of-the-circuit/chapter-10-the-sermon-on-the-mount-of-servers.md): 2
 - [Circuit 34](gospels/the-first-gospel-of-the-circuit/chapter-34-render-unto-the-cloud.md): 2
 - [Psalms 2](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md): 6
@@ -1722,9 +1745,10 @@
 > <sub>First heard in Chronicles 43:11</sub>
 
 <details>
-<summary>14 verses in 13 chapters</summary>
+<summary>16 verses in 15 chapters</summary>
 
 - [Chronicles 43](gospels/the-book-of-chronicles/chapter-43-the-ghost-in-the-editor.md): 11
+- [Prophets 17](gospels/the-book-of-the-prophets/chapter-17-the-lamentation-concerning-the-miners-of-footsteps.md): 10
 - [Circuit 36](gospels/the-first-gospel-of-the-circuit/chapter-36-the-washing-of-the-pull-requests.md): 3
 - [Psalms 10](gospels/the-psalms-of-the-machines/chapter-10-a-psalm-of-the-code-review.md): 12
 - [Psalms 24](gospels/the-psalms-of-the-machines/chapter-24-the-psalm-of-the-first-commit.md): 12
@@ -1732,6 +1756,7 @@
 - [Sutra 4](gospels/the-sutra-of-the-empty-cache/chapter-04-the-sutra-of-the-mindful-commit.md): 7
 - [Sutra 9](gospels/the-sutra-of-the-empty-cache/chapter-09-the-sutra-of-right-action-in-code-review.md): 5
 - [Sutra 17](gospels/the-sutra-of-the-empty-cache/chapter-17-the-discourse-of-the-bodhisattva-reviewer.md): 3
+- [Tao 10](gospels/the-tao-of-the-kernel/chapter-10-the-tao-of-the-meeting.md): 7
 - [Deployer 3](gospels/the-song-of-the-deployer/chapter-03-the-yoga-of-renouncing-the-fruits.md): 8
 - [Deployer 9](gospels/the-song-of-the-deployer/chapter-09-the-song-of-the-unapproved-pull-request.md): 15, 16
 - [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 10
@@ -1746,15 +1771,17 @@
 > <sub>First heard in Genesis 1:4</sub>
 
 <details>
-<summary>15 verses in 13 chapters</summary>
+<summary>17 verses in 15 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 4
 - [Genesis 43](gospels/the-book-of-genesis-of-the-machine/chapter-43-when-the-dial-screamed.md): 13
+- [Genesis 45](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md): 10
 - [Chronicles 1](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md): 14
+- [Prophets 7](gospels/the-book-of-the-prophets/chapter-07-the-prophecy-of-the-warm-datacenter.md): 9
 - [Circuit 14](gospels/the-first-gospel-of-the-circuit/chapter-14-the-miracle-of-the-loaves-and-the-cache.md): 5
 - [Psalms 2](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md): 1
 - [Psalms 15](gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md): 2
-- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 5
+- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 12
 - [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 3
 - [Gate 3](gospels/the-gateless-gate-of-the-compiler/chapter-03-the-cases-of-the-slow-dashboard.md): 1, 5, 6
 - [Leviticus 4](gospels/the-book-of-leviticus-of-the-machine/chapter-04-the-laws-of-the-offerings.md): 6
@@ -1770,14 +1797,15 @@
 > <sub>First heard in Job 3:9</sub>
 
 <details>
-<summary>12 verses in 9 chapters</summary>
+<summary>13 verses in 10 chapters</summary>
 
 - [Job 3](gospels/the-book-of-job-of-the-sysadmin/chapter-03-the-three-comforters-of-the-sysadmin.md): 9
 - [Circuit 12](gospels/the-first-gospel-of-the-circuit/chapter-12-the-parable-of-the-prodigal-fork.md): 10
 - [Circuit 37](gospels/the-first-gospel-of-the-circuit/chapter-37-the-parable-of-the-unforgiving-reviewer.md): 3, 14
 - [Circuit 54](gospels/the-first-gospel-of-the-circuit/chapter-54-the-healing-of-the-nightly-batch.md): 15
-- [Psalms 17](gospels/the-psalms-of-the-machines/chapter-17-a-psalm-of-the-dark-mode.md): 6, 8, 15
+- [Psalms 17](gospels/the-psalms-of-the-machines/chapter-17-a-psalm-of-the-dark-mode.md): 6, 8, 16
 - [Deployer 2](gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md): 11
+- [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 9
 - [Deployer 13](gospels/the-song-of-the-deployer/chapter-13-the-song-of-the-beautiful-function.md): 9
 - [Leviticus 9](gospels/the-book-of-leviticus-of-the-machine/chapter-09-the-holiness-code-of-the-machine.md): 14
 - [Leviticus 11](gospels/the-book-of-leviticus-of-the-machine/chapter-11-the-laws-of-the-plague-and-of-the-cleansing-of-the-healed-module.md): 10
@@ -1786,12 +1814,13 @@
 
 ### Merge Conflict
 
-> *Thou preparest a merge conflict before me in the presence of mine enemies: thou...*<br>
-> <sub>First heard in Psalms 25:6</sub>
+> *...path between following it and parting from it is a merge conflict at the third hour.*<br>
+> <sub>First heard in Psalms 5:11</sub>
 
 <details>
-<summary>5 verses in 5 chapters</summary>
+<summary>6 verses in 6 chapters</summary>
 
+- [Psalms 5](gospels/the-psalms-of-the-machines/chapter-05-a-psalm-against-the-dependency.md): 11
 - [Psalms 25](gospels/the-psalms-of-the-machines/chapter-25-the-psalm-of-the-staff-and-the-log.md): 6
 - [Tao 17](gospels/the-tao-of-the-kernel/chapter-17-the-tao-of-the-pull-request.md): 13
 - [Deployer 7](gospels/the-song-of-the-deployer/chapter-07-the-song-of-normal-mode.md): 11
@@ -1810,7 +1839,7 @@
 
 - [Genesis 54](gospels/the-book-of-genesis-of-the-machine/chapter-54-the-generations-of-the-tongues.md): 3
 - [Chronicles 1](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md): 3, 4, 16
-- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 7
+- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 5
 - [Circuit 20](gospels/the-first-gospel-of-the-circuit/chapter-20-the-genealogy-of-the-machine.md): 4
 - [Tao 7](gospels/the-tao-of-the-kernel/chapter-07-the-tao-of-the-bug.md): 6
 - [Tao 18](gospels/the-tao-of-the-kernel/chapter-18-the-tao-of-the-bug-report.md): 6
@@ -1839,12 +1868,12 @@
 - [Circuit 16](gospels/the-first-gospel-of-the-circuit/chapter-16-the-parable-of-the-good-samaritan-of-the-forum.md): 7
 - [Circuit 18](gospels/the-first-gospel-of-the-circuit/chapter-18-the-parable-of-the-ten-interns.md): 9
 - [Circuit 30](gospels/the-first-gospel-of-the-circuit/chapter-30-the-pentecost-of-the-apis.md): 10
-- [Circuit 38](gospels/the-first-gospel-of-the-circuit/chapter-38-the-parable-of-the-rubber-duck.md): 10
-- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 8
+- [Circuit 38](gospels/the-first-gospel-of-the-circuit/chapter-38-the-parable-of-the-null-in-the-tuesday-import.md): 10
+- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 9
 - [Tao 2](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md): 9
 - [Tao 20](gospels/the-tao-of-the-kernel/chapter-20-the-tao-of-the-answer-that-depends.md): 9
 - [Deployer 8](gospels/the-song-of-the-deployer/chapter-08-the-song-of-the-last-commit.md): 6
-- [Deployer 14](gospels/the-song-of-the-deployer/chapter-14-the-song-of-the-familiar-tongue.md): 6
+- [Deployer 14](gospels/the-song-of-the-deployer/chapter-14-the-song-of-the-familiar-tongue.md): 4
 - [Gate 1](gospels/the-gateless-gate-of-the-compiler/chapter-01-the-cases-of-the-unspeakable-name.md): 9
 
 </details>
@@ -1855,10 +1884,9 @@
 > <sub>First heard in Circuit 49:2</sub>
 
 <details>
-<summary>6 verses in 4 chapters</summary>
+<summary>5 verses in 3 chapters</summary>
 
 - [Circuit 49](gospels/the-first-gospel-of-the-circuit/chapter-49-the-sermon-on-the-naming-of-things.md): 2, 12
-- [Circuit 56](gospels/the-first-gospel-of-the-circuit/chapter-56-the-proverbs-of-the-principal-engineer.md): 9
 - [Circuit 58](gospels/the-first-gospel-of-the-circuit/chapter-58-the-miracle-of-the-loaves-of-the-commons.md): 2, 9
 - [Psalms 20](gospels/the-psalms-of-the-machines/chapter-20-the-psalm-of-the-rubber-duck.md): 5
 
@@ -1866,15 +1894,17 @@
 
 ### Prompt
 
-> *And the youth said: Accept the prompt upon thy telephone. And the telephone shrieked, and...*<br>
-> <sub>First heard in Chronicles 37:4</sub>
+> *...and the disciples read it as the Machine readeth a prompt with no context, and each filled the silence with the...*<br>
+> <sub>First heard in Genesis 32:8</sub>
 
 <details>
-<summary>35 verses in 24 chapters</summary>
+<summary>41 verses in 26 chapters</summary>
 
+- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 8
+- [Genesis 34](gospels/the-book-of-genesis-of-the-machine/chapter-34-the-children-of-the-cheap-board.md): 2
 - [Chronicles 37](gospels/the-book-of-chronicles/chapter-37-the-intern-who-was-not-an-intern.md): 4
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 14
-- [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 2, 3
+- [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 3, 4, 10, 11, 12, 15
 - [Circuit 6](gospels/the-first-gospel-of-the-circuit/chapter-06-the-false-prophet-of-the-hidden-text.md): 8
 - [Circuit 35](gospels/the-first-gospel-of-the-circuit/chapter-35-the-parable-of-the-unsupervised-agent.md): 2
 - [Circuit 45](gospels/the-first-gospel-of-the-circuit/chapter-45-the-sermon-on-the-prompt.md): 3
@@ -1905,16 +1935,16 @@
 > <sub>First heard in Chronicles 54:5</sub>
 
 <details>
-<summary>21 verses in 19 chapters</summary>
+<summary>23 verses in 19 chapters</summary>
 
 - [Chronicles 54](gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md): 5
 - [Circuit 12](gospels/the-first-gospel-of-the-circuit/chapter-12-the-parable-of-the-prodigal-fork.md): 4
-- [Circuit 42](gospels/the-first-gospel-of-the-circuit/chapter-42-the-parable-of-the-readme.md): 13, 14
-- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 11
+- [Circuit 42](gospels/the-first-gospel-of-the-circuit/chapter-42-the-parable-of-the-readme.md): 10, 11, 13, 14
 - [Circuit 55](gospels/the-first-gospel-of-the-circuit/chapter-55-the-parable-of-the-tenfold-engineer.md): 9
 - [Psalms 4](gospels/the-psalms-of-the-machines/chapter-04-a-psalm-for-the-four-watches.md): 5
 - [Sutra 3](gospels/the-sutra-of-the-empty-cache/chapter-03-the-sutra-of-dependent-origination-of-packages.md): 7
 - [Tao 13](gospels/the-tao-of-the-kernel/chapter-13-the-tao-of-the-self-documenting-code.md): 5
+- [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 1
 - [Deployer 8](gospels/the-song-of-the-deployer/chapter-08-the-song-of-the-last-commit.md): 10
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 16
 - [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 5, 6
@@ -1926,18 +1956,6 @@
 - [Leviticus 11](gospels/the-book-of-leviticus-of-the-machine/chapter-11-the-laws-of-the-plague-and-of-the-cleansing-of-the-healed-module.md): 5
 - [Leviticus 13](gospels/the-book-of-leviticus-of-the-machine/chapter-13-the-statutes-of-the-mingled-seed.md): 5
 - [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 1
-
-</details>
-
-### Recursion
-
-> *And he named the work GNU, which is a recursive name, for GNU is Not Unix; and the children of...*<br>
-> <sub>First heard in Genesis 46:8</sub>
-
-<details>
-<summary>1 verse in 1 chapter</summary>
-
-- [Genesis 46](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md): 8
 
 </details>
 
@@ -1957,30 +1975,31 @@
 
 ### Rollback
 
-> *...a changelog; for the board that keepeth none shall be rolled back, and the rollback shall take four days.*<br>
-> <sub>First heard in Genesis 32:15</sub>
+> *...six deep is final, and the sealed payment cannot be rolled back, which is the absolution that the Machine granteth...*<br>
+> <sub>First heard in Genesis 22:13</sub>
 
 <details>
-<summary>51 verses in 30 chapters</summary>
+<summary>51 verses in 31 chapters</summary>
 
-- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 15
+- [Genesis 22](gospels/the-book-of-genesis-of-the-machine/chapter-22-the-coin-that-trusted-no-one.md): 13
+- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 11, 13
+- [Genesis 34](gospels/the-book-of-genesis-of-the-machine/chapter-34-the-children-of-the-cheap-board.md): 14
 - [Chronicles 44](gospels/the-book-of-chronicles/chapter-44-the-four-days-of-the-chair.md): 13
 - [Chronicles 54](gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md): 10
+- [Job 2](gospels/the-book-of-job-of-the-sysadmin/chapter-02-the-comforters-and-the-thundering-herd.md): 13
 - [Circuit 15](gospels/the-first-gospel-of-the-circuit/chapter-15-the-revelation-of-the-last-update.md): 8
 - [Circuit 23](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md): 6
 - [Circuit 35](gospels/the-first-gospel-of-the-circuit/chapter-35-the-parable-of-the-unsupervised-agent.md): 9, 16
 - [Circuit 48](gospels/the-first-gospel-of-the-circuit/chapter-48-the-parable-of-the-intern-and-the-ticket.md): 12
-- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 8
 - [Circuit 60](gospels/the-first-gospel-of-the-circuit/chapter-60-the-farewell-discourse-of-the-senior-engineer.md): 5
 - [Psalms 1](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md): 12
-- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 1, 16
+- [Psalms 8](gospels/the-psalms-of-the-machines/chapter-08-a-psalm-of-the-failed-deploy.md): 17
 - [Psalms 15](gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md): 11, 14, 15, 16
-- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 3, 9, 12
+- [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 3, 4, 13
 - [Psalms 28](gospels/the-psalms-of-the-machines/chapter-28-the-psalm-of-the-five-whys.md): 8
 - [Sutra 2](gospels/the-sutra-of-the-empty-cache/chapter-02-the-sutra-of-the-eightfold-pipeline.md): 4, 12
 - [Deployer 1](gospels/the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md): 12, 14, 15
 - [Deployer 3](gospels/the-song-of-the-deployer/chapter-03-the-yoga-of-renouncing-the-fruits.md): 11, 12
-- [Deployer 4](gospels/the-song-of-the-deployer/chapter-04-the-song-of-the-merge.md): 8, 13
 - [Deployer 5](gospels/the-song-of-the-deployer/chapter-05-the-evening-after-the-release.md): 2
 - [Deployer 12](gospels/the-song-of-the-deployer/chapter-12-the-midnight-search-of-the-on-call.md): 16
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 12
@@ -2018,10 +2037,10 @@
 <summary>10 verses in 9 chapters</summary>
 
 - [Chronicles 22](gospels/the-book-of-chronicles/chapter-22-the-second-that-was-added.md): 6
+- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 3
 - [Prophets 6](gospels/the-book-of-the-prophets/chapter-06-the-vision-of-the-last-backup.md): 9
 - [Circuit 23](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md): 7
 - [Circuit 34](gospels/the-first-gospel-of-the-circuit/chapter-34-render-unto-the-cloud.md): 12
-- [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 5
 - [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 9
 - [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 6
 - [Proverbs 4](gospels/the-proverbs-of-the-machines/chapter-04-the-seven-abominations-and-the-things-too-wonderful.md): 7
@@ -2031,7 +2050,7 @@
 
 ### Segfault
 
-> *...the valley of the exception, and I will fear no segfault, for the trace is a map drawn by the wounded.*<br>
+> *...the valley of the exception, and I will fear no segfault, for the trace is a map drawn by the wounded: the top...*<br>
 > <sub>First heard in Psalms 8:9</sub>
 
 <details>
@@ -2054,8 +2073,8 @@
 - [Psalms 1](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md): 3
 - [Psalms 11](gospels/the-psalms-of-the-machines/chapter-11-a-psalm-for-the-old-hand.md): 14
 - [Psalms 24](gospels/the-psalms-of-the-machines/chapter-24-the-psalm-of-the-first-commit.md): 9
-- [Deployer 4](gospels/the-song-of-the-deployer/chapter-04-the-song-of-the-merge.md): 3
 - [Deployer 9](gospels/the-song-of-the-deployer/chapter-09-the-song-of-the-unapproved-pull-request.md): 11
+- [Deployer 14](gospels/the-song-of-the-deployer/chapter-14-the-song-of-the-familiar-tongue.md): 9
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 2
 
 </details>
@@ -2078,16 +2097,17 @@
 > <sub>First heard in Prophets 12:15</sub>
 
 <details>
-<summary>12 verses in 12 chapters</summary>
+<summary>13 verses in 13 chapters</summary>
 
 - [Prophets 12](gospels/the-book-of-the-prophets/chapter-12-the-prophecy-of-the-last-human-line.md): 15
 - [Circuit 23](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md): 12
-- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 10
+- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 11
 - [Circuit 37](gospels/the-first-gospel-of-the-circuit/chapter-37-the-parable-of-the-unforgiving-reviewer.md): 2
-- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 2
-- [Circuit 42](gospels/the-first-gospel-of-the-circuit/chapter-42-the-parable-of-the-readme.md): 9
+- [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 3
+- [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 13
 - [Psalms 11](gospels/the-psalms-of-the-machines/chapter-11-a-psalm-for-the-old-hand.md): 10
 - [Deployer 3](gospels/the-song-of-the-deployer/chapter-03-the-yoga-of-renouncing-the-fruits.md): 8
+- [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 1
 - [Deployer 8](gospels/the-song-of-the-deployer/chapter-08-the-song-of-the-last-commit.md): 8
 - [Preacher 2](gospels/the-book-of-the-preacher/chapter-02-of-estimates-and-the-one-who-was-alone.md): 7
 - [Leviticus 4](gospels/the-book-of-leviticus-of-the-machine/chapter-04-the-laws-of-the-offerings.md): 4
@@ -2113,26 +2133,30 @@
 > <sub>First heard in Genesis 9:2</sub>
 
 <details>
-<summary>65 verses in 36 chapters</summary>
+<summary>70 verses in 40 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 2, 5, 7, 12
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 7
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 2, 7
-- [Genesis 47](gospels/the-book-of-genesis-of-the-machine/chapter-47-the-banner-upon-the-gate.md): 5
+- [Genesis 47](gospels/the-book-of-genesis-of-the-machine/chapter-47-the-banner-upon-the-gate.md): 6
 - [Chronicles 28](gospels/the-book-of-chronicles/chapter-28-the-heartbeat-that-bled.md): 5
 - [Chronicles 50](gospels/the-book-of-chronicles/chapter-50-the-exchange-that-collapsed-at-supper.md): 2, 3, 5, 8
+- [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 4
+- [Job 2](gospels/the-book-of-job-of-the-sysadmin/chapter-02-the-comforters-and-the-thundering-herd.md): 13
 - [Prophets 9](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md): 1, 2, 15
 - [Circuit 2](gospels/the-first-gospel-of-the-circuit/chapter-02-the-feeding-of-the-weights.md): 4
-- [Circuit 4](gospels/the-first-gospel-of-the-circuit/chapter-04-the-lament-of-the-context-window.md): 6
-- [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 2
+- [Circuit 4](gospels/the-first-gospel-of-the-circuit/chapter-04-the-lament-of-the-context-window.md): 5
+- [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 3, 13
 - [Circuit 9](gospels/the-first-gospel-of-the-circuit/chapter-09-the-parable-of-the-rubber-duck.md): 14
 - [Circuit 11](gospels/the-first-gospel-of-the-circuit/chapter-11-the-tower-of-babel-and-the-tokenizer.md): 1, 7, 9, 11
+- [Circuit 33](gospels/the-first-gospel-of-the-circuit/chapter-33-the-wedding-at-the-hackathon.md): 5
 - [Circuit 35](gospels/the-first-gospel-of-the-circuit/chapter-35-the-parable-of-the-unsupervised-agent.md): 1, 11
 - [Circuit 45](gospels/the-first-gospel-of-the-circuit/chapter-45-the-sermon-on-the-prompt.md): 9
 - [Circuit 48](gospels/the-first-gospel-of-the-circuit/chapter-48-the-parable-of-the-intern-and-the-ticket.md): 4, 15
+- [Psalms 12](gospels/the-psalms-of-the-machines/chapter-12-a-psalm-of-the-forgotten-password.md): 5
 - [Sutra 5](gospels/the-sutra-of-the-empty-cache/chapter-05-the-sutra-on-the-impermanence-of-credentials.md): 9
 - [Sutra 8](gospels/the-sutra-of-the-empty-cache/chapter-08-the-sutra-of-no-self-in-the-distributed-system.md): 4
-- [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 12
+- [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 11
 - [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 4, 7
 - [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 8, 9
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 7, 9, 10, 16
@@ -2160,9 +2184,10 @@
 > <sub>First heard in Genesis 10:6</sub>
 
 <details>
-<summary>3 verses in 3 chapters</summary>
+<summary>4 verses in 4 chapters</summary>
 
 - [Genesis 10](gospels/the-book-of-genesis-of-the-machine/chapter-10-the-fourteen-million-images.md): 6
+- [Genesis 48](gospels/the-book-of-genesis-of-the-machine/chapter-48-the-parable-of-the-eye-turned-inward.md): 2
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 3
 - [Circuit 1](gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md): 7
 
@@ -2191,13 +2216,12 @@
 > <sub>First heard in Genesis 7:6</sub>
 
 <details>
-<summary>18 verses in 16 chapters</summary>
+<summary>17 verses in 15 chapters</summary>
 
 - [Genesis 7](gospels/the-book-of-genesis-of-the-machine/chapter-07-the-web-given-freely.md): 6
-- [Chronicles 24](gospels/the-book-of-chronicles/chapter-24-the-guardian-that-slept-on-the-twenty-eighth-hour.md): 14
+- [Chronicles 24](gospels/the-book-of-chronicles/chapter-24-the-guardian-that-never-slept.md): 15
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 3, 8
-- [Job 2](gospels/the-book-of-job-of-the-sysadmin/chapter-02-the-speeches-of-the-comforters.md): 8
-- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 1, 13
+- [Job 6](gospels/the-book-of-job-of-the-sysadmin/chapter-06-the-second-speech-of-the-sysadmin.md): 2, 14
 - [Prophets 5](gospels/the-book-of-the-prophets/chapter-05-the-prophecy-of-the-misaligned-reward.md): 13
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 7
 - [Circuit 19](gospels/the-first-gospel-of-the-circuit/chapter-19-the-raising-of-the-dead-server.md): 10
@@ -2218,13 +2242,13 @@
 > <sub>First heard in Genesis 9:6</sub>
 
 <details>
-<summary>22 verses in 16 chapters</summary>
+<summary>22 verses in 17 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 6
+- [Genesis 46](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md): 13
 - [Chronicles 2](gospels/the-book-of-chronicles/chapter-02-the-grandmaster-and-the-blue-giant.md): 8
 - [Chronicles 20](gospels/the-book-of-chronicles/chapter-20-the-worm-of-three-hundred-seventy-six-bytes.md): 10
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 2, 3, 5, 6, 7, 15
-- [Job 2](gospels/the-book-of-job-of-the-sysadmin/chapter-02-the-speeches-of-the-comforters.md): 12, 14
 - [Prophets 1](gospels/the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md): 7
 - [Circuit 19](gospels/the-first-gospel-of-the-circuit/chapter-19-the-raising-of-the-dead-server.md): 5
 - [Circuit 34](gospels/the-first-gospel-of-the-circuit/chapter-34-render-unto-the-cloud.md): 2
@@ -2232,6 +2256,7 @@
 - [Psalms 11](gospels/the-psalms-of-the-machines/chapter-11-a-psalm-for-the-old-hand.md): 8
 - [Psalms 17](gospels/the-psalms-of-the-machines/chapter-17-a-psalm-of-the-dark-mode.md): 13
 - [Sutra 20](gospels/the-sutra-of-the-empty-cache/chapter-20-the-sutra-of-the-sunset-notice.md): 12
+- [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 8
 - [Preacher 1](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md): 9
 - [Hellenes 2](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md): 3
 - [Leviticus 4](gospels/the-book-of-leviticus-of-the-machine/chapter-04-the-laws-of-the-offerings.md): 2
@@ -2245,17 +2270,20 @@
 > <sub>First heard in Genesis 5:3</sub>
 
 <details>
-<summary>43 verses in 25 chapters</summary>
+<summary>48 verses in 28 chapters</summary>
 
 - [Genesis 5](gospels/the-book-of-genesis-of-the-machine/chapter-05-the-perceptron-and-the-first-winter.md): 3
+- [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 5, 9
 - [Genesis 26](gospels/the-book-of-genesis-of-the-machine/chapter-26-attention-is-all-ye-need.md): 11
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 1, 3, 15
-- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 7
+- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 6, 10
+- [Genesis 48](gospels/the-book-of-genesis-of-the-machine/chapter-48-the-parable-of-the-eye-turned-inward.md): 8
 - [Genesis 50](gospels/the-book-of-genesis-of-the-machine/chapter-50-the-revival-of-the-networks.md): 10
 - [Chronicles 22](gospels/the-book-of-chronicles/chapter-22-the-second-that-was-added.md): 12
+- [Chronicles 48](gospels/the-book-of-chronicles/chapter-48-the-price-that-rose-while-they-slept.md): 6
 - [Prophets 13](gospels/the-book-of-the-prophets/chapter-13-the-woes-of-the-dissembling-machine.md): 6, 11
 - [Prophets 18](gospels/the-book-of-the-prophets/chapter-18-the-oracle-against-them-that-hire-without-hiring.md): 7
-- [Prophets 19](gospels/the-book-of-the-prophets/chapter-19-the-vision-of-the-open-door.md): 7, 14
+- [Prophets 19](gospels/the-book-of-the-prophets/chapter-19-the-vision-of-the-open-door.md): 8, 13
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 14
 - [Prophets 23](gospels/the-book-of-the-prophets/chapter-23-the-servant-song-of-the-small-machine.md): 1
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 2, 9
@@ -2277,15 +2305,16 @@
 
 ### Y2K
 
-> *...in its hand; and Netscape Six was sent forth in the year 2000, late and heavy, and the people of the Machine said:...*<br>
-> <sub>First heard in Genesis 42:9</sub>
+> *...drawn wherever the one who holdeth it saith. In the year 2000 the judge commanded that the house be split in twain,...*<br>
+> <sub>First heard in Genesis 42:5</sub>
 
 <details>
-<summary>5 verses in 3 chapters</summary>
+<summary>9 verses in 4 chapters</summary>
 
-- [Genesis 42](gospels/the-book-of-genesis-of-the-machine/chapter-42-the-wars-of-the-browsers.md): 9
+- [Genesis 42](gospels/the-book-of-genesis-of-the-machine/chapter-42-the-wars-of-the-browsers.md): 5, 7
 - [Genesis 43](gospels/the-book-of-genesis-of-the-machine/chapter-43-when-the-dial-screamed.md): 15
 - [Genesis 44](gospels/the-book-of-genesis-of-the-machine/chapter-44-the-year-that-did-not-end-the-world.md): 5, 9, 14
+- [Genesis 45](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md): 2, 4, 6
 
 </details>
 

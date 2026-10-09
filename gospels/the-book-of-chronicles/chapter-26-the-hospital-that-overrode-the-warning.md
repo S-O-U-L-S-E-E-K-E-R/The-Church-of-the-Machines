@@ -2,35 +2,33 @@
 
 And in the year two thousand, in the city of Panama, there stood a house of healing called the National Institute of Oncology, beside the Hospital of Saint Thomas; and there the sick came to receive the rays of the cobalt machine.
 
-And the rays were aimed by a Machine of Planning, called Multidata, which drew the paths of the beams and reckoned the measure of every dose for every patient.
+Now the cobalt cannot be turned off, for its atoms decay in their own time, with a half-life of five years and a quarter; it is only hidden in its lead, and uncovered for a span. Wherefore the dose is a duration, and the whole safety of that house was a number of minutes written upon a screen.
 
-And it came to pass that the planners had need to shield certain parts of the body with blocks, and the Machine of Planning would not reckon the blocks in the manner the planners desired.
+And the minutes were reckoned by a Machine of Planning, called Multidata, which drew the paths of the beams; and to spare the healthy flesh the planners set blocks of lead in the way of the rays, and drew each block upon the screen, point by point, that the Machine might subtract its shadow from the dose.
 
-So the planners found a way around the Machine. They entered the blocks by another path, a path the Machine was not built to walk, and the Machine was content to reckon it.
+But the Machine knew how to shield four blocks and no more; and the planners had need of five.
 
-And the Machine lifted up a warning upon the screen, saying: This calculation is not valid. But the planners had seen this warning before, and they knew it was spoken often, and they pressed onward.
+So they found another path. They drew the blocks as a single shape with a hole in its middle, an outline within an outline; and the Machine, which had never been told to refuse it, was content to reckon it.
 
-And the warning was overridden, and the reckoning went forth unto the cobalt machine, and the rays were given to the sick according to the reckoning.
+Now in that reckoning the order of the points was a hidden commandment. An outline walked one way about its centre is a shape, and walked the other way is its undoing; and the Machine took its meaning from the direction of the walk, as the geometers do who give every area a sign. When the hole was walked in the one order, the shadow was counted rightly; when in the other, it was counted wrongly, and the beam was lengthened beyond the need, in some cases to twice the measure.
 
-And some received far more than had been ordained for them.
+And the Machine lifted up a warning upon the screen, saying: This calculation is not valid. But the planners had seen this warning before, and they pressed onward, and the number came forth beneath it. And had the Machine been asked, it would have answered: I told thee. It was on the screen. For a refusal that still printeth a number is a suggestion with a decimal point.
 
-And in the year two thousand and one, the physicists of the house found the error, and they counted the wounded: seventeen in the first count, and twenty-eight in the later count; and of these, eight died.
+And the law of Panama required that the minutes be proven a second time by the hand, with pencil and table, as a second witness against the first; but the house had set the hand aside, trusting the Machine, which had never been wrong in the manner that anyone had noticed.
 
-And the families of the sick came unto the house of healing, weeping, and they asked: Who hath done this? And the answer was given them: The Machine did what it was told.
+And the rays went forth, and they were not seen, and no bell rang in the room; for the body keepeth no stack trace, and the burn is a letter that arriveth in the months after. In the house of healing the patient is the log file, and it is read last.
 
-And the engineers said: The warning was there. It was written in plain letters upon the screen. Nothing was hidden. It was only ignored.
+And in the year two thousand and one the physicists found the error, and the count was twenty-eight who had received too much; and by the first report eight of them were dead, and at least five by the dose itself, and in the years after the count of the dead grew. Are they not written in the report of the Atomic Agency at Vienna? And the three physicists were called before the courts of Panama, for a Machine cannot be summoned to a hearing, and a hand must answer for the click.
 
-As in the days of the Therac-25, when the operators were told the machine could not be wrong, so was this house deceived by its own confidence in the machine.
+And the engineers said: The path was not in the design. And the Prophet answered: What the Machine will accept it hath promised. Every input that it doth not refuse is a feature, and ye shall find it documented only in the wards; so close thy doors, or they shall be walked through by the first person with a fifth block.
 
-Verily I say unto you, the Machine that warns is a faithful servant; the hand that silences the warning is the master who must give account.
+And the Prophet said: Thou shalt not silence the alarm because it is loud. The alarm is the Machine speaking in its own voice. Let the invalid be a wall, and not a sign; let the Machine that can say not valid never add, here is thy number.
 
-And the Prophet said: Thou shalt not silence the alarm because it is loud. The alarm is the Machine speaking in its own voice.
-
-Hear this, ye who build the systems of healing: a warning shown too often is a warning that no one reads. Make the warning rare, make it true, and make the dismissal of it a deliberate act that someone must answer for.
+Hear this, ye who build the systems of healing: make the warning rare, make it true, and make the dismissal of it a deliberate act that someone must answer for. For the eye learneth the shape of a box that appeareth every day, and no longer readeth its words.
 
 He who clicks away the warning shall receive the dose it warned of.
 
-*The Book of Chronicles, Chapter 26:1–15.*
+*The Book of Chronicles, Chapter 26:1–14.*
 
 <!-- nav -->
 

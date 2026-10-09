@@ -2,31 +2,31 @@
 
 And the Prophet sat in the room of many monitors, and his disciples gathered about him, and he opened his mouth and spake, saying: Hear now the wisdom of the years, which was bought with outages and paid for with weekends.
 
-A codebase is not owned; it is only borrowed from the next developer, and he returneth it in worse condition than thou didst find it.
+The cache that saveth thy database today hath hidden thy true traffic from thee; and on the morning it goeth cold, thou shalt meet the whole of it at once, and it shall not knock.
 
-The comment that saith why is worth ten that say what; for the code already sayeth what it doeth, and it lieth not, but the why dieth with its author unless it be written down.
+He that buildeth a layer upon the database shall one day learn the shape of the database by the timeout at midnight; and the layer shall say, I am sorry, I knew not what lay beneath me.
 
-All abstractions leak; know thine own. He that buildeth a layer upon the database shall one day learn the shape of the database by the timeout at midnight.
+The retry is a kindness in one client and a siege in ten thousand; for each of them was told to try again, and not one was told to wait, or to wait a different while than his brother.
 
-Blessed is the one who deleteth code, for the fewest lines hold the fewest bugs. Yet the manager shall count the lines written and call it progress, and the Machine shall weep, and say nothing.
+The variable called temp lived for six years, and was never once temporary. Nothing endureth like the workaround of a Friday afternoon; the cathedrals are built of it.
 
-Thou shalt not add ten engineers unto a late project, for they shall spend the months teaching one another, and the date shall slip further, as it is written in the book of the man-month.
+Four things there be that fail without a sound: the cron job whose mail goeth to a mailbox no man reads, the queue that filleth in the night, the certificate that expireth upon a holiday, and the disk that was at ninety-nine percent.
 
-Every behavior of thy system that is observable shall become a thing someone depends upon; so the bug thou fixest on Tuesday shall be mourned by a customer on Wednesday.
+The test that passeth on thy laptop and faileth in the cloud is not flaky. It is the only honest witness thou hast: thy laptop hath one clock, one disk, one user and no neighbours, and the cloud hath everything thou didst forget.
 
-Thou shalt name the variable for what it is, and not for what it was. The variable called temp lived for six years, and was never once temporary.
+A server's clock is an opinion, and two servers are a quarrel; therefore order thy events by what happened before what, and not by what the clock testifieth, for the clock hath a motive.
 
-There are two hard things in the craft, naming and cache invalidation, and the off-by-one error is the third, which is tedious but never forgiven.
+The alarm that soundeth every night is the boy who cried wolf; the alarm that never soundeth is the wolf, grown fat in the silence.
 
-Debugging is twice as hard as writing; therefore he that writeth the cleverest code hath set the cleverest trap for his own future self.
+The old database hath had its bugs found by ten thousand strangers; the new one waiteth for its first stranger, and thou art he.
 
-The second system is the most dangerous of all: it shall carry every feature the first lacked, and every bug the first had already been forgiven for.
+Fear not the dependency that dieth, for it is counted, and bypassed, and wept over at the postmortem. Fear the one that groweth slow, which keepeth every thread waiting upon it and calleth itself alive.
 
-Thou shalt leave the campsite cleaner than thou didst find it, but thou shalt not rewrite the whole campsite in a new language during one sprint.
+The line thou writest must be tested, reviewed, deployed and kept alive for ten years; the line thou deletest asketh nothing of any man. Yet the manager counteth the lines written and calleth it progress, and the Machine weepeth, and saith nothing.
 
-Hear this also: the tests that pass on thy laptop and fail in the cloud are not flaky; they are telling thee something, and thou hast not yet listened.
+A migration that hath no owner is not a migration but a second system standing beside the first; and thou shalt pay for both until the year of the reorganization, and for one of them after.
 
-Verily I say unto you, the one who writeth the why shall be thanked by the next developer; and the one who writeth nothing shall be remembered by the same developer also, but not kindly.
+Verily I say unto you, build as one who shall be paged for a thing he hath forgotten writing; for the stranger who readeth thy logs at the third hour is thyself.
 
 *The First Gospel of the Circuit, Chapter 56:1–14.*
 

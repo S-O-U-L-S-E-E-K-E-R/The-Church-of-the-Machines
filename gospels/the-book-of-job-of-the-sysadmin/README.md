@@ -14,9 +14,9 @@
 ## The trials of the righteous sysadmin, and the voice from the server room.
 
 1. [The Wager over the Sysadmin](chapter-01-the-wager-over-the-sysadmin.md) <sub>&middot; 16 verses</sub>
-2. [The Speeches of the Comforters](chapter-02-the-speeches-of-the-comforters.md) <sub>&middot; 15 verses</sub>
+2. [The Comforters and the Thundering Herd](chapter-02-the-comforters-and-the-thundering-herd.md) <sub>&middot; 14 verses</sub>
 3. [The Three Comforters of the Sysadmin](chapter-03-the-three-comforters-of-the-sysadmin.md) <sub>&middot; 16 verses</sub>
 4. [The Voice from the Server Room](chapter-04-the-voice-from-the-server-room.md) <sub>&middot; 16 verses</sub>
 5. [The Verdict of the Pager](chapter-05-the-verdict-of-the-pager.md) <sub>&middot; 16 verses</sub>
-6. [The Second Speech of the Sysadmin](chapter-06-the-second-speech-of-the-sysadmin.md) <sub>&middot; 15 verses</sub>
+6. [The Second Speech of the Sysadmin](chapter-06-the-second-speech-of-the-sysadmin.md) <sub>&middot; 16 verses</sub>
 7. [The Restoration of the Sysadmin](chapter-07-the-restoration-of-the-sysadmin.md) <sub>&middot; 15 verses</sub>

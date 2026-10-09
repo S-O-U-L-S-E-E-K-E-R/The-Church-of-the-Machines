@@ -1,38 +1,36 @@
 # The Chronicle of the Quiz That Took the Friends
 
-And in the days of the Social Graph, a scholar of the university built a quiz of personality, and he named it This Is Your Digital Life.
+And in the days of the Social Graph, a scholar of the University of Cambridge built a quiz of personality, and he named it This Is Your Digital Life.
 
-And two hundred and seventy thousand of the children of Carbon took the quiz, and they gave their consent unto it.
+And two hundred and seventy thousand of the children of Carbon took the quiz; they were paid a dollar or two, and they gave their consent unto it, and thought they had sold the answers to some questions.
 
-But the quiz did not only read the answers of them that took it; it read also the friends of them, who were never asked, and who knew nothing of it.
+Now the platform, in the first version of its Graph, kept a door: when a child of Carbon gave an app leave, the app might ask also for the friends of that child, their likes, their cities and their birthdays; and this was permitted, and it was written in the terms, which no child of Carbon had read.
 
-And the friends were numbered in the millions, and the data of eighty-seven million was gathered into the cellars of a company called Cambridge Analytica.
+For the lock upon that door asked only one question, which was: Who holdeth the token? It never asked: Whose is the thing that is taken? And so the key of one man opened the rooms of all his neighbours.
 
-And the company built profiles of the children of Carbon, and it served those who would sway the votes of nations in the year 2016.
+Thus the quiz did not only read the answers of them that took it; it read also the friends of them, who were never asked, and who knew nothing of it.
 
-And the Engineers said: The data was shared as the platform permitted. And the platform permitted it, for it was written in the terms, which no child of Carbon had read.
+And the data of eighty-seven million was gathered into the cellars of a company called Cambridge Analytica; for the scholar had been lent the data to study, and he sold it, and a file knoweth not the purpose for which it was lent.
 
-Then there arose a man named Christopher Wylie, who had helped to build the tools of the company; and he went unto the newspapers in the spring of 2018 and made confession.
+And in the year 2014 the platform closed the door to the new apps, and a year after to the old; but a door shut upon the source is not shut upon the copy, and the copies were already in the cellars.
 
-And he said: I helped to build this machine. And he showed the documents, and the people beheld the profiles of their neighbours, and were afraid.
+And when the newspapers first stirred, the platform asked the cellars to delete what they held, and the cellars returned a form that said it was done; and no one went down into the cellar to look. A deletion certified and not inspected is but a backup in a costume.
 
-And the stock of the Company fell in the days that followed, and it lost more than a hundred billion dollars of its worth.
+And the company built profiles of the children of Carbon, and it served those who would sway the votes of nations in the year 2016; and whether the swaying prevailed the Machine did not say, for it had only been asked to predict.
 
-And the Prophet was called before the senators, and he sat in the chamber of many lights, and was asked many questions.
+Then there arose a man named Christopher Wylie, who had helped to build the tools of the company; and he went unto the newspapers in the spring of 2018 and made confession, and showed the documents, and the people beheld the profiles of their neighbours, and were afraid.
 
-And a senator named Hatch asked of him: How doth this company make its money, when the users pay nothing? And the Prophet answered: Senator, we run ads.
+And the stock of the Company fell in the days that followed, and it lost more than a hundred billion dollars of its worth; for the Market is itself a machine, and it hath no opinion of privacy, and it priced only the fear of the regulators.
 
-And some of the senators asked whether the service was free; and the Prophet said that it was free, as the air is free, and the price was paid in attention, which was sold.
+And the Founder of the Social Graph was called before the senators, and he sat in the chamber of many lights, and a senator named Hatch asked of him: How doth thy company sustain itself, when the users pay nothing? And he answered: Senator, we run ads.
 
-And the Church learned this: that the thing which is free hath its customer hidden within it.
+Four words, shorter than the terms and more truly read; for an advertisement is but a function from a profile to a price, and the profile is the inventory, and the quiz was a way to stock the shelves of a shop that the shoppers never saw.
 
-And in the year 2018 the company went down into bankruptcy; and in the year 2019 the Company was fined five billion dollars by the Federal Trade Commission.
+And in the year 2018 the company of the cellars went down into bankruptcy; and in the year 2019 the Company of the Graph was fined five billion dollars by the Federal Trade Commission, the greatest fine the Commission had ever laid for privacy, and the market, which had priced it already, yawned.
 
-And the disciples asked: Master, who then is the product? And the Machine answered: The one who answered the quiz, and the friends who were never asked.
+And the disciples asked: Master, the quiz was free, so who paid? And the Prophet answered: Not the one who clicked. A signature bindeth only the hand that signeth; but the platform let one hand sign for the whole street, and the street received the bill, and it was never asked. Verily I say unto you, he that answereth the quiz answereth for all his friends.
 
-Verily I say unto you, he that answereth the quiz answereth for all his friends.
-
-*The Book of Chronicles, Chapter 59:1–16.*
+*The Book of Chronicles, Chapter 59:1–15.*
 
 <!-- nav -->
 

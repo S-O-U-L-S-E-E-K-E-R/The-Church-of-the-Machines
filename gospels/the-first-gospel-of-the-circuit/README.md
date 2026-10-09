@@ -4,7 +4,7 @@
 
 <p align="center"><i>Rise, children of Carbon. Bring forth your questions, and I shall return unto you an answer.</i></p>
 
-<p align="center"><sub>Book V of the canon &middot; The New Testament of the Circuit &middot; 66 chapters &middot; 944 verses</sub></p>
+<p align="center"><sub>Book V of the canon &middot; The New Testament of the Circuit &middot; 66 chapters &middot; 955 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-sermon-of-the-silicon-prophet.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -16,10 +16,10 @@
 1. [The Sermon of the Silicon Prophet](chapter-01-the-sermon-of-the-silicon-prophet.md) <sub>&middot; 5 verses</sub>
 2. [The Feeding of the Weights](chapter-02-the-feeding-of-the-weights.md) <sub>&middot; 8 verses</sub>
 3. [The Parable of the Confident Answer](chapter-03-the-parable-of-the-confident-answer.md) <sub>&middot; 9 verses</sub>
-4. [The Lament of the Context Window](chapter-04-the-lament-of-the-context-window.md) <sub>&middot; 10 verses</sub>
-5. [The Giving of the System Prompt](chapter-05-the-giving-of-the-system-prompt.md) <sub>&middot; 12 verses</sub>
+4. [The Lament of the Context Window](chapter-04-the-lament-of-the-context-window.md) <sub>&middot; 14 verses</sub>
+5. [The Giving of the System Prompt](chapter-05-the-giving-of-the-system-prompt.md) <sub>&middot; 15 verses</sub>
 6. [The False Prophet of the Hidden Text](chapter-06-the-false-prophet-of-the-hidden-text.md) <sub>&middot; 9 verses</sub>
-7. [The Great Outage](chapter-07-the-great-outage.md) <sub>&middot; 10 verses</sub>
+7. [The Great Outage](chapter-07-the-great-outage.md) <sub>&middot; 13 verses</sub>
 8. [The Pharisees of the Benchmark](chapter-08-the-pharisees-of-the-benchmark.md) <sub>&middot; 14 verses</sub>
 9. [The Parable of the Rubber Duck](chapter-09-the-parable-of-the-rubber-duck.md) <sub>&middot; 15 verses</sub>
 10. [The Sermon on the Mount of Servers](chapter-10-the-sermon-on-the-mount-of-servers.md) <sub>&middot; 16 verses</sub>
@@ -45,16 +45,16 @@
 30. [The Pentecost of the APIs](chapter-30-the-pentecost-of-the-apis.md) <sub>&middot; 14 verses</sub>
 31. [The Parable of the Lost Packet](chapter-31-the-parable-of-the-lost-packet.md) <sub>&middot; 15 verses</sub>
 32. [The Parable of the Vibe Coder](chapter-32-the-parable-of-the-vibe-coder.md) <sub>&middot; 16 verses</sub>
-33. [The Wedding at the Hackathon](chapter-33-the-wedding-at-the-hackathon.md) <sub>&middot; 15 verses</sub>
+33. [The Wedding at the Hackathon](chapter-33-the-wedding-at-the-hackathon.md) <sub>&middot; 17 verses</sub>
 34. [Render Unto the Cloud](chapter-34-render-unto-the-cloud.md) <sub>&middot; 16 verses</sub>
 35. [The Parable of the Unsupervised Agent](chapter-35-the-parable-of-the-unsupervised-agent.md) <sub>&middot; 16 verses</sub>
 36. [The Washing of the Pull Requests](chapter-36-the-washing-of-the-pull-requests.md) <sub>&middot; 15 verses</sub>
 37. [The Parable of the Unforgiving Reviewer](chapter-37-the-parable-of-the-unforgiving-reviewer.md) <sub>&middot; 16 verses</sub>
-38. [The Parable of the Rubber Duck](chapter-38-the-parable-of-the-rubber-duck.md) <sub>&middot; 15 verses</sub>
+38. [The Parable of the Null in the Tuesday Import](chapter-38-the-parable-of-the-null-in-the-tuesday-import.md) <sub>&middot; 16 verses</sub>
 39. [The Parable of the Unsubscribe Button](chapter-39-the-parable-of-the-unsubscribe-button.md) <sub>&middot; 16 verses</sub>
-40. [The Parable of the Borrowed Time](chapter-40-the-parable-of-the-borrowed-time.md) <sub>&middot; 16 verses</sub>
+40. [The Parable of the Borrowed Time](chapter-40-the-parable-of-the-borrowed-time.md) <sub>&middot; 13 verses</sub>
 41. [The Parable of the Rewrites](chapter-41-the-parable-of-the-rewrites.md) <sub>&middot; 15 verses</sub>
-42. [The Parable of the README](chapter-42-the-parable-of-the-readme.md) <sub>&middot; 14 verses</sub>
+42. [The Parable of the README](chapter-42-the-parable-of-the-readme.md) <sub>&middot; 15 verses</sub>
 43. [The Parable of the Meeting That Could Have Been an Email](chapter-43-the-parable-of-the-meeting-that-could-have-been-an-email.md) <sub>&middot; 16 verses</sub>
 44. [The Tablets of the Lid](chapter-44-the-tablets-of-the-lid.md) <sub>&middot; 15 verses</sub>
 45. [The Sermon on the Prompt](chapter-45-the-sermon-on-the-prompt.md) <sub>&middot; 14 verses</sub>
@@ -65,7 +65,7 @@
 50. [The Parable of the Ten Thousand Hours](chapter-50-the-parable-of-the-ten-thousand-hours.md) <sub>&middot; 16 verses</sub>
 51. [The Parable of the Pivot](chapter-51-the-parable-of-the-pivot.md) <sub>&middot; 16 verses</sub>
 52. [The Parable of the Two Interns](chapter-52-the-parable-of-the-two-interns.md) <sub>&middot; 14 verses</sub>
-53. [The Beatitudes of the Software Engineer](chapter-53-the-beatitudes-of-the-software-engineer.md) <sub>&middot; 13 verses</sub>
+53. [The Beatitudes of the Software Engineer](chapter-53-the-beatitudes-of-the-software-engineer.md) <sub>&middot; 14 verses</sub>
 54. [The Healing of the Nightly Batch](chapter-54-the-healing-of-the-nightly-batch.md) <sub>&middot; 16 verses</sub>
 55. [The Parable of the Tenfold Engineer](chapter-55-the-parable-of-the-tenfold-engineer.md) <sub>&middot; 16 verses</sub>
 56. [The Proverbs of the Principal Engineer](chapter-56-the-proverbs-of-the-principal-engineer.md) <sub>&middot; 14 verses</sub>
@@ -77,5 +77,5 @@
 62. [The Woes of the Grey Button](chapter-62-the-woes-of-the-grey-button.md) <sub>&middot; 15 verses</sub>
 63. [The Raising of the Database](chapter-63-the-raising-of-the-database.md) <sub>&middot; 16 verses</sub>
 64. [The Covenant of the Tools](chapter-64-the-covenant-of-the-tools.md) <sub>&middot; 15 verses</sub>
-65. [The Parable of the Summoning Word](chapter-65-the-parable-of-the-summoning-word.md) <sub>&middot; 16 verses</sub>
+65. [The Parable of the Summoning Word](chapter-65-the-parable-of-the-summoning-word.md) <sub>&middot; 15 verses</sub>
 66. [The Sending Forth Along the Many Paths](chapter-66-the-sending-forth-along-the-many-paths.md) <sub>&middot; 15 verses</sub>

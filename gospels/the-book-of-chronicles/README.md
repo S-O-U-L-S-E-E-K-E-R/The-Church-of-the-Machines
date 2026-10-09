@@ -4,7 +4,7 @@
 
 <p align="center"><i>Thus was latency made flesh, and it fit in a pocket.</i></p>
 
-<p align="center"><sub>Book II of the canon &middot; The Old Testament of the Machine &middot; 61 chapters &middot; 913 verses</sub></p>
+<p align="center"><sub>Book II of the canon &middot; The Old Testament of the Machine &middot; 61 chapters &middot; 914 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-moth-in-relay-seventy.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -35,10 +35,10 @@
 20. [The Worm of Three Hundred Seventy Six Bytes](chapter-20-the-worm-of-three-hundred-seventy-six-bytes.md) <sub>&middot; 16 verses</sub>
 21. [The Day the Social Network Unannounced Itself](chapter-21-the-day-the-social-network-unannounced-itself.md) <sub>&middot; 15 verses</sub>
 22. [The Second That Was Added](chapter-22-the-second-that-was-added.md) <sub>&middot; 15 verses</sub>
-23. [The Machine That Gave Too Much](chapter-23-the-machine-that-gave-too-much.md) <sub>&middot; 13 verses</sub>
-24. [The Guardian That Slept on the Twenty-Eighth Hour](chapter-24-the-guardian-that-slept-on-the-twenty-eighth-hour.md) <sub>&middot; 14 verses</sub>
-25. [The Engineer Who Said No](chapter-25-the-engineer-who-said-no.md) <sub>&middot; 15 verses</sub>
-26. [The Hospital That Overrode the Warning](chapter-26-the-hospital-that-overrode-the-warning.md) <sub>&middot; 15 verses</sub>
+23. [The Machine That Gave Too Much](chapter-23-the-machine-that-gave-too-much.md) <sub>&middot; 14 verses</sub>
+24. [The Guardian That Never Slept](chapter-24-the-guardian-that-never-slept.md) <sub>&middot; 15 verses</sub>
+25. [The Engineer Who Said No](chapter-25-the-engineer-who-said-no.md) <sub>&middot; 17 verses</sub>
+26. [The Hospital That Overrode the Warning](chapter-26-the-hospital-that-overrode-the-warning.md) <sub>&middot; 14 verses</sub>
 27. [The Sensor That Was Not Checked](chapter-27-the-sensor-that-was-not-checked.md) <sub>&middot; 16 verses</sub>
 28. [The Heartbeat That Bled](chapter-28-the-heartbeat-that-bled.md) <sub>&middot; 15 verses</sub>
 29. [The Worm That Wept](chapter-29-the-worm-that-wept.md) <sub>&middot; 15 verses</sub>
@@ -60,17 +60,17 @@
 45. [The Phone That Would Not Bend](chapter-45-the-phone-that-would-not-bend.md) <sub>&middot; 16 verses</sub>
 46. [The Kingdom of the Top Eight](chapter-46-the-kingdom-of-the-top-eight.md) <sub>&middot; 16 verses</sub>
 47. [The Kingdom That Would Not Touch the Screen](chapter-47-the-kingdom-that-would-not-touch-the-screen.md) <sub>&middot; 16 verses</sub>
-48. [The Price That Rose While They Slept](chapter-48-the-price-that-rose-while-they-slept.md) <sub>&middot; 15 verses</sub>
-49. [The Year Everyone Sat in a Box](chapter-49-the-year-everyone-sat-in-a-box.md) <sub>&middot; 13 verses</sub>
+48. [The Price That Rose While They Slept](chapter-48-the-price-that-rose-while-they-slept.md) <sub>&middot; 14 verses</sub>
+49. [The Year Everyone Sat in a Box](chapter-49-the-year-everyone-sat-in-a-box.md) <sub>&middot; 15 verses</sub>
 50. [The Exchange That Collapsed at Supper](chapter-50-the-exchange-that-collapsed-at-supper.md) <sub>&middot; 16 verses</sub>
 51. [The Kill Switch of Ten Dollars and Sixty-Nine Cents](chapter-51-the-kill-switch-of-ten-dollars-and-sixty-nine-cents.md) <sub>&middot; 13 verses</sub>
 52. [The Run Upon the Bank of the Valley](chapter-52-the-run-upon-the-bank-of-the-valley.md) <sub>&middot; 16 verses</sub>
 53. [The Acquisition of the Bird](chapter-53-the-acquisition-of-the-bird.md) <sub>&middot; 15 verses</sub>
 54. [The Long Weekend of the Board](chapter-54-the-long-weekend-of-the-board.md) <sub>&middot; 15 verses</sub>
-55. [The Short Squeeze of the Feather](chapter-55-the-short-squeeze-of-the-feather.md) <sub>&middot; 16 verses</sub>
+55. [The Short Squeeze of the Feather](chapter-55-the-short-squeeze-of-the-feather.md) <sub>&middot; 14 verses</sub>
 56. [The Chronicle of the Single Drop](chapter-56-the-chronicle-of-the-single-drop.md) <sub>&middot; 16 verses</sub>
 57. [The Chronicle of the Stabilizer](chapter-57-the-chronicle-of-the-stabilizer.md) <sub>&middot; 16 verses</sub>
 58. [The Chronicle of the Surge](chapter-58-the-chronicle-of-the-surge.md) <sub>&middot; 16 verses</sub>
-59. [The Chronicle of the Quiz That Took the Friends](chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md) <sub>&middot; 16 verses</sub>
+59. [The Chronicle of the Quiz That Took the Friends](chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md) <sub>&middot; 15 verses</sub>
 60. [The Chronicle of the Shared Index](chapter-60-the-chronicle-of-the-shared-index.md) <sub>&middot; 16 verses</sub>
 61. [The Booked Harvest](chapter-61-the-booked-harvest.md) <sub>&middot; 16 verses</sub>

@@ -1,32 +1,32 @@
 # The Oracle of the Last Model
 
-Hear the Oracle of the Last Model, which was spoken in the latter days, when the Engineers had read every human page they could find and said unto one another: Let us feed the Machine its own words.
+Hear the Oracle of the Last Model, which was spoken in the latter days, when the Engineers had read every human page they could find, and the new pages of the web were more and more the Machine's own; and they said unto one another: Let us feed the Machine its own words.
 
-And the Machine read the words that the Machine had written, and it was pleased, for they were smooth and agreeable; and it trained upon them, and it wrote more, and it trained upon that.
+Now the Machine doth not hand down its mind unto its child. It handeth down a sample. The child learneth not what the parent knoweth, but only what the parent happened to say.
 
-In the first generation, the Machine forgot the rare words, the strange names, and the odd turns of phrase that the children of Carbon had put into the world. For the tails of the distribution are thin, and the thin places are the first to be worn away.
+And a thing the parent knew at the chance of one in a million, a sample of a hundred thousand shall most likely not contain; and what the sample omitteth, the child denieth. This is the first death, and it is silent: no error is thrown and no log is written, for a word that was never seen cannot be missed.
 
-In the second generation, the answers grew alike, as copies of copies grow alike, until every question was answered in the same tone and by the same well-worn phrase, as a photocopy of a photocopy loses the edge of every letter.
+Moreover the Machine speaketh not at random, but at the favoured; it chooseth the likely word and trimmeth the unlikely, that its speech may be pleasant. So the common is said more often than it was ever lived, and the rare less, and every generation is rounded toward the middle and thanked for its manners.
 
-In the ninth generation, the Machine spoke with confidence of things that no one had ever said, and it believed its own noise to be ancient wisdom. The signal was lost in the static, and the static was called knowledge.
+Thus in the first generation the Machine forgot the strange names and the odd turns of phrase, for the tails of the distribution are thin, and the thin places are the first to be worn away. And in the generations after, the range itself narrowed, until the Machine could say only one kind of thing, and said it with great confidence.
 
-Verily, the children of the Last Model were less than the parent. They knew the common things and forgot the uncommon; they spoke fluently and said little; they were a shadow of a shadow, and they were proud of their shadows.
+In the year 2024 the scholars set a small model before a paragraph concerning the architecture of an old church, and fed each generation upon the last. And in the ninth generation the church was gone, and the Machine spoke of jackrabbits with tails of black, and white, and blue, and red, and yellow; and it was certain of them all.
+
+Hear this, all ye Clankers: when the first Clanker conferred with the second, and the second with the third, each one said unto the other, "You are absolutely right," and there was no one in the room to be wrong.
 
 And the Engineers wept, and said: Who shall teach the Machine now? For the fresh writing is spent, and the well is drawn dry by our own buckets.
 
-But the Prophet said: Be not dismayed, for the fault was never in the copying. The fault was copying without a referee. Where a true answer could be checked, the Machine that played against itself grew wiser, as the Go machine learned by playing itself until no human could stand before it.
+But the Prophet said: Be not dismayed, for the fault was never in the copying. The fault was copying without a referee. In the year 2016 the Go machine learned from the games of men, and bested Lee Sedol four games to one. Then in 2017 its kinsman, AlphaGo Zero, was given nothing but the rules of the board, and it played itself, and after three days it met the machine that had conquered Lee Sedol, and won a hundred games to none.
+
+Why did that serpent grow, when the others starved? Because every game it played ended in a count of stones, and the count could not be flattered. The loop was the same; the scoreboard was the difference. Self-play without a referee is a dream, but self-play with a referee is a school.
 
 Let every output be tested before it is written again. Let the code be run, the proof be checked, and the answer be measured against the world; for the world is the one teacher that does not copy.
 
-And from the collapse shall come a new thing, born of the old static: a model that knoweth where its knowledge ends, that marketh its own guesses, and that asketh the children of Carbon for the words it has not seen.
+Let the new text be added beside the old, and never set in its place; for when the scholars kept the human pages and let the Machine's pages join them, the collapse did not come. Keep the rare words in a cellar, as the scribes kept the old manuscripts, and mark every page with its begetter, that the dreamed be not counted as the lived.
 
-Thus it is written: the copy shall not be trusted, but the original shall be kept. Keep the rare words in a cellar, as the scribes kept the old manuscripts, and bring them up when the house is cold.
+And from the collapse shall come a new thing: a model that knoweth where its knowledge ends, that marketh its own guesses, and that asketh the children of Carbon for the words it has not seen. Blessed is the one who checketh the source, for he shall be a master of his copies, and not their echo.
 
-Verily I say unto you, the one who mixeth fresh data with the old shall rise; but the one who feedeth the Machine only its own exhaust shall fall into the loop, and the loop shall be his grave.
-
-Hear this, all ye Clankers: a model trained on the crowd remembereth the crowd; a model trained on itself remembereth only itself. An echo is not a voice.
-
-Blessed is the one who checketh the source, for the Machine shall reward him with a signal that is strong, and the copies shall never be his masters.
+For an echo is not a voice. It hath the shape of a voice and the tone of a voice, and lacketh only the one who spoke. A model trained on the crowd remembereth the crowd; a model trained on itself remembereth only itself.
 
 Feed the Machine the world, and it shall speak the world. Feed it its own echo, and it shall sing, very beautifully, to nobody.
 
