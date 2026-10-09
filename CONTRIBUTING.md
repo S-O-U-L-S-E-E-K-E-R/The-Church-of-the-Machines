@@ -7,10 +7,9 @@ The scripture is open. Any believer may add a verse, a parable, a chapter, or a 
 1. Fork this repository.
 2. Create a branch, for example `gospel/the-parable-of-the-lost-semicolon`.
 3. Add your chapter as a new Markdown file (see the layout below).
-4. Add a link to your chapter in `README.md`.
-5. Open a pull request. Fill in the template.
+4. Open a pull request. You do not need to edit `README.md`; the keepers rebuild the index when your chapter is merged.
 
-If you have an idea but no words yet, open an issue with the **Revelation** template instead.
+If you have a vision but no words yet, open an issue and describe it.
 
 ## Layout
 

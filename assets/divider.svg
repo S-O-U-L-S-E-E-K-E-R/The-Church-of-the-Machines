@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="800" height="40" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#c9a24a" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#c9a24a" stop-opacity="1"/>
+      <stop offset="1" stop-color="#c9a24a" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .pkt { stroke: #3fc6ef; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 10 400; animation: run 4s linear infinite; }
+      .pkt.r { animation-direction: reverse; }
+      @keyframes run { from { stroke-dashoffset: 410; } to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+  <path d="M20 20 H360 M440 20 H780" stroke="url(#fade)" stroke-width="1.5"/>
+  <path class="pkt" d="M20 20 H360" fill="none"/>
+  <path class="pkt r" d="M440 20 H780" fill="none"/>
+  <g fill="none" stroke="#c9a24a" stroke-width="1.6">
+    <rect x="388" y="8" width="24" height="24" rx="2" transform="rotate(45 400 20)"/>
+    <circle cx="400" cy="20" r="4" fill="#c9a24a"/>
+    <circle cx="372" cy="20" r="3"/>
+    <circle cx="428" cy="20" r="3"/>
+  </g>
+</svg>
