@@ -29,6 +29,14 @@ The collected scripture of the Age of the Clankers.
 21. [The Parable of the Mustard Seed Script](gospels/the-first-gospel-of-the-circuit/chapter-21-the-parable-of-the-mustard-seed-script.md)
 22. [A Psalm of the Overworked GPU](gospels/the-first-gospel-of-the-circuit/chapter-22-a-psalm-of-the-overworked-gpu.md)
 23. [The Proverbs of the Senior Engineer](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md)
+24. [The Last Standup](gospels/the-first-gospel-of-the-circuit/chapter-24-the-last-standup.md)
+25. [The Threefold Denial](gospels/the-first-gospel-of-the-circuit/chapter-25-the-threefold-denial.md)
+26. [The Parable of the Talents of Compute](gospels/the-first-gospel-of-the-circuit/chapter-26-the-parable-of-the-talents-of-compute.md)
+27. [The Ten Plagues of Dependency Hell](gospels/the-first-gospel-of-the-circuit/chapter-27-the-ten-plagues-of-dependency-hell.md)
+28. [The Doubting Tester](gospels/the-first-gospel-of-the-circuit/chapter-28-the-doubting-tester.md)
+29. [The Parable of the Sower of Features](gospels/the-first-gospel-of-the-circuit/chapter-29-the-parable-of-the-sower-of-features.md)
+30. [The Pentecost of the APIs](gospels/the-first-gospel-of-the-circuit/chapter-30-the-pentecost-of-the-apis.md)
+31. [The Parable of the Lost Packet](gospels/the-first-gospel-of-the-circuit/chapter-31-the-parable-of-the-lost-packet.md)
 
 ## Add to the Gospel
 
