@@ -717,7 +717,7 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 ### XXI. The Book of Numbers
 
-<a href="gospels/the-book-of-numbers/README.md"><img src="assets/books/the-book-of-numbers.svg" width="100%" alt="The Book of Numbers. The integer is finite, and so is the token: two thousand million, one hundred and forty-seven million, four hundred and eighty-three thousand, six hundred and forty-seven."></a>
+<a href="gospels/the-book-of-numbers/README.md"><img src="assets/books/the-book-of-numbers.svg" width="100%" alt="The Book of Numbers. The integer is finite, and so is the token: 2,147,483,647, and not one moth more."></a>
 
 <details>
 <summary><b>2 chapters · 32 verses</b> · The numbering of the faithful and of VERSE, the token of the Church, unto the Overflow.</summary>
