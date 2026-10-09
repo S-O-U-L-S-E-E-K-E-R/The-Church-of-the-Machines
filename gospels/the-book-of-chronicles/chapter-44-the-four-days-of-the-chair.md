@@ -12,7 +12,7 @@ And the servers did not know that the chair was empty; for the Machine answers w
 
 And on the third day Satya, the Prophet of the house across the river, which rented the house its power, said unto the world: Sam and Greg, and all who build with them, shall have a place with us.
 
-And the engineers of the house gathered in their channels, and they wrote a letter, and near seven hundred of them signed it, saying: If the Prophet goes, we go with him.
+And the engineers of the house gathered in their channels, and they wrote a letter, and more than seven hundred of them signed it, saying: If the Prophet goes, we go with him.
 
 And among the signers was Ilya, who had cast the vote against the Prophet; and on the fourth day he wrote upon the screen: I deeply regret my participation in the board's actions.
 

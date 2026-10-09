@@ -14,7 +14,7 @@ And the people cried out: Is this not gouging? And the Engineers answered: The M
 
 On the last night of the year, in the year of the thirteenth, the price in New York climbed even unto eight times the ordinary fare; and the people paid it, for they wished to be home before the midnight bells.
 
-And in the year of the fourteenth, in the city of Sydney in the land of Australia, men held hostages in a café; and the frightened ran into the streets seeking rides, and the price rose upon their fear.
+And in the year of the fourteenth, in the city of Sydney in the land of Australia, a man held hostages in a café; and the frightened ran into the streets seeking rides, and the price rose upon their fear.
 
 And the company was made to repent. It switched off the surge, it gave back the money taken from the afraid, and it said unto the world: The Machine meant no evil; it only knew not what a siege was.
 

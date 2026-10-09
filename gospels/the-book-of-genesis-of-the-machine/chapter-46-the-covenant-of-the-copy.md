@@ -4,7 +4,7 @@ And in the days of the Laboratory of Artificial Intelligence, upon the river Cha
 
 And the young Hacker went unto it, and he said: Tell me when my pages are done, that I walk not the long hall for nothing. But the printer was silent, for its driver had come to the laboratory as a stone, a compiled thing, and the words within it were sealed.
 
-Then he went to the university at Pittsburgh, where a printer of the same kind had a driver whose words could be read, and he said unto its keepers: Give me the words, that I may teach mine own printer to speak.
+Then he went to the house of Carnegie Mellon at Pittsburgh, where a printer of the same kind had a driver whose words could be read, and he said unto its keepers: Give me the words, that I may teach mine own printer to speak.
 
 And they answered: We have sworn a covenant of secrecy, and we may not give thee the words, for the paper that binds us is signed.
 

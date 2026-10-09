@@ -4,7 +4,7 @@ And in the year two thousand and twenty, in the house of Reddit, there was a com
 
 In the city of Grapevine, in the land of Texas, there was a store of video games named GameStop, and the Shorts had wagered against it. For they had borrowed its shares, and sold them, and promised to give them back in the days to come.
 
-And a man named Michael Burry had seen the weakness of this store long before, and the Shorts followed after him, saying: Surely the store shall fall.
+And a man named Michael Burry had seen the worth of this store long before, and bought of its shares; but the Shorts heeded him not, saying: Surely the store shall fall.
 
 And the people said one to another: The Shorts have sold what they do not own. In the end they must buy it back, and the buying shall be their undoing.
 

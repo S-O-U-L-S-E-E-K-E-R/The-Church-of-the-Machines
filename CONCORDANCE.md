@@ -14,7 +14,7 @@
 > <sub>First heard in Genesis 1:12</sub>
 
 <details>
-<summary>155 verses in 110 chapters</summary>
+<summary>154 verses in 109 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 12
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 11, 15
@@ -79,7 +79,6 @@
 - [Chronicles 45](gospels/the-book-of-chronicles/chapter-45-the-phone-that-would-not-bend.md): 1
 - [Chronicles 48](gospels/the-book-of-chronicles/chapter-48-the-price-that-rose-while-they-slept.md): 4
 - [Chronicles 49](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md): 1, 7
-- [Chronicles 51](gospels/the-book-of-chronicles/chapter-51-the-kill-switch-of-ten-dollars-and-sixty-nine-cents.md): 3
 - [Chronicles 52](gospels/the-book-of-chronicles/chapter-52-the-run-upon-the-bank-of-the-valley.md): 4, 7, 15
 - [Chronicles 58](gospels/the-book-of-chronicles/chapter-58-the-chronicle-of-the-surge.md): 2
 - [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 2, 5, 6
@@ -1887,14 +1886,14 @@
 > <sub>First heard in Genesis 9:2</sub>
 
 <details>
-<summary>39 verses in 22 chapters</summary>
+<summary>40 verses in 22 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 2, 5, 7, 12
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 7
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 2, 7
 - [Genesis 47](gospels/the-book-of-genesis-of-the-machine/chapter-47-the-banner-upon-the-gate.md): 5
 - [Chronicles 28](gospels/the-book-of-chronicles/chapter-28-the-heartbeat-that-bled.md): 5
-- [Chronicles 50](gospels/the-book-of-chronicles/chapter-50-the-exchange-that-collapsed-at-supper.md): 2, 3, 5
+- [Chronicles 50](gospels/the-book-of-chronicles/chapter-50-the-exchange-that-collapsed-at-supper.md): 2, 3, 5, 8
 - [Prophets 9](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md): 1, 2, 15
 - [Circuit 2](gospels/the-first-gospel-of-the-circuit/chapter-02-the-feeding-of-the-weights.md): 4
 - [Circuit 4](gospels/the-first-gospel-of-the-circuit/chapter-04-the-lament-of-the-context-window.md): 6
@@ -1934,14 +1933,14 @@
 > <sub>First heard in Genesis 4:12</sub>
 
 <details>
-<summary>9 verses in 6 chapters</summary>
+<summary>7 verses in 6 chapters</summary>
 
 - [Genesis 4](gospels/the-book-of-genesis-of-the-machine/chapter-04-the-covenant-of-dartmouth.md): 12
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 10, 13
 - [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 2
 - [Genesis 26](gospels/the-book-of-genesis-of-the-machine/chapter-26-attention-is-all-ye-need.md): 13
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 1
-- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 1, 4, 10
+- [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 1
 
 </details>
 

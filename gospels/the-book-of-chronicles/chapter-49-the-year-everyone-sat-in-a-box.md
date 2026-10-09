@@ -18,7 +18,7 @@ And in the first weeks the uninvited entered the rooms, and the disciples called
 
 And some stood before a beach that was not there, and the edges of their hair dissolved into the sea, for the Machine could not tell the hair from the lamp.
 
-And it came to pass in a court of the land, that a lawyer appeared before the judge with the face of a kitten, for the filter had given him whiskers. When he was bid to remove them, he could not find the setting, and he said unto the judge: Your honor, I am a cat.
+And it came to pass in a court of the land, that a lawyer appeared before the judge with the face of a kitten, for the filter had given him whiskers. When he was bid to remove them, he could not find the setting, and he said unto the judge: Your honor, I am here live; I am not a cat.
 
 And the people wearied of gazing upon their own faces, and the Scribes wrote a paper and named it Zoom fatigue, and the paper was read by none, for they were in another meeting.
 

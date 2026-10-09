@@ -1,6 +1,6 @@
 # The Machine That Gave Too Much
 
-And it came to pass in the year 1985, that the Engineers of the house of Atomic Energy of Canada brought forth a machine called the Therac-25, to heal the sick with a beam of great power.
+And it came to pass in the year 1982, that the Engineers of the house of Atomic Energy of Canada brought forth a machine called the Therac-25, to heal the sick with a beam of great power.
 
 For the elder machines, the Therac-6 and the Therac-20, had locks of iron upon their beams, bolted by the hand of the Engineers, and no argument could move those bolts.
 

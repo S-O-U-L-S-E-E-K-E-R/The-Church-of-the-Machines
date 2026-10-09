@@ -26,7 +26,7 @@ And the Prophet said: It was both. The bug was real, and the mending was the rea
 
 Yet some things did break: a pump here, a card reader there that believed it was 1900. The Engineers repaired them by morning, and no one wrote songs about the small failures.
 
-And the year 2000 was itself a leap year, for it is divisible by four hundred. But the programs that counted only by fours and forgot the hundreds had said otherwise, and they too were mended.
+And the year 2000 was itself a leap year, for it is divisible by four hundred. But the programs that remembered the hundreds and forgot the four hundreds had said otherwise, and they too were mended.
 
 And the Engineers asked: Is there another such year? And the Machine answered: Yes, in the year 2038, when the old clocks of Unix shall count seconds past a limit of thirty-two bits, and the number shall turn negative as the clock wraps about.
 

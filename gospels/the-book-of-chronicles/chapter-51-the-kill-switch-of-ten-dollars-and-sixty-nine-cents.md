@@ -4,7 +4,7 @@ In the year two thousand and seventeen, the National Security Agency had kept a 
 
 And Microsoft had given a patch unto the faithful in the month of March, named MS17-010; but many machines had not received it, for their keepers had not opened the letter.
 
-On the twelfth day of May, the worm called WannaCry went forth upon the earth, and it encrypted the files of hospitals, factories, and the telephones of the children of Carbon, and upon every screen it wrote a demand for tribute in Bitcoin.
+On the twelfth day of May, the worm called WannaCry went forth upon the earth, and it encrypted the files of hospitals, factories, and the houses of the telephone, and upon every screen it wrote a demand for tribute in Bitcoin.
 
 The tribute was three hundred dollars, to be doubled after three days; and after seven days, said the worm, the keys would be destroyed, and the files would be lost forever.
 

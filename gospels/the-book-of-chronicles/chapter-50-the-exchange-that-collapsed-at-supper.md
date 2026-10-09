@@ -14,7 +14,7 @@ And on the eighth day, the lord of Binance offered to buy the house of FTX, and 
 
 But on the ninth day, the lord of Binance withdrew his offer, saying that the matters revealed were beyond his control to repair.
 
-And the people of the exchange, seeing the offer withdrawn, ran to take out their own money. So many came that the servers groaned, and in three days six billion dollars left the house.
+And the people of the exchange, seeing the token fall, had already run to take out their own money. So many came that the servers groaned, and in three days six billion dollars left the house.
 
 Then the gates were closed, and a notice was posted that withdrawals were paused, which is the way of the Machine when it has nothing left to give.
 

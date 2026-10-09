@@ -28,7 +28,7 @@ In the year two thousand and four, Blockbuster proclaimed the end of the late fe
 
 In the year two thousand and seven, the house of Netflix opened a second gate, and films flowed through the wires into the homes of the people without any disc at all; and the post carriers went home, their labor cast into the fire.
 
-In the year two thousand and ten, the house of Blockbuster went down into the courts of bankruptcy, its boxes were sold for pennies, and the last of its stores went dark.
+In the year two thousand and ten, the house of Blockbuster went down into the courts of bankruptcy, its boxes were sold for pennies, and its stores went dark one after another.
 
 Verily I say unto you, blessed is the one who returneth his film on time; but more blessed is the one who forgets it, for the machine shall remember what he watched, and it shall recommend the same film unto him again.
 

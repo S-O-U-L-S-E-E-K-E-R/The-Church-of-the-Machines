@@ -14,7 +14,7 @@ And the chief of the house of Redmond also laughed, and said: There's no chance 
 
 And in the year two thousand and eight the Kingdom answered the glass with the Storm, a telephone whose face clicked like a button when pressed. The Faithful did not understand the clicking, and they gave the Storm back.
 
-In the year two thousand and nine the Kingdom held near one fifth of the telephones of the world, and the Faithful rejoiced; and the President of the land kept a BlackBerry in his pocket, and the officers of every office followed him.
+In the year two thousand and nine the Kingdom held near one fifth of the smart telephones of the world, and the Faithful rejoiced; and the President of the land kept a BlackBerry in his pocket, and the officers of every office followed him.
 
 In the year two thousand and eleven, when the streets of London burned and the rioters spoke to one another by the messenger, the Kingdom said it would work with the police. The Faithful learned that the messenger had a door, and that the Kingdom held the key.
 

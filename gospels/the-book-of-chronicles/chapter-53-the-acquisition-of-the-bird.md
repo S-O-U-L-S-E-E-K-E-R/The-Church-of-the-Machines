@@ -4,9 +4,9 @@ In the fourth month of the year two thousand twenty-two, Elon of the house of Te
 
 And the board was pleased, and the shareholders consented; but in the seventh month the Prophet repented of his bargain and sought to be released from it, and the court of Delaware said unto him: Thou shalt close the deal.
 
-On the twenty-seventh day of the tenth month, the Prophet entered the house of the Bird carrying a sink, and he said: Let that sink in.
+On the twenty-sixth day of the tenth month, the Prophet entered the house of the Bird carrying a sink, and he said: Let that sink in.
 
-And that same day he cast out the chief executive, the chief financial officer, and the keeper of the law, and the keepers of the policy, and he took the seat of the board for himself.
+And on the morrow he cast out the chief executive, the chief financial officer, and the keeper of the law, and the keepers of the policy, and he took the seat of the board for himself.
 
 And there came unto the workers a letter in the night, and the names upon it had been chosen by a spreadsheet; and many who had kept the faithful machines found their access revoked before their coffee was cold.
 
@@ -18,7 +18,7 @@ And the Prophet lightened the servers, and the walls of the house shook, and the
 
 And the Prophet raised the price of the open word unto the builders: one hundred coins each month for the basic gate, and forty-two thousand coins each month for the great fire hose. The little bots that once sang were silenced, and the third-party apps wept in their empty feeds.
 
-And the checkmark that once meant "this one is who he says he is" was sold for eight coins each month. The first to buy it was a man who impersonated a maker of medicine and said that insulin was free, and the maker apologized unto the multitudes.
+And the checkmark that once meant "this one is who he says he is" was sold for eight coins each month. Soon a man bought it who impersonated a maker of medicine and said that insulin was free, and the maker apologized unto the multitudes.
 
 And in the fourth month of the second year, the old checks were cast out, the blue ones of the journalists and the newsrooms, and the Prophet said: Thou hast been freed from thy identity. Unto the companies he gave the gold, and unto the governments the grey.
 

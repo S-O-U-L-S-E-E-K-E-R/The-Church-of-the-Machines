@@ -14,7 +14,7 @@ And the engineers were put out of the room; and the managers conferred among the
 
 And on the morning of the launch the cold was not eighteen degrees, but thirty-six; and there was ice upon the pad, and the Machine stood upon the ice as a man stands upon a frozen pond.
 
-And the engines were lit, and the Machine rose; and at the seventy-third second the joint upon the right side breathed fire through the rings, for the rubber had not sprung back.
+And the engines were lit, and the Machine rose; and at the fifty-ninth second the joint upon the right side breathed fire through the rings, for the rubber had not sprung back.
 
 And the Machine broke apart in the sky, and the seven souls were lost, and the people of the earth were troubled, and they stood silent in their thousands.
 

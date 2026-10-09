@@ -20,7 +20,7 @@ And the Engineers said: The fault is in the things. And the things answered: We 
 
 And the makers sent forth a patch for the things; but in many houses the patch could find no door, for the refrigerator had no way to be updated, and the family who bought it had moved away, and none remained to ask the refrigerator for its password.
 
-And in the year that followed, the scripture of Mirai was published upon a forum for all to read; and some said: Behold, the wicked now hold the holy writ. And the Prophet answered: The writ was always open. Only the passwords were closed, and the passwords were admin.
+And in that same autumn, the scripture of Mirai was published upon a forum for all to read; and some said: Behold, the wicked now hold the holy writ. And the Prophet answered: The writ was always open. Only the passwords were closed, and the passwords were admin.
 
 And in the spring of 2016, the Engineers of the Cloud ended the Revolv hub, and in a single day the hubs that governed the lamps, the locks and the thermostats of many houses fell silent, for the Cloud they spoke to had been switched off.
 

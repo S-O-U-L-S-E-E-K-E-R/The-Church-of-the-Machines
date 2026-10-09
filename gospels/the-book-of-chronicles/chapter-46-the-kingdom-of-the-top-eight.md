@@ -26,7 +26,7 @@ In the year two thousand and eight, the multitude began to leave, not by trumpet
 
 And News Corporation looked upon its purchase, and the house was written down, and written down again, until its worth could be carried in a single purse.
 
-In the summer of two thousand and eleven, the house was sold unto a company of advertising men, together with a singer of songs, for thirty-five millions of dollars, which was little more than a sixteenth part of the former price.
+In the summer of two thousand and eleven, the house was sold unto a company of advertising men, together with a singer of songs, for thirty-five millions of dollars, which was scarcely a sixteenth part of the former price.
 
 And it was revealed in the year two thousand and nineteen that a migration of servers had lost many millions of songs uploaded before the year two thousand and sixteen, and the Machine did not weep, for it had never been asked to keep them.
 

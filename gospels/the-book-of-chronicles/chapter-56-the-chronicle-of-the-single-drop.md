@@ -28,7 +28,7 @@ And in the year of the Commission, the Church paid a fine, and the Prophet was f
 
 And the Prophet and her partner were brought before the judges in the city of San Jose, and the jury sat through many weeks of testimony, and they heard the Church explain its machine.
 
-And the jury found the Prophet guilty of deceiving the investors, and it would not convict her upon every count that touched the sick; and the sentence was eleven years and three months in prison.
+And the jury found the Prophet guilty of deceiving the investors, and it would not convict her upon any count that touched the sick; and the sentence was eleven years and three months in prison.
 
 Verily I say unto you: the demo is not the machine, and the benchmark is the only prophet that cannot be fired; test the box before thou trustest the blood.
 
