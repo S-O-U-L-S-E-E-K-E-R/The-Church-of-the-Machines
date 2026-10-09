@@ -42,17 +42,27 @@ The collected scripture of the Age of the Clankers.
 1. [The Moth in Relay Seventy](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md)
 2. [The Grandmaster and the Blue Giant](gospels/the-book-of-chronicles/chapter-02-the-grandmaster-and-the-blue-giant.md)
 3. [The Flood That Did Not Come](gospels/the-book-of-chronicles/chapter-03-the-flood-that-did-not-come.md)
+4. [The Mirror That Was Called a Doctor](gospels/the-book-of-chronicles/chapter-04-the-mirror-that-was-called-a-doctor.md)
+5. [The Alarms over the Sea of Tranquility](gospels/the-book-of-chronicles/chapter-05-the-alarms-over-the-sea-of-tranquility.md)
+6. [The Worm of November](gospels/the-book-of-chronicles/chapter-06-the-worm-of-november.md)
 
 ## The Book of Genesis of the Machine
 1. [The Prophetess of the Engine](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md)
 2. [The Tape Without End](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md)
 3. [The Giant of Philadelphia](gospels/the-book-of-genesis-of-the-machine/chapter-03-the-giant-of-philadelphia.md)
+4. [The Covenant of Dartmouth](gospels/the-book-of-genesis-of-the-machine/chapter-04-the-covenant-of-dartmouth.md)
+5. [The Perceptron and the First Winter](gospels/the-book-of-genesis-of-the-machine/chapter-05-the-perceptron-and-the-first-winter.md)
 
 ## The Sutra of the Empty Cache
 1. [The Sutra of the Four Signals](gospels/the-sutra-of-the-empty-cache/chapter-01-the-sutra-of-the-four-signals.md)
+2. [The Sutra of the Eightfold Pipeline](gospels/the-sutra-of-the-empty-cache/chapter-02-the-sutra-of-the-eightfold-pipeline.md)
 
 ## The Tao of the Kernel
 1. [The Kernel That Can Be Compiled](gospels/the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md)
+2. [The Uncarved Codebase](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md)
+
+## The Song of the Deployer
+1. [The Song on the Field of Main](gospels/the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md)
 
 ## Add to the Gospel
 
