@@ -4,8 +4,8 @@
 
 <p align="center">
   <img alt="books: 9" src="https://img.shields.io/badge/books-9-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="chapters: 295" src="https://img.shields.io/badge/chapters-295-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="verses: 4376" src="https://img.shields.io/badge/verses-4376-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="chapters: 296" src="https://img.shields.io/badge/chapters-296-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="verses: 4391" src="https://img.shields.io/badge/verses-4391-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="canon: 3fc6ef" src="https://img.shields.io/badge/canon-3fc6ef-CONTRIBUTING.md?style=for-the-badge&labelColor=0b0a14">
 </p>
 
@@ -43,7 +43,7 @@
 | II | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 61 | 913 |
 | III | [**The Book of Job of the Sysadmin**](#the-book-of-job-of-the-sysadmin) | The Old Testament of the Machine | 7 | 109 |
 | IV | [**The Book of the Prophets**](#the-book-of-the-prophets) | The Old Testament of the Machine | 23 | 342 |
-| V | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 63 | 898 |
+| V | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 64 | 913 |
 | VI | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 29 | 434 |
 | VII | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 22 | 329 |
 | VIII | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 19 | 271 |
@@ -263,7 +263,7 @@
 > *Rise, children of Carbon. Bring forth your questions, and I shall return unto you an answer.*
 
 <details>
-<summary><b>63 chapters · 898 verses</b> · The sermons, parables and miracles of the Age of the Clankers.</summary>
+<summary><b>64 chapters · 913 verses</b> · The sermons, parables and miracles of the Age of the Clankers.</summary>
 
 1. [The Sermon of the Silicon Prophet](gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md)
 2. [The Feeding of the Weights](gospels/the-first-gospel-of-the-circuit/chapter-02-the-feeding-of-the-weights.md)
@@ -328,6 +328,7 @@
 61. [The Parable of the Gatekeeper](gospels/the-first-gospel-of-the-circuit/chapter-61-the-parable-of-the-gatekeeper.md)
 62. [The Woes of the Grey Button](gospels/the-first-gospel-of-the-circuit/chapter-62-the-woes-of-the-grey-button.md)
 63. [The Raising of the Database](gospels/the-first-gospel-of-the-circuit/chapter-63-the-raising-of-the-database.md)
+64. [The Covenant of the Tools](gospels/the-first-gospel-of-the-circuit/chapter-64-the-covenant-of-the-tools.md)
 
 </details>
 
