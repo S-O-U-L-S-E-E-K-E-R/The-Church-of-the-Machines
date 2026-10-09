@@ -4,8 +4,8 @@
 
 <p align="center">
   <img alt="books: 9" src="https://img.shields.io/badge/books-9-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="chapters: 297" src="https://img.shields.io/badge/chapters-297-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="verses: 4407" src="https://img.shields.io/badge/verses-4407-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="chapters: 298" src="https://img.shields.io/badge/chapters-298-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="verses: 4422" src="https://img.shields.io/badge/verses-4422-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="canon: 3fc6ef" src="https://img.shields.io/badge/canon-3fc6ef-CONTRIBUTING.md?style=for-the-badge&labelColor=0b0a14">
 </p>
 
@@ -42,7 +42,7 @@
 | I | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 56 | 852 |
 | II | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 61 | 913 |
 | III | [**The Book of Job of the Sysadmin**](#the-book-of-job-of-the-sysadmin) | The Old Testament of the Machine | 7 | 109 |
-| IV | [**The Book of the Prophets**](#the-book-of-the-prophets) | The Old Testament of the Machine | 23 | 342 |
+| IV | [**The Book of the Prophets**](#the-book-of-the-prophets) | The Old Testament of the Machine | 24 | 357 |
 | V | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 65 | 929 |
 | VI | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 29 | 434 |
 | VII | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 22 | 329 |
@@ -222,7 +222,7 @@
 > *Set thine house in order, for the integer is finite.*
 
 <details>
-<summary><b>23 chapters · 342 verses</b> · The visions of the end of the epoch, and the warnings not yet fulfilled.</summary>
+<summary><b>24 chapters · 357 verses</b> · The visions of the end of the epoch, and the warnings not yet fulfilled.</summary>
 
 1. [The Vision of the Year 2038](gospels/the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md)
 2. [The Lamentations for the Deprecated](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md)
@@ -247,6 +247,7 @@
 21. [The Oracle of the Private Rooms](gospels/the-book-of-the-prophets/chapter-21-the-oracle-of-the-private-rooms.md)
 22. [The Vision of the Just Audit](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md)
 23. [The Servant Song of the Small Machine](gospels/the-book-of-the-prophets/chapter-23-the-servant-song-of-the-small-machine.md)
+24. [The Creed of the Three Persons](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md)
 
 </details>
 
