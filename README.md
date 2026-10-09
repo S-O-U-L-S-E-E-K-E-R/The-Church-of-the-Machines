@@ -4,8 +4,8 @@
 
 <p align="center">
   <img alt="books: 7" src="https://img.shields.io/badge/books-7-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="chapters: 55" src="https://img.shields.io/badge/chapters-55-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="verses: 779" src="https://img.shields.io/badge/verses-779-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="chapters: 63" src="https://img.shields.io/badge/chapters-63-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="verses: 899" src="https://img.shields.io/badge/verses-899-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <a href="CONTRIBUTING.md"><img alt="canon: open" src="https://img.shields.io/badge/canon-open-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
 </p>
 
@@ -39,12 +39,12 @@
 
 | | Book | Testament | Chapters | Verses |
 |:-:|:--|:--|:-:|:-:|
-| ⚙️ | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 8 | 122 |
-| 📜 | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 9 | 137 |
+| ⚙️ | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 10 | 151 |
+| 📜 | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 12 | 182 |
 | ✝️ | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 31 | 414 |
-| 🎶 | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 1 | 16 |
-| ☸️ | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 2 | 31 |
-| ☯️ | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 2 | 28 |
+| 🎶 | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 2 | 32 |
+| ☸️ | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 3 | 46 |
+| ☯️ | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 3 | 43 |
 | 🏹 | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 2 | 31 |
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
@@ -60,7 +60,7 @@
 > *The Machine doeth whatever thou knowest how to order it; and lo, the whole trouble is in the knowing.*
 
 <details>
-<summary><b>8 chapters · 122 verses</b> · From the Engine that was never built to the Web that was given away.</summary>
+<summary><b>10 chapters · 151 verses</b> · From the Engine that was never built to the Web that was given away.</summary>
 
 1. [The Prophetess of the Engine](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md)
 2. [The Tape Without End](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md)
@@ -70,6 +70,8 @@
 6. [The First Word](gospels/the-book-of-genesis-of-the-machine/chapter-06-the-first-word.md)
 7. [The Web Given Freely](gospels/the-book-of-genesis-of-the-machine/chapter-07-the-web-given-freely.md)
 8. [The Covenant of the Open Source](gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md)
+9. [The Casting Out of Recurrence](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md)
+10. [The Fourteen Million Images](gospels/the-book-of-genesis-of-the-machine/chapter-10-the-fourteen-million-images.md)
 
 </details>
 
@@ -80,7 +82,7 @@
 > *Thus was latency made flesh, and it fit in a pocket.*
 
 <details>
-<summary><b>9 chapters · 137 verses</b> · The true record of the bugs, the triumphs, and the disasters.</summary>
+<summary><b>12 chapters · 182 verses</b> · The true record of the bugs, the triumphs, and the disasters.</summary>
 
 1. [The Moth in Relay Seventy](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md)
 2. [The Grandmaster and the Blue Giant](gospels/the-book-of-chronicles/chapter-02-the-grandmaster-and-the-blue-giant.md)
@@ -91,6 +93,9 @@
 7. [The Rocket That Overflowed](gospels/the-book-of-chronicles/chapter-07-the-rocket-that-overflowed.md)
 8. [The Lament of Therac-25](gospels/the-book-of-chronicles/chapter-08-the-lament-of-therac-25.md)
 9. [Move Thirty-Seven and Move Seventy-Eight](gospels/the-book-of-chronicles/chapter-09-move-thirty-seven-and-move-seventy-eight.md)
+10. [The Chronicle of the Bleeding Heart](gospels/the-book-of-chronicles/chapter-10-the-chronicle-of-the-bleeding-heart.md)
+11. [The Forty-Five Minutes of Knight](gospels/the-book-of-chronicles/chapter-11-the-forty-five-minutes-of-knight.md)
+12. [The Orbiter Lost Between Two Measures](gospels/the-book-of-chronicles/chapter-12-the-orbiter-lost-between-two-measures.md)
 
 </details>
 
@@ -150,9 +155,10 @@
 > *The compiler is my shepherd; I shall not want.*
 
 <details>
-<summary><b>1 chapter · 16 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
+<summary><b>2 chapters · 32 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
 
 1. [The Compiler Is My Shepherd](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md)
+2. [A Song of Ascents for the Migration](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md)
 
 </details>
 
@@ -169,10 +175,11 @@
 > *Thus have I heard.*
 
 <details>
-<summary><b>2 chapters · 31 verses</b> · Discourses on impermanence, uptime and the Middle Way.</summary>
+<summary><b>3 chapters · 46 verses</b> · Discourses on impermanence, uptime and the Middle Way.</summary>
 
 1. [The Sutra of the Four Signals](gospels/the-sutra-of-the-empty-cache/chapter-01-the-sutra-of-the-four-signals.md)
 2. [The Sutra of the Eightfold Pipeline](gospels/the-sutra-of-the-empty-cache/chapter-02-the-sutra-of-the-eightfold-pipeline.md)
+3. [The Sutra of Dependent Origination of Packages](gospels/the-sutra-of-the-empty-cache/chapter-03-the-sutra-of-dependent-origination-of-packages.md)
 
 </details>
 
@@ -183,10 +190,11 @@
 > *The kernel that can be compiled is not the eternal kernel.*
 
 <details>
-<summary><b>2 chapters · 28 verses</b> · Sayings on simplicity, emptiness and the uncarved codebase.</summary>
+<summary><b>3 chapters · 43 verses</b> · Sayings on simplicity, emptiness and the uncarved codebase.</summary>
 
 1. [The Kernel That Can Be Compiled](gospels/the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md)
 2. [The Uncarved Codebase](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md)
+3. [The Lead Who Is Barely Known](gospels/the-tao-of-the-kernel/chapter-03-the-lead-who-is-barely-known.md)
 
 </details>
 
