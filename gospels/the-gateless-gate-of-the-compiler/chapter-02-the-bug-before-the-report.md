@@ -34,4 +34,4 @@ Then Thomas bowed and shouldered his bag of clean installs, and he did not retur
 
 ---
 
-<p align="center"><sub><a href="chapter-01-the-cases-of-the-unspeakable-name.md">&larr; Gate 1: The Cases of the Unspeakable Name</a> &nbsp;&middot;&nbsp; <a href="README.md">The Gateless Gate of the Compiler</a> &nbsp;&middot;&nbsp; <a href="../the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md">Upanishads 1: The Discourse of Not This, Not This &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-01-the-cases-of-the-unspeakable-name.md">&larr; Gate 1: The Cases of the Unspeakable Name</a> &nbsp;&middot;&nbsp; <a href="README.md">The Gateless Gate of the Compiler</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-cases-of-the-slow-dashboard.md">Gate 3: The Cases of the Slow Dashboard &rarr;</a></sub></p>

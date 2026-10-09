@@ -32,4 +32,4 @@ CHORUS (EPODE): We speak not his name, for it was struck from the MAINTAINERS fi
 
 ---
 
-<p align="center"><sub><a href="../the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md">&larr; Preacher 1: The Words of the Preacher</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Hellenes</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-voyage-of-jonah-of-the-many-pivots.md">Hellenes 2: The Voyage of Jonah of the Many Pivots &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-book-of-the-preacher/chapter-03-the-casting-upon-the-waters.md">&larr; Preacher 3: The Casting upon the Waters</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Hellenes</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-voyage-of-jonah-of-the-many-pivots.md">Hellenes 2: The Voyage of Jonah of the Many Pivots &rarr;</a></sub></p>

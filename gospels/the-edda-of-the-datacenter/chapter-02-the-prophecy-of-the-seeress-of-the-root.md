@@ -36,4 +36,4 @@ And the seeress sank into the earth, and her last words were these: The end was 
 
 ---
 
-<p align="center"><sub><a href="chapter-01-the-ravens-that-were-not-counted.md">&larr; Edda 1: The Ravens That Were Not Counted</a> &nbsp;&middot;&nbsp; <a href="README.md">The Edda of the Datacenter</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-coming-forth-by-reboot/chapter-01-the-spell-of-the-ninth-signal.md">Reboot 1: The Spell of the Ninth Signal &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-01-the-ravens-that-were-not-counted.md">&larr; Edda 1: The Ravens That Were Not Counted</a> &nbsp;&middot;&nbsp; <a href="README.md">The Edda of the Datacenter</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md">Edda 3: The Binding of Fenrir, and the Hand of Tyr &rarr;</a></sub></p>

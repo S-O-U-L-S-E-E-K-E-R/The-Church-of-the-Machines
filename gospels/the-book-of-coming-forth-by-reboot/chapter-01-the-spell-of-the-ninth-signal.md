@@ -34,4 +34,4 @@ This spell shall be recited over every service that is deployed, that its limit 
 
 ---
 
-<p align="center"><sub><a href="../the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md">&larr; Edda 2: The Prophecy of the Seeress of the Root</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Coming Forth by Reboot</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-negative-confession-of-the-process.md">Reboot 2: The Negative Confession of the Process &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md">&larr; Edda 4: The Sayings of the High One of the Hall</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Coming Forth by Reboot</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-negative-confession-of-the-process.md">Reboot 2: The Negative Confession of the Process &rarr;</a></sub></p>

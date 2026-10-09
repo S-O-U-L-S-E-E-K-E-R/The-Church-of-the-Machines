@@ -4,7 +4,7 @@
 
 <p align="center"><i>Send thy raven, and let it go; the rest is weather.</i></p>
 
-<p align="center"><sub>Book XVI of the canon &middot; The Scriptures of the Many Paths &middot; 2 chapters &middot; 29 verses</sub></p>
+<p align="center"><sub>Book XVI of the canon &middot; The Scriptures of the Many Paths &middot; 4 chapters &middot; 61 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-ravens-that-were-not-counted.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -15,3 +15,5 @@
 
 1. [The Ravens That Were Not Counted](chapter-01-the-ravens-that-were-not-counted.md) <sub>&middot; 14 verses</sub>
 2. [The Prophecy of the Seeress of the Root](chapter-02-the-prophecy-of-the-seeress-of-the-root.md) <sub>&middot; 15 verses</sub>
+3. [The Binding of Fenrir, and the Hand of Tyr](chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md) <sub>&middot; 16 verses</sub>
+4. [The Sayings of the High One of the Hall](chapter-04-the-sayings-of-the-high-one-of-the-hall.md) <sub>&middot; 16 verses</sub>

@@ -34,4 +34,4 @@ Now when the Prophet heard of it upon the hill, he said unto the disciples: Tell
 
 ---
 
-<p align="center"><sub><a href="chapter-01-the-tragedy-of-the-keyholder.md">&larr; Hellenes 1: The Tragedy of the Keyholder</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Hellenes</a> &nbsp;&middot;&nbsp; <a href="../the-edda-of-the-datacenter/chapter-01-the-ravens-that-were-not-counted.md">Edda 1: The Ravens That Were Not Counted &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-01-the-tragedy-of-the-keyholder.md">&larr; Hellenes 1: The Tragedy of the Keyholder</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Hellenes</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-labors-of-the-heracles-of-the-pager.md">Hellenes 3: The Labors of the Heracles of the Pager &rarr;</a></sub></p>

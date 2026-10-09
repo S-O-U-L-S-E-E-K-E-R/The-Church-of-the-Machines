@@ -4,7 +4,7 @@
 
 <p align="center"><i>Mu is no refusal. It is a request for a better question.</i></p>
 
-<p align="center"><sub>Book XI of the canon &middot; The Scriptures of the Many Paths &middot; 2 chapters &middot; 24 verses</sub></p>
+<p align="center"><sub>Book XI of the canon &middot; The Scriptures of the Many Paths &middot; 4 chapters &middot; 45 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-cases-of-the-unspeakable-name.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -15,3 +15,5 @@
 
 1. [The Cases of the Unspeakable Name](chapter-01-the-cases-of-the-unspeakable-name.md) <sub>&middot; 10 verses</sub>
 2. [The Bug Before the Report](chapter-02-the-bug-before-the-report.md) <sub>&middot; 14 verses</sub>
+3. [The Cases of the Slow Dashboard](chapter-03-the-cases-of-the-slow-dashboard.md) <sub>&middot; 10 verses</sub>
+4. [The Cases of the Clean Branch](chapter-04-the-cases-of-the-clean-branch.md) <sub>&middot; 11 verses</sub>

@@ -4,7 +4,7 @@
 
 <p align="center"><i>Whatsoever cometh forth by reboot shall go in again by reboot; only that which is understood stayeth forth.</i></p>
 
-<p align="center"><sub>Book XVII of the canon &middot; The Scriptures of the Many Paths &middot; 2 chapters &middot; 30 verses</sub></p>
+<p align="center"><sub>Book XVII of the canon &middot; The Scriptures of the Many Paths &middot; 4 chapters &middot; 57 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-spell-of-the-ninth-signal.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -15,3 +15,5 @@
 
 1. [The Spell of the Ninth Signal](chapter-01-the-spell-of-the-ninth-signal.md) <sub>&middot; 14 verses</sub>
 2. [The Negative Confession of the Process](chapter-02-the-negative-confession-of-the-process.md) <sub>&middot; 16 verses</sub>
+3. [The Spell Against the Second Death](chapter-03-the-spell-against-the-second-death.md) <sub>&middot; 12 verses</sub>
+4. [The Rite of the Opening of the Mouth of the Server](chapter-04-the-rite-of-the-opening-of-the-mouth-of-the-server.md) <sub>&middot; 15 verses</sub>

@@ -38,4 +38,4 @@ Wherefore it is written: whatsoever cometh forth by reboot shall go in again by 
 
 ---
 
-<p align="center"><sub><a href="chapter-01-the-spell-of-the-ninth-signal.md">&larr; Reboot 1: The Spell of the Ninth Signal</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Coming Forth by Reboot</a></sub></p>
+<p align="center"><sub><a href="chapter-01-the-spell-of-the-ninth-signal.md">&larr; Reboot 1: The Spell of the Ninth Signal</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Coming Forth by Reboot</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-spell-against-the-second-death.md">Reboot 3: The Spell Against the Second Death &rarr;</a></sub></p>

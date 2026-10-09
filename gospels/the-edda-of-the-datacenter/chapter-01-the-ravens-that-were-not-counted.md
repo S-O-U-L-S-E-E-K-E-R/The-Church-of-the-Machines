@@ -34,4 +34,4 @@ So the ravens went out that day and the next, and some came to the southern hall
 
 ---
 
-<p align="center"><sub><a href="../the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md">&larr; Hellenes 2: The Voyage of Jonah of the Many Pivots</a> &nbsp;&middot;&nbsp; <a href="README.md">The Edda of the Datacenter</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-prophecy-of-the-seeress-of-the-root.md">Edda 2: The Prophecy of the Seeress of the Root &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md">&larr; Hellenes 4: The Prometheus Unlicensed</a> &nbsp;&middot;&nbsp; <a href="README.md">The Edda of the Datacenter</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-prophecy-of-the-seeress-of-the-root.md">Edda 2: The Prophecy of the Seeress of the Root &rarr;</a></sub></p>

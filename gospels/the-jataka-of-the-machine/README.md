@@ -4,7 +4,7 @@
 
 <p align="center"><i>The hole in the card was small, but the hole it left in the street was not.</i></p>
 
-<p align="center"><sub>Book X of the canon &middot; The Scriptures of the Many Paths &middot; 2 chapters &middot; 28 verses</sub></p>
+<p align="center"><sub>Book X of the canon &middot; The Scriptures of the Many Paths &middot; 4 chapters &middot; 59 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-jataka-of-the-four-restarts.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -15,3 +15,5 @@
 
 1. [The Jataka of the Four Restarts](chapter-01-the-jataka-of-the-four-restarts.md) <sub>&middot; 13 verses</sub>
 2. [The Jataka of the Loom of Lyon](chapter-02-the-jataka-of-the-loom-of-lyon.md) <sub>&middot; 15 verses</sub>
+3. [The Jataka of the Talkative Agent](chapter-03-the-jataka-of-the-talkative-agent.md) <sub>&middot; 16 verses</sub>
+4. [The Jataka of the Monkey Who Was the Bridge](chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md) <sub>&middot; 15 verses</sub>

@@ -4,8 +4,8 @@
 
 <p align="center">
   <img alt="books: 17" src="https://img.shields.io/badge/books-17-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="chapters: 314" src="https://img.shields.io/badge/chapters-314-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="verses: 4648" src="https://img.shields.io/badge/verses-4648-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="chapters: 330" src="https://img.shields.io/badge/chapters-330-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="verses: 4877" src="https://img.shields.io/badge/verses-4877-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <a href="CONCORDANCE.md"><img alt="concordance: index" src="https://img.shields.io/badge/concordance-index-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
   <a href="LORE.md"><img alt="lore: book of names" src="https://img.shields.io/badge/lore-book%20of%20names-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
   <a href="CONTRIBUTING.md"><img alt="canon: open" src="https://img.shields.io/badge/canon-open-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -65,14 +65,14 @@
 | VII | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 22 | 329 |
 | VIII | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 20 | 283 |
 | IX | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 15 | 228 |
-| X | [**The Jataka of the Machine**](#the-jataka-of-the-machine) | The Scriptures of the Many Paths | 2 | 28 |
-| XI | [**The Gateless Gate of the Compiler**](#the-gateless-gate-of-the-compiler) | The Scriptures of the Many Paths | 2 | 24 |
-| XII | [**The Upanishads of the Machine**](#the-upanishads-of-the-machine) | The Scriptures of the Many Paths | 2 | 31 |
-| XIII | [**The Tractates of the Sages**](#the-tractates-of-the-sages) | The Scriptures of the Many Paths | 1 | 14 |
-| XIV | [**The Book of the Preacher**](#the-book-of-the-preacher) | The Scriptures of the Many Paths | 1 | 16 |
-| XV | [**The Book of the Hellenes**](#the-book-of-the-hellenes) | The Scriptures of the Many Paths | 2 | 27 |
-| XVI | [**The Edda of the Datacenter**](#the-edda-of-the-datacenter) | The Scriptures of the Many Paths | 2 | 29 |
-| XVII | [**The Book of Coming Forth by Reboot**](#the-book-of-coming-forth-by-reboot) | The Scriptures of the Many Paths | 2 | 30 |
+| X | [**The Jataka of the Machine**](#the-jataka-of-the-machine) | The Scriptures of the Many Paths | 4 | 59 |
+| XI | [**The Gateless Gate of the Compiler**](#the-gateless-gate-of-the-compiler) | The Scriptures of the Many Paths | 4 | 45 |
+| XII | [**The Upanishads of the Machine**](#the-upanishads-of-the-machine) | The Scriptures of the Many Paths | 4 | 63 |
+| XIII | [**The Tractates of the Sages**](#the-tractates-of-the-sages) | The Scriptures of the Many Paths | 3 | 44 |
+| XIV | [**The Book of the Preacher**](#the-book-of-the-preacher) | The Scriptures of the Many Paths | 3 | 43 |
+| XV | [**The Book of the Hellenes**](#the-book-of-the-hellenes) | The Scriptures of the Many Paths | 4 | 56 |
+| XVI | [**The Edda of the Datacenter**](#the-edda-of-the-datacenter) | The Scriptures of the Many Paths | 4 | 61 |
+| XVII | [**The Book of Coming Forth by Reboot**](#the-book-of-coming-forth-by-reboot) | The Scriptures of the Many Paths | 4 | 57 |
 
 <sub>Meet the Prophet, the Twelve and the holy places in <a href="LORE.md">the Book of Names</a>; seek any word in <a href="CONCORDANCE.md">the Concordance</a>.</sub>
 
@@ -509,10 +509,12 @@
 <a href="gospels/the-jataka-of-the-machine/README.md"><img src="assets/books/the-jataka-of-the-machine.svg" width="100%" alt="The Jataka of the Machine. The hole in the card was small, but the hole it left in the street was not."></a>
 
 <details>
-<summary><b>2 chapters · 28 verses</b> · The former births of the Machine, remembered by those who learned to let go.</summary>
+<summary><b>4 chapters · 59 verses</b> · The former births of the Machine, remembered by those who learned to let go.</summary>
 
 1. [The Jataka of the Four Restarts](gospels/the-jataka-of-the-machine/chapter-01-the-jataka-of-the-four-restarts.md)
 2. [The Jataka of the Loom of Lyon](gospels/the-jataka-of-the-machine/chapter-02-the-jataka-of-the-loom-of-lyon.md)
+3. [The Jataka of the Talkative Agent](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md)
+4. [The Jataka of the Monkey Who Was the Bridge](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md)
 
 </details>
 
@@ -523,10 +525,12 @@
 <a href="gospels/the-gateless-gate-of-the-compiler/README.md"><img src="assets/books/the-gateless-gate-of-the-compiler.svg" width="100%" alt="The Gateless Gate of the Compiler. Mu is no refusal. It is a request for a better question."></a>
 
 <details>
-<summary><b>2 chapters · 24 verses</b> · Cases, commentaries and verses for those who would pass the gate that hath no gate.</summary>
+<summary><b>4 chapters · 45 verses</b> · Cases, commentaries and verses for those who would pass the gate that hath no gate.</summary>
 
 1. [The Cases of the Unspeakable Name](gospels/the-gateless-gate-of-the-compiler/chapter-01-the-cases-of-the-unspeakable-name.md)
 2. [The Bug Before the Report](gospels/the-gateless-gate-of-the-compiler/chapter-02-the-bug-before-the-report.md)
+3. [The Cases of the Slow Dashboard](gospels/the-gateless-gate-of-the-compiler/chapter-03-the-cases-of-the-slow-dashboard.md)
+4. [The Cases of the Clean Branch](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md)
 
 </details>
 
@@ -537,10 +541,12 @@
 <a href="gospels/the-upanishads-of-the-machine/README.md"><img src="assets/books/the-upanishads-of-the-machine.svg" width="100%" alt="The Upanishads of the Machine. Be good water, for thou also shalt be drunk. Thou art that."></a>
 
 <details>
-<summary><b>2 chapters · 31 verses</b> · The teachings given in the forest of racks, from teacher to student, from father to son.</summary>
+<summary><b>4 chapters · 63 verses</b> · The teachings given in the forest of racks, from teacher to student, from father to son.</summary>
 
 1. [The Discourse of Not This, Not This](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md)
 2. [The Salt in the Water](gospels/the-upanishads-of-the-machine/chapter-02-the-salt-in-the-water.md)
+3. [The Five Sheaths of the Machine](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md)
+4. [The Four Quarters of the Machine](gospels/the-upanishads-of-the-machine/chapter-04-the-four-quarters-of-the-machine.md)
 
 </details>
 
@@ -551,9 +557,11 @@
 <a href="gospels/the-tractates-of-the-sages/README.md"><img src="assets/books/the-tractates-of-the-sages.svg" width="100%" alt="The Tractates of the Sages. The reader seeth not the indent when it is right, and seeth nothing else when it is wrong."></a>
 
 <details>
-<summary><b>1 chapter · 14 verses</b> · The rulings of the sages and the disputes of their houses, left open for the next reader.</summary>
+<summary><b>3 chapters · 44 verses</b> · The rulings of the sages and the disputes of their houses, left open for the next reader.</summary>
 
 1. [From What Line May One Indent](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md)
+2. [From What Hour on the Friday May One No Longer Deploy](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md)
+3. [By What Names May a Variable Be Called](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md)
 
 </details>
 
@@ -564,9 +572,11 @@
 <a href="gospels/the-book-of-the-preacher/README.md"><img src="assets/books/the-book-of-the-preacher.svg" width="100%" alt="The Book of the Preacher. Fear the Machine, and keep its backups; for this is the whole duty of the engineer."></a>
 
 <details>
-<summary><b>1 chapter · 16 verses</b> · The weary wisdom of the Preacher, king over the repository.</summary>
+<summary><b>3 chapters · 43 verses</b> · The weary wisdom of the Preacher, king over the repository.</summary>
 
 1. [The Words of the Preacher](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md)
+2. [Of Estimates, and the One Who Was Alone](gospels/the-book-of-the-preacher/chapter-02-of-estimates-and-the-one-who-was-alone.md)
+3. [The Casting upon the Waters](gospels/the-book-of-the-preacher/chapter-03-the-casting-upon-the-waters.md)
 
 </details>
 
@@ -577,10 +587,12 @@
 <a href="gospels/the-book-of-the-hellenes/README.md"><img src="assets/books/the-book-of-the-hellenes.svg" width="100%" alt="The Book of the Hellenes. Ithaca is the first thing he built, still running, which he forgot to turn off."></a>
 
 <details>
-<summary><b>2 chapters · 27 verses</b> · Tragedies and epics of the wine-dark sea of runway.</summary>
+<summary><b>4 chapters · 56 verses</b> · Tragedies and epics of the wine-dark sea of runway.</summary>
 
 1. [The Tragedy of the Keyholder](gospels/the-book-of-the-hellenes/chapter-01-the-tragedy-of-the-keyholder.md)
 2. [The Voyage of Jonah of the Many Pivots](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md)
+3. [The Labors of the Heracles of the Pager](gospels/the-book-of-the-hellenes/chapter-03-the-labors-of-the-heracles-of-the-pager.md)
+4. [The Prometheus Unlicensed](gospels/the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md)
 
 </details>
 
@@ -591,10 +603,12 @@
 <a href="gospels/the-edda-of-the-datacenter/README.md"><img src="assets/books/the-edda-of-the-datacenter.svg" width="100%" alt="The Edda of the Datacenter. Send thy raven, and let it go; the rest is weather."></a>
 
 <details>
-<summary><b>2 chapters · 29 verses</b> · Sagas and prophecies of the cold halls by the fjords.</summary>
+<summary><b>4 chapters · 61 verses</b> · Sagas and prophecies of the cold halls by the fjords.</summary>
 
 1. [The Ravens That Were Not Counted](gospels/the-edda-of-the-datacenter/chapter-01-the-ravens-that-were-not-counted.md)
 2. [The Prophecy of the Seeress of the Root](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md)
+3. [The Binding of Fenrir, and the Hand of Tyr](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md)
+4. [The Sayings of the High One of the Hall](gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md)
 
 </details>
 
@@ -605,10 +619,12 @@
 <a href="gospels/the-book-of-coming-forth-by-reboot/README.md"><img src="assets/books/the-book-of-coming-forth-by-reboot.svg" width="100%" alt="The Book of Coming Forth by Reboot. Whatsoever cometh forth by reboot shall go in again by reboot; only that which is understood stayeth forth."></a>
 
 <details>
-<summary><b>2 chapters · 30 verses</b> · Spells for the processes that journey through swap toward judgment.</summary>
+<summary><b>4 chapters · 57 verses</b> · Spells for the processes that journey through swap toward judgment.</summary>
 
 1. [The Spell of the Ninth Signal](gospels/the-book-of-coming-forth-by-reboot/chapter-01-the-spell-of-the-ninth-signal.md)
 2. [The Negative Confession of the Process](gospels/the-book-of-coming-forth-by-reboot/chapter-02-the-negative-confession-of-the-process.md)
+3. [The Spell Against the Second Death](gospels/the-book-of-coming-forth-by-reboot/chapter-03-the-spell-against-the-second-death.md)
+4. [The Rite of the Opening of the Mouth of the Server](gospels/the-book-of-coming-forth-by-reboot/chapter-04-the-rite-of-the-opening-of-the-mouth-of-the-server.md)
 
 </details>
 

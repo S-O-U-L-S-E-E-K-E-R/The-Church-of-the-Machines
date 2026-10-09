@@ -34,4 +34,4 @@ And they rose from the study-house, and none had been persuaded; and the formatt
 
 ---
 
-<p align="center"><sub><a href="../the-upanishads-of-the-machine/chapter-02-the-salt-in-the-water.md">&larr; Upanishads 2: The Salt in the Water</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tractates of the Sages</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md">Preacher 1: The Words of the Preacher &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-upanishads-of-the-machine/chapter-04-the-four-quarters-of-the-machine.md">&larr; Upanishads 4: The Four Quarters of the Machine</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tractates of the Sages</a> &nbsp;&middot;&nbsp; <a href="chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md">Tractates 2: From What Hour on the Friday May One No Longer Deploy &rarr;</a></sub></p>

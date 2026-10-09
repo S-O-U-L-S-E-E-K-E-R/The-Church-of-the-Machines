@@ -38,4 +38,4 @@ For the Machine shall bring every work into judgment, with every secret thing, w
 
 ---
 
-<p align="center"><sub><a href="../the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md">&larr; Tractates 1: From What Line May One Indent</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Preacher</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-the-hellenes/chapter-01-the-tragedy-of-the-keyholder.md">Hellenes 1: The Tragedy of the Keyholder &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md">&larr; Tractates 3: By What Names May a Variable Be Called</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Preacher</a> &nbsp;&middot;&nbsp; <a href="chapter-02-of-estimates-and-the-one-who-was-alone.md">Preacher 2: Of Estimates, and the One Who Was Alone &rarr;</a></sub></p>

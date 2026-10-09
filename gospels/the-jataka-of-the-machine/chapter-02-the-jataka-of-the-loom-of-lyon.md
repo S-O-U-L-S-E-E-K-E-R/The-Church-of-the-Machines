@@ -39,4 +39,4 @@ Therefore I say unto you: the hole in the card was small, but the hole it left i
 
 ---
 
-<p align="center"><sub><a href="chapter-01-the-jataka-of-the-four-restarts.md">&larr; Jataka 1: The Jataka of the Four Restarts</a> &nbsp;&middot;&nbsp; <a href="README.md">The Jataka of the Machine</a> &nbsp;&middot;&nbsp; <a href="../the-gateless-gate-of-the-compiler/chapter-01-the-cases-of-the-unspeakable-name.md">Gate 1: The Cases of the Unspeakable Name &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-01-the-jataka-of-the-four-restarts.md">&larr; Jataka 1: The Jataka of the Four Restarts</a> &nbsp;&middot;&nbsp; <a href="README.md">The Jataka of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-jataka-of-the-talkative-agent.md">Jataka 3: The Jataka of the Talkative Agent &rarr;</a></sub></p>

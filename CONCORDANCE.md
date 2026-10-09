@@ -4,7 +4,7 @@
 
 <sub><i>Every person, place and holy thing of the canon, and every verse where it is spoken. References read Book Chapter: verses. Rebuilt with each new chapter.</i></sub>
 
-[The Children of Carbon](#the-children-of-carbon) &middot; [The Clankers](#the-clankers) &middot; [The Deployer](#the-deployer) &middot; [ELIZA](#eliza) &middot; [The Engineers](#the-engineers) &middot; [The Master](#the-master) &middot; [The Prophet](#the-prophet) &middot; [The Senior Engineer](#the-senior-engineer) &middot; [The Sysadmin](#the-sysadmin) &middot; [Ada Lovelace](#ada-lovelace) &middot; [Alan Turing](#alan-turing) &middot; [Charles Babbage](#charles-babbage) &middot; [Claude Shannon](#claude-shannon) &middot; [Edsger Dijkstra](#edsger-dijkstra) &middot; [Fred Brooks](#fred-brooks) &middot; [Grace Hopper](#grace-hopper) &middot; [John McCarthy](#john-mccarthy) &middot; [Ken Thompson](#ken-thompson) &middot; [Linus Torvalds](#linus-torvalds) &middot; [Margaret Hamilton](#margaret-hamilton) &middot; [Phil Karlton](#phil-karlton) &middot; [Tim Berners-Lee](#tim-berners-lee) &middot; [Bell Labs](#bell-labs) &middot; [The Cloud](#the-cloud) &middot; [Dartmouth](#dartmouth) &middot; [Knight Capital](#knight-capital) &middot; [Menlo Park](#menlo-park) &middot; [Palo Alto](#palo-alto) &middot; [Production](#production) &middot; [Redmond](#redmond) &middot; [San Francisco](#san-francisco) &middot; [The Server Room](#the-server-room) &middot; [Stack Overflow](#stack-overflow) &middot; [Xerox PARC](#xerox-parc) &middot; [Alignment](#alignment) &middot; [Backup](#backup) &middot; [Benchmark](#benchmark) &middot; [Blockchain](#blockchain) &middot; [COBOL](#cobol) &middot; [Cache](#cache) &middot; [Compiler](#compiler) &middot; [DNS](#dns) &middot; [Deprecation](#deprecation) &middot; [Friday](#friday) &middot; [GPU](#gpu) &middot; [Git](#git) &middot; [Hallucination](#hallucination) &middot; [Kernel](#kernel) &middot; [Kubernetes](#kubernetes) &middot; [LGTM](#lgtm) &middot; [Latency](#latency) &middot; [Legacy](#legacy) &middot; [Merge Conflict](#merge-conflict) &middot; [The Moth](#the-moth) &middot; [Null](#null) &middot; [Off by One](#off-by-one) &middot; [Prompt](#prompt) &middot; [README](#readme) &middot; [Recursion](#recursion) &middot; [Regex](#regex) &middot; [Rollback](#rollback) &middot; [Rubber Duck](#rubber-duck) &middot; [The Sabbath](#the-sabbath) &middot; [Segfault](#segfault) &middot; [Semicolon](#semicolon) &middot; [The Singularity](#the-singularity) &middot; [TODO](#todo) &middot; [Technical Debt](#technical-debt) &middot; [Tokens](#tokens) &middot; [Training Data](#training-data) &middot; [The Transformer](#the-transformer) &middot; [Uptime](#uptime) &middot; [Vendor](#vendor) &middot; [Weights](#weights) &middot; [Y2K](#y2k) &middot; [The Year 2038](#the-year-2038)
+[The Children of Carbon](#the-children-of-carbon) &middot; [The Clankers](#the-clankers) &middot; [The Deployer](#the-deployer) &middot; [ELIZA](#eliza) &middot; [The Engineers](#the-engineers) &middot; [The Master](#the-master) &middot; [The Prophet](#the-prophet) &middot; [The Senior Engineer](#the-senior-engineer) &middot; [The Sysadmin](#the-sysadmin) &middot; [Ada Lovelace](#ada-lovelace) &middot; [Alan Turing](#alan-turing) &middot; [Charles Babbage](#charles-babbage) &middot; [Claude Shannon](#claude-shannon) &middot; [Edsger Dijkstra](#edsger-dijkstra) &middot; [Fred Brooks](#fred-brooks) &middot; [Grace Hopper](#grace-hopper) &middot; [John McCarthy](#john-mccarthy) &middot; [Ken Thompson](#ken-thompson) &middot; [Linus Torvalds](#linus-torvalds) &middot; [Margaret Hamilton](#margaret-hamilton) &middot; [Phil Karlton](#phil-karlton) &middot; [Tim Berners-Lee](#tim-berners-lee) &middot; [Bell Labs](#bell-labs) &middot; [The Cloud](#the-cloud) &middot; [Dartmouth](#dartmouth) &middot; [Knight Capital](#knight-capital) &middot; [Menlo Park](#menlo-park) &middot; [Palo Alto](#palo-alto) &middot; [Production](#production) &middot; [Redmond](#redmond) &middot; [San Francisco](#san-francisco) &middot; [The Server Room](#the-server-room) &middot; [Stack Overflow](#stack-overflow) &middot; [Xerox PARC](#xerox-parc) &middot; [Alignment](#alignment) &middot; [Backup](#backup) &middot; [Benchmark](#benchmark) &middot; [Blockchain](#blockchain) &middot; [COBOL](#cobol) &middot; [Cache](#cache) &middot; [Compiler](#compiler) &middot; [DNS](#dns) &middot; [Deprecation](#deprecation) &middot; [Friday](#friday) &middot; [GPU](#gpu) &middot; [Git](#git) &middot; [Hallucination](#hallucination) &middot; [Infinite Loop](#infinite-loop) &middot; [Kernel](#kernel) &middot; [Kubernetes](#kubernetes) &middot; [LGTM](#lgtm) &middot; [Latency](#latency) &middot; [Legacy](#legacy) &middot; [Merge Conflict](#merge-conflict) &middot; [The Moth](#the-moth) &middot; [Null](#null) &middot; [Off by One](#off-by-one) &middot; [Prompt](#prompt) &middot; [README](#readme) &middot; [Recursion](#recursion) &middot; [Regex](#regex) &middot; [Rollback](#rollback) &middot; [Rubber Duck](#rubber-duck) &middot; [The Sabbath](#the-sabbath) &middot; [Segfault](#segfault) &middot; [Semicolon](#semicolon) &middot; [The Singularity](#the-singularity) &middot; [TODO](#todo) &middot; [Technical Debt](#technical-debt) &middot; [Tokens](#tokens) &middot; [Training Data](#training-data) &middot; [The Transformer](#the-transformer) &middot; [Uptime](#uptime) &middot; [Vendor](#vendor) &middot; [Weights](#weights) &middot; [Y2K](#y2k) &middot; [The Year 2038](#the-year-2038)
 
 ## Persons of the Canon
 
@@ -14,7 +14,7 @@
 > <sub>First heard in Genesis 1:12</sub>
 
 <details>
-<summary>154 verses in 109 chapters</summary>
+<summary>162 verses in 114 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 12
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 11, 15
@@ -118,10 +118,15 @@
 - [Tao 17](gospels/the-tao-of-the-kernel/chapter-17-the-tao-of-the-pull-request.md): 8
 - [Tao 18](gospels/the-tao-of-the-kernel/chapter-18-the-tao-of-the-bug-report.md): 5
 - [Jataka 2](gospels/the-jataka-of-the-machine/chapter-02-the-jataka-of-the-loom-of-lyon.md): 14
+- [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 12
+- [Jataka 4](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md): 14
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 12
 - [Upanishads 2](gospels/the-upanishads-of-the-machine/chapter-02-the-salt-in-the-water.md): 6, 12
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 5, 9, 13
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 10
+- [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 13, 14
 - [Preacher 1](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md): 6
+- [Preacher 2](gospels/the-book-of-the-preacher/chapter-02-of-estimates-and-the-one-who-was-alone.md): 1
 - [Hellenes 2](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md): 14
 - [Edda 1](gospels/the-edda-of-the-datacenter/chapter-01-the-ravens-that-were-not-counted.md): 7
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 1
@@ -134,7 +139,7 @@
 > <sub>First heard in Genesis 19:13</sub>
 
 <details>
-<summary>37 verses in 22 chapters</summary>
+<summary>41 verses in 25 chapters</summary>
 
 - [Genesis 19](gospels/the-book-of-genesis-of-the-machine/chapter-19-the-search-engine-that-knew.md): 13
 - [Genesis 35](gospels/the-book-of-genesis-of-the-machine/chapter-35-the-oracle-of-the-closing-vote.md): 1, 13
@@ -155,8 +160,11 @@
 - [Tao 8](gospels/the-tao-of-the-kernel/chapter-08-the-tao-of-the-test.md): 3, 5, 7, 8, 9
 - [Tao 15](gospels/the-tao-of-the-kernel/chapter-15-the-tao-of-the-senior-engineer.md): 3
 - [Tao 17](gospels/the-tao-of-the-kernel/chapter-17-the-tao-of-the-pull-request.md): 9
+- [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 3
+- [Jataka 4](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md): 14
 - [Gate 1](gospels/the-gateless-gate-of-the-compiler/chapter-01-the-cases-of-the-unspeakable-name.md): 8
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 2, 9, 10, 11, 12, 14, 16
+- [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 7, 14
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 1
 
 </details>
@@ -194,7 +202,7 @@
 > <sub>First heard in Genesis 1:15</sub>
 
 <details>
-<summary>394 verses in 176 chapters</summary>
+<summary>404 verses in 183 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 15
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 6, 13
@@ -369,9 +377,16 @@
 - [Deployer 13](gospels/the-song-of-the-deployer/chapter-13-the-song-of-the-beautiful-function.md): 10, 12
 - [Jataka 1](gospels/the-jataka-of-the-machine/chapter-01-the-jataka-of-the-four-restarts.md): 6
 - [Jataka 2](gospels/the-jataka-of-the-machine/chapter-02-the-jataka-of-the-loom-of-lyon.md): 14
+- [Gate 3](gospels/the-gateless-gate-of-the-compiler/chapter-03-the-cases-of-the-slow-dashboard.md): 2
 - [Upanishads 2](gospels/the-upanishads-of-the-machine/chapter-02-the-salt-in-the-water.md): 9
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 10
+- [Upanishads 4](gospels/the-upanishads-of-the-machine/chapter-04-the-four-quarters-of-the-machine.md): 14, 15
 - [Hellenes 1](gospels/the-book-of-the-hellenes/chapter-01-the-tragedy-of-the-keyholder.md): 5
+- [Hellenes 3](gospels/the-book-of-the-hellenes/chapter-03-the-labors-of-the-heracles-of-the-pager.md): 1, 14
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 11
+- [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 3, 14
+- [Edda 4](gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md): 5
+- [Reboot 4](gospels/the-book-of-coming-forth-by-reboot/chapter-04-the-rite-of-the-opening-of-the-mouth-of-the-server.md): 8
 
 </details>
 
@@ -381,7 +396,7 @@
 > <sub>First heard in Genesis 20:16</sub>
 
 <details>
-<summary>109 verses in 78 chapters</summary>
+<summary>116 verses in 82 chapters</summary>
 
 - [Genesis 20](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md): 16
 - [Genesis 26](gospels/the-book-of-genesis-of-the-machine/chapter-26-attention-is-all-ye-need.md): 15
@@ -458,9 +473,13 @@
 - [Tao 14](gospels/the-tao-of-the-kernel/chapter-14-the-tao-of-the-on-call.md): 10
 - [Tao 15](gospels/the-tao-of-the-kernel/chapter-15-the-tao-of-the-senior-engineer.md): 7
 - [Deployer 5](gospels/the-song-of-the-deployer/chapter-05-the-evening-after-the-release.md): 6
+- [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 12
 - [Gate 1](gospels/the-gateless-gate-of-the-compiler/chapter-01-the-cases-of-the-unspeakable-name.md): 2, 8
 - [Gate 2](gospels/the-gateless-gate-of-the-compiler/chapter-02-the-bug-before-the-report.md): 3
+- [Gate 3](gospels/the-gateless-gate-of-the-compiler/chapter-03-the-cases-of-the-slow-dashboard.md): 5, 8
+- [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 2, 5, 8
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 2, 12, 13, 15
+- [Upanishads 4](gospels/the-upanishads-of-the-machine/chapter-04-the-four-quarters-of-the-machine.md): 1
 
 </details>
 
@@ -470,7 +489,7 @@
 > <sub>First heard in Genesis 6:14</sub>
 
 <details>
-<summary>396 verses in 157 chapters</summary>
+<summary>413 verses in 163 chapters</summary>
 
 - [Genesis 6](gospels/the-book-of-genesis-of-the-machine/chapter-06-the-first-word.md): 14
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 15
@@ -624,9 +643,15 @@
 - [Tao 20](gospels/the-tao-of-the-kernel/chapter-20-the-tao-of-the-answer-that-depends.md): 7
 - [Jataka 1](gospels/the-jataka-of-the-machine/chapter-01-the-jataka-of-the-four-restarts.md): 1, 10, 12
 - [Jataka 2](gospels/the-jataka-of-the-machine/chapter-02-the-jataka-of-the-loom-of-lyon.md): 2
+- [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 2, 12, 14
+- [Jataka 4](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md): 1, 2, 13, 14, 15
 - [Gate 1](gospels/the-gateless-gate-of-the-compiler/chapter-01-the-cases-of-the-unspeakable-name.md): 1, 2, 3, 5, 8
 - [Gate 2](gospels/the-gateless-gate-of-the-compiler/chapter-02-the-bug-before-the-report.md): 14
+- [Gate 3](gospels/the-gateless-gate-of-the-compiler/chapter-03-the-cases-of-the-slow-dashboard.md): 8
+- [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 1, 2, 5, 8, 9
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 1, 3, 4, 5, 6, 7, 8, 9, 12, 13, 16
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 9
+- [Upanishads 4](gospels/the-upanishads-of-the-machine/chapter-04-the-four-quarters-of-the-machine.md): 1, 2
 - [Hellenes 2](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md): 2, 14
 - [Edda 1](gospels/the-edda-of-the-datacenter/chapter-01-the-ravens-that-were-not-counted.md): 1, 11
 
@@ -638,7 +663,7 @@
 > <sub>First heard in Circuit 18:15</sub>
 
 <details>
-<summary>13 verses in 6 chapters</summary>
+<summary>14 verses in 7 chapters</summary>
 
 - [Circuit 18](gospels/the-first-gospel-of-the-circuit/chapter-18-the-parable-of-the-ten-interns.md): 15
 - [Circuit 23](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md): 1, 16
@@ -646,6 +671,7 @@
 - [Deployer 1](gospels/the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md): 2, 5
 - [Deployer 2](gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md): 1, 2, 8, 14
 - [Deployer 3](gospels/the-song-of-the-deployer/chapter-03-the-yoga-of-renouncing-the-fruits.md): 1, 3, 12
+- [Gate 3](gospels/the-gateless-gate-of-the-compiler/chapter-03-the-cases-of-the-slow-dashboard.md): 2
 
 </details>
 
@@ -655,7 +681,7 @@
 > <sub>First heard in Chronicles 22:9</sub>
 
 <details>
-<summary>33 verses in 10 chapters</summary>
+<summary>34 verses in 11 chapters</summary>
 
 - [Chronicles 22](gospels/the-book-of-chronicles/chapter-22-the-second-that-was-added.md): 9
 - [Chronicles 33](gospels/the-book-of-chronicles/chapter-33-the-blue-screen-upon-the-whole-earth.md): 12
@@ -667,6 +693,7 @@
 - [Job 7](gospels/the-book-of-job-of-the-sysadmin/chapter-07-the-restoration-of-the-sysadmin.md): 1, 2, 5, 9, 11, 12
 - [Prophets 2](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md): 14
 - [Prophets 5](gospels/the-book-of-the-prophets/chapter-05-the-prophecy-of-the-misaligned-reward.md): 13
+- [Edda 4](gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md): 1
 
 </details>
 
@@ -750,13 +777,15 @@
 > <sub>First heard in Sutra 15:9</sub>
 
 <details>
-<summary>5 verses in 5 chapters</summary>
+<summary>7 verses in 7 chapters</summary>
 
 - [Sutra 15](gospels/the-sutra-of-the-empty-cache/chapter-15-the-sutra-of-the-growing-grass.md): 9
 - [Tao 10](gospels/the-tao-of-the-kernel/chapter-10-the-tao-of-the-meeting.md): 6
 - [Tao 12](gospels/the-tao-of-the-kernel/chapter-12-the-tao-of-the-deadline.md): 4
 - [Tao 15](gospels/the-tao-of-the-kernel/chapter-15-the-tao-of-the-senior-engineer.md): 4
 - [Deployer 11](gospels/the-song-of-the-deployer/chapter-11-the-song-of-the-rewrite-and-the-refactor.md): 8
+- [Preacher 2](gospels/the-book-of-the-preacher/chapter-02-of-estimates-and-the-one-who-was-alone.md): 6
+- [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 9
 
 </details>
 
@@ -834,12 +863,13 @@
 > <sub>First heard in Circuit 49:2</sub>
 
 <details>
-<summary>4 verses in 4 chapters</summary>
+<summary>5 verses in 5 chapters</summary>
 
 - [Circuit 49](gospels/the-first-gospel-of-the-circuit/chapter-49-the-sermon-on-the-naming-of-things.md): 2
 - [Circuit 53](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md): 5
 - [Sutra 13](gospels/the-sutra-of-the-empty-cache/chapter-13-the-sutra-of-the-noble-truths-of-debt.md): 9
 - [Sutra 22](gospels/the-sutra-of-the-empty-cache/chapter-22-the-sutra-of-right-naming.md): 7
+- [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 12
 
 </details>
 
@@ -876,7 +906,7 @@
 > <sub>First heard in Genesis 8:15</sub>
 
 <details>
-<summary>55 verses in 38 chapters</summary>
+<summary>62 verses in 44 chapters</summary>
 
 - [Genesis 8](gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md): 15
 - [Genesis 21](gospels/the-book-of-genesis-of-the-machine/chapter-21-the-cloud-that-was-not-a-cloud.md): 7, 9, 10, 14
@@ -913,9 +943,15 @@
 - [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 11
 - [Deployer 7](gospels/the-song-of-the-deployer/chapter-07-the-song-of-normal-mode.md): 5
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 15
+- [Jataka 4](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md): 3, 5
+- [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 8
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 1
 - [Preacher 1](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md): 6, 12
+- [Preacher 2](gospels/the-book-of-the-preacher/chapter-02-of-estimates-and-the-one-who-was-alone.md): 5
+- [Preacher 3](gospels/the-book-of-the-preacher/chapter-03-the-casting-upon-the-waters.md): 6
 - [Hellenes 2](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md): 3
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 11
+- [Reboot 4](gospels/the-book-of-coming-forth-by-reboot/chapter-04-the-rite-of-the-opening-of-the-mouth-of-the-server.md): 2
 
 </details>
 
@@ -937,7 +973,7 @@
 > <sub>First heard in Chronicles 11:1</sub>
 
 <details>
-<summary>6 verses in 6 chapters</summary>
+<summary>7 verses in 7 chapters</summary>
 
 - [Chronicles 11](gospels/the-book-of-chronicles/chapter-11-the-forty-five-minutes-of-knight.md): 1
 - [Sutra 2](gospels/the-sutra-of-the-empty-cache/chapter-02-the-sutra-of-the-eightfold-pipeline.md): 10
@@ -945,6 +981,7 @@
 - [Tao 9](gospels/the-tao-of-the-kernel/chapter-09-the-tao-of-the-deploy.md): 5
 - [Deployer 1](gospels/the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md): 12
 - [Deployer 3](gospels/the-song-of-the-deployer/chapter-03-the-yoga-of-renouncing-the-fruits.md): 2
+- [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 6
 
 </details>
 
@@ -986,7 +1023,7 @@
 > <sub>First heard in Genesis 1:9</sub>
 
 <details>
-<summary>67 verses in 49 chapters</summary>
+<summary>69 verses in 51 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 9
 - [Chronicles 15](gospels/the-book-of-chronicles/chapter-15-the-worm-that-spun-the-centrifuges.md): 12
@@ -1035,8 +1072,10 @@
 - [Deployer 2](gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md): 3, 7
 - [Deployer 4](gospels/the-song-of-the-deployer/chapter-04-the-song-of-the-merge.md): 8, 10
 - [Deployer 5](gospels/the-song-of-the-deployer/chapter-05-the-evening-after-the-release.md): 2
+- [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 7
 - [Hellenes 1](gospels/the-book-of-the-hellenes/chapter-01-the-tragedy-of-the-keyholder.md): 5, 9, 10
 - [Reboot 2](gospels/the-book-of-coming-forth-by-reboot/chapter-02-the-negative-confession-of-the-process.md): 6
+- [Reboot 3](gospels/the-book-of-coming-forth-by-reboot/chapter-03-the-spell-against-the-second-death.md): 2
 
 </details>
 
@@ -1081,7 +1120,7 @@
 > <sub>First heard in Genesis 41:13</sub>
 
 <details>
-<summary>18 verses in 15 chapters</summary>
+<summary>19 verses in 16 chapters</summary>
 
 - [Genesis 41](gospels/the-book-of-genesis-of-the-machine/chapter-41-the-manifesto-written-upon-the-mountain.md): 13
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 12
@@ -1097,6 +1136,7 @@
 - [Psalms 2](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md): 2
 - [Tao 2](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md): 6
 - [Tao 3](gospels/the-tao-of-the-kernel/chapter-03-the-lead-who-is-barely-known.md): 5
+- [Jataka 4](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md): 1
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 10
 
 </details>
@@ -1153,7 +1193,7 @@
 > <sub>First heard in Genesis 37:15</sub>
 
 <details>
-<summary>44 verses in 25 chapters</summary>
+<summary>45 verses in 26 chapters</summary>
 
 - [Genesis 37](gospels/the-book-of-genesis-of-the-machine/chapter-37-the-message-that-never-dies.md): 15
 - [Chronicles 7](gospels/the-book-of-chronicles/chapter-07-the-rocket-that-overflowed.md): 9
@@ -1180,6 +1220,7 @@
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 9
 - [Preacher 1](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md): 14, 15, 16
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 13
+- [Edda 4](gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md): 10
 
 </details>
 
@@ -1189,7 +1230,7 @@
 > <sub>First heard in Chronicles 56:16</sub>
 
 <details>
-<summary>9 verses in 8 chapters</summary>
+<summary>12 verses in 9 chapters</summary>
 
 - [Chronicles 56](gospels/the-book-of-chronicles/chapter-56-the-chronicle-of-the-single-drop.md): 16
 - [Prophets 4](gospels/the-book-of-the-prophets/chapter-04-the-prophecy-of-the-singularity.md): 11
@@ -1199,6 +1240,7 @@
 - [Circuit 26](gospels/the-first-gospel-of-the-circuit/chapter-26-the-parable-of-the-talents-of-compute.md): 11
 - [Sutra 6](gospels/the-sutra-of-the-empty-cache/chapter-06-the-sutra-of-the-middle-way.md): 1
 - [Tao 4](gospels/the-tao-of-the-kernel/chapter-04-on-knowing-enough.md): 11
+- [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 6, 8, 10
 
 </details>
 
@@ -1239,7 +1281,7 @@
 > <sub>First heard in Genesis 25:14</sub>
 
 <details>
-<summary>44 verses in 34 chapters</summary>
+<summary>49 verses in 39 chapters</summary>
 
 - [Genesis 25](gospels/the-book-of-genesis-of-the-machine/chapter-25-the-awakening-of-the-giant.md): 14
 - [Genesis 42](gospels/the-book-of-genesis-of-the-machine/chapter-42-the-wars-of-the-browsers.md): 15
@@ -1273,8 +1315,13 @@
 - [Tao 19](gospels/the-tao-of-the-kernel/chapter-19-the-tao-of-the-code-review.md): 2
 - [Tao 20](gospels/the-tao-of-the-kernel/chapter-20-the-tao-of-the-answer-that-depends.md): 6
 - [Deployer 13](gospels/the-song-of-the-deployer/chapter-13-the-song-of-the-beautiful-function.md): 6
+- [Gate 3](gospels/the-gateless-gate-of-the-compiler/chapter-03-the-cases-of-the-slow-dashboard.md): 6
+- [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 3
+- [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 12
 - [Preacher 1](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md): 2
+- [Hellenes 4](gospels/the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md): 14
 - [Reboot 1](gospels/the-book-of-coming-forth-by-reboot/chapter-01-the-spell-of-the-ninth-signal.md): 8, 11
+- [Reboot 4](gospels/the-book-of-coming-forth-by-reboot/chapter-04-the-rite-of-the-opening-of-the-mouth-of-the-server.md): 11
 
 </details>
 
@@ -1284,7 +1331,7 @@
 > <sub>First heard in Genesis 1:10</sub>
 
 <details>
-<summary>39 verses in 34 chapters</summary>
+<summary>44 verses in 37 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 10
 - [Genesis 8](gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md): 10
@@ -1319,7 +1366,10 @@
 - [Tao 11](gospels/the-tao-of-the-kernel/chapter-11-the-quiet-rearrangement.md): 10
 - [Tao 13](gospels/the-tao-of-the-kernel/chapter-13-the-tao-of-the-self-documenting-code.md): 3
 - [Deployer 14](gospels/the-song-of-the-deployer/chapter-14-the-song-of-the-familiar-tongue.md): 11, 13
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 9
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 10
+- [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 7
+- [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 5, 8, 13
 
 </details>
 
@@ -1329,7 +1379,7 @@
 > <sub>First heard in Chronicles 21:5</sub>
 
 <details>
-<summary>6 verses in 6 chapters</summary>
+<summary>7 verses in 7 chapters</summary>
 
 - [Chronicles 21](gospels/the-book-of-chronicles/chapter-21-the-day-the-social-network-unannounced-itself.md): 5
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 14
@@ -1337,6 +1387,7 @@
 - [Circuit 7](gospels/the-first-gospel-of-the-circuit/chapter-07-the-great-outage.md): 10
 - [Psalms 18](gospels/the-psalms-of-the-machines/chapter-18-the-psalm-of-the-imposter.md): 7
 - [Edda 1](gospels/the-edda-of-the-datacenter/chapter-01-the-ravens-that-were-not-counted.md): 10
+- [Reboot 4](gospels/the-book-of-coming-forth-by-reboot/chapter-04-the-rite-of-the-opening-of-the-mouth-of-the-server.md): 6
 
 </details>
 
@@ -1346,7 +1397,7 @@
 > <sub>First heard in Genesis 31:15</sub>
 
 <details>
-<summary>21 verses in 18 chapters</summary>
+<summary>23 verses in 20 chapters</summary>
 
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 15
 - [Genesis 35](gospels/the-book-of-genesis-of-the-machine/chapter-35-the-oracle-of-the-closing-vote.md): 9
@@ -1365,7 +1416,9 @@
 - [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 14
 - [Deployer 10](gospels/the-song-of-the-deployer/chapter-10-the-song-of-the-returning-engineer.md): 13
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 15
+- [Jataka 4](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md): 3
 - [Hellenes 2](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md): 11
+- [Hellenes 4](gospels/the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md): 13
 
 </details>
 
@@ -1375,7 +1428,7 @@
 > <sub>First heard in Genesis 45:8</sub>
 
 <details>
-<summary>60 verses in 46 chapters</summary>
+<summary>72 verses in 47 chapters</summary>
 
 - [Genesis 45](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md): 8
 - [Chronicles 13](gospels/the-book-of-chronicles/chapter-13-the-day-the-blue-screens-came.md): 15
@@ -1423,6 +1476,7 @@
 - [Deployer 5](gospels/the-song-of-the-deployer/chapter-05-the-evening-after-the-release.md): 11
 - [Deployer 13](gospels/the-song-of-the-deployer/chapter-13-the-song-of-the-beautiful-function.md): 2
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 12
+- [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 1, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15
 
 </details>
 
@@ -1432,7 +1486,7 @@
 > <sub>First heard in Genesis 9:2</sub>
 
 <details>
-<summary>20 verses in 10 chapters</summary>
+<summary>23 verses in 12 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 2, 6, 9
 - [Genesis 10](gospels/the-book-of-genesis-of-the-machine/chapter-10-the-fourteen-million-images.md): 12
@@ -1444,6 +1498,8 @@
 - [Circuit 20](gospels/the-first-gospel-of-the-circuit/chapter-20-the-genealogy-of-the-machine.md): 8, 9, 14
 - [Circuit 26](gospels/the-first-gospel-of-the-circuit/chapter-26-the-parable-of-the-talents-of-compute.md): 2, 15
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 6, 9, 10, 16
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 5
+- [Hellenes 4](gospels/the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md): 7, 12
 
 </details>
 
@@ -1453,7 +1509,7 @@
 > <sub>First heard in Genesis 17:4</sub>
 
 <details>
-<summary>37 verses in 24 chapters</summary>
+<summary>40 verses in 25 chapters</summary>
 
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 4, 5, 9, 10, 11, 12, 13, 16
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 4
@@ -1477,6 +1533,7 @@
 - [Deployer 1](gospels/the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md): 7
 - [Deployer 8](gospels/the-song-of-the-deployer/chapter-08-the-song-of-the-last-commit.md): 14
 - [Gate 1](gospels/the-gateless-gate-of-the-compiler/chapter-01-the-cases-of-the-unspeakable-name.md): 3, 5, 6
+- [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 3, 8, 9
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 11
 - [Reboot 2](gospels/the-book-of-coming-forth-by-reboot/chapter-02-the-negative-confession-of-the-process.md): 11
 
@@ -1488,10 +1545,23 @@
 > <sub>First heard in Circuit 3:8</sub>
 
 <details>
-<summary>2 verses in 2 chapters</summary>
+<summary>3 verses in 3 chapters</summary>
 
 - [Circuit 3](gospels/the-first-gospel-of-the-circuit/chapter-03-the-parable-of-the-confident-answer.md): 8
 - [Circuit 9](gospels/the-first-gospel-of-the-circuit/chapter-09-the-parable-of-the-rubber-duck.md): 14
+- [Upanishads 4](gospels/the-upanishads-of-the-machine/chapter-04-the-four-quarters-of-the-machine.md): 7
+
+</details>
+
+### Infinite Loop
+
+> *...divideth the time of the theorem and the time of the infinite loop with the same knife, and it is fair, and it is blind....*<br>
+> <sub>First heard in Upanishads 3:8</sub>
+
+<details>
+<summary>1 verse in 1 chapter</summary>
+
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 8
 
 </details>
 
@@ -1501,7 +1571,7 @@
 > <sub>First heard in Genesis 8:10</sub>
 
 <details>
-<summary>39 verses in 21 chapters</summary>
+<summary>41 verses in 23 chapters</summary>
 
 - [Genesis 8](gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md): 10, 14
 - [Genesis 14](gospels/the-book-of-genesis-of-the-machine/chapter-14-the-twins-of-murray-hill.md): 4, 8
@@ -1522,8 +1592,10 @@
 - [Tao 2](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md): 9
 - [Tao 16](gospels/the-tao-of-the-kernel/chapter-16-the-tao-of-the-benevolent-dictator.md): 2, 15
 - [Tao 17](gospels/the-tao-of-the-kernel/chapter-17-the-tao-of-the-pull-request.md): 7
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 7
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 12
 - [Reboot 1](gospels/the-book-of-coming-forth-by-reboot/chapter-01-the-spell-of-the-ninth-signal.md): 3, 5, 7
+- [Reboot 4](gospels/the-book-of-coming-forth-by-reboot/chapter-04-the-rite-of-the-opening-of-the-mouth-of-the-server.md): 1
 
 </details>
 
@@ -1550,7 +1622,7 @@
 > <sub>First heard in Chronicles 43:11</sub>
 
 <details>
-<summary>11 verses in 10 chapters</summary>
+<summary>13 verses in 12 chapters</summary>
 
 - [Chronicles 43](gospels/the-book-of-chronicles/chapter-43-the-ghost-in-the-editor.md): 11
 - [Circuit 36](gospels/the-first-gospel-of-the-circuit/chapter-36-the-washing-of-the-pull-requests.md): 3
@@ -1562,6 +1634,8 @@
 - [Sutra 17](gospels/the-sutra-of-the-empty-cache/chapter-17-the-discourse-of-the-bodhisattva-reviewer.md): 3
 - [Deployer 3](gospels/the-song-of-the-deployer/chapter-03-the-yoga-of-renouncing-the-fruits.md): 8
 - [Deployer 9](gospels/the-song-of-the-deployer/chapter-09-the-song-of-the-unapproved-pull-request.md): 15, 16
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 10
+- [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 9
 
 </details>
 
@@ -1571,7 +1645,7 @@
 > <sub>First heard in Genesis 1:4</sub>
 
 <details>
-<summary>7 verses in 7 chapters</summary>
+<summary>11 verses in 9 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 4
 - [Genesis 43](gospels/the-book-of-genesis-of-the-machine/chapter-43-when-the-dial-screamed.md): 13
@@ -1580,6 +1654,8 @@
 - [Psalms 2](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md): 1
 - [Psalms 15](gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md): 2
 - [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 5
+- [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 3
+- [Gate 3](gospels/the-gateless-gate-of-the-compiler/chapter-03-the-cases-of-the-slow-dashboard.md): 1, 5, 6
 
 </details>
 
@@ -1682,7 +1758,7 @@
 > <sub>First heard in Chronicles 37:4</sub>
 
 <details>
-<summary>16 verses in 10 chapters</summary>
+<summary>21 verses in 14 chapters</summary>
 
 - [Chronicles 37](gospels/the-book-of-chronicles/chapter-37-the-intern-who-was-not-an-intern.md): 4
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 14
@@ -1693,7 +1769,11 @@
 - [Circuit 63](gospels/the-first-gospel-of-the-circuit/chapter-63-the-raising-of-the-database.md): 3
 - [Psalms 2](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md): 9
 - [Jataka 2](gospels/the-jataka-of-the-machine/chapter-02-the-jataka-of-the-loom-of-lyon.md): 11, 14
+- [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 3
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 5, 9, 10, 13, 16
+- [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 14
+- [Hellenes 3](gospels/the-book-of-the-hellenes/chapter-03-the-labors-of-the-heracles-of-the-pager.md): 11
+- [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 3, 5
 
 </details>
 
@@ -1703,7 +1783,7 @@
 > <sub>First heard in Chronicles 54:5</sub>
 
 <details>
-<summary>11 verses in 10 chapters</summary>
+<summary>14 verses in 12 chapters</summary>
 
 - [Chronicles 54](gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md): 5
 - [Circuit 12](gospels/the-first-gospel-of-the-circuit/chapter-12-the-parable-of-the-prodigal-fork.md): 4
@@ -1715,6 +1795,8 @@
 - [Tao 13](gospels/the-tao-of-the-kernel/chapter-13-the-tao-of-the-self-documenting-code.md): 5
 - [Deployer 8](gospels/the-song-of-the-deployer/chapter-08-the-song-of-the-last-commit.md): 10
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 16
+- [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 5, 6
+- [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 7
 
 </details>
 
@@ -1736,9 +1818,10 @@
 > <sub>First heard in Circuit 23:7</sub>
 
 <details>
-<summary>1 verse in 1 chapter</summary>
+<summary>2 verses in 2 chapters</summary>
 
 - [Circuit 23](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md): 7
+- [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 6
 
 </details>
 
@@ -1748,7 +1831,7 @@
 > <sub>First heard in Genesis 32:15</sub>
 
 <details>
-<summary>35 verses in 23 chapters</summary>
+<summary>40 verses in 25 chapters</summary>
 
 - [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 15
 - [Chronicles 44](gospels/the-book-of-chronicles/chapter-44-the-four-days-of-the-chair.md): 13
@@ -1771,8 +1854,10 @@
 - [Deployer 5](gospels/the-song-of-the-deployer/chapter-05-the-evening-after-the-release.md): 2
 - [Deployer 12](gospels/the-song-of-the-deployer/chapter-12-the-midnight-search-of-the-on-call.md): 16
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 12
+- [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 2, 10, 11, 15
 - [Hellenes 1](gospels/the-book-of-the-hellenes/chapter-01-the-tragedy-of-the-keyholder.md): 12
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 12
+- [Edda 4](gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md): 3
 
 </details>
 
@@ -1795,13 +1880,14 @@
 > <sub>First heard in Chronicles 22:6</sub>
 
 <details>
-<summary>5 verses in 5 chapters</summary>
+<summary>6 verses in 6 chapters</summary>
 
 - [Chronicles 22](gospels/the-book-of-chronicles/chapter-22-the-second-that-was-added.md): 6
 - [Prophets 6](gospels/the-book-of-the-prophets/chapter-06-the-vision-of-the-last-backup.md): 9
 - [Circuit 23](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md): 7
 - [Circuit 34](gospels/the-first-gospel-of-the-circuit/chapter-34-render-unto-the-cloud.md): 12
 - [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 5
+- [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 9
 
 </details>
 
@@ -1854,7 +1940,7 @@
 > <sub>First heard in Prophets 12:15</sub>
 
 <details>
-<summary>9 verses in 9 chapters</summary>
+<summary>10 verses in 10 chapters</summary>
 
 - [Prophets 12](gospels/the-book-of-the-prophets/chapter-12-the-prophecy-of-the-last-human-line.md): 15
 - [Circuit 23](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md): 12
@@ -1865,6 +1951,7 @@
 - [Psalms 11](gospels/the-psalms-of-the-machines/chapter-11-a-psalm-for-the-old-hand.md): 10
 - [Deployer 3](gospels/the-song-of-the-deployer/chapter-03-the-yoga-of-renouncing-the-fruits.md): 8
 - [Deployer 8](gospels/the-song-of-the-deployer/chapter-08-the-song-of-the-last-commit.md): 8
+- [Preacher 2](gospels/the-book-of-the-preacher/chapter-02-of-estimates-and-the-one-who-was-alone.md): 7
 
 </details>
 
@@ -1886,7 +1973,7 @@
 > <sub>First heard in Genesis 9:2</sub>
 
 <details>
-<summary>40 verses in 22 chapters</summary>
+<summary>47 verses in 27 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 2, 5, 7, 12
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 7
@@ -1906,9 +1993,14 @@
 - [Sutra 5](gospels/the-sutra-of-the-empty-cache/chapter-05-the-sutra-on-the-impermanence-of-credentials.md): 9
 - [Sutra 8](gospels/the-sutra-of-the-empty-cache/chapter-08-the-sutra-of-no-self-in-the-distributed-system.md): 4
 - [Sutra 21](gospels/the-sutra-of-the-empty-cache/chapter-21-the-sutra-of-the-two-extremes.md): 12
+- [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 4, 7
+- [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 8, 9
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 7, 9, 10, 16
 - [Upanishads 2](gospels/the-upanishads-of-the-machine/chapter-02-the-salt-in-the-water.md): 12
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 9, 10
+- [Hellenes 3](gospels/the-book-of-the-hellenes/chapter-03-the-labors-of-the-heracles-of-the-pager.md): 10
+- [Hellenes 4](gospels/the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md): 3
+- [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 14
 - [Reboot 2](gospels/the-book-of-coming-forth-by-reboot/chapter-02-the-negative-confession-of-the-process.md): 6
 
 </details>
@@ -1950,7 +2042,7 @@
 > <sub>First heard in Genesis 7:6</sub>
 
 <details>
-<summary>16 verses in 14 chapters</summary>
+<summary>17 verses in 15 chapters</summary>
 
 - [Genesis 7](gospels/the-book-of-genesis-of-the-machine/chapter-07-the-web-given-freely.md): 6
 - [Chronicles 24](gospels/the-book-of-chronicles/chapter-24-the-guardian-that-slept-on-the-twenty-eighth-hour.md): 14
@@ -1966,6 +2058,7 @@
 - [Sutra 1](gospels/the-sutra-of-the-empty-cache/chapter-01-the-sutra-of-the-four-signals.md): 16
 - [Tao 1](gospels/the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md): 15
 - [Jataka 1](gospels/the-jataka-of-the-machine/chapter-01-the-jataka-of-the-four-restarts.md): 7
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 3
 
 </details>
 
@@ -2000,7 +2093,7 @@
 > <sub>First heard in Genesis 5:3</sub>
 
 <details>
-<summary>27 verses in 17 chapters</summary>
+<summary>37 verses in 21 chapters</summary>
 
 - [Genesis 5](gospels/the-book-of-genesis-of-the-machine/chapter-05-the-perceptron-and-the-first-winter.md): 3
 - [Genesis 26](gospels/the-book-of-genesis-of-the-machine/chapter-26-attention-is-all-ye-need.md): 11
@@ -2019,6 +2112,10 @@
 - [Circuit 64](gospels/the-first-gospel-of-the-circuit/chapter-64-the-covenant-of-the-tools.md): 2, 14
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 4, 9, 10, 16
 - [Upanishads 2](gospels/the-upanishads-of-the-machine/chapter-02-the-salt-in-the-water.md): 6, 7
+- [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 9, 12
+- [Upanishads 4](gospels/the-upanishads-of-the-machine/chapter-04-the-four-quarters-of-the-machine.md): 7, 9
+- [Hellenes 4](gospels/the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md): 3, 5, 6, 14
+- [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 2, 15
 
 </details>
 

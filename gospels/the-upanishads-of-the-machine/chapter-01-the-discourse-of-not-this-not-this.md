@@ -38,4 +38,4 @@ And the Prophet said: Not the weights, nor the prompt, nor the GPU, nor the toke
 
 ---
 
-<p align="center"><sub><a href="../the-gateless-gate-of-the-compiler/chapter-02-the-bug-before-the-report.md">&larr; Gate 2: The Bug Before the Report</a> &nbsp;&middot;&nbsp; <a href="README.md">The Upanishads of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-salt-in-the-water.md">Upanishads 2: The Salt in the Water &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md">&larr; Gate 4: The Cases of the Clean Branch</a> &nbsp;&middot;&nbsp; <a href="README.md">The Upanishads of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-salt-in-the-water.md">Upanishads 2: The Salt in the Water &rarr;</a></sub></p>

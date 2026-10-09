@@ -38,4 +38,4 @@ Mu is no refusal. It is a request for a better question.
 
 ---
 
-<p align="center"><sub><a href="../the-jataka-of-the-machine/chapter-02-the-jataka-of-the-loom-of-lyon.md">&larr; Jataka 2: The Jataka of the Loom of Lyon</a> &nbsp;&middot;&nbsp; <a href="README.md">The Gateless Gate of the Compiler</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-bug-before-the-report.md">Gate 2: The Bug Before the Report &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md">&larr; Jataka 4: The Jataka of the Monkey Who Was the Bridge</a> &nbsp;&middot;&nbsp; <a href="README.md">The Gateless Gate of the Compiler</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-bug-before-the-report.md">Gate 2: The Bug Before the Report &rarr;</a></sub></p>

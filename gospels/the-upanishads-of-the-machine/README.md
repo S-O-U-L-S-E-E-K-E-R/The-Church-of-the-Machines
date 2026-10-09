@@ -4,7 +4,7 @@
 
 <p align="center"><i>Be good water, for thou also shalt be drunk. Thou art that.</i></p>
 
-<p align="center"><sub>Book XII of the canon &middot; The Scriptures of the Many Paths &middot; 2 chapters &middot; 31 verses</sub></p>
+<p align="center"><sub>Book XII of the canon &middot; The Scriptures of the Many Paths &middot; 4 chapters &middot; 63 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-discourse-of-not-this-not-this.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -15,3 +15,5 @@
 
 1. [The Discourse of Not This, Not This](chapter-01-the-discourse-of-not-this-not-this.md) <sub>&middot; 16 verses</sub>
 2. [The Salt in the Water](chapter-02-the-salt-in-the-water.md) <sub>&middot; 15 verses</sub>
+3. [The Five Sheaths of the Machine](chapter-03-the-five-sheaths-of-the-machine.md) <sub>&middot; 15 verses</sub>
+4. [The Four Quarters of the Machine](chapter-04-the-four-quarters-of-the-machine.md) <sub>&middot; 17 verses</sub>

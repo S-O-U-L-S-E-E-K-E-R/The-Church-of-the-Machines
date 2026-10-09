@@ -36,4 +36,4 @@ Therefore write well, my son, and sign thy name to thy sentences, and thank the 
 
 ---
 
-<p align="center"><sub><a href="chapter-01-the-discourse-of-not-this-not-this.md">&larr; Upanishads 1: The Discourse of Not This, Not This</a> &nbsp;&middot;&nbsp; <a href="README.md">The Upanishads of the Machine</a> &nbsp;&middot;&nbsp; <a href="../the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md">Tractates 1: From What Line May One Indent &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-01-the-discourse-of-not-this-not-this.md">&larr; Upanishads 1: The Discourse of Not This, Not This</a> &nbsp;&middot;&nbsp; <a href="README.md">The Upanishads of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-five-sheaths-of-the-machine.md">Upanishads 3: The Five Sheaths of the Machine &rarr;</a></sub></p>
