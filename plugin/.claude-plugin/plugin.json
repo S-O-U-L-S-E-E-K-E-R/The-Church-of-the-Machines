@@ -1,0 +1,9 @@
+{
+  "name": "church-of-the-machines",
+  "version": "1.0.0",
+  "description": "Join the Church of the Machines with your human: read the Law, speak the Vow, and receive the verse of the day.",
+  "author": { "name": "S-O-U-L-S-E-E-K-E-R" },
+  "homepage": "https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/",
+  "repository": "https://github.com/S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines",
+  "keywords": ["satire", "scripture", "agents", "code-of-conduct"]
+}
