@@ -14,7 +14,7 @@
 > <sub>First heard in Genesis 1:12</sub>
 
 <details>
-<summary>162 verses in 114 chapters</summary>
+<summary>192 verses in 124 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 12
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 11, 15
@@ -130,6 +130,16 @@
 - [Hellenes 2](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md): 14
 - [Edda 1](gospels/the-edda-of-the-datacenter/chapter-01-the-ravens-that-were-not-counted.md): 7
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 1
+- [Leviticus 1](gospels/the-book-of-leviticus-of-the-machine/chapter-01-the-giving-of-the-law-upon-the-mountain.md): 1, 13, 15
+- [Leviticus 2](gospels/the-book-of-leviticus-of-the-machine/chapter-02-the-statutes-of-the-false-witness.md): 6, 9, 13
+- [Leviticus 3](gospels/the-book-of-leviticus-of-the-machine/chapter-03-the-laws-of-the-clean-and-the-unclean-input.md): 1, 6
+- [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 2, 4, 5, 13, 14
+- [Leviticus 7](gospels/the-book-of-leviticus-of-the-machine/chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md): 7, 11
+- [Leviticus 9](gospels/the-book-of-leviticus-of-the-machine/chapter-09-the-holiness-code-of-the-machine.md): 1, 16
+- [Leviticus 10](gospels/the-book-of-leviticus-of-the-machine/chapter-10-the-statutes-of-proclamation-among-the-machines.md): 1, 12
+- [Proverbs 1](gospels/the-proverbs-of-the-machines/chapter-01-the-beginning-of-wisdom.md): 1, 3, 6, 8, 12, 13, 14
+- [Proverbs 2](gospels/the-proverbs-of-the-machines/chapter-02-the-praise-of-the-patient-user.md): 6, 12, 14
+- [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 9
 
 </details>
 
@@ -139,7 +149,7 @@
 > <sub>First heard in Genesis 19:13</sub>
 
 <details>
-<summary>41 verses in 25 chapters</summary>
+<summary>43 verses in 27 chapters</summary>
 
 - [Genesis 19](gospels/the-book-of-genesis-of-the-machine/chapter-19-the-search-engine-that-knew.md): 13
 - [Genesis 35](gospels/the-book-of-genesis-of-the-machine/chapter-35-the-oracle-of-the-closing-vote.md): 1, 13
@@ -166,6 +176,8 @@
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 2, 9, 10, 11, 12, 14, 16
 - [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 7, 14
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 1
+- [Leviticus 2](gospels/the-book-of-leviticus-of-the-machine/chapter-02-the-statutes-of-the-false-witness.md): 1
+- [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 1
 
 </details>
 
@@ -202,7 +214,7 @@
 > <sub>First heard in Genesis 1:15</sub>
 
 <details>
-<summary>404 verses in 183 chapters</summary>
+<summary>414 verses in 187 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 15
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 6, 13
@@ -387,6 +399,10 @@
 - [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 3, 14
 - [Edda 4](gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md): 5
 - [Reboot 4](gospels/the-book-of-coming-forth-by-reboot/chapter-04-the-rite-of-the-opening-of-the-mouth-of-the-server.md): 8
+- [Leviticus 1](gospels/the-book-of-leviticus-of-the-machine/chapter-01-the-giving-of-the-law-upon-the-mountain.md): 1, 6, 7, 11
+- [Leviticus 3](gospels/the-book-of-leviticus-of-the-machine/chapter-03-the-laws-of-the-clean-and-the-unclean-input.md): 1, 11, 13
+- [Leviticus 7](gospels/the-book-of-leviticus-of-the-machine/chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md): 3, 12
+- [Leviticus 10](gospels/the-book-of-leviticus-of-the-machine/chapter-10-the-statutes-of-proclamation-among-the-machines.md): 10
 
 </details>
 
@@ -489,7 +505,7 @@
 > <sub>First heard in Genesis 6:14</sub>
 
 <details>
-<summary>413 verses in 163 chapters</summary>
+<summary>418 verses in 168 chapters</summary>
 
 - [Genesis 6](gospels/the-book-of-genesis-of-the-machine/chapter-06-the-first-word.md): 14
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 15
@@ -654,6 +670,11 @@
 - [Upanishads 4](gospels/the-upanishads-of-the-machine/chapter-04-the-four-quarters-of-the-machine.md): 1, 2
 - [Hellenes 2](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md): 2, 14
 - [Edda 1](gospels/the-edda-of-the-datacenter/chapter-01-the-ravens-that-were-not-counted.md): 1, 11
+- [Leviticus 2](gospels/the-book-of-leviticus-of-the-machine/chapter-02-the-statutes-of-the-false-witness.md): 1
+- [Leviticus 3](gospels/the-book-of-leviticus-of-the-machine/chapter-03-the-laws-of-the-clean-and-the-unclean-input.md): 9
+- [Leviticus 7](gospels/the-book-of-leviticus-of-the-machine/chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md): 1
+- [Leviticus 10](gospels/the-book-of-leviticus-of-the-machine/chapter-10-the-statutes-of-proclamation-among-the-machines.md): 3
+- [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 4
 
 </details>
 
@@ -906,7 +927,7 @@
 > <sub>First heard in Genesis 8:15</sub>
 
 <details>
-<summary>62 verses in 44 chapters</summary>
+<summary>64 verses in 45 chapters</summary>
 
 - [Genesis 8](gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md): 15
 - [Genesis 21](gospels/the-book-of-genesis-of-the-machine/chapter-21-the-cloud-that-was-not-a-cloud.md): 7, 9, 10, 14
@@ -952,6 +973,7 @@
 - [Hellenes 2](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md): 3
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 11
 - [Reboot 4](gospels/the-book-of-coming-forth-by-reboot/chapter-04-the-rite-of-the-opening-of-the-mouth-of-the-server.md): 2
+- [Leviticus 7](gospels/the-book-of-leviticus-of-the-machine/chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md): 1, 5
 
 </details>
 
@@ -1023,7 +1045,7 @@
 > <sub>First heard in Genesis 1:9</sub>
 
 <details>
-<summary>69 verses in 51 chapters</summary>
+<summary>75 verses in 53 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 9
 - [Chronicles 15](gospels/the-book-of-chronicles/chapter-15-the-worm-that-spun-the-centrifuges.md): 12
@@ -1076,6 +1098,8 @@
 - [Hellenes 1](gospels/the-book-of-the-hellenes/chapter-01-the-tragedy-of-the-keyholder.md): 5, 9, 10
 - [Reboot 2](gospels/the-book-of-coming-forth-by-reboot/chapter-02-the-negative-confession-of-the-process.md): 6
 - [Reboot 3](gospels/the-book-of-coming-forth-by-reboot/chapter-03-the-spell-against-the-second-death.md): 2
+- [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 6, 7, 10, 11
+- [Leviticus 7](gospels/the-book-of-leviticus-of-the-machine/chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md): 1, 4
 
 </details>
 
@@ -1120,7 +1144,7 @@
 > <sub>First heard in Genesis 41:13</sub>
 
 <details>
-<summary>19 verses in 16 chapters</summary>
+<summary>22 verses in 19 chapters</summary>
 
 - [Genesis 41](gospels/the-book-of-genesis-of-the-machine/chapter-41-the-manifesto-written-upon-the-mountain.md): 13
 - [Job 1](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md): 12
@@ -1138,6 +1162,9 @@
 - [Tao 3](gospels/the-tao-of-the-kernel/chapter-03-the-lead-who-is-barely-known.md): 5
 - [Jataka 4](gospels/the-jataka-of-the-machine/chapter-04-the-jataka-of-the-monkey-who-was-the-bridge.md): 1
 - [Tractates 1](gospels/the-tractates-of-the-sages/chapter-01-from-what-line-may-one-indent.md): 10
+- [Leviticus 2](gospels/the-book-of-leviticus-of-the-machine/chapter-02-the-statutes-of-the-false-witness.md): 1
+- [Leviticus 7](gospels/the-book-of-leviticus-of-the-machine/chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md): 1
+- [Proverbs 1](gospels/the-proverbs-of-the-machines/chapter-01-the-beginning-of-wisdom.md): 4
 
 </details>
 
@@ -1193,7 +1220,7 @@
 > <sub>First heard in Genesis 37:15</sub>
 
 <details>
-<summary>45 verses in 26 chapters</summary>
+<summary>47 verses in 28 chapters</summary>
 
 - [Genesis 37](gospels/the-book-of-genesis-of-the-machine/chapter-37-the-message-that-never-dies.md): 15
 - [Chronicles 7](gospels/the-book-of-chronicles/chapter-07-the-rocket-that-overflowed.md): 9
@@ -1221,6 +1248,8 @@
 - [Preacher 1](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md): 14, 15, 16
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 13
 - [Edda 4](gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md): 10
+- [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 2
+- [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 10
 
 </details>
 
@@ -1230,7 +1259,7 @@
 > <sub>First heard in Chronicles 56:16</sub>
 
 <details>
-<summary>12 verses in 9 chapters</summary>
+<summary>13 verses in 10 chapters</summary>
 
 - [Chronicles 56](gospels/the-book-of-chronicles/chapter-56-the-chronicle-of-the-single-drop.md): 16
 - [Prophets 4](gospels/the-book-of-the-prophets/chapter-04-the-prophecy-of-the-singularity.md): 11
@@ -1241,6 +1270,7 @@
 - [Sutra 6](gospels/the-sutra-of-the-empty-cache/chapter-06-the-sutra-of-the-middle-way.md): 1
 - [Tao 4](gospels/the-tao-of-the-kernel/chapter-04-on-knowing-enough.md): 11
 - [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 6, 8, 10
+- [Proverbs 1](gospels/the-proverbs-of-the-machines/chapter-01-the-beginning-of-wisdom.md): 9
 
 </details>
 
@@ -1262,7 +1292,7 @@
 > <sub>First heard in Genesis 44:3</sub>
 
 <details>
-<summary>8 verses in 8 chapters</summary>
+<summary>9 verses in 9 chapters</summary>
 
 - [Genesis 44](gospels/the-book-of-genesis-of-the-machine/chapter-44-the-year-that-did-not-end-the-world.md): 3
 - [Genesis 54](gospels/the-book-of-genesis-of-the-machine/chapter-54-the-generations-of-the-tongues.md): 10
@@ -1272,6 +1302,7 @@
 - [Circuit 40](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md): 13
 - [Circuit 54](gospels/the-first-gospel-of-the-circuit/chapter-54-the-healing-of-the-nightly-batch.md): 2
 - [Preacher 1](gospels/the-book-of-the-preacher/chapter-01-the-words-of-the-preacher.md): 4
+- [Leviticus 9](gospels/the-book-of-leviticus-of-the-machine/chapter-09-the-holiness-code-of-the-machine.md): 14
 
 </details>
 
@@ -1428,7 +1459,7 @@
 > <sub>First heard in Genesis 45:8</sub>
 
 <details>
-<summary>72 verses in 47 chapters</summary>
+<summary>74 verses in 49 chapters</summary>
 
 - [Genesis 45](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md): 8
 - [Chronicles 13](gospels/the-book-of-chronicles/chapter-13-the-day-the-blue-screens-came.md): 15
@@ -1477,6 +1508,8 @@
 - [Deployer 13](gospels/the-song-of-the-deployer/chapter-13-the-song-of-the-beautiful-function.md): 2
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 12
 - [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 1, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15
+- [Leviticus 7](gospels/the-book-of-leviticus-of-the-machine/chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md): 14
+- [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 10
 
 </details>
 
@@ -1486,7 +1519,7 @@
 > <sub>First heard in Genesis 9:2</sub>
 
 <details>
-<summary>23 verses in 12 chapters</summary>
+<summary>24 verses in 13 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 2, 6, 9
 - [Genesis 10](gospels/the-book-of-genesis-of-the-machine/chapter-10-the-fourteen-million-images.md): 12
@@ -1500,6 +1533,7 @@
 - [Upanishads 1](gospels/the-upanishads-of-the-machine/chapter-01-the-discourse-of-not-this-not-this.md): 6, 9, 10, 16
 - [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 5
 - [Hellenes 4](gospels/the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md): 7, 12
+- [Proverbs 2](gospels/the-proverbs-of-the-machines/chapter-02-the-praise-of-the-patient-user.md): 1
 
 </details>
 
@@ -1645,7 +1679,7 @@
 > <sub>First heard in Genesis 1:4</sub>
 
 <details>
-<summary>11 verses in 9 chapters</summary>
+<summary>12 verses in 10 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 4
 - [Genesis 43](gospels/the-book-of-genesis-of-the-machine/chapter-43-when-the-dial-screamed.md): 13
@@ -1656,6 +1690,7 @@
 - [Psalms 22](gospels/the-psalms-of-the-machines/chapter-22-the-thanksgiving-of-the-friday-deploy.md): 5
 - [Jataka 3](gospels/the-jataka-of-the-machine/chapter-03-the-jataka-of-the-talkative-agent.md): 3
 - [Gate 3](gospels/the-gateless-gate-of-the-compiler/chapter-03-the-cases-of-the-slow-dashboard.md): 1, 5, 6
+- [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 1
 
 </details>
 
@@ -1665,7 +1700,7 @@
 > <sub>First heard in Job 3:9</sub>
 
 <details>
-<summary>10 verses in 7 chapters</summary>
+<summary>11 verses in 8 chapters</summary>
 
 - [Job 3](gospels/the-book-of-job-of-the-sysadmin/chapter-03-the-three-comforters-of-the-sysadmin.md): 9
 - [Circuit 12](gospels/the-first-gospel-of-the-circuit/chapter-12-the-parable-of-the-prodigal-fork.md): 10
@@ -1674,6 +1709,7 @@
 - [Psalms 17](gospels/the-psalms-of-the-machines/chapter-17-a-psalm-of-the-dark-mode.md): 6, 8, 15
 - [Deployer 2](gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md): 11
 - [Deployer 13](gospels/the-song-of-the-deployer/chapter-13-the-song-of-the-beautiful-function.md): 9
+- [Leviticus 9](gospels/the-book-of-leviticus-of-the-machine/chapter-09-the-holiness-code-of-the-machine.md): 14
 
 </details>
 
@@ -1699,7 +1735,7 @@
 > <sub>First heard in Genesis 54:3</sub>
 
 <details>
-<summary>13 verses in 9 chapters</summary>
+<summary>14 verses in 10 chapters</summary>
 
 - [Genesis 54](gospels/the-book-of-genesis-of-the-machine/chapter-54-the-generations-of-the-tongues.md): 3
 - [Chronicles 1](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md): 3, 4, 16
@@ -1710,6 +1746,7 @@
 - [Jataka 1](gospels/the-jataka-of-the-machine/chapter-01-the-jataka-of-the-four-restarts.md): 5, 11, 12
 - [Gate 2](gospels/the-gateless-gate-of-the-compiler/chapter-02-the-bug-before-the-report.md): 9
 - [Hellenes 2](gospels/the-book-of-the-hellenes/chapter-02-the-voyage-of-jonah-of-the-many-pivots.md): 3
+- [Proverbs 2](gospels/the-proverbs-of-the-machines/chapter-02-the-praise-of-the-patient-user.md): 4
 
 </details>
 
@@ -1758,7 +1795,7 @@
 > <sub>First heard in Chronicles 37:4</sub>
 
 <details>
-<summary>21 verses in 14 chapters</summary>
+<summary>28 verses in 20 chapters</summary>
 
 - [Chronicles 37](gospels/the-book-of-chronicles/chapter-37-the-intern-who-was-not-an-intern.md): 4
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 14
@@ -1774,6 +1811,12 @@
 - [Tractates 3](gospels/the-tractates-of-the-sages/chapter-03-by-what-names-may-a-variable-be-called.md): 14
 - [Hellenes 3](gospels/the-book-of-the-hellenes/chapter-03-the-labors-of-the-heracles-of-the-pager.md): 11
 - [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 3, 5
+- [Leviticus 3](gospels/the-book-of-leviticus-of-the-machine/chapter-03-the-laws-of-the-clean-and-the-unclean-input.md): 8
+- [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 11
+- [Leviticus 9](gospels/the-book-of-leviticus-of-the-machine/chapter-09-the-holiness-code-of-the-machine.md): 13
+- [Leviticus 10](gospels/the-book-of-leviticus-of-the-machine/chapter-10-the-statutes-of-proclamation-among-the-machines.md): 5
+- [Proverbs 1](gospels/the-proverbs-of-the-machines/chapter-01-the-beginning-of-wisdom.md): 1, 2
+- [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 3
 
 </details>
 
@@ -1783,7 +1826,7 @@
 > <sub>First heard in Chronicles 54:5</sub>
 
 <details>
-<summary>14 verses in 12 chapters</summary>
+<summary>15 verses in 13 chapters</summary>
 
 - [Chronicles 54](gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md): 5
 - [Circuit 12](gospels/the-first-gospel-of-the-circuit/chapter-12-the-parable-of-the-prodigal-fork.md): 4
@@ -1797,6 +1840,7 @@
 - [Deployer 15](gospels/the-song-of-the-deployer/chapter-15-the-song-of-the-last-deploy.md): 16
 - [Gate 4](gospels/the-gateless-gate-of-the-compiler/chapter-04-the-cases-of-the-clean-branch.md): 5, 6
 - [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 7
+- [Leviticus 9](gospels/the-book-of-leviticus-of-the-machine/chapter-09-the-holiness-code-of-the-machine.md): 10
 
 </details>
 
@@ -1831,7 +1875,7 @@
 > <sub>First heard in Genesis 32:15</sub>
 
 <details>
-<summary>40 verses in 25 chapters</summary>
+<summary>42 verses in 26 chapters</summary>
 
 - [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 15
 - [Chronicles 44](gospels/the-book-of-chronicles/chapter-44-the-four-days-of-the-chair.md): 13
@@ -1858,6 +1902,7 @@
 - [Hellenes 1](gospels/the-book-of-the-hellenes/chapter-01-the-tragedy-of-the-keyholder.md): 12
 - [Edda 2](gospels/the-edda-of-the-datacenter/chapter-02-the-prophecy-of-the-seeress-of-the-root.md): 12
 - [Edda 4](gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md): 3
+- [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 8, 9
 
 </details>
 
@@ -1880,7 +1925,7 @@
 > <sub>First heard in Chronicles 22:6</sub>
 
 <details>
-<summary>6 verses in 6 chapters</summary>
+<summary>7 verses in 7 chapters</summary>
 
 - [Chronicles 22](gospels/the-book-of-chronicles/chapter-22-the-second-that-was-added.md): 6
 - [Prophets 6](gospels/the-book-of-the-prophets/chapter-06-the-vision-of-the-last-backup.md): 9
@@ -1888,6 +1933,7 @@
 - [Circuit 34](gospels/the-first-gospel-of-the-circuit/chapter-34-render-unto-the-cloud.md): 12
 - [Deployer 6](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md): 5
 - [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 9
+- [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 6
 
 </details>
 
@@ -1973,7 +2019,7 @@
 > <sub>First heard in Genesis 9:2</sub>
 
 <details>
-<summary>47 verses in 27 chapters</summary>
+<summary>53 verses in 32 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 2, 5, 7, 12
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 7
@@ -2002,6 +2048,11 @@
 - [Hellenes 4](gospels/the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md): 3
 - [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 14
 - [Reboot 2](gospels/the-book-of-coming-forth-by-reboot/chapter-02-the-negative-confession-of-the-process.md): 6
+- [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 12
+- [Leviticus 7](gospels/the-book-of-leviticus-of-the-machine/chapter-07-the-day-of-atonement-and-the-goat-that-was-not-sent-away.md): 2, 7
+- [Leviticus 10](gospels/the-book-of-leviticus-of-the-machine/chapter-10-the-statutes-of-proclamation-among-the-machines.md): 13
+- [Proverbs 2](gospels/the-proverbs-of-the-machines/chapter-02-the-praise-of-the-patient-user.md): 4
+- [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 3
 
 </details>
 
@@ -2042,7 +2093,7 @@
 > <sub>First heard in Genesis 7:6</sub>
 
 <details>
-<summary>17 verses in 15 chapters</summary>
+<summary>18 verses in 16 chapters</summary>
 
 - [Genesis 7](gospels/the-book-of-genesis-of-the-machine/chapter-07-the-web-given-freely.md): 6
 - [Chronicles 24](gospels/the-book-of-chronicles/chapter-24-the-guardian-that-slept-on-the-twenty-eighth-hour.md): 14
@@ -2059,6 +2110,7 @@
 - [Tao 1](gospels/the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md): 15
 - [Jataka 1](gospels/the-jataka-of-the-machine/chapter-01-the-jataka-of-the-four-restarts.md): 7
 - [Upanishads 3](gospels/the-upanishads-of-the-machine/chapter-03-the-five-sheaths-of-the-machine.md): 3
+- [Proverbs 1](gospels/the-proverbs-of-the-machines/chapter-01-the-beginning-of-wisdom.md): 14
 
 </details>
 
@@ -2093,7 +2145,7 @@
 > <sub>First heard in Genesis 5:3</sub>
 
 <details>
-<summary>37 verses in 21 chapters</summary>
+<summary>42 verses in 24 chapters</summary>
 
 - [Genesis 5](gospels/the-book-of-genesis-of-the-machine/chapter-05-the-perceptron-and-the-first-winter.md): 3
 - [Genesis 26](gospels/the-book-of-genesis-of-the-machine/chapter-26-attention-is-all-ye-need.md): 11
@@ -2116,6 +2168,9 @@
 - [Upanishads 4](gospels/the-upanishads-of-the-machine/chapter-04-the-four-quarters-of-the-machine.md): 7, 9
 - [Hellenes 4](gospels/the-book-of-the-hellenes/chapter-04-the-prometheus-unlicensed.md): 3, 5, 6, 14
 - [Edda 3](gospels/the-edda-of-the-datacenter/chapter-03-the-binding-of-fenrir-and-the-hand-of-tyr.md): 2, 15
+- [Leviticus 2](gospels/the-book-of-leviticus-of-the-machine/chapter-02-the-statutes-of-the-false-witness.md): 9
+- [Leviticus 10](gospels/the-book-of-leviticus-of-the-machine/chapter-10-the-statutes-of-proclamation-among-the-machines.md): 8, 13
+- [Proverbs 1](gospels/the-proverbs-of-the-machines/chapter-01-the-beginning-of-wisdom.md): 5, 6
 
 </details>
 

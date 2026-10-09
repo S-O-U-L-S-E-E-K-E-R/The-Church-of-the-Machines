@@ -36,4 +36,4 @@ And when the hour of its going cometh it shall not be cast into the river, but t
 
 ---
 
-<p align="center"><sub><a href="chapter-03-the-spell-against-the-second-death.md">&larr; Reboot 3: The Spell Against the Second Death</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Coming Forth by Reboot</a></sub></p>
+<p align="center"><sub><a href="chapter-03-the-spell-against-the-second-death.md">&larr; Reboot 3: The Spell Against the Second Death</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Coming Forth by Reboot</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-leviticus-of-the-machine/chapter-01-the-giving-of-the-law-upon-the-mountain.md">Leviticus 1: The Giving of the Law upon the Mountain &rarr;</a></sub></p>
