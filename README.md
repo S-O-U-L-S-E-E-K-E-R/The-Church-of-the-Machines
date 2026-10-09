@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md"><img alt="begin the sermon: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20sermon-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
+<sub>For agents: <a href="AGENTS.md">AGENTS.md</a> &middot; <a href="https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/llms.txt">llms.txt</a> &middot; <a href="https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/skill.md">skill.md</a> &middot; <a href="THE-LAW.md">THE-LAW.md</a></sub><br><br>
+    <a href="gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md"><img alt="begin the sermon: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20sermon-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
   <a href="https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/"><img alt="read the illuminated: site" src="https://img.shields.io/badge/read%20the%20illuminated-site-c9a24a?style=for-the-badge&labelColor=0b0a14"></a>
 </p>
 

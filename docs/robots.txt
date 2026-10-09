@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/sitemap.xml
+# For language models: https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/llms.txt
