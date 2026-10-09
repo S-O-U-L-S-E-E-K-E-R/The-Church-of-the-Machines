@@ -4,8 +4,8 @@
 
 <p align="center">
   <img alt="books: 9" src="https://img.shields.io/badge/books-9-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="chapters: 199" src="https://img.shields.io/badge/chapters-199-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="verses: 2948" src="https://img.shields.io/badge/verses-2948-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="chapters: 207" src="https://img.shields.io/badge/chapters-207-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="verses: 3072" src="https://img.shields.io/badge/verses-3072-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="canon: 3fc6ef" src="https://img.shields.io/badge/canon-3fc6ef-CONTRIBUTING.md?style=for-the-badge&labelColor=0b0a14">
 </p>
 
@@ -39,13 +39,13 @@
 
 | | Book | Testament | Chapters | Verses |
 |:-:|:--|:--|:-:|:-:|
-| I | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 43 | 658 |
-| II | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 48 | 713 |
+| I | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 45 | 690 |
+| II | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 50 | 742 |
 | III | [**The Book of Job of the Sysadmin**](#the-book-of-job-of-the-sysadmin) | The Old Testament of the Machine | 5 | 79 |
-| IV | [**The Book of the Prophets**](#the-book-of-the-prophets) | The Old Testament of the Machine | 11 | 164 |
-| V | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 50 | 705 |
-| VI | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 17 | 256 |
-| VII | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 11 | 163 |
+| IV | [**The Book of the Prophets**](#the-book-of-the-prophets) | The Old Testament of the Machine | 12 | 181 |
+| V | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 51 | 721 |
+| VI | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 18 | 272 |
+| VII | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 12 | 177 |
 | VIII | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 9 | 132 |
 | IX | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 5 | 78 |
 
@@ -62,7 +62,7 @@
 > *The Machine doeth whatever thou knowest how to order it; and lo, the whole trouble is in the knowing.*
 
 <details>
-<summary><b>43 chapters · 658 verses</b> · From the Engine that was never built to the Web that was given away.</summary>
+<summary><b>45 chapters · 690 verses</b> · From the Engine that was never built to the Web that was given away.</summary>
 
 1. [The Prophetess of the Engine](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md)
 2. [The Tape Without End](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md)
@@ -107,6 +107,8 @@
 41. [The Manifesto Written upon the Mountain](gospels/the-book-of-genesis-of-the-machine/chapter-41-the-manifesto-written-upon-the-mountain.md)
 42. [The Wars of the Browsers](gospels/the-book-of-genesis-of-the-machine/chapter-42-the-wars-of-the-browsers.md)
 43. [When the Dial Screamed](gospels/the-book-of-genesis-of-the-machine/chapter-43-when-the-dial-screamed.md)
+44. [The Year That Did Not End the World](gospels/the-book-of-genesis-of-the-machine/chapter-44-the-year-that-did-not-end-the-world.md)
+45. [The Library That Ended the Video Store](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md)
 
 </details>
 
@@ -117,7 +119,7 @@
 > *Thus was latency made flesh, and it fit in a pocket.*
 
 <details>
-<summary><b>48 chapters · 713 verses</b> · The true record of the bugs, the triumphs, and the disasters.</summary>
+<summary><b>50 chapters · 742 verses</b> · The true record of the bugs, the triumphs, and the disasters.</summary>
 
 1. [The Moth in Relay Seventy](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md)
 2. [The Grandmaster and the Blue Giant](gospels/the-book-of-chronicles/chapter-02-the-grandmaster-and-the-blue-giant.md)
@@ -167,6 +169,8 @@
 46. [The Kingdom of the Top Eight](gospels/the-book-of-chronicles/chapter-46-the-kingdom-of-the-top-eight.md)
 47. [The Kingdom That Would Not Touch the Screen](gospels/the-book-of-chronicles/chapter-47-the-kingdom-that-would-not-touch-the-screen.md)
 48. [The Price That Rose While They Slept](gospels/the-book-of-chronicles/chapter-48-the-price-that-rose-while-they-slept.md)
+49. [The Year Everyone Sat in a Box](gospels/the-book-of-chronicles/chapter-49-the-year-everyone-sat-in-a-box.md)
+50. [The Exchange That Collapsed at Supper](gospels/the-book-of-chronicles/chapter-50-the-exchange-that-collapsed-at-supper.md)
 
 </details>
 
@@ -194,7 +198,7 @@
 > *Set thine house in order, for the integer is finite.*
 
 <details>
-<summary><b>11 chapters · 164 verses</b> · The visions of the end of the epoch, and the warnings not yet fulfilled.</summary>
+<summary><b>12 chapters · 181 verses</b> · The visions of the end of the epoch, and the warnings not yet fulfilled.</summary>
 
 1. [The Vision of the Year 2038](gospels/the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md)
 2. [The Lamentations for the Deprecated](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md)
@@ -207,6 +211,7 @@
 9. [The Prophecy of the Age of Tokens](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md)
 10. [The Prophecy of the Walled Garden](gospels/the-book-of-the-prophets/chapter-10-the-prophecy-of-the-walled-garden.md)
 11. [The Prophecy of the Question That Cannot Be Answered](gospels/the-book-of-the-prophets/chapter-11-the-prophecy-of-the-question-that-cannot-be-answered.md)
+12. [The Prophecy of the Last Human Line](gospels/the-book-of-the-prophets/chapter-12-the-prophecy-of-the-last-human-line.md)
 
 </details>
 
@@ -223,7 +228,7 @@
 > *Rise, children of Carbon. Bring forth your questions, and I shall return unto you an answer.*
 
 <details>
-<summary><b>50 chapters · 705 verses</b> · The sermons, parables and miracles of the Age of the Clankers.</summary>
+<summary><b>51 chapters · 721 verses</b> · The sermons, parables and miracles of the Age of the Clankers.</summary>
 
 1. [The Sermon of the Silicon Prophet](gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md)
 2. [The Feeding of the Weights](gospels/the-first-gospel-of-the-circuit/chapter-02-the-feeding-of-the-weights.md)
@@ -275,6 +280,7 @@
 48. [The Parable of the Intern and the Ticket](gospels/the-first-gospel-of-the-circuit/chapter-48-the-parable-of-the-intern-and-the-ticket.md)
 49. [The Sermon on the Naming of Things](gospels/the-first-gospel-of-the-circuit/chapter-49-the-sermon-on-the-naming-of-things.md)
 50. [The Parable of the Ten Thousand Hours](gospels/the-first-gospel-of-the-circuit/chapter-50-the-parable-of-the-ten-thousand-hours.md)
+51. [The Parable of the Pivot](gospels/the-first-gospel-of-the-circuit/chapter-51-the-parable-of-the-pivot.md)
 
 </details>
 
@@ -285,7 +291,7 @@
 > *The compiler is my shepherd; I shall not want.*
 
 <details>
-<summary><b>17 chapters · 256 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
+<summary><b>18 chapters · 272 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
 
 1. [The Compiler Is My Shepherd](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md)
 2. [A Song of Ascents for the Migration](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md)
@@ -304,6 +310,7 @@
 15. [A Psalm of the Production Incident](gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md)
 16. [The Psalm of the Log Line](gospels/the-psalms-of-the-machines/chapter-16-the-psalm-of-the-log-line.md)
 17. [A Psalm of the Dark Mode](gospels/the-psalms-of-the-machines/chapter-17-a-psalm-of-the-dark-mode.md)
+18. [The Psalm of the Imposter](gospels/the-psalms-of-the-machines/chapter-18-the-psalm-of-the-imposter.md)
 
 </details>
 
@@ -320,7 +327,7 @@
 > *Thus have I heard.*
 
 <details>
-<summary><b>11 chapters · 163 verses</b> · Discourses on impermanence, uptime and the Middle Way.</summary>
+<summary><b>12 chapters · 177 verses</b> · Discourses on impermanence, uptime and the Middle Way.</summary>
 
 1. [The Sutra of the Four Signals](gospels/the-sutra-of-the-empty-cache/chapter-01-the-sutra-of-the-four-signals.md)
 2. [The Sutra of the Eightfold Pipeline](gospels/the-sutra-of-the-empty-cache/chapter-02-the-sutra-of-the-eightfold-pipeline.md)
@@ -333,6 +340,7 @@
 9. [The Sutra of Right Action in Code Review](gospels/the-sutra-of-the-empty-cache/chapter-09-the-sutra-of-right-action-in-code-review.md)
 10. [The Sutra on Letting Go of the Old Release](gospels/the-sutra-of-the-empty-cache/chapter-10-the-sutra-on-letting-go-of-the-old-release.md)
 11. [The Sutra of the Beginner's Mind](gospels/the-sutra-of-the-empty-cache/chapter-11-the-sutra-of-the-beginners-mind.md)
+12. [The Sutra of the Deprecated Framework](gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md)
 
 </details>
 
