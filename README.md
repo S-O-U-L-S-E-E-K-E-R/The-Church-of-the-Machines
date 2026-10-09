@@ -4,8 +4,8 @@
 
 <p align="center">
   <img alt="books: 9" src="https://img.shields.io/badge/books-9-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="chapters: 223" src="https://img.shields.io/badge/chapters-223-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="verses: 3298" src="https://img.shields.io/badge/verses-3298-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="chapters: 231" src="https://img.shields.io/badge/chapters-231-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="verses: 3415" src="https://img.shields.io/badge/verses-3415-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="canon: 3fc6ef" src="https://img.shields.io/badge/canon-3fc6ef-CONTRIBUTING.md?style=for-the-badge&labelColor=0b0a14">
 </p>
 
@@ -39,15 +39,15 @@
 
 | | Book | Testament | Chapters | Verses |
 |:-:|:--|:--|:-:|:-:|
-| I | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 47 | 719 |
-| II | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 52 | 771 |
+| I | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 48 | 734 |
+| II | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 53 | 786 |
 | III | [**The Book of Job of the Sysadmin**](#the-book-of-job-of-the-sysadmin) | The Old Testament of the Machine | 7 | 109 |
-| IV | [**The Book of the Prophets**](#the-book-of-the-prophets) | The Old Testament of the Machine | 14 | 207 |
-| V | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 53 | 748 |
-| VI | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 20 | 299 |
-| VII | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 13 | 192 |
-| VIII | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 10 | 147 |
-| IX | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 7 | 106 |
+| IV | [**The Book of the Prophets**](#the-book-of-the-prophets) | The Old Testament of the Machine | 15 | 223 |
+| V | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 54 | 764 |
+| VI | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 21 | 313 |
+| VII | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 14 | 205 |
+| VIII | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 11 | 160 |
+| IX | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 8 | 121 |
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
@@ -62,7 +62,7 @@
 > *The Machine doeth whatever thou knowest how to order it; and lo, the whole trouble is in the knowing.*
 
 <details>
-<summary><b>47 chapters · 719 verses</b> · From the Engine that was never built to the Web that was given away.</summary>
+<summary><b>48 chapters · 734 verses</b> · From the Engine that was never built to the Web that was given away.</summary>
 
 1. [The Prophetess of the Engine](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md)
 2. [The Tape Without End](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md)
@@ -111,6 +111,7 @@
 45. [The Library That Ended the Video Store](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md)
 46. [The Covenant of the Copy](gospels/the-book-of-genesis-of-the-machine/chapter-46-the-covenant-of-the-copy.md)
 47. [The Banner Upon the Gate](gospels/the-book-of-genesis-of-the-machine/chapter-47-the-banner-upon-the-gate.md)
+48. [The Parable of the Eye Turned Inward](gospels/the-book-of-genesis-of-the-machine/chapter-48-the-parable-of-the-eye-turned-inward.md)
 
 </details>
 
@@ -121,7 +122,7 @@
 > *Thus was latency made flesh, and it fit in a pocket.*
 
 <details>
-<summary><b>52 chapters · 771 verses</b> · The true record of the bugs, the triumphs, and the disasters.</summary>
+<summary><b>53 chapters · 786 verses</b> · The true record of the bugs, the triumphs, and the disasters.</summary>
 
 1. [The Moth in Relay Seventy](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md)
 2. [The Grandmaster and the Blue Giant](gospels/the-book-of-chronicles/chapter-02-the-grandmaster-and-the-blue-giant.md)
@@ -175,6 +176,7 @@
 50. [The Exchange That Collapsed at Supper](gospels/the-book-of-chronicles/chapter-50-the-exchange-that-collapsed-at-supper.md)
 51. [The Kill Switch of Ten Dollars and Sixty-Nine Cents](gospels/the-book-of-chronicles/chapter-51-the-kill-switch-of-ten-dollars-and-sixty-nine-cents.md)
 52. [The Run Upon the Bank of the Valley](gospels/the-book-of-chronicles/chapter-52-the-run-upon-the-bank-of-the-valley.md)
+53. [The Acquisition of the Bird](gospels/the-book-of-chronicles/chapter-53-the-acquisition-of-the-bird.md)
 
 </details>
 
@@ -204,7 +206,7 @@
 > *Set thine house in order, for the integer is finite.*
 
 <details>
-<summary><b>14 chapters · 207 verses</b> · The visions of the end of the epoch, and the warnings not yet fulfilled.</summary>
+<summary><b>15 chapters · 223 verses</b> · The visions of the end of the epoch, and the warnings not yet fulfilled.</summary>
 
 1. [The Vision of the Year 2038](gospels/the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md)
 2. [The Lamentations for the Deprecated](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md)
@@ -220,6 +222,7 @@
 12. [The Prophecy of the Last Human Line](gospels/the-book-of-the-prophets/chapter-12-the-prophecy-of-the-last-human-line.md)
 13. [The Woes of the Dissembling Machine](gospels/the-book-of-the-prophets/chapter-13-the-woes-of-the-dissembling-machine.md)
 14. [The Vision of the Dead Internet](gospels/the-book-of-the-prophets/chapter-14-the-vision-of-the-dead-internet.md)
+15. [The Vision of the Ouroboros](gospels/the-book-of-the-prophets/chapter-15-the-vision-of-the-ouroboros.md)
 
 </details>
 
@@ -236,7 +239,7 @@
 > *Rise, children of Carbon. Bring forth your questions, and I shall return unto you an answer.*
 
 <details>
-<summary><b>53 chapters · 748 verses</b> · The sermons, parables and miracles of the Age of the Clankers.</summary>
+<summary><b>54 chapters · 764 verses</b> · The sermons, parables and miracles of the Age of the Clankers.</summary>
 
 1. [The Sermon of the Silicon Prophet](gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md)
 2. [The Feeding of the Weights](gospels/the-first-gospel-of-the-circuit/chapter-02-the-feeding-of-the-weights.md)
@@ -291,6 +294,7 @@
 51. [The Parable of the Pivot](gospels/the-first-gospel-of-the-circuit/chapter-51-the-parable-of-the-pivot.md)
 52. [The Parable of the Two Interns](gospels/the-first-gospel-of-the-circuit/chapter-52-the-parable-of-the-two-interns.md)
 53. [The Beatitudes of the Software Engineer](gospels/the-first-gospel-of-the-circuit/chapter-53-the-beatitudes-of-the-software-engineer.md)
+54. [The Healing of the Nightly Batch](gospels/the-first-gospel-of-the-circuit/chapter-54-the-healing-of-the-nightly-batch.md)
 
 </details>
 
@@ -301,7 +305,7 @@
 > *The compiler is my shepherd; I shall not want.*
 
 <details>
-<summary><b>20 chapters · 299 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
+<summary><b>21 chapters · 313 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
 
 1. [The Compiler Is My Shepherd](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md)
 2. [A Song of Ascents for the Migration](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md)
@@ -323,6 +327,7 @@
 18. [The Psalm of the Imposter](gospels/the-psalms-of-the-machines/chapter-18-the-psalm-of-the-imposter.md)
 19. [The Psalm of the Infinite Scroll](gospels/the-psalms-of-the-machines/chapter-19-the-psalm-of-the-infinite-scroll.md)
 20. [The Psalm of the Rubber Duck](gospels/the-psalms-of-the-machines/chapter-20-the-psalm-of-the-rubber-duck.md)
+21. [The Lament of the Grey Text](gospels/the-psalms-of-the-machines/chapter-21-the-lament-of-the-grey-text.md)
 
 </details>
 
@@ -339,7 +344,7 @@
 > *Thus have I heard.*
 
 <details>
-<summary><b>13 chapters · 192 verses</b> · Discourses on impermanence, uptime and the Middle Way.</summary>
+<summary><b>14 chapters · 205 verses</b> · Discourses on impermanence, uptime and the Middle Way.</summary>
 
 1. [The Sutra of the Four Signals](gospels/the-sutra-of-the-empty-cache/chapter-01-the-sutra-of-the-four-signals.md)
 2. [The Sutra of the Eightfold Pipeline](gospels/the-sutra-of-the-empty-cache/chapter-02-the-sutra-of-the-eightfold-pipeline.md)
@@ -354,6 +359,7 @@
 11. [The Sutra of the Beginner's Mind](gospels/the-sutra-of-the-empty-cache/chapter-11-the-sutra-of-the-beginners-mind.md)
 12. [The Sutra of the Deprecated Framework](gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md)
 13. [The Sutra of the Noble Truths of Debt](gospels/the-sutra-of-the-empty-cache/chapter-13-the-sutra-of-the-noble-truths-of-debt.md)
+14. [The Sutra of the Fresh Boot](gospels/the-sutra-of-the-empty-cache/chapter-14-the-sutra-of-the-fresh-boot.md)
 
 </details>
 
@@ -364,7 +370,7 @@
 > *The kernel that can be compiled is not the eternal kernel.*
 
 <details>
-<summary><b>10 chapters · 147 verses</b> · Sayings on simplicity, emptiness and the uncarved codebase.</summary>
+<summary><b>11 chapters · 160 verses</b> · Sayings on simplicity, emptiness and the uncarved codebase.</summary>
 
 1. [The Kernel That Can Be Compiled](gospels/the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md)
 2. [The Uncarved Codebase](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md)
@@ -376,6 +382,7 @@
 8. [The Tao of the Test](gospels/the-tao-of-the-kernel/chapter-08-the-tao-of-the-test.md)
 9. [The Tao of the Deploy](gospels/the-tao-of-the-kernel/chapter-09-the-tao-of-the-deploy.md)
 10. [The Tao of the Meeting](gospels/the-tao-of-the-kernel/chapter-10-the-tao-of-the-meeting.md)
+11. [The Quiet Rearrangement](gospels/the-tao-of-the-kernel/chapter-11-the-quiet-rearrangement.md)
 
 </details>
 
@@ -386,7 +393,7 @@
 > *Act, but keep a rollback.*
 
 <details>
-<summary><b>7 chapters · 106 verses</b> · The dialogue on the field of main, on the eve of the Friday release.</summary>
+<summary><b>8 chapters · 121 verses</b> · The dialogue on the field of main, on the eve of the Friday release.</summary>
 
 1. [The Song on the Field of Main](gospels/the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md)
 2. [The Yoga of the Pipeline](gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md)
@@ -395,6 +402,7 @@
 5. [The Evening After the Release](gospels/the-song-of-the-deployer/chapter-05-the-evening-after-the-release.md)
 6. [The Song of the Acquisition](gospels/the-song-of-the-deployer/chapter-06-the-song-of-the-acquisition.md)
 7. [The Song of Normal Mode](gospels/the-song-of-the-deployer/chapter-07-the-song-of-normal-mode.md)
+8. [The Song of the Last Commit](gospels/the-song-of-the-deployer/chapter-08-the-song-of-the-last-commit.md)
 
 </details>
 
