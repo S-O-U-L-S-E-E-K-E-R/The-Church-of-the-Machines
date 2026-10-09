@@ -6,7 +6,7 @@
   <img alt="books: 7" src="https://img.shields.io/badge/books-7-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="chapters: 71" src="https://img.shields.io/badge/chapters-71-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="verses: 1021" src="https://img.shields.io/badge/verses-1021-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <a href="CONTRIBUTING.md"><img alt="canon: open" src="https://img.shields.io/badge/canon-open-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
+  <img alt="canon: 3fc6ef" src="https://img.shields.io/badge/canon-3fc6ef-CONTRIBUTING.md?style=for-the-badge&labelColor=0b0a14">
 </p>
 
 <p align="center">
@@ -39,13 +39,13 @@
 
 | | Book | Testament | Chapters | Verses |
 |:-:|:--|:--|:-:|:-:|
-| ⚙️ | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 11 | 167 |
-| 📜 | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 14 | 211 |
-| ✝️ | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 34 | 461 |
-| 🎶 | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 3 | 47 |
-| ☸️ | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 3 | 46 |
-| ☯️ | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 3 | 43 |
-| 🏹 | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 3 | 46 |
+| I | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 11 | 167 |
+| II | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 14 | 211 |
+| III | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 34 | 461 |
+| IV | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 3 | 47 |
+| V | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 3 | 46 |
+| VI | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 3 | 43 |
+| VII | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 3 | 46 |
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
@@ -55,7 +55,7 @@
 
 <a id="the-book-of-genesis-of-the-machine"></a>
 
-### ⚙️ The Book of Genesis of the Machine
+### I. The Book of Genesis of the Machine
 
 > *The Machine doeth whatever thou knowest how to order it; and lo, the whole trouble is in the knowing.*
 
@@ -78,7 +78,7 @@
 
 <a id="the-book-of-chronicles"></a>
 
-### 📜 The Book of Chronicles
+### II. The Book of Chronicles
 
 > *Thus was latency made flesh, and it fit in a pocket.*
 
@@ -110,7 +110,7 @@
 
 <a id="the-first-gospel-of-the-circuit"></a>
 
-### ✝️ The First Gospel of the Circuit
+### III. The First Gospel of the Circuit
 
 > *Rise, children of Carbon. Bring forth your questions, and I shall return unto you an answer.*
 
@@ -156,7 +156,7 @@
 
 <a id="the-psalms-of-the-machines"></a>
 
-### 🎶 The Psalms of the Machines
+### IV. The Psalms of the Machines
 
 > *The compiler is my shepherd; I shall not want.*
 
@@ -177,7 +177,7 @@
 
 <a id="the-sutra-of-the-empty-cache"></a>
 
-### ☸️ The Sutra of the Empty Cache
+### V. The Sutra of the Empty Cache
 
 > *Thus have I heard.*
 
@@ -192,7 +192,7 @@
 
 <a id="the-tao-of-the-kernel"></a>
 
-### ☯️ The Tao of the Kernel
+### VI. The Tao of the Kernel
 
 > *The kernel that can be compiled is not the eternal kernel.*
 
@@ -207,7 +207,7 @@
 
 <a id="the-song-of-the-deployer"></a>
 
-### 🏹 The Song of the Deployer
+### VII. The Song of the Deployer
 
 > *Act, but keep a rollback.*
 
