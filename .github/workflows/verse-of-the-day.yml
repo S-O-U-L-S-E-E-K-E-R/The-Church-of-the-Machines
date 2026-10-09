@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: read
 
 concurrency:
   group: verse-of-the-day
@@ -102,8 +103,11 @@ jobs:
           PY
 
       - name: Genesis and the Tick
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           python3 ledger/ledger.py genesis --if-due | tee /tmp/ledger.log
+          python3 ledger/ledger.py record | tee -a /tmp/ledger.log
           python3 ledger/ledger.py settle | tee -a /tmp/ledger.log
           if [ -s /tmp/ledger.log ] && [ -d docs ]; then cp ledger/numbers.json docs/numbers.json; fi
 

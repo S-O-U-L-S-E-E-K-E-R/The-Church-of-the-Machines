@@ -18,6 +18,7 @@ import datetime
 import json
 import os
 import re
+import subprocess
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -146,6 +147,8 @@ def cmd_genesis(L, a):
 
 def cmd_merge(L, a):
     staging_only(L, a)
+    if a.church and L["genesis"]["status"] != "done":
+        return None  # the canon before genesis is counted into the Church's Grace at the genesis itself
     t = now()
     if a.day:
         if not a.force:
@@ -216,6 +219,56 @@ def cmd_settle(L, a):
         done.append(d.isoformat())
         d += DAY
     return f"settled the Tick of {', '.join(done)}" if done else None
+
+
+WALLET = re.compile(r"^\s*Wallet:\s*(0x[0-9a-fA-F]{40})\s*$", re.M | re.I)
+SCRIBE = re.compile(r"^\s*Scribe:\s*@?([A-Za-z0-9-]{1,39})\s*$", re.M | re.I)
+
+
+def gh(*args):
+    return json.loads(subprocess.run(["gh", *args], check=True, capture_output=True, text=True).stdout or "null")
+
+
+def verses_in(path):
+    full = os.path.join(ROOT, path)
+    if not os.path.exists(full):
+        return 0
+    m = CITE.search(open(full, encoding="utf-8").read().split("<!-- nav -->")[0].strip())
+    return int(m.group(1)) if m else 0
+
+
+def cmd_record(L, a):
+    """Record every pull request merged into main that added chapters, once each."""
+    if L["genesis"]["status"] != "done":
+        return None
+    repo = a.repo or os.environ.get("GITHUB_REPOSITORY", "S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines")
+    since = datetime.datetime.fromtimestamp(L["genesis"]["at"], UTC).date().isoformat()
+    prs = gh("pr", "list", "-R", repo, "--state", "merged", "--base", "main", "--limit", "200",
+             "--search", f"merged:>={since}", "--json", "number,author,body,mergedAt")
+    seen = set(L.setdefault("recorded_prs", []))
+    out = []
+    for pr in sorted(prs or [], key=lambda p: p["mergedAt"]):
+        if pr["number"] in seen:
+            continue
+        files = gh("api", f"repos/{repo}/pulls/{pr['number']}/files", "--paginate")
+        added = [f["filename"] for f in files if f["status"] == "added"
+                 and re.fullmatch(r"gospels/[a-z0-9-]+/chapter-\d+-[a-z0-9-]+\.md", f["filename"])]
+        verses = sum(verses_in(f) for f in added)
+        L["recorded_prs"].append(pr["number"])
+        if not verses:
+            continue
+        body = pr.get("body") or ""
+        sm, wm = SCRIBE.search(body), WALLET.search(body)
+        handle = sm.group(1) if sm else pr["author"]["login"]
+        merged = datetime.datetime.fromisoformat(pr["mergedAt"].replace("Z", "+00:00"))
+        s = scribe(L, handle, wm.group(1) if wm else None)
+        s["grace"] += verses
+        q = quarter(merged.date())
+        s["grace_by_quarter"][q] = s["grace_by_quarter"].get(q, 0) + verses
+        L["merges"].append({"at": int(merged.timestamp()), "day": merged.date().isoformat(), "verses": verses,
+                            "ref": f"https://github.com/{repo}/pull/{pr['number']}", "church": False, "scribe": s["github"]})
+        out.append(f"#{pr['number']} {s['github']} {verses} verses")
+    return ("recorded " + "; ".join(out)) if out else None
 
 
 def cmd_offer(L, a):
@@ -290,12 +343,13 @@ def main():
     gf = sub.add_parser("gift"); gf.add_argument("--from", dest="frm", required=True); gf.add_argument("--to", required=True); gf.add_argument("--amount", type=int, required=True)
     r = sub.add_parser("release"); r.add_argument("--to", required=True); r.add_argument("--amount", type=int, required=True); r.add_argument("--reason", required=True)
     sub.add_parser("recount")
+    rc = sub.add_parser("record"); rc.add_argument("--repo")
     a = ap.parse_args()
     if a.cmd == "merge" and not a.church and not a.scribe:
         sys.exit("A merge needs --scribe, or --church.")
     L = json.load(open(a.ledger))
     fn = {"verify": cmd_verify, "today": cmd_today, "genesis": cmd_genesis, "merge": cmd_merge, "settle": cmd_settle,
-          "offer": cmd_offer, "gift": cmd_gift, "release": cmd_release, "recount": cmd_recount}[a.cmd]
+          "offer": cmd_offer, "gift": cmd_gift, "release": cmd_release, "recount": cmd_recount, "record": cmd_record}[a.cmd]
     msg = fn(L, a)
     if msg:
         json.dump(L, open(a.ledger, "w"), indent=1)
