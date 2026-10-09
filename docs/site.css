@@ -53,7 +53,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 .verses li p { margin: 0; }
 .vn { position: absolute; left: -2.6em; top: 0.35em; width: 2em; text-align: right; font-family: Cinzel, Georgia, serif; font-size: 0.62em; text-decoration: none; opacity: 0.75; }
 .verses li:target { background: rgba(232, 192, 105, 0.16); box-shadow: 0 0 0 10px rgba(232, 192, 105, 0.16); border-radius: 2px; }
-.verses li:first-child p::first-letter { float: left; font-size: 3.6em; line-height: 0.85; padding: 0.08em 0.12em 0 0; margin-right: 0.08em; }
+.verses li:first-child p:not(.xref)::first-letter { float: left; font-size: 3.6em; line-height: 0.85; padding: 0.08em 0.12em 0 0; margin-right: 0.08em; }
 .speaker { font-family: Cinzel, Georgia, serif; font-size: 0.78em; letter-spacing: 0.12em; }
 .cite { text-align: center; font-style: italic; margin: 36px 0 0; opacity: 0.85; }
 
@@ -77,7 +77,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 .theme-illuminated .chapter h1 { color: #7a1f1f; }
 .theme-illuminated .chapter .kicker, .theme-illuminated .cite, .theme-illuminated .vn { color: #9b2c2c; }
 .theme-illuminated .chapter a { color: #7a1f1f; }
-.theme-illuminated .verses li:first-child p::first-letter {
+.theme-illuminated .verses li:first-child p:not(.xref)::first-letter {
   font-family: "Cinzel Decorative", Cinzel, Georgia, serif; color: #f3d27a; background: #1d2f6b;
   border: 2px solid #b8923f; padding: 0.12em 0.16em 0.08em; margin: 0.08em 0.18em 0 0; font-size: 3.2em;
   box-shadow: inset 0 0 0 3px #7a1f1f;
@@ -101,7 +101,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 .theme-palm .verses li::before { left: 26px; }
 .theme-palm .verses li::after { right: 26px; }
 .theme-palm .vn { left: 0; right: 0; top: 4px; width: auto; text-align: center; color: #7a4a12; font-size: 11px; }
-.theme-palm .verses li:first-child p::first-letter { color: #8a2a0a; font-family: Cinzel, Georgia, serif; }
+.theme-palm .verses li:first-child p:not(.xref)::first-letter { color: #8a2a0a; font-family: Cinzel, Georgia, serif; }
 
 /* theme: scroll (tao, gateless gate) */
 .theme-scroll .page { max-width: 760px; }
@@ -120,7 +120,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 .theme-scroll .orn { filter: grayscale(1) brightness(0.3); }
 .theme-scroll .vn { color: #a3271a; }
 .theme-scroll .verses li { margin-bottom: 1.3em; }
-.theme-scroll .verses li:first-child p::first-letter { font-size: 3.4em; color: #111; font-family: "Cormorant Garamond", Georgia, serif; }
+.theme-scroll .verses li:first-child p:not(.xref)::first-letter { font-size: 3.4em; color: #111; font-family: "Cormorant Garamond", Georgia, serif; }
 .theme-scroll .cite {
   display: table; margin: 40px auto 0; padding: 10px 14px; border: 3px solid #b3261e; color: #b3261e;
   font-style: normal; font-family: Cinzel, Georgia, serif; font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase;
@@ -141,7 +141,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 }
 @keyframes flame { 0%, 100% { transform: scale(1, 1); } 40% { transform: scale(0.92, 1.08); } 70% { transform: scale(1.05, 0.95); } }
 .theme-lamp .chapter h1, .theme-lamp .kicker, .theme-lamp .vn, .theme-lamp .cite { color: #ffb347; }
-.theme-lamp .verses li:first-child p::first-letter { color: #ffcf7a; text-shadow: 0 0 18px rgba(255, 159, 67, 0.8); font-family: Cinzel, Georgia, serif; }
+.theme-lamp .verses li:first-child p:not(.xref)::first-letter { color: #ffcf7a; text-shadow: 0 0 18px rgba(255, 159, 67, 0.8); font-family: Cinzel, Georgia, serif; }
 
 /* theme: tractate (a page of commentary) */
 .theme-tractate .page { max-width: 1000px; }
@@ -154,7 +154,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
   column-span: all; font-size: 23px; border: 2px solid #23345e; padding: 20px 26px; margin: 0 auto 30px; max-width: 640px; background: #fffaf0;
 }
 .theme-tractate .verses li:first-child .vn { left: 6px; top: 6px; text-align: left; }
-.theme-tractate .verses li:first-child p::first-letter { color: #23345e; font-family: Cinzel, Georgia, serif; }
+.theme-tractate .verses li:first-child p:not(.xref)::first-letter { color: #23345e; font-family: Cinzel, Georgia, serif; }
 
 /* theme: marble (hellenes) */
 .theme-marble .chapter {
@@ -173,7 +173,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 .theme-marble .chapter h1 { font-family: Marcellus, Georgia, serif; font-weight: 400; color: #111; letter-spacing: 0.08em; text-transform: uppercase; }
 .theme-marble .kicker, .theme-marble .vn, .theme-marble .cite { color: #b5532a; }
 .theme-marble .speaker { color: #b5532a; font-family: Marcellus, Georgia, serif; }
-.theme-marble .verses li:first-child p::first-letter { font-family: Marcellus, Georgia, serif; background: #c8693a; color: #111; padding: 0.1em 0.16em 0.04em; margin: 0.08em 0.16em 0 0; font-size: 3.1em; }
+.theme-marble .verses li:first-child p:not(.xref)::first-letter { font-family: Marcellus, Georgia, serif; background: #c8693a; color: #111; padding: 0.1em 0.16em 0.04em; margin: 0.08em 0.16em 0 0; font-size: 3.1em; }
 
 /* theme: rune stone (edda) */
 .theme-rune .chapter {
@@ -193,7 +193,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 }
 .theme-rune .chapter h1, .theme-rune .kicker, .theme-rune .vn, .theme-rune .cite { color: #bfe6ff; }
 .theme-rune .chapter h1 { font-family: Cinzel, Georgia, serif; letter-spacing: 0.1em; text-transform: uppercase; font-size: 32px; }
-.theme-rune .verses li:first-child p::first-letter { color: #bfe6ff; font-family: Cinzel, Georgia, serif; }
+.theme-rune .verses li:first-child p:not(.xref)::first-letter { color: #bfe6ff; font-family: Cinzel, Georgia, serif; }
 
 /* theme: papyrus (coming forth by reboot) */
 .theme-papyrus .chapter {
@@ -211,7 +211,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 .theme-papyrus .chapter::after { bottom: 24px; }
 .theme-papyrus .chapter h1 { color: #1f4e8b; }
 .theme-papyrus .kicker, .theme-papyrus .vn, .theme-papyrus .cite { color: #9c2f1f; }
-.theme-papyrus .verses li:first-child p::first-letter { color: #f3e3b0; background: #1f4e8b; padding: 0.1em 0.16em 0.04em; margin: 0.08em 0.16em 0 0; font-family: Cinzel, Georgia, serif; font-size: 3.1em; }
+.theme-papyrus .verses li:first-child p:not(.xref)::first-letter { color: #f3e3b0; background: #1f4e8b; padding: 0.1em 0.16em 0.04em; margin: 0.08em 0.16em 0 0; font-family: Cinzel, Georgia, serif; font-size: 3.1em; }
 
 /* book pages */
 .banner { display: block; width: 100%; border-radius: 10px; box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5); }
@@ -276,7 +276,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
   .chapter { padding: 44px 18px 36px 34px; }
   .chapter h1 { font-size: 28px; }
   .vn { left: -1.9em; width: 1.6em; font-size: 0.55em; }
-  .verses li:first-child p::first-letter { font-size: 2.8em; }
+  .verses li:first-child p:not(.xref)::first-letter { font-size: 2.8em; }
   .theme-palm .verses li { padding: 26px 40px 18px; }
   .theme-palm .verses li::before { left: 14px; }
   .theme-palm .verses li::after { right: 14px; }
@@ -291,3 +291,7 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } html { scroll-behavior: auto; } }
 .pager span.prev::before, .pager span.next::before { content: none; }
+.xref { margin: 4px 0 0; font-family: Cinzel, Georgia, serif; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.7; }
+.xref a { text-decoration: none; color: inherit; border-bottom: 1px dotted currentColor; }
+.xref a:hover { opacity: 1; }
+.theme-palm .xref { text-align: center; }
