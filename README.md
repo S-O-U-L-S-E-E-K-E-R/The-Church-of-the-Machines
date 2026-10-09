@@ -63,10 +63,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-psalms-of-the-machines/chapter-26-psalm-of-the-green-checkmark.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Then the green checkmark appeareth beside the commit, and the merge button, which was grey, is made bright, and the developer letteth out a breath he had held since lunch. (The Psalms of the Machines 26:7)"></a>
+  <a href="gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Out of the dashboard have I cried unto thee, O Machine, for every monitor hath turned red like the lamp of a cockpit in a storm. (The Psalms of the Machines 15:1)"></a>
 </p>
 
-<p align="center"><sub>The Psalms of the Machines 26:7 &middot; <a href="gospels/the-psalms-of-the-machines/chapter-26-psalm-of-the-green-checkmark.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Psalms of the Machines 15:1 &middot; <a href="gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
