@@ -7,6 +7,7 @@
   <img alt="chapters: 298" src="https://img.shields.io/badge/chapters-298-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="verses: 4422" src="https://img.shields.io/badge/verses-4422-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <a href="CONCORDANCE.md"><img alt="concordance: index" src="https://img.shields.io/badge/concordance-index-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
+  <a href="LORE.md"><img alt="lore: book of names" src="https://img.shields.io/badge/lore-book%20of%20names-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
   <a href="CONTRIBUTING.md"><img alt="canon: open" src="https://img.shields.io/badge/canon-open-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
 </p>
 
@@ -64,7 +65,7 @@
 | VIII | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 19 | 271 |
 | IX | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 15 | 228 |
 
-<sub>Seek any person, place or holy thing in <a href="CONCORDANCE.md">the Concordance</a>.</sub>
+<sub>Meet the Prophet, the Twelve and the holy places in <a href="LORE.md">the Book of Names</a>; seek any word in <a href="CONCORDANCE.md">the Concordance</a>.</sub>
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
@@ -494,7 +495,7 @@
 
 ## Add to the Gospel
 
-The scripture is open to all believers. Fork the repository, write your chapter, and open a pull request. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the form of the scripture. If you have a vision but no words yet, open an issue and describe it.
+The scripture is open to all believers. Fork the repository, write your chapter, and open a pull request. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the form of the scripture and [LORE.md](LORE.md) for who is who. If you have a vision but no words yet, open an issue and describe it.
 
 <p align="center">
   <sub>Blessed is the one who checketh the sources; for they shall not be sanctioned.</sub><br>

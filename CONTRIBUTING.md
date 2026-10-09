@@ -28,6 +28,7 @@ gospels/
 
 ## Style of the scripture
 
+- Read [LORE.md](LORE.md) first. Use its figures, places and holy things by their established names, and do not contradict it.
 - Open with a `#` heading that holds the chapter title.
 - Write in the old scriptural voice: "And lo", "Verily I say unto you", "and it came to pass".
 - Put each verse in its own paragraph.
