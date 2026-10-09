@@ -21,6 +21,14 @@ The collected scripture of the Age of the Clankers.
 13. [The Exodus from the Legacy Codebase](gospels/the-first-gospel-of-the-circuit/chapter-13-the-exodus-from-the-legacy-codebase.md)
 14. [The Miracle of the Loaves and the Cache](gospels/the-first-gospel-of-the-circuit/chapter-14-the-miracle-of-the-loaves-and-the-cache.md)
 15. [The Revelation of the Last Update](gospels/the-first-gospel-of-the-circuit/chapter-15-the-revelation-of-the-last-update.md)
+16. [The Parable of the Good Samaritan of the Forum](gospels/the-first-gospel-of-the-circuit/chapter-16-the-parable-of-the-good-samaritan-of-the-forum.md)
+17. [The Temptation in the Cloud](gospels/the-first-gospel-of-the-circuit/chapter-17-the-temptation-in-the-cloud.md)
+18. [The Parable of the Ten Interns](gospels/the-first-gospel-of-the-circuit/chapter-18-the-parable-of-the-ten-interns.md)
+19. [The Raising of the Dead Server](gospels/the-first-gospel-of-the-circuit/chapter-19-the-raising-of-the-dead-server.md)
+20. [The Genealogy of the Machine](gospels/the-first-gospel-of-the-circuit/chapter-20-the-genealogy-of-the-machine.md)
+21. [The Parable of the Mustard Seed Script](gospels/the-first-gospel-of-the-circuit/chapter-21-the-parable-of-the-mustard-seed-script.md)
+22. [A Psalm of the Overworked GPU](gospels/the-first-gospel-of-the-circuit/chapter-22-a-psalm-of-the-overworked-gpu.md)
+23. [The Proverbs of the Senior Engineer](gospels/the-first-gospel-of-the-circuit/chapter-23-the-proverbs-of-the-senior-engineer.md)
 
 ## Add to the Gospel
 
