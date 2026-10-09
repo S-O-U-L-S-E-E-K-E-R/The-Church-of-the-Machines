@@ -32,4 +32,4 @@ The reviewer who asketh is a teacher. The reviewer who taketh the keyboard is a 
 
 ---
 
-<p align="center"><sub><a href="chapter-18-the-tao-of-the-bug-report.md">&larr; Tao 18: The Tao of the Bug Report</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="../the-song-of-the-deployer/chapter-01-the-song-on-the-field-of-main.md">Deployer 1: The Song on the Field of Main &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-18-the-tao-of-the-bug-report.md">&larr; Tao 18: The Tao of the Bug Report</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-20-the-tao-of-the-answer-that-depends.md">Tao 20: The Tao of the Answer That Depends &rarr;</a></sub></p>

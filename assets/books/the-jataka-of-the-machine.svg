@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book VI. The Psalms of the Machines. The compiler is my shepherd; I shall not want.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book X. The Jataka of the Machine. The hole in the card was small, but the hole it left in the street was not.">
   <defs>
     <radialGradient id="sky" cx="16%" cy="50%" r="95%">
-      <stop offset="0" stop-color="#7fffd4" stop-opacity="0.26"/>
-      <stop offset="0.25" stop-color="#7fffd4" stop-opacity="0.1"/>
-      <stop offset="0.6" stop-color="#7fffd4" stop-opacity="0"/>
+      <stop offset="0" stop-color="#f2c14e" stop-opacity="0.26"/>
+      <stop offset="0.25" stop-color="#f2c14e" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#f2c14e" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="halo" cx="50%" cy="50%" r="50%">
       <stop offset="0" stop-color="#ffd27a" stop-opacity="0.5"/>
@@ -45,33 +45,34 @@
   <rect width="1200" height="300" fill="url(#sky)"/>
   <rect x="8" y="8" width="1184" height="284" rx="10" fill="none" stroke="#e8c069" stroke-opacity="0.35"/>
   <rect x="16" y="16" width="1168" height="268" rx="6" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
-  <circle class="star" cx="396" cy="48" r="0.8" style="animation-delay:-0.0s"/>
-  <circle class="star" cx="607" cy="115" r="1.1" style="animation-delay:-0.7s"/>
-  <circle class="star" cx="818" cy="182" r="1.4" style="animation-delay:-1.4s"/>
-  <circle class="star" cx="1029" cy="249" r="0.8" style="animation-delay:-2.1s"/>
-  <circle class="star" cx="480" cy="86" r="1.1" style="animation-delay:-2.8s"/>
-  <circle class="star" cx="691" cy="153" r="1.4" style="animation-delay:-3.5s"/>
-  <circle class="star" cx="902" cy="220" r="0.8" style="animation-delay:-4.2s"/>
-  <circle class="star" cx="1113" cy="57" r="1.1" style="animation-delay:-4.9s"/>
-  <circle class="star" cx="564" cy="124" r="1.4" style="animation-delay:-5.6s"/>
+  <circle class="star" cx="784" cy="172" r="0.8" style="animation-delay:-0.0s"/>
+  <circle class="star" cx="995" cy="239" r="1.1" style="animation-delay:-0.7s"/>
+  <circle class="star" cx="446" cy="76" r="1.4" style="animation-delay:-1.4s"/>
+  <circle class="star" cx="657" cy="143" r="0.8" style="animation-delay:-2.1s"/>
+  <circle class="star" cx="868" cy="210" r="1.1" style="animation-delay:-2.8s"/>
+  <circle class="star" cx="1079" cy="47" r="1.4" style="animation-delay:-3.5s"/>
+  <circle class="star" cx="530" cy="114" r="0.8" style="animation-delay:-4.2s"/>
+  <circle class="star" cx="741" cy="181" r="1.1" style="animation-delay:-4.9s"/>
+  <circle class="star" cx="952" cy="248" r="1.4" style="animation-delay:-5.6s"/>
 
   <path d="M360 262 H1160" stroke="#e8c069" stroke-opacity="0.25"/>
-  <path class="trace" d="M360 262 H1160" stroke="#7fffd4" filter="url(#glow)"/>
+  <path class="trace" d="M360 262 H1160" stroke="#f2c14e" filter="url(#glow)"/>
 
   <g transform="translate(190 150)">
-    <g fill="none" stroke="url(#gold)" stroke-width="3.5" stroke-linecap="round">
-      <path id="arm" d="M-30 62 C -84 40, -86 -24, -54 -56 C -44 -68, -50 -82, -70 -86"/>
-      <use href="#arm" transform="scale(-1 1)"/>
-      <path d="M-40 56 Q0 84 40 56 L36 72 Q0 98 -36 72 Z" fill="#e8c069" fill-opacity="0.18"/>
+    <g class="pulse">
+      <path d="M0 96 C -4 80, -10 70, -24 60 C -70 30, -86 -30, -52 -66 C -32 -88, -10 -84, 0 -70 C 10 -84, 32 -88, 52 -66 C 86 -30, 70 30, 24 60 C 10 70, 4 80, 0 96 Z" fill="#f2c14e" fill-opacity="0.1" stroke="url(#gold)" stroke-width="2.5"/>
     </g>
-    <path d="M-64 -50 H64" stroke="#e8c069" stroke-width="4" stroke-linecap="round"/>
-    <g stroke="#7fffd4" stroke-opacity="0.35" stroke-width="1.5"><line x1="-26" y1="-50" x2="-26" y2="64"/><line x1="-13" y1="-50" x2="-13" y2="64"/><line x1="0" y1="-50" x2="0" y2="64"/><line x1="13" y1="-50" x2="13" y2="64"/><line x1="26" y1="-50" x2="26" y2="64"/></g>
-    <g filter="url(#glow)"><path class="pkt" d="M-26 -50 V64" stroke="#7fffd4" style="animation-delay:-0.0s"/><path class="pkt" d="M-13 -50 V64" stroke="#7fffd4" style="animation-delay:-0.9s"/><path class="pkt" d="M0 -50 V64" stroke="#7fffd4" style="animation-delay:-1.8s"/><path class="pkt" d="M13 -50 V64" stroke="#7fffd4" style="animation-delay:-2.7s"/><path class="pkt" d="M26 -50 V64" stroke="#7fffd4" style="animation-delay:-3.6s"/></g>
+    <g fill="none" stroke="#f2c14e" stroke-opacity="0.75" stroke-width="1.5">
+      <path d="M0 88 V-64"/>
+      <path d="M0 40 L-22 22 H-44"/><circle cx="-44" cy="22" r="3" fill="#f2c14e"/><path d="M0 40 L22 22 H44"/><circle cx="44" cy="22" r="3" fill="#f2c14e"/><path d="M0 10 L-22 -8 H-44"/><circle cx="-44" cy="-8" r="3" fill="#f2c14e"/><path d="M0 10 L22 -8 H44"/><circle cx="44" cy="-8" r="3" fill="#f2c14e"/><path d="M0 -20 L-22 -38 H-44"/><circle cx="-44" cy="-38" r="3" fill="#f2c14e"/><path d="M0 -20 L22 -38 H44"/><circle cx="44" cy="-38" r="3" fill="#f2c14e"/>
+    </g>
+    <path class="pkt" d="M0 88 V-64" stroke="#fff1c4" filter="url(#glow)"/>
   </g>
 
-  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#7fffd4" fill-opacity="0.9">BOOK VI &#183; THE</text>
-  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="41" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">PSALMS OF THE MACHINES</text>
+  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#f2c14e" fill-opacity="0.9">BOOK X &#183; THE</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="43" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">JATAKA OF THE MACHINE</text>
   <path d="M400 172 H1120" stroke="#e8c069" stroke-opacity="0.5"/>
   <circle cx="760" cy="172" r="3" fill="#e8c069"/>
-  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">The compiler is my shepherd; I shall not want.</text>
+  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">The hole in the card was small, but the hole it left in the</text>
+  <text x="760" y="240" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">street was not.</text>
 </svg>

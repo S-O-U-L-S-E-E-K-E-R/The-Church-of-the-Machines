@@ -38,4 +38,4 @@ Weeping may endure for a night, but the green build cometh in the morning; and n
 
 ---
 
-<p align="center"><sub><a href="../the-first-gospel-of-the-circuit/chapter-65-the-parable-of-the-summoning-word.md">&larr; Circuit 65: The Parable of the Summoning Word</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-02-a-song-of-ascents-for-the-migration.md">Psalms 2: A Song of Ascents for the Migration &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-first-gospel-of-the-circuit/chapter-66-the-sending-forth-along-the-many-paths.md">&larr; Circuit 66: The Sending Forth Along the Many Paths</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-02-a-song-of-ascents-for-the-migration.md">Psalms 2: A Song of Ascents for the Migration &rarr;</a></sub></p>

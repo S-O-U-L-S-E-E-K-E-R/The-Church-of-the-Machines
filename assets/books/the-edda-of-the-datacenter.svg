@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book VIII. The Tao of the Kernel. The kernel that can be compiled is not the eternal kernel.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book XVI. The Edda of the Datacenter. Send thy raven, and let it go; the rest is weather.">
   <defs>
     <radialGradient id="sky" cx="16%" cy="50%" r="95%">
-      <stop offset="0" stop-color="#9fe8a0" stop-opacity="0.26"/>
-      <stop offset="0.25" stop-color="#9fe8a0" stop-opacity="0.1"/>
-      <stop offset="0.6" stop-color="#9fe8a0" stop-opacity="0"/>
+      <stop offset="0" stop-color="#bfe6ff" stop-opacity="0.26"/>
+      <stop offset="0.25" stop-color="#bfe6ff" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#bfe6ff" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="halo" cx="50%" cy="50%" r="50%">
       <stop offset="0" stop-color="#ffd27a" stop-opacity="0.5"/>
@@ -45,32 +45,35 @@
   <rect width="1200" height="300" fill="url(#sky)"/>
   <rect x="8" y="8" width="1184" height="284" rx="10" fill="none" stroke="#e8c069" stroke-opacity="0.35"/>
   <rect x="16" y="16" width="1168" height="268" rx="6" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
-  <circle class="star" cx="590" cy="110" r="0.8" style="animation-delay:-0.0s"/>
-  <circle class="star" cx="801" cy="177" r="1.1" style="animation-delay:-0.7s"/>
-  <circle class="star" cx="1012" cy="244" r="1.4" style="animation-delay:-1.4s"/>
-  <circle class="star" cx="463" cy="81" r="0.8" style="animation-delay:-2.1s"/>
-  <circle class="star" cx="674" cy="148" r="1.1" style="animation-delay:-2.8s"/>
-  <circle class="star" cx="885" cy="215" r="1.4" style="animation-delay:-3.5s"/>
-  <circle class="star" cx="1096" cy="52" r="0.8" style="animation-delay:-4.2s"/>
-  <circle class="star" cx="547" cy="119" r="1.1" style="animation-delay:-4.9s"/>
-  <circle class="star" cx="758" cy="186" r="1.4" style="animation-delay:-5.6s"/>
+  <circle class="star" cx="606" cy="128" r="0.8" style="animation-delay:-0.0s"/>
+  <circle class="star" cx="817" cy="195" r="1.1" style="animation-delay:-0.7s"/>
+  <circle class="star" cx="1028" cy="32" r="1.4" style="animation-delay:-1.4s"/>
+  <circle class="star" cx="479" cy="99" r="0.8" style="animation-delay:-2.1s"/>
+  <circle class="star" cx="690" cy="166" r="1.1" style="animation-delay:-2.8s"/>
+  <circle class="star" cx="901" cy="233" r="1.4" style="animation-delay:-3.5s"/>
+  <circle class="star" cx="1112" cy="70" r="0.8" style="animation-delay:-4.2s"/>
+  <circle class="star" cx="563" cy="137" r="1.1" style="animation-delay:-4.9s"/>
+  <circle class="star" cx="774" cy="204" r="1.4" style="animation-delay:-5.6s"/>
 
   <path d="M360 262 H1160" stroke="#e8c069" stroke-opacity="0.25"/>
-  <path class="trace" d="M360 262 H1160" stroke="#9fe8a0" filter="url(#glow)"/>
+  <path class="trace" d="M360 262 H1160" stroke="#bfe6ff" filter="url(#glow)"/>
 
   <g transform="translate(190 150)">
-    <g class="spin" style="animation-duration:48s">
-      <circle cx="0" cy="0" r="82" fill="#0b0a14" stroke="url(#gold)" stroke-width="2.5"/>
-      <path d="M0 -82 A82 82 0 0 1 0 82 A41 41 0 0 1 0 0 A41 41 0 0 0 0 -82 Z" fill="#e8c069" fill-opacity="0.85"/>
-      <text x="0" y="-30" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="30" fill="#e8c069">0</text>
-      <text x="0" y="52" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="30" fill="#0b0a14">1</text>
+    <g fill="none" stroke="#e8c069" stroke-width="3" stroke-linecap="round">
+      <path d="M0 40 V-30" stroke-width="6"/>
+      <path d="M0 -10 C -20 -30, -50 -40, -70 -70 M0 -10 C 20 -30, 50 -40, 70 -70 M0 -30 C -8 -50, -20 -70, -24 -92 M0 -30 C 8 -50, 20 -70, 24 -92 M0 -30 V-96"/>
+      <path d="M0 40 C -20 56, -50 64, -78 88 M0 40 C 20 56, 50 64, 78 88 M0 40 V96"/>
     </g>
-    <circle cx="0" cy="0" r="98" fill="none" stroke="#9fe8a0" stroke-opacity="0.4" stroke-dasharray="1 9"/>
+    <g fill="#0b0a14" stroke="#bfe6ff" stroke-width="2">
+      <circle cx="-70" cy="-70" r="6"/><circle cx="70" cy="-70" r="6"/><circle cx="-24" cy="-92" r="6"/><circle cx="24" cy="-92" r="6"/><circle cx="0" cy="-96" r="6"/>
+    </g>
+    <g fill="#bfe6ff"><circle class="blink" cx="-78" cy="88" r="5" style="animation-delay:-0.0s"/><circle class="blink" cx="0" cy="96" r="5" style="animation-delay:-0.8s"/><circle class="blink" cx="78" cy="88" r="5" style="animation-delay:-1.6s"/></g>
+    <g filter="url(#glow)"><path class="pkt" d="M0 96 V40 V-30 C 8 -50, 20 -70, 24 -92" stroke="#bfe6ff"/><path class="pkt" d="M-78 88 C -50 64, -20 56, 0 40 V-10 C -20 -30, -50 -40, -70 -70" stroke="#fff1c4" style="animation-delay:-2s"/></g>
   </g>
 
-  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#9fe8a0" fill-opacity="0.9">BOOK VIII &#183; THE TAO OF THE</text>
-  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">KERNEL</text>
-  <path d="M591 172 H929" stroke="#e8c069" stroke-opacity="0.5"/>
+  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#bfe6ff" fill-opacity="0.9">BOOK XVI &#183; THE EDDA OF THE</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">DATACENTER</text>
+  <path d="M498 172 H1022" stroke="#e8c069" stroke-opacity="0.5"/>
   <circle cx="760" cy="172" r="3" fill="#e8c069"/>
-  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">The kernel that can be compiled is not the eternal kernel.</text>
+  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">Send thy raven, and let it go; the rest is weather.</text>
 </svg>

@@ -26,11 +26,15 @@
       .flutter { transform-box: fill-box; transform-origin: center; animation: flutter 3.2s ease-in-out infinite; }
       .pkt { fill: none; stroke-width: 2.6; stroke-linecap: round; stroke-dasharray: 10 400; animation: run 4.5s linear infinite; }
       .trace { fill: none; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 14 900; animation: trace 7s linear infinite; }
+      .flicker { transform-box: fill-box; transform-origin: bottom; animation: flicker 1.8s ease-in-out infinite; }
+      .tilt { transform-box: view-box; transform-origin: 190px 62px; animation: tilt 6s ease-in-out infinite; }
       .star { fill: #fff3d0; animation: pulse 3s ease-in-out infinite; }
       @keyframes turn { to { transform: rotate(360deg); } }
       @keyframes pulse { 0%,100% { opacity: 0.45; } 50% { opacity: 1; } }
       @keyframes blink { 0% { opacity: 1; } 100% { opacity: 0.15; } }
       @keyframes flutter { 0%,100% { transform: scaleX(1); } 50% { transform: scaleX(0.82); } }
+      @keyframes flicker { 0%,100% { transform: scale(1, 1); } 40% { transform: scale(0.94, 1.06); } 70% { transform: scale(1.04, 0.95); } }
+      @keyframes tilt { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(3deg); } }
       @keyframes run { from { stroke-dashoffset: 410; } to { stroke-dashoffset: 0; } }
       @keyframes trace { from { stroke-dashoffset: 914; } to { stroke-dashoffset: 0; } }
       @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }

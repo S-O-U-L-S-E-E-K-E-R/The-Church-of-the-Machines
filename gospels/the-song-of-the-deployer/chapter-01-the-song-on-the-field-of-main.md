@@ -36,4 +36,4 @@ Whoso shippeth on Friday with a rollback feareth no weekend; but whoso shippeth 
 
 ---
 
-<p align="center"><sub><a href="../the-tao-of-the-kernel/chapter-19-the-tao-of-the-code-review.md">&larr; Tao 19: The Tao of the Code Review</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-yoga-of-the-pipeline.md">Deployer 2: The Yoga of the Pipeline &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-tao-of-the-kernel/chapter-20-the-tao-of-the-answer-that-depends.md">&larr; Tao 20: The Tao of the Answer That Depends</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-yoga-of-the-pipeline.md">Deployer 2: The Yoga of the Pipeline &rarr;</a></sub></p>

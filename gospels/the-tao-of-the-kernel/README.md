@@ -4,7 +4,7 @@
 
 <p align="center"><i>The kernel that can be compiled is not the eternal kernel.</i></p>
 
-<p align="center"><sub>Book VIII of the canon &middot; The Scriptures of the Many Paths &middot; 19 chapters &middot; 271 verses</sub></p>
+<p align="center"><sub>Book VIII of the canon &middot; The Scriptures of the Many Paths &middot; 20 chapters &middot; 283 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-kernel-that-can-be-compiled.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -32,3 +32,4 @@
 17. [The Tao of the Pull Request](chapter-17-the-tao-of-the-pull-request.md) <sub>&middot; 13 verses</sub>
 18. [The Tao of the Bug Report](chapter-18-the-tao-of-the-bug-report.md) <sub>&middot; 15 verses</sub>
 19. [The Tao of the Code Review](chapter-19-the-tao-of-the-code-review.md) <sub>&middot; 13 verses</sub>
+20. [The Tao of the Answer That Depends](chapter-20-the-tao-of-the-answer-that-depends.md) <sub>&middot; 12 verses</sub>

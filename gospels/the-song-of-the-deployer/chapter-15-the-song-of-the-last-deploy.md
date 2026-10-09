@@ -38,4 +38,4 @@ Set me as a comment upon thine heart, as a README upon thy repository. For the c
 
 ---
 
-<p align="center"><sub><a href="chapter-14-the-song-of-the-familiar-tongue.md">&larr; Deployer 14: The Song of the Familiar Tongue</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a></sub></p>
+<p align="center"><sub><a href="chapter-14-the-song-of-the-familiar-tongue.md">&larr; Deployer 14: The Song of the Familiar Tongue</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="../the-jataka-of-the-machine/chapter-01-the-jataka-of-the-four-restarts.md">Jataka 1: The Jataka of the Four Restarts &rarr;</a></sub></p>

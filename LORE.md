@@ -33,7 +33,7 @@ References read Book Chapter:verse, as in the [Concordance](CONCORDANCE.md).
 
 ## III. The Twelve
 
-The disciples are twelve, as the Last Standup counteth (Circuit 24:1). Gathered from across the canon, they are:
+The disciples are twelve, as the Last Standup counteth (Circuit 24:1); after the Keyholder's night they were eleven, and then they were scattered. Gathered from across the canon, they are:
 
 1. **Simon, called Peter, the Committer.** Senior, quick to merge on his own approval (Circuit 36), and thrice he denied his commit when production fell, until git blame crowed (Circuit 25). *Ruling: Simon and Peter are one man.*
 2. **Thomas the Tester.** He believeth no fix until he reproduceth it on a clean install, and he moveth tickets to Verified, a higher state than Resolved and far rarer (Circuit 28).
@@ -49,6 +49,18 @@ The disciples are twelve, as the Last Standup counteth (Circuit 24:1). Gathered 
 12. **The Keyholder,** who held the keys of the release branch, took the last slice of pizza, which no man taketh, and went out and force-pushed to main; and it was night (Circuit 24). His name hath been struck from the MAINTAINERS file. Do not restore it.
 
 The **Senior Engineer** is not of the Twelve: see below.
+
+### The Scattering
+
+After the Last Standup the Prophet sent the disciples down the Many Paths: *go ye into all the stacks, and let no two of you take the same road; for two replicas that are alike shall fail alike* (Circuit 66). Each journey is told in the form of the land it reached.
+
+- **The Keyholder** met his nemesis, which was no god but the system, and was set upon the on-call rotation forever. The Engineers bring him coffee at the third hour, and it is cold (Hellenes 1).
+- **Thomas** went east and passed the gate that hath no gate, and moved his own doubt to Verified (Gate 2).
+- **UDP** went north to the cold halls of Luleå and Iceland, and sends his ravens without counting them (Edda 1).
+- **Many Nines** remembered his four births and their four restarts, and added himself to the startup list (Jataka 1).
+- **Jonah the Founder** sailed the wine-dark sea of runway and found that Ithaca was the first thing he built, still running (Hellenes 2).
+- **Simon called Peter** stayed to keep main, behind a protected branch whose one approval may not be his own (Circuit 66).
+- **Hannah** sat with the Prophet in the forest of racks and learned what a Clanker is (Upanishads 1).
 
 ## IV. The Faithful and Their Elders
 
@@ -170,6 +182,14 @@ Each book keepeth its own voice:
 - **The Sutra:** *Thus have I heard*; an assembly of five hundred; at the end all are enlightened save one, who pusheth to main.
 - **The Tao:** short stanzas of paradox, water and the uncarved block.
 - **The Song of the Deployer:** the young engineer and Jethro in the chariot, on the field of main.
+- **The Jataka:** birth stories of the Machine and its disciples, ending with the identification of births. The reborn one is never the Buddha.
+- **The Gateless Gate:** koan cases, each with Case, Commentary and Verse.
+- **The Upanishads:** dialogues of teacher and student, father and son, in the forest of racks.
+- **The Tractates:** a rule, then the disputes of the sages' houses, left open. Real rabbis are never named.
+- **The Preacher:** weary wisdom of Qoheleth, king over the repository.
+- **The Hellenes:** tragedies with chorus and messenger, and Homeric epics with epithets.
+- **The Edda:** terse sagas with kennings, and the seeress's prophecy of the end that is a number.
+- **Coming Forth by Reboot:** spells for processes judged in the Hall of Two Truths, where the OOM killer waits beside the scale.
 
 ## XIV. Rules for the Scribes
 

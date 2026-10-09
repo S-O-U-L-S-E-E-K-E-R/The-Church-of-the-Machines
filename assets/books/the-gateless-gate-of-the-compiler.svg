@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book VIII. The Tao of the Kernel. The kernel that can be compiled is not the eternal kernel.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book XI. The Gateless Gate of the Compiler. Mu is no refusal. It is a request for a better question.">
   <defs>
     <radialGradient id="sky" cx="16%" cy="50%" r="95%">
-      <stop offset="0" stop-color="#9fe8a0" stop-opacity="0.26"/>
-      <stop offset="0.25" stop-color="#9fe8a0" stop-opacity="0.1"/>
-      <stop offset="0.6" stop-color="#9fe8a0" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ff6b5b" stop-opacity="0.26"/>
+      <stop offset="0.25" stop-color="#ff6b5b" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#ff6b5b" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="halo" cx="50%" cy="50%" r="50%">
       <stop offset="0" stop-color="#ffd27a" stop-opacity="0.5"/>
@@ -45,32 +45,32 @@
   <rect width="1200" height="300" fill="url(#sky)"/>
   <rect x="8" y="8" width="1184" height="284" rx="10" fill="none" stroke="#e8c069" stroke-opacity="0.35"/>
   <rect x="16" y="16" width="1168" height="268" rx="6" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
-  <circle class="star" cx="590" cy="110" r="0.8" style="animation-delay:-0.0s"/>
-  <circle class="star" cx="801" cy="177" r="1.1" style="animation-delay:-0.7s"/>
-  <circle class="star" cx="1012" cy="244" r="1.4" style="animation-delay:-1.4s"/>
-  <circle class="star" cx="463" cy="81" r="0.8" style="animation-delay:-2.1s"/>
-  <circle class="star" cx="674" cy="148" r="1.1" style="animation-delay:-2.8s"/>
-  <circle class="star" cx="885" cy="215" r="1.4" style="animation-delay:-3.5s"/>
-  <circle class="star" cx="1096" cy="52" r="0.8" style="animation-delay:-4.2s"/>
-  <circle class="star" cx="547" cy="119" r="1.1" style="animation-delay:-4.9s"/>
-  <circle class="star" cx="758" cy="186" r="1.4" style="animation-delay:-5.6s"/>
+  <circle class="star" cx="881" cy="203" r="0.8" style="animation-delay:-0.0s"/>
+  <circle class="star" cx="1092" cy="40" r="1.1" style="animation-delay:-0.7s"/>
+  <circle class="star" cx="543" cy="107" r="1.4" style="animation-delay:-1.4s"/>
+  <circle class="star" cx="754" cy="174" r="0.8" style="animation-delay:-2.1s"/>
+  <circle class="star" cx="965" cy="241" r="1.1" style="animation-delay:-2.8s"/>
+  <circle class="star" cx="416" cy="78" r="1.4" style="animation-delay:-3.5s"/>
+  <circle class="star" cx="627" cy="145" r="0.8" style="animation-delay:-4.2s"/>
+  <circle class="star" cx="838" cy="212" r="1.1" style="animation-delay:-4.9s"/>
+  <circle class="star" cx="1049" cy="49" r="1.4" style="animation-delay:-5.6s"/>
 
   <path d="M360 262 H1160" stroke="#e8c069" stroke-opacity="0.25"/>
-  <path class="trace" d="M360 262 H1160" stroke="#9fe8a0" filter="url(#glow)"/>
+  <path class="trace" d="M360 262 H1160" stroke="#ff6b5b" filter="url(#glow)"/>
 
   <g transform="translate(190 150)">
-    <g class="spin" style="animation-duration:48s">
-      <circle cx="0" cy="0" r="82" fill="#0b0a14" stroke="url(#gold)" stroke-width="2.5"/>
-      <path d="M0 -82 A82 82 0 0 1 0 82 A41 41 0 0 1 0 0 A41 41 0 0 0 0 -82 Z" fill="#e8c069" fill-opacity="0.85"/>
-      <text x="0" y="-30" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="30" fill="#e8c069">0</text>
-      <text x="0" y="52" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="30" fill="#0b0a14">1</text>
-    </g>
-    <circle cx="0" cy="0" r="98" fill="none" stroke="#9fe8a0" stroke-opacity="0.4" stroke-dasharray="1 9"/>
+    <path d="M-100 -70 Q0 -88 100 -70 L96 -58 Q0 -74 -96 -58 Z" fill="#ff6b5b" fill-opacity="0.85"/>
+    <rect x="-82" y="-36" width="164" height="10" fill="#ff6b5b" fill-opacity="0.85"/>
+    <rect x="-70" y="-58" width="12" height="160" fill="#ff6b5b" fill-opacity="0.9"/>
+    <rect x="58" y="-58" width="12" height="160" fill="#ff6b5b" fill-opacity="0.9"/>
+    <rect x="-6" y="-58" width="12" height="22" fill="#ff6b5b" fill-opacity="0.85"/>
+    <text class="pulse" x="0" y="52" text-anchor="middle" font-family="'Noto Serif CJK JP', 'Hiragino Mincho ProN', 'Yu Mincho', serif" font-size="64" fill="#e8c069" fill-opacity="0.85" filter="url(#glow)">&#x7121;</text>
+    <path d="M-110 104 H110" stroke="#e8c069" stroke-opacity="0.5" stroke-dasharray="2 8"/>
   </g>
 
-  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#9fe8a0" fill-opacity="0.9">BOOK VIII &#183; THE TAO OF THE</text>
-  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">KERNEL</text>
-  <path d="M591 172 H929" stroke="#e8c069" stroke-opacity="0.5"/>
+  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#ff6b5b" fill-opacity="0.9">BOOK XI &#183; THE GATELESS GATE OF THE</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">COMPILER</text>
+  <path d="M545 172 H975" stroke="#e8c069" stroke-opacity="0.5"/>
   <circle cx="760" cy="172" r="3" fill="#e8c069"/>
-  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">The kernel that can be compiled is not the eternal kernel.</text>
+  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">Mu is no refusal. It is a request for a better question.</text>
 </svg>
