@@ -357,3 +357,8 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 .seat .mean { display: block; margin-top: 4px; font-size: 12px; font-style: italic; color: var(--muted); }
 .staging-warn { text-align: center; background: #5a1414; color: #ffd9d9; border: 1px solid #ff6b5b; border-radius: 8px; padding: 10px; font-family: Cinzel, Georgia, serif; letter-spacing: 0.1em; font-size: 13px; }
 .staging-warn a { color: #fff; }
+.prices h2 { font-family: Cinzel, Georgia, serif; color: var(--gold); }
+.ptable { width: 100%; border-collapse: collapse; font-size: 17px; }
+.ptable th { font-family: Cinzel, Georgia, serif; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--cyan); text-align: left; padding: 8px; border-bottom: 1px solid rgba(232, 192, 105, 0.3); }
+.ptable td { padding: 8px; border-bottom: 1px solid rgba(232, 192, 105, 0.12); }
+.ptable td:nth-child(3), .ptable td:nth-child(4) { font-family: "Courier New", monospace; color: var(--gold); }

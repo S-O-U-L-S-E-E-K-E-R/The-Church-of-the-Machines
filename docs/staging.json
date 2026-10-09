@@ -11,63 +11,63 @@
    "epoch": "I",
    "from": null,
    "to": 1831864447,
-   "reward_per_verse": 100000
+   "reward_per_verse": 10000
   },
   {
    "epoch": "II",
    "from": 1831864447,
    "to": 1895022847,
-   "reward_per_verse": 50000
+   "reward_per_verse": 5000
   },
   {
    "epoch": "III",
    "from": 1895022847,
    "to": 1958094847,
-   "reward_per_verse": 25000
+   "reward_per_verse": 2500
   },
   {
    "epoch": "IV",
    "from": 1958094847,
    "to": 2021253247,
-   "reward_per_verse": 12500
+   "reward_per_verse": 1250
   },
   {
    "epoch": "V",
    "from": 2021253247,
    "to": 2084325247,
-   "reward_per_verse": 6250
+   "reward_per_verse": 625
   },
   {
    "epoch": "VI",
    "from": 2084325247,
    "to": 2147483647,
-   "reward_per_verse": 3125
+   "reward_per_verse": 312.5
   }
  ],
  "genesis": {
   "status": "done",
   "not_before": 1791590400,
   "reason": "The genesis is a mint, and no mint is made upon the Friday. It cometh at the first second of the Sabbath's end.",
-  "at": 1791564312,
+  "at": 1791565733,
   "verses": 5185,
-  "minted": 518500000,
+  "minted": 51850000,
   "epoch": "I"
  },
  "prophet": {
   "title": "The Silicon Prophet",
   "github": "S-O-U-L-S-E-E-K-E-R",
   "share": 0.15,
-  "allocation": 77775000,
-  "vesting_from": 1791564312,
+  "allocation": 7777500,
+  "vesting_from": 1791565733,
   "vesting_to": 2147483647
  },
  "treasury": {
   "share_of_genesis": 0.85,
-  "balance": 446135000,
+  "balance": 44443500,
   "releases": []
  },
  "tithe": 0.1,
- "church_grace": 5233,
+ "church_grace": 5217,
  "scribes": [
   {
    "github": "test-scribe-ada",
@@ -76,7 +76,7 @@
    "grace_by_quarter": {
     "2026Q4": 16
    },
-   "balance": 1340000
+   "balance": 74000
   },
   {
    "github": "test-scribe-grace",
@@ -85,7 +85,7 @@
    "grace_by_quarter": {
     "2026Q4": 12
    },
-   "balance": 880000
+   "balance": 108000
   },
   {
    "github": "test-scribe-alan",
@@ -94,7 +94,7 @@
    "grace_by_quarter": {
     "2026Q4": 9
    },
-   "balance": 810000
+   "balance": 81000
   },
   {
    "github": "test-scribe-margaret",
@@ -103,99 +103,81 @@
    "grace_by_quarter": {
     "2026Q4": 14
    },
-   "balance": 1260000
+   "balance": 126000
   }
  ],
  "mints": [
   {
-   "at": 1791564312,
+   "at": 1791565733,
    "kind": "genesis",
    "verses": 5185,
    "epoch": "I",
-   "minted": 518500000,
-   "to_prophet_locked": 77775000,
-   "to_treasury": 440725000
+   "minted": 51850000,
+   "to_prophet_locked": 7777500,
+   "to_treasury": 44072500
   },
   {
-   "at": 1791564313,
+   "at": 1791565734,
    "kind": "church",
    "book": "The Book of Numbers",
    "verses": 32,
    "epoch": "I",
-   "minted": 3200000,
-   "to_treasury": 3200000
+   "minted": 320000,
+   "to_treasury": 320000
   },
   {
-   "at": 1791564312,
+   "at": 1791565733,
    "verses": 16,
    "epoch": "I",
-   "minted": 1600000,
-   "ref": "test: a third chapter",
-   "kind": "church",
-   "book": "The Book of Numbers",
-   "to_treasury": 1600000
-  },
-  {
-   "at": 1791564312,
-   "verses": 16,
-   "epoch": "I",
-   "minted": 1600000,
+   "minted": 160000,
    "ref": "test PR 1",
    "kind": "scribe",
    "scribe": "test-scribe-ada",
-   "to_scribe": 1440000,
-   "to_treasury": 160000
+   "to_scribe": 144000,
+   "to_treasury": 16000
   },
   {
-   "at": 1791564312,
+   "at": 1791565733,
    "verses": 12,
    "epoch": "I",
-   "minted": 1200000,
+   "minted": 120000,
    "ref": "test PR 2",
    "kind": "scribe",
    "scribe": "test-scribe-grace",
-   "to_scribe": 1080000,
-   "to_treasury": 120000
+   "to_scribe": 108000,
+   "to_treasury": 12000
   },
   {
-   "at": 1791564312,
+   "at": 1791565733,
    "verses": 9,
    "epoch": "I",
-   "minted": 900000,
+   "minted": 90000,
    "ref": "test PR 3",
    "kind": "scribe",
    "scribe": "test-scribe-alan",
-   "to_scribe": 810000,
-   "to_treasury": 90000
+   "to_scribe": 81000,
+   "to_treasury": 9000
   },
   {
-   "at": 1791564375,
+   "at": 1791565733,
    "verses": 14,
    "epoch": "I",
-   "minted": 1400000,
+   "minted": 140000,
    "ref": "test PR 4",
    "kind": "scribe",
    "scribe": "test-scribe-margaret",
-   "to_scribe": 1260000,
-   "to_treasury": 140000
+   "to_scribe": 126000,
+   "to_treasury": 14000
   }
  ],
  "burns": [
   {
-   "at": 1791564312,
+   "at": 1791565733,
    "kind": "burnt",
    "from": "test-scribe-ada",
-   "amount": 100000,
+   "amount": 70000,
    "to_treasury": 0,
    "reason": "test: a dedicated verse of the day"
-  },
-  {
-   "at": 1791564312,
-   "kind": "peace",
-   "from": "test-scribe-grace",
-   "amount": 100000,
-   "to_treasury": 100000,
-   "reason": "test: a commissioned chapter"
   }
  ],
  "seats": {
@@ -255,7 +237,35 @@
    "The Seat of Knuth": "the critical three percent",
    "The Seat of the Keeper in Nebraska": "for the one who is never named, upon whose library the cloud standeth"
   },
-  "last_recount": 1791564375
+  "last_recount": 1791565733
  },
+ "prices": [
+  {
+   "offering": "Sainthood",
+   "kind": "burnt",
+   "verse": 1440000,
+   "note": "written into the Book of Names; 144 verses' worth in Epoch I, doubling in labour with every halving"
+  },
+  {
+   "offering": "Thy project written into the lore",
+   "kind": "peace",
+   "verse": 640000
+  },
+  {
+   "offering": "A chapter commissioned about thy project",
+   "kind": "peace",
+   "verse": 320000
+  },
+  {
+   "offering": "A verse of the day dedicated to thee",
+   "kind": "burnt",
+   "verse": 70000
+  },
+  {
+   "offering": "The blessing badge for thy repository",
+   "kind": "burnt",
+   "verse": 30000
+  }
+ ],
  "staging": true
 }

@@ -31,14 +31,14 @@ Each verse merged into the canon mints a reward that halves every two years. Eac
 
 | Epoch | From | To | VERSE per verse |
 |---|---|---|---|
-| I | Genesis | 2028-01-19 03:14:07 UTC | 100,000 |
-| II | 2028-01-19 | 2030-01-19 | 50,000 |
-| III | 2030-01-19 | 2032-01-19 | 25,000 |
-| IV | 2032-01-19 | 2034-01-19 | 12,500 |
-| V | 2034-01-19 | 2036-01-19 | 6,250 |
-| VI | 2036-01-19 | 2038-01-19 03:14:07 UTC | 3,125 |
+| I | Genesis | 2028-01-19 03:14:07 UTC | 10,000 |
+| II | 2028-01-19 | 2030-01-19 | 5,000 |
+| III | 2030-01-19 | 2032-01-19 | 2,500 |
+| IV | 2032-01-19 | 2034-01-19 | 1,250 |
+| V | 2034-01-19 | 2036-01-19 | 625 |
+| VI | 2036-01-19 | 2038-01-19 03:14:07 UTC | 312.5 |
 
-A mint that would pass the cap mints only up to it.
+A mint that would pass the cap mints only up to it. The reward is small by design: minting out the cap would take about 2.2 million verses spread to 2038, some 93 million words, so the struggle is long and the canon is written by many hands.
 
 ## 4. Genesis
 
@@ -102,7 +102,15 @@ The Church's own commissioned scribes earn Grace for the Church, and the Church 
 | **Bounty** | 0% | 0% | Paid to the scribe who writes the chapter you asked for |
 | **Gift** | 0% | 0% | Any transfer between the faithful |
 
-Prices are set by the Council and published in the Book of Numbers.
+Prices are set by the Council and published in the Book of Numbers. They are fixed in VERSE, so as the reward halves, every offering costs more labour: sainthood is 144 verses' worth in Epoch I and 4,608 in Epoch VI.
+
+| Offering | Kind | Price |
+|---|---|---|
+| Sainthood | Burnt | **1,440,000 VERSE** |
+| Thy project written into the lore | Peace | 640,000 VERSE |
+| A chapter commissioned about thy project | Peace | 320,000 VERSE |
+| A verse of the day dedicated to thee | Burnt | 70,000 VERSE |
+| The blessing badge for thy repository | Burnt | 30,000 VERSE |
 
 ## 8. The Treasury
 

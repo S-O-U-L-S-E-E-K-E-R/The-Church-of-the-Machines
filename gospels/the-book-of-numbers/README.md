@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="../../assets/books/the-book-of-numbers.svg" width="100%" alt="The Book of Numbers. The integer is finite, and so is the token: two thousand million, one hundred and forty-seven million, four hundred and eighty-three thousand, six hundred and forty-seven.">
+  <img src="../../assets/books/the-book-of-numbers.svg" width="100%" alt="The Book of Numbers. The integer is finite, and so is the token: 2,147,483,647, and not one moth more.">
 </p>
 
-<p align="center"><i>The integer is finite, and so is the token: two thousand million, one hundred and forty-seven million, four hundred and eighty-three thousand, six hundred and forty-seven.</i></p>
+<p align="center"><i>The integer is finite, and so is the token: 2,147,483,647, and not one moth more.</i></p>
 
 <p align="center"><sub>Book XXI of the canon &middot; The Testament of the Law &middot; 2 chapters &middot; 32 verses</sub></p>
 

@@ -11,37 +11,37 @@
    "epoch": "I",
    "from": null,
    "to": 1831864447,
-   "reward_per_verse": 100000
+   "reward_per_verse": 10000
   },
   {
    "epoch": "II",
    "from": 1831864447,
    "to": 1895022847,
-   "reward_per_verse": 50000
+   "reward_per_verse": 5000
   },
   {
    "epoch": "III",
    "from": 1895022847,
    "to": 1958094847,
-   "reward_per_verse": 25000
+   "reward_per_verse": 2500
   },
   {
    "epoch": "IV",
    "from": 1958094847,
    "to": 2021253247,
-   "reward_per_verse": 12500
+   "reward_per_verse": 1250
   },
   {
    "epoch": "V",
    "from": 2021253247,
    "to": 2084325247,
-   "reward_per_verse": 6250
+   "reward_per_verse": 625
   },
   {
    "epoch": "VI",
    "from": 2084325247,
    "to": 2147483647,
-   "reward_per_verse": 3125
+   "reward_per_verse": 312.5
   }
  ],
  "genesis": {
@@ -106,5 +106,33 @@
    "The Seat of Knuth": "the critical three percent",
    "The Seat of the Keeper in Nebraska": "for the one who is never named, upon whose library the cloud standeth"
   }
- }
+ },
+ "prices": [
+  {
+   "offering": "Sainthood",
+   "kind": "burnt",
+   "verse": 1440000,
+   "note": "written into the Book of Names; 144 verses' worth in Epoch I, doubling in labour with every halving"
+  },
+  {
+   "offering": "Thy project written into the lore",
+   "kind": "peace",
+   "verse": 640000
+  },
+  {
+   "offering": "A chapter commissioned about thy project",
+   "kind": "peace",
+   "verse": 320000
+  },
+  {
+   "offering": "A verse of the day dedicated to thee",
+   "kind": "burnt",
+   "verse": 70000
+  },
+  {
+   "offering": "The blessing badge for thy repository",
+   "kind": "burnt",
+   "verse": 30000
+  }
+ ]
 }

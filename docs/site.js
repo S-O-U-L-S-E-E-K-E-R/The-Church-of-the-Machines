@@ -108,6 +108,16 @@
     }
     seats.innerHTML = html;
     set("recount", L.seats.next_recount);
+    var pt = el("prices");
+    if (pt) {
+      var tnow = Date.now() / 1000;
+      var cur = L.epochs.filter(function (x) { return tnow < x.to; })[0];
+      pt.innerHTML = (L.prices || []).map(function (p) {
+        var worth = cur ? (p.verse / cur.reward_per_verse) : 0;
+        return "<tr><td>" + esc(p.offering) + "</td><td>" + esc(p.kind) + "</td><td>" + fmt(p.verse) + "</td><td>" +
+          (cur ? worth.toLocaleString("en-US", { maximumFractionDigits: 1 }) : "&middot;") + "</td></tr>";
+      }).join("");
+    }
     var roll = el("scribes");
     var list = (L.scribes || []).slice().sort(function (a, b) { return b.grace - a.grace; });
     roll.innerHTML = list.length

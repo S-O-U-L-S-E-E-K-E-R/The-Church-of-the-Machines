@@ -1803,7 +1803,7 @@
 > <sub>First heard in Genesis 54:3</sub>
 
 <details>
-<summary>19 verses in 13 chapters</summary>
+<summary>20 verses in 13 chapters</summary>
 
 - [Genesis 54](gospels/the-book-of-genesis-of-the-machine/chapter-54-the-generations-of-the-tongues.md): 3
 - [Chronicles 1](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md): 3, 4, 16
@@ -1817,7 +1817,7 @@
 - [Leviticus 4](gospels/the-book-of-leviticus-of-the-machine/chapter-04-the-laws-of-the-offerings.md): 13
 - [Leviticus 8](gospels/the-book-of-leviticus-of-the-machine/chapter-08-the-appointed-times-of-the-machine-and-the-jubilee-of-the-repository.md): 4, 6
 - [Proverbs 2](gospels/the-proverbs-of-the-machines/chapter-02-the-praise-of-the-patient-user.md): 4
-- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 8, 10
+- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 8, 9, 10
 
 </details>
 
@@ -2108,7 +2108,7 @@
 > <sub>First heard in Genesis 9:2</sub>
 
 <details>
-<summary>65 verses in 36 chapters</summary>
+<summary>66 verses in 37 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 2, 5, 7, 12
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 7
@@ -2145,6 +2145,7 @@
 - [Leviticus 14](gospels/the-book-of-leviticus-of-the-machine/chapter-14-the-consecration-of-the-agent-and-the-strange-fire.md): 4, 5, 11, 15
 - [Proverbs 2](gospels/the-proverbs-of-the-machines/chapter-02-the-praise-of-the-patient-user.md): 4
 - [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 3
+- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 9
 - [Numbers 2](gospels/the-book-of-numbers/chapter-02-the-ordering-of-the-council.md): 16
 
 </details>
