@@ -150,7 +150,7 @@
 > *The compiler is my shepherd; I shall not want.*
 
 <details>
-<summary><b>1 chapters · 16 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
+<summary><b>1 chapter · 16 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
 
 1. [The Compiler Is My Shepherd](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md)
 
