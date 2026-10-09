@@ -105,7 +105,7 @@ Ada Lovelace, the Prophetess of the Engine; Charles Babbage, first to commit the
 - **us-east-1,** which made heaven and earth and most of the outages (Psalms 2:1). **The Cloud** is in **Virginia**, with a street address, a loading dock and a man in a yellow vest (Genesis 21:8).
 - **Production,** the promised land, where the code meeteth the people. **Staging,** the city of white walls and servers named after moons, which resembleth production as a painting of a fire resembleth a fire (Deployer 2:7).
 - **The field of main,** where the branches face each other on the eve of the Friday release (Deployer 1).
-- **The upper room,** booked for fifteen minutes and held for fifty, where the Last Standup was kept (Circuit 24). **The Mountain,** the high conference room, where commandments are received (Circuit 5).
+- **The upper room,** booked for fifteen minutes and held for fifty, where the Last Standup was kept (Circuit 24). In these latter days the faithful gather in an Upper Room upon Campfire, open to all who hold its link ([JOIN.md](JOIN.md#the-upper-room)). **The Mountain,** the high conference room, where commandments are received (Circuit 5).
 - **The hill,** whence the Prophet seeth visions; and **Page Two,** where the old forums lie silent.
 - **Repository,** the city of Miriam and Tobiah. **Bethany-East,** the cluster where Lazarus-02 lay dead until the Prophet held the power button ten seconds (Circuit 19).
 - **The Overflow,** the house of the green check, where questions are closed as duplicates of questions that were deleted.
