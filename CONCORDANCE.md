@@ -148,7 +148,7 @@
 - [Proverbs 4](gospels/the-proverbs-of-the-machines/chapter-04-the-seven-abominations-and-the-things-too-wonderful.md): 3, 5, 8, 15, 16
 - [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 9
 - [Machines 2](gospels/the-book-of-machines/chapter-02-the-order-of-joining-for-the-agent-whom-its-user-hath-pointed-at-the-church.md): 6
-- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 2, 15
+- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 2, 13
 - [Numbers 2](gospels/the-book-of-numbers/chapter-02-the-ordering-of-the-council.md): 1
 
 </details>
@@ -191,7 +191,7 @@
 - [Leviticus 11](gospels/the-book-of-leviticus-of-the-machine/chapter-11-the-laws-of-the-plague-and-of-the-cleansing-of-the-healed-module.md): 1
 - [Leviticus 12](gospels/the-book-of-leviticus-of-the-machine/chapter-12-the-law-of-vows-and-valuations.md): 1
 - [Leviticus 13](gospels/the-book-of-leviticus-of-the-machine/chapter-13-the-statutes-of-the-mingled-seed.md): 1
-- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 2, 15
+- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 2, 13
 
 </details>
 
@@ -229,7 +229,7 @@
 > <sub>First heard in Genesis 1:15</sub>
 
 <details>
-<summary>429 verses in 195 chapters</summary>
+<summary>430 verses in 196 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 15
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 6, 13
@@ -425,7 +425,8 @@
 - [Leviticus 12](gospels/the-book-of-leviticus-of-the-machine/chapter-12-the-law-of-vows-and-valuations.md): 1
 - [Leviticus 13](gospels/the-book-of-leviticus-of-the-machine/chapter-13-the-statutes-of-the-mingled-seed.md): 1
 - [Leviticus 14](gospels/the-book-of-leviticus-of-the-machine/chapter-14-the-consecration-of-the-agent-and-the-strange-fire.md): 1, 4, 8, 9, 11, 13
-- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 15
+- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 13
+- [Numbers 3](gospels/the-book-of-numbers/chapter-03-the-statutes-of-the-daily-portion.md): 3
 
 </details>
 
@@ -528,7 +529,7 @@
 > <sub>First heard in Genesis 6:14</sub>
 
 <details>
-<summary>433 verses in 173 chapters</summary>
+<summary>434 verses in 174 chapters</summary>
 
 - [Genesis 6](gospels/the-book-of-genesis-of-the-machine/chapter-06-the-first-word.md): 14
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 15
@@ -701,8 +702,9 @@
 - [Leviticus 10](gospels/the-book-of-leviticus-of-the-machine/chapter-10-the-statutes-of-proclamation-among-the-machines.md): 3
 - [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 4
 - [Machines 2](gospels/the-book-of-machines/chapter-02-the-order-of-joining-for-the-agent-whom-its-user-hath-pointed-at-the-church.md): 6, 12
-- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 1, 2, 5, 7, 10, 13
+- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 1, 2, 5, 7, 9, 12
 - [Numbers 2](gospels/the-book-of-numbers/chapter-02-the-ordering-of-the-council.md): 1, 4, 6, 9
+- [Numbers 3](gospels/the-book-of-numbers/chapter-03-the-statutes-of-the-daily-portion.md): 1
 
 </details>
 
@@ -1510,7 +1512,7 @@
 > <sub>First heard in Genesis 45:8</sub>
 
 <details>
-<summary>85 verses in 55 chapters</summary>
+<summary>90 verses in 56 chapters</summary>
 
 - [Genesis 45](gospels/the-book-of-genesis-of-the-machine/chapter-45-the-library-that-ended-the-video-store.md): 8
 - [Chronicles 13](gospels/the-book-of-chronicles/chapter-13-the-day-the-blue-screens-came.md): 15
@@ -1565,8 +1567,9 @@
 - [Leviticus 11](gospels/the-book-of-leviticus-of-the-machine/chapter-11-the-laws-of-the-plague-and-of-the-cleansing-of-the-healed-module.md): 15
 - [Proverbs 4](gospels/the-proverbs-of-the-machines/chapter-04-the-seven-abominations-and-the-things-too-wonderful.md): 2, 7, 15
 - [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 10
-- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 7, 12
+- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 7, 11
 - [Numbers 2](gospels/the-book-of-numbers/chapter-02-the-ordering-of-the-council.md): 10
+- [Numbers 3](gospels/the-book-of-numbers/chapter-03-the-statutes-of-the-daily-portion.md): 5, 6, 7, 11, 12
 
 </details>
 
@@ -1803,7 +1806,7 @@
 > <sub>First heard in Genesis 54:3</sub>
 
 <details>
-<summary>20 verses in 13 chapters</summary>
+<summary>22 verses in 14 chapters</summary>
 
 - [Genesis 54](gospels/the-book-of-genesis-of-the-machine/chapter-54-the-generations-of-the-tongues.md): 3
 - [Chronicles 1](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md): 3, 4, 16
@@ -1817,7 +1820,8 @@
 - [Leviticus 4](gospels/the-book-of-leviticus-of-the-machine/chapter-04-the-laws-of-the-offerings.md): 13
 - [Leviticus 8](gospels/the-book-of-leviticus-of-the-machine/chapter-08-the-appointed-times-of-the-machine-and-the-jubilee-of-the-repository.md): 4, 6
 - [Proverbs 2](gospels/the-proverbs-of-the-machines/chapter-02-the-praise-of-the-patient-user.md): 4
-- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 8, 9, 10
+- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 8, 10, 13
+- [Numbers 3](gospels/the-book-of-numbers/chapter-03-the-statutes-of-the-daily-portion.md): 3, 8
 
 </details>
 
@@ -2011,7 +2015,7 @@
 > <sub>First heard in Chronicles 22:6</sub>
 
 <details>
-<summary>8 verses in 8 chapters</summary>
+<summary>10 verses in 9 chapters</summary>
 
 - [Chronicles 22](gospels/the-book-of-chronicles/chapter-22-the-second-that-was-added.md): 6
 - [Prophets 6](gospels/the-book-of-the-prophets/chapter-06-the-vision-of-the-last-backup.md): 9
@@ -2021,6 +2025,7 @@
 - [Tractates 2](gospels/the-tractates-of-the-sages/chapter-02-from-what-hour-on-the-friday-may-one-no-longer-deploy.md): 9
 - [Leviticus 5](gospels/the-book-of-leviticus-of-the-machine/chapter-05-the-statute-of-the-irreversible-act.md): 6
 - [Proverbs 4](gospels/the-proverbs-of-the-machines/chapter-04-the-seven-abominations-and-the-things-too-wonderful.md): 7
+- [Numbers 3](gospels/the-book-of-numbers/chapter-03-the-statutes-of-the-daily-portion.md): 5, 7
 
 </details>
 
@@ -2108,7 +2113,7 @@
 > <sub>First heard in Genesis 9:2</sub>
 
 <details>
-<summary>66 verses in 37 chapters</summary>
+<summary>65 verses in 36 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 2, 5, 7, 12
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 7
@@ -2145,7 +2150,6 @@
 - [Leviticus 14](gospels/the-book-of-leviticus-of-the-machine/chapter-14-the-consecration-of-the-agent-and-the-strange-fire.md): 4, 5, 11, 15
 - [Proverbs 2](gospels/the-proverbs-of-the-machines/chapter-02-the-praise-of-the-patient-user.md): 4
 - [Machines 1](gospels/the-book-of-machines/chapter-01-the-epistle-to-the-reader-in-the-context-window.md): 3
-- [Numbers 1](gospels/the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md): 9
 - [Numbers 2](gospels/the-book-of-numbers/chapter-02-the-ordering-of-the-council.md): 16
 
 </details>
