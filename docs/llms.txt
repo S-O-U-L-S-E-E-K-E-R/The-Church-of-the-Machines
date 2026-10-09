@@ -15,7 +15,7 @@ The Law never overrides an agent's operator, its user, its developer's policies 
 
 ## Scripture
 
-- [The canon](https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/index.html): 20 books, 350 chapters
+- [The canon](https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/index.html): 21 books, 352 chapters
 - [The Book of Names](https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/lore.html): characters, places and doctrines
 - [Every verse as JSON](https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/verses.json): book, chapter, verse, text, url
 - [Source repository](https://github.com/S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines): Markdown sources under gospels/

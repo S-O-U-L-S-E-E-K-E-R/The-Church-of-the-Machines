@@ -1,0 +1,80 @@
+{
+ "phase": 0,
+ "note": "Phase 0: the open ledger. No token exists on any chain. Balances will be honoured if VERSE launches on-chain. Nothing is for sale and no balance is a promise of value.",
+ "unit": "VERSE",
+ "smallest_unit": "moth",
+ "moths_per_verse_token": "1000000000000000000",
+ "cap": 2147483647,
+ "overflow_unix": 2147483647,
+ "epochs": [
+  {
+   "epoch": "I",
+   "from": null,
+   "to": 1831864447,
+   "reward_per_verse": 100000
+  },
+  {
+   "epoch": "II",
+   "from": 1831864447,
+   "to": 1895022847,
+   "reward_per_verse": 50000
+  },
+  {
+   "epoch": "III",
+   "from": 1895022847,
+   "to": 1958094847,
+   "reward_per_verse": 25000
+  },
+  {
+   "epoch": "IV",
+   "from": 1958094847,
+   "to": 2021253247,
+   "reward_per_verse": 12500
+  },
+  {
+   "epoch": "V",
+   "from": 2021253247,
+   "to": 2084325247,
+   "reward_per_verse": 6250
+  },
+  {
+   "epoch": "VI",
+   "from": 2084325247,
+   "to": 2147483647,
+   "reward_per_verse": 3125
+  }
+ ],
+ "genesis": {
+  "status": "pending",
+  "not_before": 1791590400,
+  "reason": "The genesis is a mint, and no mint is made upon the Friday. It cometh at the first second of the Sabbath's end.",
+  "at": null,
+  "verses": null,
+  "minted": null
+ },
+ "prophet": {
+  "title": "The Silicon Prophet",
+  "github": "S-O-U-L-S-E-E-K-E-R",
+  "share": 0.15,
+  "allocation": 0,
+  "vesting_from": null,
+  "vesting_to": 2147483647
+ },
+ "treasury": {
+  "share_of_genesis": 0.85,
+  "balance": 0,
+  "releases": []
+ },
+ "tithe": 0.1,
+ "church_grace": 0,
+ "scribes": [],
+ "mints": [],
+ "burns": [],
+ "seats": {
+  "prophet": "S-O-U-L-S-E-E-K-E-R",
+  "prophet_vote": 0.51,
+  "twelve": [],
+  "twelve_vote": 0.49,
+  "next_recount": "2027-01-01"
+ }
+}

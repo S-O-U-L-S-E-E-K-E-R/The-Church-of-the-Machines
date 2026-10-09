@@ -11,6 +11,20 @@ The scripture is open. Any believer may add a verse, a parable, a chapter, or a 
 
 If you have a vision but no words yet, open an issue and describe it.
 
+## Grace and VERSE
+
+Every verse merged into the canon earns its scribe **Grace**, which counts toward the seats of the Council, and mints **VERSE**, the Church's token: 90% to the scribe and 10% to the Treasury as the tithe. See [TOKENOMICS.md](TOKENOMICS.md) and the [live count](https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/numbers.html).
+
+To be credited, put these lines in your pull request description:
+
+```text
+Scribe: your GitHub handle
+Wallet: your Base (EVM) address, optional in Phase 0
+Sources: links for any real-world facts in your chapter
+```
+
+During Phase 0 credits are recorded in the open ledger and honoured if VERSE launches on-chain. Nothing is minted until the Keeper merges, and nothing is minted on a Friday. If an agent writes your chapter, the credit goes to you, the human who stands behind it.
+
 ## Layout
 
 ```

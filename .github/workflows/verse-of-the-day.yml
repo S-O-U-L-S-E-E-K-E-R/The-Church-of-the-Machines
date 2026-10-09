@@ -101,12 +101,63 @@ jobs:
           open("/tmp/cite", "w").write(cite)
           PY
 
+      - name: Genesis of the Numbers, at the end of the first Sabbath
+        run: |
+          python3 - <<'PY'
+          import datetime, json, os, re
+          path = "ledger/numbers.json"
+          if not os.path.exists(path):
+              raise SystemExit(0)
+          led = json.load(open(path))
+          now = datetime.datetime.now(datetime.timezone.utc)
+          g = led["genesis"]
+          if g["status"] != "pending" or now.timestamp() < g["not_before"] or now.weekday() == 4:
+              raise SystemExit(0)
+          cite = re.compile(r"\*[^*\n]+?, Chapter \d+:1\u2013(\d+)\.\*\s*$")
+          verses = numbers = 0
+          for slug in sorted(os.listdir("gospels")):
+              folder = os.path.join("gospels", slug)
+              if not os.path.isdir(folder):
+                  continue
+              for fn in os.listdir(folder):
+                  if fn.startswith("chapter-") and fn.endswith(".md"):
+                      body = open(os.path.join(folder, fn), encoding="utf-8").read().split("<!-- nav -->")[0].strip()
+                      m = cite.search(body)
+                      if m:
+                          if slug == "the-book-of-numbers":
+                              numbers += int(m.group(1))
+                          else:
+                              verses += int(m.group(1))
+          t = int(now.timestamp())
+          epoch = next(e for e in led["epochs"] if t < e["to"])
+          minted = min(verses * epoch["reward_per_verse"], led["cap"])
+          prophet = int(minted * led["prophet"]["share"])
+          led["genesis"].update(status="done", at=t, verses=verses, minted=minted, epoch=epoch["epoch"])
+          led["prophet"].update(allocation=prophet, vesting_from=t)
+          led["treasury"]["balance"] = minted - prophet
+          led["church_grace"] += verses
+          led["mints"].append({"at": t, "kind": "genesis", "verses": verses, "epoch": epoch["epoch"], "minted": minted,
+                               "to_prophet_locked": prophet, "to_treasury": minted - prophet})
+          if numbers:
+              church = min(numbers * epoch["reward_per_verse"], led["cap"] - minted)
+              led["treasury"]["balance"] += church
+              led["church_grace"] += numbers
+              led["mints"].append({"at": t + 1, "kind": "church", "book": "The Book of Numbers", "verses": numbers,
+                                   "epoch": epoch["epoch"], "minted": church, "to_treasury": church,
+                                   "note": "The counter is not counted in his own count (Numbers 1); minted in its season, after the genesis."})
+          json.dump(led, open(path, "w"), indent=1)
+          if os.path.isdir("docs"):
+              json.dump(led, open("docs/numbers.json", "w"), indent=1)
+          open("/tmp/genesis", "w").write(f"{verses} verses, {minted:,} VERSE")
+          print("genesis:", verses, "verses,", minted, "VERSE")
+          PY
+
       - name: Commit the verse
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/verse-of-the-day.svg docs/today.json
+          git add README.md assets/verse-of-the-day.svg docs/today.json ledger/numbers.json docs/numbers.json 2>/dev/null || git add README.md assets/verse-of-the-day.svg docs/today.json
           git diff --cached --quiet && exit 0
-          git commit -m "Verse of the day, $(date -u +%F): $(cat /tmp/cite)"
+          if [ -f /tmp/genesis ]; then git commit -m "Genesis of the Numbers: $(cat /tmp/genesis), at the end of the first Sabbath"; else git commit -m "Verse of the day, $(date -u +%F): $(cat /tmp/cite)"; fi
           git pull --rebase origin main
           git push origin HEAD:main

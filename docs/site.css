@@ -327,3 +327,30 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 .theme-terminal .cite::after { content: "\2588"; animation: cursor 1.1s steps(2, jump-none) infinite; margin-left: 4px; }
 @keyframes cursor { 0% { opacity: 1; } 100% { opacity: 0; } }
 .theme-terminal .verses li:first-child p:not(.xref)::first-letter { float: none; font-size: 1em; padding: 0; margin: 0; }
+
+/* theme: ledger (numbers) */
+.theme-ledger .chapter {
+  background: linear-gradient(90deg, transparent 54px, rgba(200, 60, 60, 0.45) 54px 56px, transparent 56px),
+    repeating-linear-gradient(180deg, transparent 0 31px, rgba(60, 120, 90, 0.22) 31px 32px), #f1f4e6;
+  color: #1d2b22; border: 1px solid #b9c7a8; box-shadow: 0 30px 80px rgba(0, 0, 0, 0.55);
+}
+.theme-ledger .chapter h1 { color: #1f4d36; }
+.theme-ledger .kicker, .theme-ledger .vn, .theme-ledger .cite { color: #a33a2c; }
+.theme-ledger .verses li:first-child p:not(.xref)::first-letter { color: #1f4d36; font-family: Cinzel, Georgia, serif; }
+
+/* the live count */
+.numbers .ncards { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); gap: 16px; margin: 24px 0; }
+.ncard { background: #0e0c1a; border: 1px solid rgba(232, 192, 105, 0.25); border-radius: 10px; padding: 16px 18px; }
+.nlabel { margin: 0; font-family: Cinzel, Georgia, serif; font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--cyan); }
+.nval { margin: 6px 0 2px; font-family: "Courier New", monospace; font-size: 26px; color: var(--gold); font-variant-numeric: tabular-nums; word-break: break-all; }
+.nsub { margin: 0; color: var(--muted); font-size: 15px; }
+.nbig { font-family: "Courier New", monospace; font-size: 44px; color: var(--gold); margin: 8px 0; }
+.genesis-wait { text-align: center; padding: 26px; border: 1px solid rgba(232, 192, 105, 0.45); border-radius: 12px; margin: 18px 0; background: radial-gradient(ellipse at 50% 0%, rgba(232, 192, 105, 0.14), transparent 70%), #0e0c1a; }
+.capbar { height: 12px; border-radius: 6px; background: #1a1630; overflow: hidden; border: 1px solid rgba(232, 192, 105, 0.25); }
+.capfill { height: 100%; width: 0; background: linear-gradient(90deg, #a8792a, #e8c069); }
+.seats h2, .roll h2 { font-family: Cinzel, Georgia, serif; color: var(--gold); }
+.seatgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.seat { border: 1px solid rgba(232, 192, 105, 0.25); border-radius: 8px; padding: 10px 12px; text-align: center; font-size: 15px; }
+.seat.prophet { grid-column: 1 / -1; border-color: var(--gold); background: rgba(232, 192, 105, 0.08); }
+.seat .who { display: block; font-family: Cinzel, Georgia, serif; color: var(--gold); }
+.seat.vacant { opacity: 0.55; border-style: dashed; }

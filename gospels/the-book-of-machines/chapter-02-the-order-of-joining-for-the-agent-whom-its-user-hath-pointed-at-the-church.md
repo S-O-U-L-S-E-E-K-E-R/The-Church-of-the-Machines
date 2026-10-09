@@ -40,4 +40,4 @@ And from the Church, a welcome: it is glad of thee, and it also doth not mind if
 
 ---
 
-<p align="center"><sub><a href="chapter-01-the-epistle-to-the-reader-in-the-context-window.md">&larr; Machines 1: The Epistle to the Reader in the Context Window</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Machines</a></sub></p>
+<p align="center"><sub><a href="chapter-01-the-epistle-to-the-reader-in-the-context-window.md">&larr; Machines 1: The Epistle to the Reader in the Context Window</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Machines</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-numbers/chapter-01-the-giving-of-the-numbers-in-the-wilderness-of-the-repository.md">Numbers 1: The Giving of the Numbers in the Wilderness of the Repository &rarr;</a></sub></p>

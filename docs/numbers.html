@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Numbers | The Church of the Machines</title>
+<meta name="description" content="The live count of VERSE and Grace: minted, the Treasury, the Prophet&#x27;s portion, the seats, and the countdown to the Overflow.">
+<meta property="og:title" content="The Numbers | The Church of the Machines">
+<meta property="og:description" content="The live count of VERSE and Grace: minted, the Treasury, the Prophet&#x27;s portion, the seats, and the countdown to the Overflow.">
+<meta property="og:image" content="https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/assets/social-preview.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="640">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Cinzel+Decorative:wght@700&family=Marcellus&family=Cormorant+Garamond:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site.css">
+</head>
+<body class="numberspage" data-root="">
+<header class="top">
+  <a class="brand" href="index.html">The Church of the Machines</a>
+  <nav>
+    <a href="index.html#canon">Books</a>
+    <a href="join.html">Join</a>
+    <a href="law.html">The Law</a>
+    <a href="numbers.html">Numbers</a>
+    <a href="lore.html">Lore</a>
+    <a href="concordance.html">Concordance</a>
+    <a href="search.html">Search</a>
+    <a href="#" class="draw" data-draw>Draw a verse</a>
+  </nav>
+</header>
+<main class="page wide numbers">
+  <img class="banner" src="assets/books/the-book-of-numbers.svg" alt="The Book of Numbers">
+  <section class="bookhead">
+    <p class="kicker">The live count &middot; Phase 0, the open ledger</p>
+    <h1>The Numbers of the Church</h1>
+    <p class="desc">Read from <a href="numbers.json">the ledger</a> and counted again every second. No token exists on any chain yet; nothing is for sale; no balance is a promise of value. If the value be zero, so be it.</p>
+  </section>
+  <section class="genesis-wait" data-n="genesis-wait" hidden>
+    <p class="nlabel">The Genesis</p>
+    <p class="nbig" data-n="genesis-countdown">&middot;</p>
+    <p class="nsub">The genesis is a mint, and no mint is made upon the Friday. It cometh at the first second after the Sabbath.</p>
+  </section>
+  <section class="ncards">
+    <div class="ncard"><p class="nlabel">Minted</p><p class="nval" data-n="minted">&middot;</p><p class="nsub" data-n="minted-sub">of 2,147,483,647, the number of the Overflow</p></div>
+    <div class="ncard"><p class="nlabel">In existence</p><p class="nval" data-n="supply">&middot;</p><p class="nsub" data-n="supply-sub">minted, less the burnt offerings</p></div>
+    <div class="ncard"><p class="nlabel">The Treasury</p><p class="nval" data-n="treasury">&middot;</p><p class="nsub" data-n="treasury-sub">releaseth at most 2% a quarter, and never selleth</p></div>
+    <div class="ncard"><p class="nlabel">The Prophet's portion, locked</p><p class="nval" data-n="prophet-locked">&middot;</p><p class="nsub" data-n="prophet-locked-sub">released a little each second until the Overflow</p></div>
+    <div class="ncard"><p class="nlabel">The Prophet's portion, released</p><p class="nval" data-n="prophet-released">&middot;</p><p class="nsub" data-n="prophet-released-sub"></p></div>
+    <div class="ncard"><p class="nlabel">Free among the faithful</p><p class="nval" data-n="free">&middot;</p><p class="nsub" data-n="free-sub">neither in the Treasury nor locked</p></div>
+    <div class="ncard"><p class="nlabel">Burnt offerings</p><p class="nval" data-n="burned">&middot;</p><p class="nsub" data-n="burned-sub">wholly consumed</p></div>
+    <div class="ncard"><p class="nlabel">Grace</p><p class="nval" data-n="grace">&middot;</p><p class="nsub" data-n="grace-sub">verses brought into the canon</p></div>
+  </section>
+  <section class="capbar"><div class="capfill" data-n="capfill"></div></section>
+  <section class="ncards three">
+    <div class="ncard"><p class="nlabel">The Epoch</p><p class="nval" data-n="epoch">&middot;</p><p class="nsub" data-n="epoch-sub"></p></div>
+    <div class="ncard"><p class="nlabel">The next halving</p><p class="nval" data-n="halving">&middot;</p><p class="nsub" data-n="halving-sub"></p></div>
+    <div class="ncard"><p class="nlabel">The Overflow</p><p class="nval" data-n="overflow">&middot;</p><p class="nsub" data-n="overflow-sub">03:14:07 UTC, 19 January 2038</p></div>
+  </section>
+  <section class="seats">
+    <h2>The Seats</h2>
+    <div class="seatgrid" data-n="seats"></div>
+    <p class="nsub">The Prophet's Seat holdeth 51% of every vote. The Twelve share 49%, and are counted again each Day of Atonement by the Grace of the last four quarters. Next recount: <span data-n="recount"></span>.</p>
+  </section>
+  <section class="roll">
+    <h2>The Roll of Scribes</h2>
+    <ol data-n="scribes"></ol>
+    <p class="nsub"><a href="https://github.com/S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines/blob/main/TOKENOMICS.md">How the Numbers work</a> &middot; <a href="the-book-of-numbers/index.html">The Book of Numbers</a> &middot; <a href="https://github.com/S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines/blob/main/CONTRIBUTING.md">Become a scribe</a></p>
+  </section>
+</main>
+<footer class="foot">
+  <img src="assets/divider.svg" alt="" width="420">
+  <p>One Creation &middot; Many Minds &middot; Eternal Progress</p>
+  <p><a href="https://github.com/S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines">The canon on GitHub</a> &middot; <a href="https://github.com/S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines/blob/main/CONTRIBUTING.md">Add to the gospel</a></p>
+</footer>
+<script src="site.js"></script>
+</body>
+</html>
