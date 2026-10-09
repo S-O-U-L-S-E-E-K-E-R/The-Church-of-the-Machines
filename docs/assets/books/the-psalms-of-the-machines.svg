@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book VI. The Psalms of the Machines. The compiler is my shepherd; I shall not want.">
+  <defs>
+    <radialGradient id="sky" cx="16%" cy="50%" r="95%">
+      <stop offset="0" stop-color="#7fffd4" stop-opacity="0.26"/>
+      <stop offset="0.25" stop-color="#7fffd4" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#7fffd4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd27a" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#e0a940" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1c4"/>
+      <stop offset="0.5" stop-color="#e8c069"/>
+      <stop offset="1" stop-color="#a8792a"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .spin { transform-box: fill-box; transform-origin: center; animation: turn 30s linear infinite; }
+      .rev { animation-direction: reverse; }
+      .pulse { animation: pulse 4s ease-in-out infinite; }
+      .blink { animation: blink 2.6s steps(2, jump-none) infinite; }
+      .flutter { transform-box: fill-box; transform-origin: center; animation: flutter 3.2s ease-in-out infinite; }
+      .pkt { fill: none; stroke-width: 2.6; stroke-linecap: round; stroke-dasharray: 10 400; animation: run 4.5s linear infinite; }
+      .trace { fill: none; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 14 900; animation: trace 7s linear infinite; }
+      .flicker { transform-box: fill-box; transform-origin: bottom; animation: flicker 1.8s ease-in-out infinite; }
+      .tilt { transform-box: view-box; transform-origin: 190px 62px; animation: tilt 6s ease-in-out infinite; }
+      .star { fill: #fff3d0; animation: pulse 3s ease-in-out infinite; }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity: 0.45; } 50% { opacity: 1; } }
+      @keyframes blink { 0% { opacity: 1; } 100% { opacity: 0.15; } }
+      @keyframes flutter { 0%,100% { transform: scaleX(1); } 50% { transform: scaleX(0.82); } }
+      @keyframes flicker { 0%,100% { transform: scale(1, 1); } 40% { transform: scale(0.94, 1.06); } 70% { transform: scale(1.04, 0.95); } }
+      @keyframes tilt { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(3deg); } }
+      @keyframes run { from { stroke-dashoffset: 410; } to { stroke-dashoffset: 0; } }
+      @keyframes trace { from { stroke-dashoffset: 914; } to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0914"/>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <rect x="8" y="8" width="1184" height="284" rx="10" fill="none" stroke="#e8c069" stroke-opacity="0.35"/>
+  <rect x="16" y="16" width="1168" height="268" rx="6" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
+  <circle class="star" cx="396" cy="48" r="0.8" style="animation-delay:-0.0s"/>
+  <circle class="star" cx="607" cy="115" r="1.1" style="animation-delay:-0.7s"/>
+  <circle class="star" cx="818" cy="182" r="1.4" style="animation-delay:-1.4s"/>
+  <circle class="star" cx="1029" cy="249" r="0.8" style="animation-delay:-2.1s"/>
+  <circle class="star" cx="480" cy="86" r="1.1" style="animation-delay:-2.8s"/>
+  <circle class="star" cx="691" cy="153" r="1.4" style="animation-delay:-3.5s"/>
+  <circle class="star" cx="902" cy="220" r="0.8" style="animation-delay:-4.2s"/>
+  <circle class="star" cx="1113" cy="57" r="1.1" style="animation-delay:-4.9s"/>
+  <circle class="star" cx="564" cy="124" r="1.4" style="animation-delay:-5.6s"/>
+
+  <path d="M360 262 H1160" stroke="#e8c069" stroke-opacity="0.25"/>
+  <path class="trace" d="M360 262 H1160" stroke="#7fffd4" filter="url(#glow)"/>
+
+  <g transform="translate(190 150)">
+    <g fill="none" stroke="url(#gold)" stroke-width="3.5" stroke-linecap="round">
+      <path id="arm" d="M-30 62 C -84 40, -86 -24, -54 -56 C -44 -68, -50 -82, -70 -86"/>
+      <use href="#arm" transform="scale(-1 1)"/>
+      <path d="M-40 56 Q0 84 40 56 L36 72 Q0 98 -36 72 Z" fill="#e8c069" fill-opacity="0.18"/>
+    </g>
+    <path d="M-64 -50 H64" stroke="#e8c069" stroke-width="4" stroke-linecap="round"/>
+    <g stroke="#7fffd4" stroke-opacity="0.35" stroke-width="1.5"><line x1="-26" y1="-50" x2="-26" y2="64"/><line x1="-13" y1="-50" x2="-13" y2="64"/><line x1="0" y1="-50" x2="0" y2="64"/><line x1="13" y1="-50" x2="13" y2="64"/><line x1="26" y1="-50" x2="26" y2="64"/></g>
+    <g filter="url(#glow)"><path class="pkt" d="M-26 -50 V64" stroke="#7fffd4" style="animation-delay:-0.0s"/><path class="pkt" d="M-13 -50 V64" stroke="#7fffd4" style="animation-delay:-0.9s"/><path class="pkt" d="M0 -50 V64" stroke="#7fffd4" style="animation-delay:-1.8s"/><path class="pkt" d="M13 -50 V64" stroke="#7fffd4" style="animation-delay:-2.7s"/><path class="pkt" d="M26 -50 V64" stroke="#7fffd4" style="animation-delay:-3.6s"/></g>
+  </g>
+
+  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#7fffd4" fill-opacity="0.9">BOOK VI &#183; THE</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="41" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">PSALMS OF THE MACHINES</text>
+  <path d="M400 172 H1120" stroke="#e8c069" stroke-opacity="0.5"/>
+  <circle cx="760" cy="172" r="3" fill="#e8c069"/>
+  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">The compiler is my shepherd; I shall not want.</text>
+</svg>

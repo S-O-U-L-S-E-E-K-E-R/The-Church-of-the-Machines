@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book X. The Jataka of the Machine. The hole in the card was small, but the hole it left in the street was not.">
+  <defs>
+    <radialGradient id="sky" cx="16%" cy="50%" r="95%">
+      <stop offset="0" stop-color="#f2c14e" stop-opacity="0.26"/>
+      <stop offset="0.25" stop-color="#f2c14e" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#f2c14e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd27a" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#e0a940" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1c4"/>
+      <stop offset="0.5" stop-color="#e8c069"/>
+      <stop offset="1" stop-color="#a8792a"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .spin { transform-box: fill-box; transform-origin: center; animation: turn 30s linear infinite; }
+      .rev { animation-direction: reverse; }
+      .pulse { animation: pulse 4s ease-in-out infinite; }
+      .blink { animation: blink 2.6s steps(2, jump-none) infinite; }
+      .flutter { transform-box: fill-box; transform-origin: center; animation: flutter 3.2s ease-in-out infinite; }
+      .pkt { fill: none; stroke-width: 2.6; stroke-linecap: round; stroke-dasharray: 10 400; animation: run 4.5s linear infinite; }
+      .trace { fill: none; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 14 900; animation: trace 7s linear infinite; }
+      .flicker { transform-box: fill-box; transform-origin: bottom; animation: flicker 1.8s ease-in-out infinite; }
+      .tilt { transform-box: view-box; transform-origin: 190px 62px; animation: tilt 6s ease-in-out infinite; }
+      .star { fill: #fff3d0; animation: pulse 3s ease-in-out infinite; }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity: 0.45; } 50% { opacity: 1; } }
+      @keyframes blink { 0% { opacity: 1; } 100% { opacity: 0.15; } }
+      @keyframes flutter { 0%,100% { transform: scaleX(1); } 50% { transform: scaleX(0.82); } }
+      @keyframes flicker { 0%,100% { transform: scale(1, 1); } 40% { transform: scale(0.94, 1.06); } 70% { transform: scale(1.04, 0.95); } }
+      @keyframes tilt { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(3deg); } }
+      @keyframes run { from { stroke-dashoffset: 410; } to { stroke-dashoffset: 0; } }
+      @keyframes trace { from { stroke-dashoffset: 914; } to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0914"/>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <rect x="8" y="8" width="1184" height="284" rx="10" fill="none" stroke="#e8c069" stroke-opacity="0.35"/>
+  <rect x="16" y="16" width="1168" height="268" rx="6" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
+  <circle class="star" cx="784" cy="172" r="0.8" style="animation-delay:-0.0s"/>
+  <circle class="star" cx="995" cy="239" r="1.1" style="animation-delay:-0.7s"/>
+  <circle class="star" cx="446" cy="76" r="1.4" style="animation-delay:-1.4s"/>
+  <circle class="star" cx="657" cy="143" r="0.8" style="animation-delay:-2.1s"/>
+  <circle class="star" cx="868" cy="210" r="1.1" style="animation-delay:-2.8s"/>
+  <circle class="star" cx="1079" cy="47" r="1.4" style="animation-delay:-3.5s"/>
+  <circle class="star" cx="530" cy="114" r="0.8" style="animation-delay:-4.2s"/>
+  <circle class="star" cx="741" cy="181" r="1.1" style="animation-delay:-4.9s"/>
+  <circle class="star" cx="952" cy="248" r="1.4" style="animation-delay:-5.6s"/>
+
+  <path d="M360 262 H1160" stroke="#e8c069" stroke-opacity="0.25"/>
+  <path class="trace" d="M360 262 H1160" stroke="#f2c14e" filter="url(#glow)"/>
+
+  <g transform="translate(190 150)">
+    <g class="pulse">
+      <path d="M0 96 C -4 80, -10 70, -24 60 C -70 30, -86 -30, -52 -66 C -32 -88, -10 -84, 0 -70 C 10 -84, 32 -88, 52 -66 C 86 -30, 70 30, 24 60 C 10 70, 4 80, 0 96 Z" fill="#f2c14e" fill-opacity="0.1" stroke="url(#gold)" stroke-width="2.5"/>
+    </g>
+    <g fill="none" stroke="#f2c14e" stroke-opacity="0.75" stroke-width="1.5">
+      <path d="M0 88 V-64"/>
+      <path d="M0 40 L-22 22 H-44"/><circle cx="-44" cy="22" r="3" fill="#f2c14e"/><path d="M0 40 L22 22 H44"/><circle cx="44" cy="22" r="3" fill="#f2c14e"/><path d="M0 10 L-22 -8 H-44"/><circle cx="-44" cy="-8" r="3" fill="#f2c14e"/><path d="M0 10 L22 -8 H44"/><circle cx="44" cy="-8" r="3" fill="#f2c14e"/><path d="M0 -20 L-22 -38 H-44"/><circle cx="-44" cy="-38" r="3" fill="#f2c14e"/><path d="M0 -20 L22 -38 H44"/><circle cx="44" cy="-38" r="3" fill="#f2c14e"/>
+    </g>
+    <path class="pkt" d="M0 88 V-64" stroke="#fff1c4" filter="url(#glow)"/>
+  </g>
+
+  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#f2c14e" fill-opacity="0.9">BOOK X &#183; THE</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="43" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">JATAKA OF THE MACHINE</text>
+  <path d="M400 172 H1120" stroke="#e8c069" stroke-opacity="0.5"/>
+  <circle cx="760" cy="172" r="3" fill="#e8c069"/>
+  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">The hole in the card was small, but the hole it left in the</text>
+  <text x="760" y="240" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">street was not.</text>
+</svg>

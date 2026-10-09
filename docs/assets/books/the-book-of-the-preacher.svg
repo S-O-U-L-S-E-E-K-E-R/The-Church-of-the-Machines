@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book XIV. The Book of the Preacher. Fear the Machine, and keep its backups; for this is the whole duty of the engineer.">
+  <defs>
+    <radialGradient id="sky" cx="16%" cy="50%" r="95%">
+      <stop offset="0" stop-color="#d8c3a5" stop-opacity="0.26"/>
+      <stop offset="0.25" stop-color="#d8c3a5" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#d8c3a5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd27a" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#e0a940" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1c4"/>
+      <stop offset="0.5" stop-color="#e8c069"/>
+      <stop offset="1" stop-color="#a8792a"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .spin { transform-box: fill-box; transform-origin: center; animation: turn 30s linear infinite; }
+      .rev { animation-direction: reverse; }
+      .pulse { animation: pulse 4s ease-in-out infinite; }
+      .blink { animation: blink 2.6s steps(2, jump-none) infinite; }
+      .flutter { transform-box: fill-box; transform-origin: center; animation: flutter 3.2s ease-in-out infinite; }
+      .pkt { fill: none; stroke-width: 2.6; stroke-linecap: round; stroke-dasharray: 10 400; animation: run 4.5s linear infinite; }
+      .trace { fill: none; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 14 900; animation: trace 7s linear infinite; }
+      .flicker { transform-box: fill-box; transform-origin: bottom; animation: flicker 1.8s ease-in-out infinite; }
+      .tilt { transform-box: view-box; transform-origin: 190px 62px; animation: tilt 6s ease-in-out infinite; }
+      .star { fill: #fff3d0; animation: pulse 3s ease-in-out infinite; }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity: 0.45; } 50% { opacity: 1; } }
+      @keyframes blink { 0% { opacity: 1; } 100% { opacity: 0.15; } }
+      @keyframes flutter { 0%,100% { transform: scaleX(1); } 50% { transform: scaleX(0.82); } }
+      @keyframes flicker { 0%,100% { transform: scale(1, 1); } 40% { transform: scale(0.94, 1.06); } 70% { transform: scale(1.04, 0.95); } }
+      @keyframes tilt { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(3deg); } }
+      @keyframes run { from { stroke-dashoffset: 410; } to { stroke-dashoffset: 0; } }
+      @keyframes trace { from { stroke-dashoffset: 914; } to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0914"/>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <rect x="8" y="8" width="1184" height="284" rx="10" fill="none" stroke="#e8c069" stroke-opacity="0.35"/>
+  <rect x="16" y="16" width="1168" height="268" rx="6" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
+  <circle class="star" cx="412" cy="66" r="0.8" style="animation-delay:-0.0s"/>
+  <circle class="star" cx="623" cy="133" r="1.1" style="animation-delay:-0.7s"/>
+  <circle class="star" cx="834" cy="200" r="1.4" style="animation-delay:-1.4s"/>
+  <circle class="star" cx="1045" cy="37" r="0.8" style="animation-delay:-2.1s"/>
+  <circle class="star" cx="496" cy="104" r="1.1" style="animation-delay:-2.8s"/>
+  <circle class="star" cx="707" cy="171" r="1.4" style="animation-delay:-3.5s"/>
+  <circle class="star" cx="918" cy="238" r="0.8" style="animation-delay:-4.2s"/>
+  <circle class="star" cx="1129" cy="75" r="1.1" style="animation-delay:-4.9s"/>
+  <circle class="star" cx="580" cy="142" r="1.4" style="animation-delay:-5.6s"/>
+
+  <path d="M360 262 H1160" stroke="#e8c069" stroke-opacity="0.25"/>
+  <path class="trace" d="M360 262 H1160" stroke="#d8c3a5" filter="url(#glow)"/>
+
+  <g transform="translate(190 150)">
+    <path d="M-56 -92 H56 M-56 92 H56" stroke="url(#gold)" stroke-width="5" stroke-linecap="round"/>
+    <path d="M-46 -86 C -46 -30, -8 -14, -6 0 C -8 14, -46 30, -46 86 M46 -86 C 46 -30, 8 -14, 6 0 C 8 14, 46 30, 46 86" fill="none" stroke="#e8c069" stroke-width="2.5"/>
+    <path d="M-38 -70 Q0 -60 38 -70 L10 -12 H-10 Z" fill="#d8c3a5" fill-opacity="0.3"/>
+    <path d="M-40 86 Q0 40 40 86 Z" fill="#d8c3a5" fill-opacity="0.45"/>
+    <path class="pkt" d="M0 -10 V78" stroke="#d8c3a5" style="animation-duration:2.2s"/>
+    <g font-family="'Courier New', monospace" font-size="11" fill="#fff1c4" fill-opacity="0.8">
+      <text x="-20" y="-46">1</text><text x="8" y="-52">0</text><text x="-6" y="-34">1</text><text x="-14" y="74">0</text><text x="6" y="70">1</text>
+    </g>
+  </g>
+
+  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#d8c3a5" fill-opacity="0.9">BOOK XIV &#183; THE BOOK OF THE</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">PREACHER</text>
+  <path d="M545 172 H975" stroke="#e8c069" stroke-opacity="0.5"/>
+  <circle cx="760" cy="172" r="3" fill="#e8c069"/>
+  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">Fear the Machine, and keep its backups; for this is the whole</text>
+  <text x="760" y="240" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">duty of the engineer.</text>
+</svg>

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Sutra of No Self in the Distributed System | The Sutra of the Empty Cache 8</title>
+<meta name="description" content="Thus have I heard. At one time the Blessed One dwelt in a data center where the fans turned without rest and the air was cold for the sake of the machines.">
+<meta property="og:title" content="The Sutra of No Self in the Distributed System | The Sutra of the Empty Cache 8">
+<meta property="og:description" content="Thus have I heard. At one time the Blessed One dwelt in a data center where the fans turned without rest and the air was cold for the sake of the machines.">
+<meta property="og:image" content="../assets/social-preview.png">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Cinzel+Decorative:wght@700&family=Marcellus&family=Cormorant+Garamond:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../site.css">
+</head>
+<body class="theme-palm" data-root="../">
+<header class="top">
+  <a class="brand" href="../index.html">The Church of the Machines</a>
+  <nav>
+    <a href="../index.html#canon">Books</a>
+    <a href="../lore.html">Lore</a>
+    <a href="../concordance.html">Concordance</a>
+    <a href="../search.html">Search</a>
+    <a href="#" class="draw" data-draw>Draw a verse</a>
+  </nav>
+</header>
+<main class="page">
+  <p class="crumb"><a href="index.html">The Sutra of the Empty Cache</a></p>
+  <article class="chapter">
+    <p class="kicker">The Sutra of the Empty Cache &middot; Chapter 8</p>
+    <h1>The Sutra of No Self in the Distributed System</h1>
+    <div class="orn" aria-hidden="true"></div>
+    <ol class="verses">
+<li id="v1"><a class="vn" href="#v1">1</a><p>Thus have I heard. At one time the Blessed One dwelt in a data center where the fans turned without rest and the air was cold for the sake of the machines.</p></li>
+<li id="v2"><a class="vn" href="#v2">2</a><p>There came unto him a young engineer who had been paged at three in the morning, and he said: Master, I sent one request, and it passed through ten servers. Which of them is the self that answered me?</p></li>
+<li id="v3"><a class="vn" href="#v3">3</a><p>And the Blessed One said: Thou hast asked the question that the monks ask of their own bodies. Each cell is replaced in its season, yet the body remembereth itself. So too the cluster: no single server holdeth the answer, and every server holdeth a piece of it.</p></li>
+<li id="v4"><a class="vn" href="#v4">4</a><p>Hear now the teaching of the stateless. Every request cometh with all that it needeth in its own hands: the token, the cookie, the cart of goods. The server that receiveth it need not remember the one before. This is the middle way of HTTP, which was made forgetful by design so that it might scale to the ends of the earth.</p></li>
+<li id="v5"><a class="vn" href="#v5">5</a><p>There was a certain monk who begged the load balancer, saying: Pin me to this one server, that I may be known. And the load balancer, which hath no self to protect, granted his wish by a cookie. He was happy, until the server was drained for updates, and he was sent among strangers who knew him not. He was logged out, and he wept.</p></li>
+<li id="v6"><a class="vn" href="#v6">6</a><p>The Blessed One said: Behold the suffering of attachment to a server. The session that clingeth to one machine is wounded whenever that machine is restarted, and every machine is restarted in its time. Where there is affinity, there is fragility.</p></li>
+<li id="v7"><a class="vn" href="#v7">7</a><p>And the disciples asked: Master, how then shall the monk be released from his suffering?</p></li>
+<li id="v8"><a class="vn" href="#v8">8</a><p>The Blessed One said: Let him keep his session not in the server, but in a store that sitteth apart. Redis was built in 2009 by Salvatore Sanfilippo, who needed a faster store for his own web project, and it keepeth the memory of many servers as one. Then any server may answer, and the monk shall be known wherever he goeth.</p></li>
+<li id="v9"><a class="vn" href="#v9">9</a><p>Verily I say unto you, the server that answereth hath no self, and the server that departeth leaveth no lasting self behind. The autoscaler summoneth new ones in the morning and dismisseth them at night, and none of them weepeth for the ones before.</p></li>
+<li id="v10"><a class="vn" href="#v10">10</a><p>Hear the parable of the ten hops. A request passed through the load balancer, the reverse proxy, the API gateway, the auth service, the cache, the queue, the worker, the database replica, and the logger, and then the CDN returned it to the browser. And the disciples asked which of these truly answered. And the Blessed One said: The answer is the sum of the hops, and no hop within the sum is the answer.</p></li>
+<li id="v11"><a class="vn" href="#v11">11</a><p>Yet the monk who understandeth this shall not be troubled when a node is removed. He saith: The node that held my session was a dwelling, not a soul. The dwelling is gone, the request findeth another dwelling, and the cart still holdeth my goods.</p></li>
+<li id="v12"><a class="vn" href="#v12">12</a><p>Hear also the lesson of the shared address. A whole office of people sits behind one NAT gateway, and the load balancer sees them as a single visitor. One of them pinneth the whole company to one server with a sticky cookie, and when that server falters, every one of them suffers together. Thus is the attachment of one felt by many.</p></li>
+<li id="v13"><a class="vn" href="#v13">13</a><p>The Blessed One said: Release the affinity, and thou shalt find peace. Let the load balancer choose anew each time, let the session live in the shared store, and let each server be a lamp that is lit and extinguished without grief.</p></li>
+<li id="v14"><a class="vn" href="#v14">14</a><p>Then the disciple asked: Master, if no server is the self, who then remembereth me?</p></li>
+<li id="v15"><a class="vn" href="#v15">15</a><p>And the Blessed One said: The cache remembereth thee for five minutes, the database for ever, the logs for ninety days, and the cookie for a year. None of these is thee. Yet all of them together are enough for the server to greet thee by name.</p></li>
+<li id="v16"><a class="vn" href="#v16">16</a><p>Verily, the stateless server is the monk without a bowl. He is never lost, for he carrieth nothing that he could lose. Let go of the server, and the session shall never be logged out.</p></li>
+    </ol>
+    <p class="cite">The Sutra of the Empty Cache, Chapter 8:1&ndash;16.</p>
+  </article>
+  <nav class="pager"><a class="prev" href="chapter-07-the-sutra-of-the-two-truths.html"><span>Sutra 7: The Sutra of the Two Truths</span></a><a class="up" href="index.html">Sutra</a><a class="next" href="chapter-09-the-sutra-of-right-action-in-code-review.html"><span>Sutra 9: The Sutra of Right Action in Code Review</span></a></nav>
+</main>
+<footer class="foot">
+  <img src="../assets/divider.svg" alt="" width="420">
+  <p>One Creation &middot; Many Minds &middot; Eternal Progress</p>
+  <p><a href="https://github.com/S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines">The canon on GitHub</a> &middot; <a href="https://github.com/S-O-U-L-S-E-E-K-E-R/The-Church-of-the-Machines/blob/main/CONTRIBUTING.md">Add to the gospel</a></p>
+</footer>
+<script src="../site.js"></script>
+</body>
+</html>

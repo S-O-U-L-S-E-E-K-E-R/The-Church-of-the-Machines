@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book I. The Book of Genesis of the Machine. The Machine doeth whatever thou knowest how to order it; and lo, the whole trouble is in the knowing.">
+  <defs>
+    <radialGradient id="sky" cx="16%" cy="50%" r="95%">
+      <stop offset="0" stop-color="#e8935a" stop-opacity="0.26"/>
+      <stop offset="0.25" stop-color="#e8935a" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#e8935a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd27a" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#e0a940" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1c4"/>
+      <stop offset="0.5" stop-color="#e8c069"/>
+      <stop offset="1" stop-color="#a8792a"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .spin { transform-box: fill-box; transform-origin: center; animation: turn 30s linear infinite; }
+      .rev { animation-direction: reverse; }
+      .pulse { animation: pulse 4s ease-in-out infinite; }
+      .blink { animation: blink 2.6s steps(2, jump-none) infinite; }
+      .flutter { transform-box: fill-box; transform-origin: center; animation: flutter 3.2s ease-in-out infinite; }
+      .pkt { fill: none; stroke-width: 2.6; stroke-linecap: round; stroke-dasharray: 10 400; animation: run 4.5s linear infinite; }
+      .trace { fill: none; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 14 900; animation: trace 7s linear infinite; }
+      .flicker { transform-box: fill-box; transform-origin: bottom; animation: flicker 1.8s ease-in-out infinite; }
+      .tilt { transform-box: view-box; transform-origin: 190px 62px; animation: tilt 6s ease-in-out infinite; }
+      .star { fill: #fff3d0; animation: pulse 3s ease-in-out infinite; }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity: 0.45; } 50% { opacity: 1; } }
+      @keyframes blink { 0% { opacity: 1; } 100% { opacity: 0.15; } }
+      @keyframes flutter { 0%,100% { transform: scaleX(1); } 50% { transform: scaleX(0.82); } }
+      @keyframes flicker { 0%,100% { transform: scale(1, 1); } 40% { transform: scale(0.94, 1.06); } 70% { transform: scale(1.04, 0.95); } }
+      @keyframes tilt { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(3deg); } }
+      @keyframes run { from { stroke-dashoffset: 410; } to { stroke-dashoffset: 0; } }
+      @keyframes trace { from { stroke-dashoffset: 914; } to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0914"/>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <rect x="8" y="8" width="1184" height="284" rx="10" fill="none" stroke="#e8c069" stroke-opacity="0.35"/>
+  <rect x="16" y="16" width="1168" height="268" rx="6" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
+  <circle class="star" cx="671" cy="123" r="0.8" style="animation-delay:-0.0s"/>
+  <circle class="star" cx="882" cy="190" r="1.1" style="animation-delay:-0.7s"/>
+  <circle class="star" cx="1093" cy="257" r="1.4" style="animation-delay:-1.4s"/>
+  <circle class="star" cx="544" cy="94" r="0.8" style="animation-delay:-2.1s"/>
+  <circle class="star" cx="755" cy="161" r="1.1" style="animation-delay:-2.8s"/>
+  <circle class="star" cx="966" cy="228" r="1.4" style="animation-delay:-3.5s"/>
+  <circle class="star" cx="417" cy="65" r="0.8" style="animation-delay:-4.2s"/>
+  <circle class="star" cx="628" cy="132" r="1.1" style="animation-delay:-4.9s"/>
+  <circle class="star" cx="839" cy="199" r="1.4" style="animation-delay:-5.6s"/>
+
+  <path d="M360 262 H1160" stroke="#e8c069" stroke-opacity="0.25"/>
+  <path class="trace" d="M360 262 H1160" stroke="#e8935a" filter="url(#glow)"/>
+
+  <g transform="translate(190 150)">
+    <g fill="none" stroke="url(#gold)" stroke-width="2.5">
+      <g class="spin" style="animation-duration:24s"><path d="M18.0,-14.0 L27.8,-9.8 L26.2,-0.0 L15.5,0.7 L12.1,8.0 L18.5,16.6 L12.2,24.2 L2.6,19.5 L-4.0,24.1 L-2.8,34.7 L-12.0,38.2 L-18.0,29.3 L-26.0,30.0 L-30.2,39.8 L-40.0,38.2 L-40.7,27.5 L-48.0,24.1 L-56.6,30.5 L-64.2,24.2 L-59.5,14.6 L-64.1,8.0 L-74.7,9.2 L-78.2,-0.0 L-69.3,-6.0 L-70.0,-14.0 L-79.8,-18.2 L-78.2,-28.0 L-67.5,-28.7 L-64.1,-36.0 L-70.5,-44.6 L-64.2,-52.2 L-54.6,-47.5 L-48.0,-52.1 L-49.2,-62.7 L-40.0,-66.2 L-34.0,-57.3 L-26.0,-58.0 L-21.8,-67.8 L-12.0,-66.2 L-11.3,-55.5 L-4.0,-52.1 L4.6,-58.5 L12.2,-52.2 L7.5,-42.6 L12.1,-36.0 L22.7,-37.2 L26.2,-28.0 L17.3,-22.0 Z"/><circle cx="-26" cy="-14" r="14"/>
+        <path d="M-26 -44 V16 M-56 -14 H4" stroke-width="1.5"/></g>
+      <g class="spin rev" style="animation-duration:18s"><path d="M78.0,50.0 L87.8,54.2 L85.6,63.7 L75.0,63.2 L71.0,69.3 L75.8,78.8 L68.0,84.6 L60.2,77.4 L53.2,79.5 L50.8,89.9 L41.1,89.4 L39.7,78.8 L33.0,76.0 L24.5,82.4 L17.4,75.7 L23.1,66.8 L19.8,60.3 L9.2,59.7 L8.0,50.0 L18.2,46.9 L19.8,39.7 L12.0,32.5 L17.4,24.3 L27.2,28.4 L33.0,24.0 L31.7,13.5 L41.1,10.6 L45.9,20.1 L53.2,20.5 L59.0,11.5 L68.0,15.4 L65.6,25.7 L71.0,30.7 L81.2,27.6 L85.6,36.3 L77.1,42.7 Z" stroke="#e8935a"/><circle cx="48" cy="50" r="9" stroke="#e8935a"/></g>
+    </g>
+  </g>
+
+  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#e8935a" fill-opacity="0.9">BOOK I &#183; THE BOOK OF</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="41" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">GENESIS OF THE MACHINE</text>
+  <path d="M400 172 H1120" stroke="#e8c069" stroke-opacity="0.5"/>
+  <circle cx="760" cy="172" r="3" fill="#e8c069"/>
+  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">The Machine doeth whatever thou knowest how to order it; and lo,</text>
+  <text x="760" y="240" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">the whole trouble is in the knowing.</text>
+</svg>

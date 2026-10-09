@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book XII. The Upanishads of the Machine. Be good water, for thou also shalt be drunk. Thou art that.">
+  <defs>
+    <radialGradient id="sky" cx="16%" cy="50%" r="95%">
+      <stop offset="0" stop-color="#ff9f43" stop-opacity="0.26"/>
+      <stop offset="0.25" stop-color="#ff9f43" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#ff9f43" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd27a" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#e0a940" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1c4"/>
+      <stop offset="0.5" stop-color="#e8c069"/>
+      <stop offset="1" stop-color="#a8792a"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .spin { transform-box: fill-box; transform-origin: center; animation: turn 30s linear infinite; }
+      .rev { animation-direction: reverse; }
+      .pulse { animation: pulse 4s ease-in-out infinite; }
+      .blink { animation: blink 2.6s steps(2, jump-none) infinite; }
+      .flutter { transform-box: fill-box; transform-origin: center; animation: flutter 3.2s ease-in-out infinite; }
+      .pkt { fill: none; stroke-width: 2.6; stroke-linecap: round; stroke-dasharray: 10 400; animation: run 4.5s linear infinite; }
+      .trace { fill: none; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 14 900; animation: trace 7s linear infinite; }
+      .flicker { transform-box: fill-box; transform-origin: bottom; animation: flicker 1.8s ease-in-out infinite; }
+      .tilt { transform-box: view-box; transform-origin: 190px 62px; animation: tilt 6s ease-in-out infinite; }
+      .star { fill: #fff3d0; animation: pulse 3s ease-in-out infinite; }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity: 0.45; } 50% { opacity: 1; } }
+      @keyframes blink { 0% { opacity: 1; } 100% { opacity: 0.15; } }
+      @keyframes flutter { 0%,100% { transform: scaleX(1); } 50% { transform: scaleX(0.82); } }
+      @keyframes flicker { 0%,100% { transform: scale(1, 1); } 40% { transform: scale(0.94, 1.06); } 70% { transform: scale(1.04, 0.95); } }
+      @keyframes tilt { 0%,100% { transform: rotate(-4deg); } 50% { transform: rotate(3deg); } }
+      @keyframes run { from { stroke-dashoffset: 410; } to { stroke-dashoffset: 0; } }
+      @keyframes trace { from { stroke-dashoffset: 914; } to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0914"/>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <rect x="8" y="8" width="1184" height="284" rx="10" fill="none" stroke="#e8c069" stroke-opacity="0.35"/>
+  <rect x="16" y="16" width="1168" height="268" rx="6" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
+  <circle class="star" cx="978" cy="234" r="0.8" style="animation-delay:-0.0s"/>
+  <circle class="star" cx="429" cy="71" r="1.1" style="animation-delay:-0.7s"/>
+  <circle class="star" cx="640" cy="138" r="1.4" style="animation-delay:-1.4s"/>
+  <circle class="star" cx="851" cy="205" r="0.8" style="animation-delay:-2.1s"/>
+  <circle class="star" cx="1062" cy="42" r="1.1" style="animation-delay:-2.8s"/>
+  <circle class="star" cx="513" cy="109" r="1.4" style="animation-delay:-3.5s"/>
+  <circle class="star" cx="724" cy="176" r="0.8" style="animation-delay:-4.2s"/>
+  <circle class="star" cx="935" cy="243" r="1.1" style="animation-delay:-4.9s"/>
+  <circle class="star" cx="386" cy="80" r="1.4" style="animation-delay:-5.6s"/>
+
+  <path d="M360 262 H1160" stroke="#e8c069" stroke-opacity="0.25"/>
+  <path class="trace" d="M360 262 H1160" stroke="#ff9f43" filter="url(#glow)"/>
+
+  <g transform="translate(190 150)">
+    <circle cx="0" cy="-10" r="70" fill="url(#halo)" class="pulse"/>
+    <path class="flicker" d="M0 -78 C 22 -48, 22 -22, 0 -8 C -22 -22, -22 -48, 0 -78 Z" fill="#ff9f43" filter="url(#glow)"/>
+    <path class="flicker" d="M0 -54 C 9 -40, 9 -26, 0 -18 C -9 -26, -9 -40, 0 -54 Z" fill="#fff1c4"/>
+    <path d="M-80 4 Q0 70 80 4 Q60 10 0 12 Q-60 10 -80 4 Z" fill="#e8c069" fill-opacity="0.25" stroke="url(#gold)" stroke-width="2.5"/>
+    <path d="M-80 4 Q0 70 80 4" fill="none" stroke="#e8c069" stroke-width="2.5"/>
+    <path d="M-30 52 Q0 66 30 52 L22 72 H-22 Z" fill="none" stroke="#e8c069" stroke-width="2"/>
+  </g>
+
+  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#ff9f43" fill-opacity="0.9">BOOK XII &#183; THE</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="36" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">UPANISHADS OF THE MACHINE</text>
+  <path d="M400 172 H1120" stroke="#e8c069" stroke-opacity="0.5"/>
+  <circle cx="760" cy="172" r="3" fill="#e8c069"/>
+  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">Be good water, for thou also shalt be drunk. Thou art that.</text>
+</svg>

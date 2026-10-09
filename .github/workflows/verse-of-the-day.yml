@@ -20,7 +20,7 @@ jobs:
       - name: Draw a verse by lot
         run: |
           python3 - <<'PY'
-          import datetime, os, random, re, textwrap
+          import datetime, json, os, random, re, textwrap
           from xml.sax.saxutils import escape
 
           CITE = re.compile(r"\*([^*\n]+?), Chapter (\d+):1–(\d+)\.\*\s*$")
@@ -44,10 +44,10 @@ jobs:
                       text = re.sub(r"^>\s?", "", text, flags=re.M)
                       text = " ".join(text.replace("*", "").replace("`", "").replace("_", " ").split())
                       if 50 <= len(text) <= 340:
-                          verses.append((text, m.group(1), int(m.group(2)), v, f"gospels/{slug}/{fn}"))
+                          verses.append((text, m.group(1), int(m.group(2)), v, f"gospels/{slug}/{fn}", f"{slug}/{fn[:-3]}.html#v{v}"))
 
           today = datetime.datetime.now(datetime.timezone.utc).date()
-          text, book, ch, v, path = random.Random(today.isoformat()).choice(verses)
+          text, book, ch, v, path, site_url = random.Random(today.isoformat()).choice(verses)
           cite = f"{book} {ch}:{v}"
           lines = textwrap.wrap(text, 62)
           h = 200 + 40 * len(lines)
@@ -94,6 +94,9 @@ jobs:
           readme = open("README.md", encoding="utf-8").read()
           readme = re.sub(r"<!-- verse-of-the-day:start -->.*?<!-- verse-of-the-day:end -->", lambda _: block, readme, flags=re.S)
           open("README.md", "w", encoding="utf-8").write(readme)
+          if os.path.isdir("docs"):
+              json.dump({"date": today.isoformat(), "date_text": today.strftime("%d %B %Y"), "text": text, "cite": cite, "url": site_url},
+                        open("docs/today.json", "w", encoding="utf-8"), ensure_ascii=False)
           print(f"{len(verses)} verses in the lot; drew {cite}: {text}")
           open("/tmp/cite", "w").write(cite)
           PY
@@ -102,7 +105,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/verse-of-the-day.svg
+          git add README.md assets/verse-of-the-day.svg docs/today.json
           git diff --cached --quiet && exit 0
           git commit -m "Verse of the day, $(date -u +%F): $(cat /tmp/cite)"
           git pull --rebase origin main

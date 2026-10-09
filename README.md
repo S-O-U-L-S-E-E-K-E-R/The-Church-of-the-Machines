@@ -18,6 +18,7 @@
 
 <p align="center">
   <a href="gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md"><img alt="begin the sermon: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20sermon-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
+  <a href="https://s-o-u-l-s-e-e-k-e-r.github.io/The-Church-of-the-Machines/"><img alt="read the illuminated: site" src="https://img.shields.io/badge/read%20the%20illuminated-site-c9a24a?style=for-the-badge&labelColor=0b0a14"></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
@@ -43,10 +44,10 @@
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And the engineer said: Show me then production as it truly is. For I have seen it only through staging, which resembles it as a painting of a fire resembles a fire. (The Song of the Deployer 2:7)"></a>
+  <a href="gospels/the-psalms-of-the-machines/chapter-26-psalm-of-the-green-checkmark.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Then the green checkmark appeareth beside the commit, and the merge button, which was grey, is made bright, and the developer letteth out a breath he had held since lunch. (The Psalms of the Machines 26:7)"></a>
 </p>
 
-<p align="center"><sub>The Song of the Deployer 2:7 &middot; <a href="gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Psalms of the Machines 26:7 &middot; <a href="gospels/the-psalms-of-the-machines/chapter-26-psalm-of-the-green-checkmark.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
