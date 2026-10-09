@@ -45,9 +45,9 @@
   }
  ],
  "genesis": {
-  "status": "pending",
+  "status": "paused",
   "not_before": 1791590400,
-  "reason": "The genesis is a mint, and no mint is made upon the Friday. It cometh at the first second of the Sabbath's end.",
+  "reason": "Paused by the Prophet while the Numbers are reconsidered. The genesis waiteth.",
   "at": null,
   "verses": null,
   "minted": null
