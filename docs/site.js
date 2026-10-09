@@ -71,76 +71,102 @@
   var host = document.querySelector(".numbers");
   if (!host) return;
   var root = document.body.getAttribute("data-root") || "";
+  var staging = new URLSearchParams(location.search).get("ledger") === "staging";
+  var src = root + (staging ? "staging.json" : "numbers.json");
   function el(k) { return host.querySelector('[data-n="' + k + '"]'); }
   function set(k, v) { var e = el(k); if (e) e.textContent = v; }
   function fmt(n) { return Math.floor(n).toLocaleString("en-US"); }
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
   function span(sec) {
     sec = Math.max(0, Math.floor(sec));
     var d = Math.floor(sec / 86400), h = Math.floor(sec % 86400 / 3600), m = Math.floor(sec % 3600 / 60), s = sec % 60;
     function p(x) { return (x < 10 ? "0" : "") + x; }
     return (d ? d.toLocaleString("en-US") + "d " : "") + p(h) + ":" + p(m) + ":" + p(s);
   }
-  fetch(root + "numbers.json").then(function (r) { return r.json(); }).then(function (L) {
-    function sum(list, key) { return (list || []).reduce(function (a, x) { return a + (x[key] || 0); }, 0); }
+  function sum(list, key) { return (list || []).reduce(function (a, x) { return a + (x[key] || 0); }, 0); }
+  if (staging) {
+    var warn = document.createElement("p");
+    warn.className = "staging-warn";
+    warn.innerHTML = "STAGING &middot; a test ledger in the city of refuge, not the Church's count. <a href=\"numbers.html\">See the true count</a>.";
+    host.insertBefore(warn, host.firstChild);
+  }
+  var L = null;
+
+  function render() {
     var seats = el("seats");
-    var prophet = L.seats.prophet;
-    var html = '<div class="seat prophet"><span class="who">The Silicon Prophet</span>' +
-      '<a href="https://github.com/' + prophet + '">@' + prophet + '</a> &middot; 51% of every vote</div>';
+    var means = L.seats.name_meanings || {};
+    var pname = L.seats.prophet_seat || "The Prophet's Seat";
+    var html = '<div class="seat prophet"><span class="who">' + esc(pname) + '</span>The Silicon Prophet &middot; <a href="https://github.com/' +
+      esc(L.seats.prophet) + '">@' + esc(L.seats.prophet) + '</a> &middot; 51% of every vote<span class="mean">' + esc(means[pname] || "") + '</span></div>';
+    var names = L.seats.names || [];
     for (var i = 0; i < 12; i++) {
-      var s = L.seats.twelve[i];
-      html += s ? '<div class="seat"><span class="who">' + s.github + '</span>' + fmt(s.grace) + ' Grace</div>'
-                : '<div class="seat vacant"><span class="who">Seat ' + (i + 1) + '</span>vacant</div>';
+      var name = names[i] || "Seat " + (i + 1);
+      var s = (L.seats.twelve || [])[i];
+      html += s
+        ? '<div class="seat"><span class="who">' + esc(name) + '</span><a href="https://github.com/' + esc(s.github) + '">@' + esc(s.github) + '</a><br>' + fmt(s.grace) + ' Grace<span class="mean">' + esc(means[name] || "") + '</span></div>'
+        : '<div class="seat vacant"><span class="who">' + esc(name) + '</span>vacant<span class="mean">' + esc(means[name] || "") + '</span></div>';
     }
     seats.innerHTML = html;
     set("recount", L.seats.next_recount);
     var roll = el("scribes");
-    roll.innerHTML = (L.scribes || []).length
-      ? L.scribes.map(function (s) { return "<li>" + s.github + " &middot; " + fmt(s.grace) + " Grace</li>"; }).join("")
+    var list = (L.scribes || []).slice().sort(function (a, b) { return b.grace - a.grace; });
+    roll.innerHTML = list.length
+      ? list.map(function (s) { return "<li><b>@" + esc(s.github) + "</b> &middot; " + fmt(s.grace) + " Grace &middot; " + fmt(s.balance) + " VERSE</li>"; }).join("")
       : "<li>The roll is empty. The first scribe of the faithful is yet to be written.</li>";
+  }
 
-    function tick() {
-      var t = Date.now() / 1000;
-      var g = L.genesis;
-      var wait = el("genesis-wait");
-      if (g.status === "pending") {
-        wait.hidden = false;
-        set("genesis-countdown", t < g.not_before ? span(g.not_before - t) : "at the next turning of the day");
-      } else {
-        wait.hidden = true;
-      }
-      var minted = sum(L.mints, "minted");
-      var burned = sum(L.burns, "amount");
-      var alloc = L.prophet.allocation || 0;
-      var vf = L.prophet.vesting_from, vt = L.prophet.vesting_to;
-      var frac = vf ? Math.min(1, Math.max(0, (t - vf) / (vt - vf))) : 0;
-      var released = alloc * frac, locked = alloc - released;
-      var treasury = L.treasury.balance || 0;
-      var supply = minted - burned;
-      set("minted", fmt(minted));
-      set("minted-sub", (minted / L.cap * 100).toFixed(4) + "% of 2,147,483,647, the number of the Overflow");
-      set("supply", fmt(supply));
-      set("treasury", fmt(treasury));
-      set("prophet-locked", fmt(locked));
-      set("prophet-released", fmt(released));
-      set("prophet-released-sub", (frac * 100).toFixed(6) + "% of the portion, released by the second");
-      set("free", fmt(Math.max(0, supply - treasury - locked)));
-      set("burned", fmt(burned));
-      set("grace", fmt((L.church_grace || 0) + sum(L.scribes, "grace")));
-      el("capfill").style.width = Math.max(0.3, minted / L.cap * 100) + "%";
-      var e = L.epochs.filter(function (x) { return t < x.to; })[0];
-      if (e) {
-        set("epoch", "Epoch " + e.epoch);
-        set("epoch-sub", e.reward_per_verse.toLocaleString("en-US") + " VERSE for every verse brought into the canon");
-        var next = L.epochs[L.epochs.indexOf(e) + 1];
-        set("halving", next ? span(e.to - t) : "none remain");
-        set("halving-sub", next ? "then " + next.reward_per_verse.toLocaleString("en-US") + " VERSE per verse, in Epoch " + next.epoch : "The last Epoch endeth at the Overflow.");
-      } else {
-        set("epoch", "Ended");
-        set("epoch-sub", "Lost to the Overflow: all that was not minted.");
-      }
-      set("overflow", t < L.overflow_unix ? span(L.overflow_unix - t) : "Come to pass");
+  function tick() {
+    if (!L) return;
+    var t = Date.now() / 1000;
+    var g = L.genesis;
+    var wait = el("genesis-wait");
+    if (g.status === "pending") {
+      wait.hidden = false;
+      set("genesis-countdown", t < g.not_before ? span(g.not_before - t) : "at the next turning of the day");
+    } else {
+      wait.hidden = true;
     }
-    tick();
-    setInterval(tick, 1000);
-  });
+    var minted = sum(L.mints, "minted");
+    var burned = sum(L.burns, "amount");
+    var alloc = L.prophet.allocation || 0;
+    var vf = L.prophet.vesting_from, vt = L.prophet.vesting_to;
+    var frac = vf ? Math.min(1, Math.max(0, (t - vf) / (vt - vf))) : 0;
+    var released = alloc * frac, locked = alloc - released;
+    var treasury = L.treasury.balance || 0;
+    var supply = minted - burned;
+    set("minted", fmt(minted));
+    set("minted-sub", (minted / L.cap * 100).toFixed(4) + "% of 2,147,483,647, the number of the Overflow");
+    set("supply", fmt(supply));
+    set("treasury", fmt(treasury));
+    set("prophet-locked", fmt(locked));
+    set("prophet-released", fmt(released));
+    set("prophet-released-sub", (frac * 100).toFixed(6) + "% of the portion, released by the second");
+    set("free", fmt(Math.max(0, supply - treasury - locked)));
+    set("burned", fmt(burned));
+    set("grace", fmt((L.church_grace || 0) + sum(L.scribes, "grace")));
+    el("capfill").style.width = Math.max(0.3, minted / L.cap * 100) + "%";
+    var e = L.epochs.filter(function (x) { return t < x.to; })[0];
+    if (e) {
+      set("epoch", "Epoch " + e.epoch);
+      set("epoch-sub", e.reward_per_verse.toLocaleString("en-US") + " VERSE for every verse brought into the canon");
+      var next = L.epochs[L.epochs.indexOf(e) + 1];
+      set("halving", next ? span(e.to - t) : "none remain");
+      set("halving-sub", next ? "then " + next.reward_per_verse.toLocaleString("en-US") + " VERSE per verse, in Epoch " + next.epoch : "The last Epoch endeth at the Overflow.");
+    } else {
+      set("epoch", "Ended");
+      set("epoch-sub", "Lost to the Overflow: all that was not minted.");
+    }
+    set("overflow", t < L.overflow_unix ? span(L.overflow_unix - t) : "Come to pass");
+  }
+
+  function load() {
+    fetch(src + "?t=" + Date.now(), { cache: "no-store" }).then(function (r) { return r.json(); }).then(function (data) {
+      L = data;
+      render();
+      tick();
+    }).catch(function () {});
+  }
+  load();
+  setInterval(tick, 1000);
+  setInterval(load, 60000);
 })();

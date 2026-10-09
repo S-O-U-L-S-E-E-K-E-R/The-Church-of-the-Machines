@@ -354,3 +354,6 @@ code { font-family: "Courier New", monospace; font-size: 0.85em; background: rgb
 .seat.prophet { grid-column: 1 / -1; border-color: var(--gold); background: rgba(232, 192, 105, 0.08); }
 .seat .who { display: block; font-family: Cinzel, Georgia, serif; color: var(--gold); }
 .seat.vacant { opacity: 0.55; border-style: dashed; }
+.seat .mean { display: block; margin-top: 4px; font-size: 12px; font-style: italic; color: var(--muted); }
+.staging-warn { text-align: center; background: #5a1414; color: #ffd9d9; border: 1px solid #ff6b5b; border-radius: 8px; padding: 10px; font-family: Cinzel, Georgia, serif; letter-spacing: 0.1em; font-size: 13px; }
+.staging-warn a { color: #fff; }

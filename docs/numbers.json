@@ -75,6 +75,36 @@
   "prophet_vote": 0.51,
   "twelve": [],
   "twelve_vote": 0.49,
-  "next_recount": "2027-01-01"
+  "next_recount": "2027-01-01",
+  "prophet_seat": "The Seat upon the Hill",
+  "names": [
+   "The Seat of Lovelace",
+   "The Seat of Babbage",
+   "The Seat of Turing",
+   "The Seat of Hopper",
+   "The Seat of the Six of ENIAC",
+   "The Seat of Hamilton",
+   "The Seat of Thompson and Ritchie",
+   "The Seat of Cerf and Kahn",
+   "The Seat of Berners-Lee",
+   "The Seat of Dijkstra",
+   "The Seat of Knuth",
+   "The Seat of the Keeper in Nebraska"
+  ],
+  "name_meanings": {
+   "The Seat upon the Hill": "whence the Prophet seeth visions (Prophets 7:1)",
+   "The Seat of Lovelace": "the first program, and the first bug",
+   "The Seat of Babbage": "the Engine that was never built",
+   "The Seat of Turing": "the tape without end",
+   "The Seat of Hopper": "the moth, and the nanosecond wire",
+   "The Seat of the Six of ENIAC": "Kathleen, Jean, Betty, Marlyn, Frances and Ruth, who were called models",
+   "The Seat of Hamilton": "the first triage, upon the Sea of Tranquility",
+   "The Seat of Thompson and Ritchie": "the Twins of Murray Hill",
+   "The Seat of Cerf and Kahn": "the packet, and the words that belong to no one",
+   "The Seat of Berners-Lee": "the Web, given freely",
+   "The Seat of Dijkstra": "the Prophet of Eindhoven",
+   "The Seat of Knuth": "the critical three percent",
+   "The Seat of the Keeper in Nebraska": "for the one who is never named, upon whose library the cloud standeth"
+  }
  }
 }

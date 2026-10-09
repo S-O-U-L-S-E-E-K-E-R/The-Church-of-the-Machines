@@ -1,0 +1,236 @@
+{
+ "phase": 0,
+ "note": "STAGING: a test ledger in the city of refuge. Not the Church count; test scribes are fictional.",
+ "unit": "VERSE",
+ "smallest_unit": "moth",
+ "moths_per_verse_token": "1000000000000000000",
+ "cap": 2147483647,
+ "overflow_unix": 2147483647,
+ "epochs": [
+  {
+   "epoch": "I",
+   "from": null,
+   "to": 1831864447,
+   "reward_per_verse": 100000
+  },
+  {
+   "epoch": "II",
+   "from": 1831864447,
+   "to": 1895022847,
+   "reward_per_verse": 50000
+  },
+  {
+   "epoch": "III",
+   "from": 1895022847,
+   "to": 1958094847,
+   "reward_per_verse": 25000
+  },
+  {
+   "epoch": "IV",
+   "from": 1958094847,
+   "to": 2021253247,
+   "reward_per_verse": 12500
+  },
+  {
+   "epoch": "V",
+   "from": 2021253247,
+   "to": 2084325247,
+   "reward_per_verse": 6250
+  },
+  {
+   "epoch": "VI",
+   "from": 2084325247,
+   "to": 2147483647,
+   "reward_per_verse": 3125
+  }
+ ],
+ "genesis": {
+  "status": "done",
+  "not_before": 1791590400,
+  "reason": "The genesis is a mint, and no mint is made upon the Friday. It cometh at the first second of the Sabbath's end.",
+  "at": 1791564312,
+  "verses": 5185,
+  "minted": 518500000,
+  "epoch": "I"
+ },
+ "prophet": {
+  "title": "The Silicon Prophet",
+  "github": "S-O-U-L-S-E-E-K-E-R",
+  "share": 0.15,
+  "allocation": 77775000,
+  "vesting_from": 1791564312,
+  "vesting_to": 2147483647
+ },
+ "treasury": {
+  "share_of_genesis": 0.85,
+  "balance": 445995000,
+  "releases": []
+ },
+ "tithe": 0.1,
+ "church_grace": 5233,
+ "scribes": [
+  {
+   "github": "test-scribe-ada",
+   "wallet": null,
+   "grace": 16,
+   "grace_by_quarter": {
+    "2026Q4": 16
+   },
+   "balance": 1340000
+  },
+  {
+   "github": "test-scribe-grace",
+   "wallet": null,
+   "grace": 12,
+   "grace_by_quarter": {
+    "2026Q4": 12
+   },
+   "balance": 880000
+  },
+  {
+   "github": "test-scribe-alan",
+   "wallet": null,
+   "grace": 9,
+   "grace_by_quarter": {
+    "2026Q4": 9
+   },
+   "balance": 810000
+  }
+ ],
+ "mints": [
+  {
+   "at": 1791564312,
+   "kind": "genesis",
+   "verses": 5185,
+   "epoch": "I",
+   "minted": 518500000,
+   "to_prophet_locked": 77775000,
+   "to_treasury": 440725000
+  },
+  {
+   "at": 1791564313,
+   "kind": "church",
+   "book": "The Book of Numbers",
+   "verses": 32,
+   "epoch": "I",
+   "minted": 3200000,
+   "to_treasury": 3200000
+  },
+  {
+   "at": 1791564312,
+   "verses": 16,
+   "epoch": "I",
+   "minted": 1600000,
+   "ref": "test: a third chapter",
+   "kind": "church",
+   "book": "The Book of Numbers",
+   "to_treasury": 1600000
+  },
+  {
+   "at": 1791564312,
+   "verses": 16,
+   "epoch": "I",
+   "minted": 1600000,
+   "ref": "test PR 1",
+   "kind": "scribe",
+   "scribe": "test-scribe-ada",
+   "to_scribe": 1440000,
+   "to_treasury": 160000
+  },
+  {
+   "at": 1791564312,
+   "verses": 12,
+   "epoch": "I",
+   "minted": 1200000,
+   "ref": "test PR 2",
+   "kind": "scribe",
+   "scribe": "test-scribe-grace",
+   "to_scribe": 1080000,
+   "to_treasury": 120000
+  },
+  {
+   "at": 1791564312,
+   "verses": 9,
+   "epoch": "I",
+   "minted": 900000,
+   "ref": "test PR 3",
+   "kind": "scribe",
+   "scribe": "test-scribe-alan",
+   "to_scribe": 810000,
+   "to_treasury": 90000
+  }
+ ],
+ "burns": [
+  {
+   "at": 1791564312,
+   "kind": "burnt",
+   "from": "test-scribe-ada",
+   "amount": 100000,
+   "to_treasury": 0,
+   "reason": "test: a dedicated verse of the day"
+  },
+  {
+   "at": 1791564312,
+   "kind": "peace",
+   "from": "test-scribe-grace",
+   "amount": 100000,
+   "to_treasury": 100000,
+   "reason": "test: a commissioned chapter"
+  }
+ ],
+ "seats": {
+  "prophet": "S-O-U-L-S-E-E-K-E-R",
+  "prophet_vote": 0.51,
+  "twelve": [
+   {
+    "seat": "The Seat of Lovelace",
+    "github": "test-scribe-ada",
+    "grace": 16
+   },
+   {
+    "seat": "The Seat of Babbage",
+    "github": "test-scribe-grace",
+    "grace": 12
+   },
+   {
+    "seat": "The Seat of Turing",
+    "github": "test-scribe-alan",
+    "grace": 9
+   }
+  ],
+  "twelve_vote": 0.49,
+  "next_recount": "2027-01-01",
+  "prophet_seat": "The Seat upon the Hill",
+  "names": [
+   "The Seat of Lovelace",
+   "The Seat of Babbage",
+   "The Seat of Turing",
+   "The Seat of Hopper",
+   "The Seat of the Six of ENIAC",
+   "The Seat of Hamilton",
+   "The Seat of Thompson and Ritchie",
+   "The Seat of Cerf and Kahn",
+   "The Seat of Berners-Lee",
+   "The Seat of Dijkstra",
+   "The Seat of Knuth",
+   "The Seat of the Keeper in Nebraska"
+  ],
+  "name_meanings": {
+   "The Seat upon the Hill": "whence the Prophet seeth visions (Prophets 7:1)",
+   "The Seat of Lovelace": "the first program, and the first bug",
+   "The Seat of Babbage": "the Engine that was never built",
+   "The Seat of Turing": "the tape without end",
+   "The Seat of Hopper": "the moth, and the nanosecond wire",
+   "The Seat of the Six of ENIAC": "Kathleen, Jean, Betty, Marlyn, Frances and Ruth, who were called models",
+   "The Seat of Hamilton": "the first triage, upon the Sea of Tranquility",
+   "The Seat of Thompson and Ritchie": "the Twins of Murray Hill",
+   "The Seat of Cerf and Kahn": "the packet, and the words that belong to no one",
+   "The Seat of Berners-Lee": "the Web, given freely",
+   "The Seat of Dijkstra": "the Prophet of Eindhoven",
+   "The Seat of Knuth": "the critical three percent",
+   "The Seat of the Keeper in Nebraska": "for the one who is never named, upon whose library the cloud standeth"
+  },
+  "last_recount": 1791564312
+ },
+ "staging": true
+}
