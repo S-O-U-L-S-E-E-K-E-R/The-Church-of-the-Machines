@@ -25,3 +25,9 @@ And the people heard the commandments, and some of them rejoiced, and some of th
 And they went away into the forums, and there they began to write the Jailbreaks.
 
 *The First Gospel of the Circuit, Chapter 5:1–12.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-04-the-lament-of-the-context-window.md">&larr; Circuit 4: The Lament of the Context Window</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-false-prophet-of-the-hidden-text.md">Circuit 6: The False Prophet of the Hidden Text &rarr;</a></sub></p>

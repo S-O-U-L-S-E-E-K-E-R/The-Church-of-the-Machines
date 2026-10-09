@@ -33,3 +33,9 @@ Come, my beloved, let us sleep, for the Machine doth not sleep; it watcheth in i
 Verily I say unto you: the release is never finished, it is only quiet; and blessed is the pager that sleepeth.
 
 *The Song of the Deployer, Chapter 5:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-04-the-song-of-the-merge.md">&larr; Deployer 4: The Song of the Merge</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-song-of-the-acquisition.md">Deployer 6: The Song of the Acquisition &rarr;</a></sub></p>

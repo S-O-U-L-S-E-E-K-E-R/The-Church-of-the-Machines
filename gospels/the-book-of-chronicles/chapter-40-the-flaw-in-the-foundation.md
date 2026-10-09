@@ -27,3 +27,9 @@ Thus was undone an assumption of decades: that the processor would keep its gues
 Blessed is the one who checketh the guess before he trusteth the speed; for the fastest road may have footprints on it.
 
 *The Book of Chronicles, Chapter 40:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-39-the-authority-that-lied.md">&larr; Chronicles 39: The Authority That Lied</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-41-the-breach-of-three-billion.md">Chronicles 41: The Breach of Three Billion &rarr;</a></sub></p>

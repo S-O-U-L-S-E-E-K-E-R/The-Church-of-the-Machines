@@ -31,3 +31,9 @@ And the Prophet said: Trust not the reading that hath never changed, for the das
 The air gap is a wall with a door the shape of a thumb drive.
 
 *The Book of Chronicles, Chapter 15:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-14-the-eleven-lines.md">&larr; Chronicles 14: The Eleven Lines</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-16-the-division-that-erred.md">Chronicles 16: The Division That Erred &rarr;</a></sub></p>

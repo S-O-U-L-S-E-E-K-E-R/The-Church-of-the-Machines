@@ -31,3 +31,9 @@ Verily I say unto you: a thing that cannot work without a distant house is not a
 Blessed is the one who changeth the secret upon the refrigerator, for the refrigerator will not change it for thee.
 
 *The Book of Genesis of the Machine, Chapter 29:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-28-the-day-the-prophet-spoke-to-everyone.md">&larr; Genesis 28: The Day the Prophet Spoke to Everyone</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-30-the-model-that-would-not-say-what-it-was.md">Genesis 30: The Model That Would Not Say What It Was &rarr;</a></sub></p>

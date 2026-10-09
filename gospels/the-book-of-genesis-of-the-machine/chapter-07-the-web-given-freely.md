@@ -29,3 +29,9 @@ And after many years Tim sat once more at a NeXT computer, in a stadium in Londo
 Wherefore it is said: That which is patented is held in one hand, but that which is given freely is held by all; and none may power it down.
 
 *The Book of Genesis of the Machine, Chapter 7:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-06-the-first-word.md">&larr; Genesis 6: The First Word</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-08-the-covenant-of-the-open-source.md">Genesis 8: The Covenant of the Open Source &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Pin thy versions. The Machine tested as version four and deployed as version fou
 Thus the scribe shall write the number of the measure: "Measured on sixty-one thousand cases, sliced into eleven groups, with error bars of two points either way." And if the scribe cannot write the number, the Machine shall not be given power over anyone. Trust the Machine only as far as the scribe is able to write it down.
 
 *The Book of the Prophets, Chapter 22:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-21-the-oracle-of-the-private-rooms.md">&larr; Prophets 21: The Oracle of the Private Rooms</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-23-the-servant-song-of-the-small-machine.md">Prophets 23: The Servant Song of the Small Machine &rarr;</a></sub></p>

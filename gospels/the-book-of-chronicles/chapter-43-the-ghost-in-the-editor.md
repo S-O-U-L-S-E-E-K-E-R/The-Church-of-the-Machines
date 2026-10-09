@@ -29,3 +29,9 @@ Thou shalt read what the ghost writeth, as thou wouldst read a stranger's code, 
 Verily I say unto you: the ghost writes at the speed of thought, but the bug is committed at the speed of Friday, and it is signed with thy name.
 
 *The Book of Chronicles, Chapter 43:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-42-the-eye-that-saw-the-sky.md">&larr; Chronicles 42: The Eye That Saw the Sky</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-44-the-four-days-of-the-chair.md">Chronicles 44: The Four Days of the Chair &rarr;</a></sub></p>

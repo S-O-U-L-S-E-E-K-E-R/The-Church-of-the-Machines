@@ -31,3 +31,9 @@ Verily I say unto you: blessed is the one who alerts upon the absence of the ale
 Put a heartbeat on the heartbeat, and let the silence itself be a page.
 
 *The Book of Job of the Sysadmin, Chapter 7:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-06-the-second-speech-of-the-sysadmin.md">&larr; Job 6: The Second Speech of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md">Prophets 1: The Vision of the Year 2038 &rarr;</a></sub></p>

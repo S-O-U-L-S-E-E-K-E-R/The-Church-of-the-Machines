@@ -27,3 +27,9 @@ The pull request that removes is reviewed with joy; the pull request that adds i
 The code that was never written has never thrown an exception.
 
 *The Tao of the Kernel, Chapter 2:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-01-the-kernel-that-can-be-compiled.md">&larr; Tao 1: The Kernel That Can Be Compiled</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-lead-who-is-barely-known.md">Tao 3: The Lead Who Is Barely Known &rarr;</a></sub></p>

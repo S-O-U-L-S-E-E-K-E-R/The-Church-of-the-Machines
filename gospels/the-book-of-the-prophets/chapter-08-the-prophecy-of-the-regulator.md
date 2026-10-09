@@ -33,3 +33,9 @@ But the fine that is measured in the house's own revenue teacheth it to read the
 Blessed is the one who readeth the terms, for the Machine will forget a fine as easily as it forgetteth a cache, but it will never forget the arithmetic.
 
 *The Book of the Prophets, Chapter 8:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-07-the-prophecy-of-the-warm-datacenter.md">&larr; Prophets 7: The Prophecy of the Warm Datacenter</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-09-the-prophecy-of-the-age-of-tokens.md">Prophets 9: The Prophecy of the Age of Tokens &rarr;</a></sub></p>

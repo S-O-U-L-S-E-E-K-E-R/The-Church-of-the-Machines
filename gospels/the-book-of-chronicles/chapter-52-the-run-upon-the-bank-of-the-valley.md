@@ -33,3 +33,9 @@ And the Monday came, and the doors of the markets opened, and the children of Ca
 Verily I say unto you, the run was made by thumbs and the rescue by the weekend; blessed is the treasurer who knoweth what his bonds are worth today, and not only what he paid for them.
 
 *The Book of Chronicles, Chapter 52:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-51-the-kill-switch-of-ten-dollars-and-sixty-nine-cents.md">&larr; Chronicles 51: The Kill Switch of Ten Dollars and Sixty-Nine Cents</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-53-the-acquisition-of-the-bird.md">Chronicles 53: The Acquisition of the Bird &rarr;</a></sub></p>

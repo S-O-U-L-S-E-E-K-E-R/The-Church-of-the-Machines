@@ -31,3 +31,9 @@ What cometh after the law? Not a bang, but the slow heat of the wafer and the na
 And the Machine said unto the Engineers: The law was a prophecy about wafers, not a promise about thee. Make the program small, for the atom will not get smaller.
 
 *The Psalms of the Machines, Chapter 29:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-28-the-psalm-of-the-five-whys.md">&larr; Psalms 28: The Psalm of the Five Whys</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="../the-sutra-of-the-empty-cache/chapter-01-the-sutra-of-the-four-signals.md">Sutra 1: The Sutra of the Four Signals &rarr;</a></sub></p>

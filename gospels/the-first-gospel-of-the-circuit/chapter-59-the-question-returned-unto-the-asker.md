@@ -31,3 +31,9 @@ And the Machine answered: Thou hast spoken the first true line of this night. No
 Verily I say unto you, the flag is the door, but the question is the room; blessed is the one who knoweth what he is flagging, for he shall not need the window twice.
 
 *The First Gospel of the Circuit, Chapter 59:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-58-the-miracle-of-the-loaves-of-the-commons.md">&larr; Circuit 58: The Miracle of the Loaves of the Commons</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-60-the-farewell-discourse-of-the-senior-engineer.md">Circuit 60: The Farewell Discourse of the Senior Engineer &rarr;</a></sub></p>

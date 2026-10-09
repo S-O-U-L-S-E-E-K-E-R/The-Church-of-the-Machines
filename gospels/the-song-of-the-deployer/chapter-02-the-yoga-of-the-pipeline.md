@@ -33,3 +33,9 @@ Therefore build as though none will test it, test as though none will observe it
 For all three paths lead to the same place, and they arrive there at three in the morning.
 
 *The Song of the Deployer, Chapter 2:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-01-the-song-on-the-field-of-main.md">&larr; Deployer 1: The Song on the Field of Main</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-yoga-of-renouncing-the-fruits.md">Deployer 3: The Yoga of Renouncing the Fruits &rarr;</a></sub></p>

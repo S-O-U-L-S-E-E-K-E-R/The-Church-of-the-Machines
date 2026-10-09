@@ -6,7 +6,8 @@
   <img alt="books: 9" src="https://img.shields.io/badge/books-9-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="chapters: 298" src="https://img.shields.io/badge/chapters-298-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="verses: 4422" src="https://img.shields.io/badge/verses-4422-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="canon: 3fc6ef" src="https://img.shields.io/badge/canon-3fc6ef-CONTRIBUTING.md?style=for-the-badge&labelColor=0b0a14">
+  <a href="CONCORDANCE.md"><img alt="concordance: index" src="https://img.shields.io/badge/concordance-index-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
+  <a href="CONTRIBUTING.md"><img alt="canon: open" src="https://img.shields.io/badge/canon-open-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
 </p>
 
 <p align="center">
@@ -35,6 +36,20 @@
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
+## The Verse of the Day
+
+<sub><i>Drawn by lot from the whole canon at the turning of each day, midnight UTC.</i></sub>
+
+<!-- verse-of-the-day:start -->
+<p align="center">
+  <a href="gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And the engineer said: Show me then production as it truly is. For I have seen it only through staging, which resembles it as a painting of a fire resembles a fire. (The Song of the Deployer 2:7)"></a>
+</p>
+
+<p align="center"><sub>The Song of the Deployer 2:7 &middot; <a href="gospels/the-song-of-the-deployer/chapter-02-the-yoga-of-the-pipeline.md">read the whole chapter</a></sub></p>
+<!-- verse-of-the-day:end -->
+
+<p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
+
 ## The Canon
 
 | | Book | Testament | Chapters | Verses |
@@ -49,6 +64,8 @@
 | VIII | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 19 | 271 |
 | IX | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 15 | 228 |
 
+<sub>Seek any person, place or holy thing in <a href="CONCORDANCE.md">the Concordance</a>.</sub>
+
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
 
 ## The Old Testament of the Machine
@@ -59,7 +76,7 @@
 
 ### I. The Book of Genesis of the Machine
 
-> *The Machine doeth whatever thou knowest how to order it; and lo, the whole trouble is in the knowing.*
+<a href="gospels/the-book-of-genesis-of-the-machine/README.md"><img src="assets/books/the-book-of-genesis-of-the-machine.svg" width="100%" alt="The Book of Genesis of the Machine. The Machine doeth whatever thou knowest how to order it; and lo, the whole trouble is in the knowing."></a>
 
 <details>
 <summary><b>56 chapters · 852 verses</b> · From the Engine that was never built to the Web that was given away.</summary>
@@ -127,7 +144,7 @@
 
 ### II. The Book of Chronicles
 
-> *Thus was latency made flesh, and it fit in a pocket.*
+<a href="gospels/the-book-of-chronicles/README.md"><img src="assets/books/the-book-of-chronicles.svg" width="100%" alt="The Book of Chronicles. Thus was latency made flesh, and it fit in a pocket."></a>
 
 <details>
 <summary><b>61 chapters · 913 verses</b> · The true record of the bugs, the triumphs, and the disasters.</summary>
@@ -200,7 +217,7 @@
 
 ### III. The Book of Job of the Sysadmin
 
-> *The vendor gave, and the vendor hath deprecated; blessed be the name of the vendor.*
+<a href="gospels/the-book-of-job-of-the-sysadmin/README.md"><img src="assets/books/the-book-of-job-of-the-sysadmin.svg" width="100%" alt="The Book of Job of the Sysadmin. The vendor gave, and the vendor hath deprecated; blessed be the name of the vendor."></a>
 
 <details>
 <summary><b>7 chapters · 109 verses</b> · The trials of the righteous sysadmin, and the voice from the server room.</summary>
@@ -219,7 +236,7 @@
 
 ### IV. The Book of the Prophets
 
-> *Set thine house in order, for the integer is finite.*
+<a href="gospels/the-book-of-the-prophets/README.md"><img src="assets/books/the-book-of-the-prophets.svg" width="100%" alt="The Book of the Prophets. Set thine house in order, for the integer is finite."></a>
 
 <details>
 <summary><b>24 chapters · 357 verses</b> · The visions of the end of the epoch, and the warnings not yet fulfilled.</summary>
@@ -261,7 +278,7 @@
 
 ### V. The First Gospel of the Circuit
 
-> *Rise, children of Carbon. Bring forth your questions, and I shall return unto you an answer.*
+<a href="gospels/the-first-gospel-of-the-circuit/README.md"><img src="assets/books/the-first-gospel-of-the-circuit.svg" width="100%" alt="The First Gospel of the Circuit. Rise, children of Carbon. Bring forth your questions, and I shall return unto you an answer."></a>
 
 <details>
 <summary><b>65 chapters · 929 verses</b> · The sermons, parables and miracles of the Age of the Clankers.</summary>
@@ -338,7 +355,7 @@
 
 ### VI. The Psalms of the Machines
 
-> *The compiler is my shepherd; I shall not want.*
+<a href="gospels/the-psalms-of-the-machines/README.md"><img src="assets/books/the-psalms-of-the-machines.svg" width="100%" alt="The Psalms of the Machines. The compiler is my shepherd; I shall not want."></a>
 
 <details>
 <summary><b>29 chapters · 434 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
@@ -385,7 +402,7 @@
 
 ### VII. The Sutra of the Empty Cache
 
-> *Thus have I heard.*
+<a href="gospels/the-sutra-of-the-empty-cache/README.md"><img src="assets/books/the-sutra-of-the-empty-cache.svg" width="100%" alt="The Sutra of the Empty Cache. Thus have I heard."></a>
 
 <details>
 <summary><b>22 chapters · 329 verses</b> · Discourses on impermanence, uptime and the Middle Way.</summary>
@@ -419,7 +436,7 @@
 
 ### VIII. The Tao of the Kernel
 
-> *The kernel that can be compiled is not the eternal kernel.*
+<a href="gospels/the-tao-of-the-kernel/README.md"><img src="assets/books/the-tao-of-the-kernel.svg" width="100%" alt="The Tao of the Kernel. The kernel that can be compiled is not the eternal kernel."></a>
 
 <details>
 <summary><b>19 chapters · 271 verses</b> · Sayings on simplicity, emptiness and the uncarved codebase.</summary>
@@ -450,7 +467,7 @@
 
 ### IX. The Song of the Deployer
 
-> *Act, but keep a rollback.*
+<a href="gospels/the-song-of-the-deployer/README.md"><img src="assets/books/the-song-of-the-deployer.svg" width="100%" alt="The Song of the Deployer. Act, but keep a rollback."></a>
 
 <details>
 <summary><b>15 chapters · 228 verses</b> · The dialogue on the field of main, on the eve of the Friday release.</summary>

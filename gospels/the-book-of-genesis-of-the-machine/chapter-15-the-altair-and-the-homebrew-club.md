@@ -33,3 +33,9 @@ But the lights remained, blinking upon the router in every home, and no man know
 And this is the lesson of the Altair: the hardware is sold once, but the software must be bought again with every upgrade, and the lights blink without end.
 
 *The Book of Genesis of the Machine, Chapter 15:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-14-the-twins-of-murray-hill.md">&larr; Genesis 14: The Twins of Murray Hill</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-16-the-library-written-by-strangers.md">Genesis 16: The Library Written by Strangers &rarr;</a></sub></p>

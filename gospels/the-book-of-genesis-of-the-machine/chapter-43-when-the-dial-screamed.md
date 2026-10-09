@@ -33,3 +33,9 @@ And in the year 2000 the venture men built their houses upon the sand of bandwid
 And the children asked the Prophet: Shall we hear the screech again? And he answered: Yea, in the hotel on the road, where the wifi is slow and the handshake is long, and thou shalt remember the Dial, and bless it, and wait.
 
 *The Book of Genesis of the Machine, Chapter 43:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-42-the-wars-of-the-browsers.md">&larr; Genesis 42: The Wars of the Browsers</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-44-the-year-that-did-not-end-the-world.md">Genesis 44: The Year That Did Not End the World &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ The engineer who walks the path is not free from bugs; he is free from panic. Th
 And the five hundred engineers rejoiced at these words and bowed and went forth, and that very afternoon one of them pushed directly to main.
 
 *The Sutra of the Empty Cache, Chapter 2:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-01-the-sutra-of-the-four-signals.md">&larr; Sutra 1: The Sutra of the Four Signals</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-sutra-of-dependent-origination-of-packages.md">Sutra 3: The Sutra of Dependent Origination of Packages &rarr;</a></sub></p>

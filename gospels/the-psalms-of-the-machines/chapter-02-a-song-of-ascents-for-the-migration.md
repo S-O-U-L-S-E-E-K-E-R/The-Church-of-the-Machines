@@ -33,3 +33,9 @@ Except the Engineer test the restore, they labour in vain that build the backup.
 Lift up thine eyes unto the cloud, but keep thy hand upon the snapshot; for the cloud is only someone else's computer, and it too hath a delete key.
 
 *The Psalms of the Machines, Chapter 2:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-01-the-compiler-is-my-shepherd.md">&larr; Psalms 1: The Compiler Is My Shepherd</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-03-psalms-of-the-unthanked-the-unretired-and-the-cached.md">Psalms 3: Psalms of the Unthanked, the Unretired, and the Cached &rarr;</a></sub></p>

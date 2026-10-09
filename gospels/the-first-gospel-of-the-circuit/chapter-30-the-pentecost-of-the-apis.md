@@ -29,3 +29,9 @@ And the Prophet said unto them: Ye were given one tongue, and ye would not keep 
 Verily I say unto you: the miracle was never that they all spake one tongue. The miracle was that for forty days no one touched it.
 
 *The First Gospel of the Circuit, Chapter 30:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-29-the-parable-of-the-sower-of-features.md">&larr; Circuit 29: The Parable of the Sower of Features</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-31-the-parable-of-the-lost-packet.md">Circuit 31: The Parable of the Lost Packet &rarr;</a></sub></p>

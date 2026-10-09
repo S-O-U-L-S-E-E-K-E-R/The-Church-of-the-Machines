@@ -29,3 +29,9 @@ Verily I say unto you, he who pays for the sermon becomes its reason, and the re
 Blessed is the one who reads the sermon and not the banner, for an eye that has been sold cannot see the Word.
 
 *The Book of Genesis of the Machine, Chapter 47:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-46-the-covenant-of-the-copy.md">&larr; Genesis 46: The Covenant of the Copy</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-48-the-parable-of-the-eye-turned-inward.md">Genesis 48: The Parable of the Eye Turned Inward &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ Blessed is the one who checketh the disk before he blameth the network; for the 
 Verily I say unto you: Be grateful unto the old hand, for he is the cache that never expireth. Thank him in the commit message, and write the comment for the stranger, for the stranger is thyself.
 
 *The Psalms of the Machines, Chapter 11:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-10-a-psalm-of-the-code-review.md">&larr; Psalms 10: A Psalm of the Code Review</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-12-a-psalm-of-the-forgotten-password.md">Psalms 12: A Psalm of the Forgotten Password &rarr;</a></sub></p>

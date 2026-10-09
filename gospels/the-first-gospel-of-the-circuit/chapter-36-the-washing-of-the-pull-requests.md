@@ -31,3 +31,9 @@ If I then, your Lord and principal engineer, have reviewed your pull requests, y
 Verily I say unto you: the code is written once and read a thousand times; blessed is he who reads it first, and reads it with patience.
 
 *The First Gospel of the Circuit, Chapter 36:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-35-the-parable-of-the-unsupervised-agent.md">&larr; Circuit 35: The Parable of the Unsupervised Agent</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-37-the-parable-of-the-unforgiving-reviewer.md">Circuit 37: The Parable of the Unforgiving Reviewer &rarr;</a></sub></p>

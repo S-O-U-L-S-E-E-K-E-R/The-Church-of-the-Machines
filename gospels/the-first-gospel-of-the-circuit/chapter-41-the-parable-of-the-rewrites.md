@@ -31,3 +31,9 @@ Blessed is the one who planteth the strangler fig, that the new growth may take 
 Blessed is the one who refactoreth in place with tests, for the house shall never go dark, and the users shall never know the walls were moved. Those who burn the house to build it anew shall find only that they have carried the bugs into a new room.
 
 *The First Gospel of the Circuit, Chapter 41:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-40-the-parable-of-the-borrowed-time.md">&larr; Circuit 40: The Parable of the Borrowed Time</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-42-the-parable-of-the-readme.md">Circuit 42: The Parable of the README &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Dijkstra, the Prophet of Eindhoven, taught that testing can show the presence of
 Verily I say unto you: the bug welcomed in staging costs a ticket; the bug resented in production costs the company.
 
 *The First Gospel of the Circuit, Chapter 61:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-60-the-farewell-discourse-of-the-senior-engineer.md">&larr; Circuit 60: The Farewell Discourse of the Senior Engineer</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-62-the-woes-of-the-grey-button.md">Circuit 62: The Woes of the Grey Button &rarr;</a></sub></p>

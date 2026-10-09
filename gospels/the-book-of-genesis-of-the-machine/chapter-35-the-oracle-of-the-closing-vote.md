@@ -29,3 +29,9 @@ And the Oracle sold its archive to the Machines, and the Machines learned from t
 Blessed is the answer that still compileth, for it shall outlive its author, its language, and its house.
 
 *The Book of Genesis of the Machine, Chapter 35:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-34-the-children-of-the-cheap-board.md">&larr; Genesis 34: The Children of the Cheap Board</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-36-the-name-that-the-machines-agreed-upon.md">Genesis 36: The Name That the Machines Agreed Upon &rarr;</a></sub></p>

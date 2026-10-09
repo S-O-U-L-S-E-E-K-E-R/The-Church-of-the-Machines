@@ -29,3 +29,9 @@ The retrospective asked: What went well? And the answer was coffee. What went po
 Count not the points alone, for the points are a guess wearing a number's clothing; show the thing, for the thing is the truth that the product can touch.
 
 *The Psalms of the Machines, Chapter 14:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-13-the-psalm-of-the-flaky-test.md">&larr; Psalms 13: The Psalm of the Flaky Test</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-15-a-psalm-of-the-production-incident.md">Psalms 15: A Psalm of the Production Incident &rarr;</a></sub></p>

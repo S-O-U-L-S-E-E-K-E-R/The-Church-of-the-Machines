@@ -27,3 +27,9 @@ Let the developer who printed "here," and "here2," and "xxx" in the code repent 
 Log the service, the time, the level, and the word; for the hour of the incident is no hour to learn how to write.
 
 *The Psalms of the Machines, Chapter 16:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-15-a-psalm-of-the-production-incident.md">&larr; Psalms 15: A Psalm of the Production Incident</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-17-a-psalm-of-the-dark-mode.md">Psalms 17: A Psalm of the Dark Mode &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ The disciples asked: Master, what is the whole of right naming? And the Prophet 
 Verily I say unto you: the cache may be emptied and the comments may be deleted, but the name remains, and every reader who comes after shall judge thee by it.
 
 *The Sutra of the Empty Cache, Chapter 22:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-21-the-sutra-of-the-two-extremes.md">&larr; Sutra 21: The Sutra of the Two Extremes</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="../the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md">Tao 1: The Kernel That Can Be Compiled &rarr;</a></sub></p>

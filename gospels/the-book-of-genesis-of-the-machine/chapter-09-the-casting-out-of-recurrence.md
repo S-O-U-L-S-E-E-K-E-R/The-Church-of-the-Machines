@@ -31,3 +31,9 @@ And in the fulness of time all eight departed from the house of Google, and most
 And the Prophet said: Attention is all you need; but compute is all you pay.
 
 *The Book of Genesis of the Machine, Chapter 9:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-08-the-covenant-of-the-open-source.md">&larr; Genesis 8: The Covenant of the Open Source</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-10-the-fourteen-million-images.md">Genesis 10: The Fourteen Million Images &rarr;</a></sub></p>

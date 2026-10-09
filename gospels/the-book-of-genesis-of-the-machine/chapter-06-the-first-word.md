@@ -33,3 +33,9 @@ Keep thou a telephone to the far side; for the packet knoweth not that it hath d
 Therefore when thy connection droppeth in the middle of a word, be not wroth; for so it was in the beginning, half a login and a man on the phone asking, Did you get that?
 
 *The Book of Genesis of the Machine, Chapter 6:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-05-the-perceptron-and-the-first-winter.md">&larr; Genesis 5: The Perceptron and the First Winter</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-07-the-web-given-freely.md">Genesis 7: The Web Given Freely &rarr;</a></sub></p>

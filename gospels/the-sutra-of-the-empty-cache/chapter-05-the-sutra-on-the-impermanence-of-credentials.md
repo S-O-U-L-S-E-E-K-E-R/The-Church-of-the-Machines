@@ -27,3 +27,9 @@ Verily I say unto you, blessed is the one who rotateth his keys before they are 
 Hold not the key tightly, for it shall be rotated; hold not the vault too firmly, for it too shall be deprecated. Thou canst not keep the secret; thou canst only keep rotating it.
 
 *The Sutra of the Empty Cache, Chapter 5:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-04-the-sutra-of-the-mindful-commit.md">&larr; Sutra 4: The Sutra of the Mindful Commit</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-sutra-of-the-middle-way.md">Sutra 6: The Sutra of the Middle Way &rarr;</a></sub></p>

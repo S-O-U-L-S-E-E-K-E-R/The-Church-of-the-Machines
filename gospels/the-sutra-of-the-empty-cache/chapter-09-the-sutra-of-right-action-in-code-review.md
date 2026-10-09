@@ -25,3 +25,9 @@ Whoever writeth "nit" should know its meaning. A nit is the egg of a louse, and 
 Then the Blessed One spoke to the one who had written forty-one nits, and he said: Blessed is the reviewer who saith "this must be fixed" and then is silent. The one who asketh for every nit will review whitespace until the heat death of the repository, but the one who letteth go shall merge before lunch.
 
 *The Sutra of the Empty Cache, Chapter 9:1–12.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-08-the-sutra-of-no-self-in-the-distributed-system.md">&larr; Sutra 8: The Sutra of No Self in the Distributed System</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-10-the-sutra-on-letting-go-of-the-old-release.md">Sutra 10: The Sutra on Letting Go of the Old Release &rarr;</a></sub></p>

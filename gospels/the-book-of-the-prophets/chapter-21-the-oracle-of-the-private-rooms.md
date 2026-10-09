@@ -31,3 +31,9 @@ Verily I say unto you: the square was never a place of agreement. It was a place
 Blessed is the one who steps out of the room, for the door was never locked. It was only sorted to the bottom of the feed.
 
 *The Book of the Prophets, Chapter 21:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-20-the-vision-of-q-day.md">&larr; Prophets 20: The Vision of Q-Day</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-22-the-vision-of-the-just-audit.md">Prophets 22: The Vision of the Just Audit &rarr;</a></sub></p>

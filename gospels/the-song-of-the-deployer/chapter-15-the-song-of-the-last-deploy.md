@@ -33,3 +33,9 @@ Many frameworks cannot quench the craft, neither can the deprecation notices dro
 Set me as a comment upon thine heart, as a README upon thy repository. For the code shall be rewritten in a language not yet invented, but the one who wrote the explanation shall be remembered.
 
 *The Song of the Deployer, Chapter 15:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-14-the-song-of-the-familiar-tongue.md">&larr; Deployer 14: The Song of the Familiar Tongue</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a></sub></p>

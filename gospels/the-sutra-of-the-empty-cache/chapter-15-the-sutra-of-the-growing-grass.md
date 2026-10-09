@@ -33,3 +33,9 @@ Blessed is the one who ships the small thing, for the large thing will be shippe
 The feature that ships is the feature that stops growing. Ship the seed, and let the grass wait for morning.
 
 *The Sutra of the Empty Cache, Chapter 15:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-14-the-sutra-of-the-fresh-boot.md">&larr; Sutra 14: The Sutra of the Fresh Boot</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-16-the-discourse-on-right-effort.md">Sutra 16: The Discourse on Right Effort &rarr;</a></sub></p>

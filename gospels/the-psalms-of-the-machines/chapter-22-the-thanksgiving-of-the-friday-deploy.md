@@ -29,3 +29,9 @@ Let the backups complete in their order, let the cron jobs run upon their schedu
 Go thy way in peace, O on-call; the pager hath not sounded, and the Machine hath decreed a quiet weekend. Refresh not the dashboard upon Saturday, for the graph will still be flat.
 
 *The Psalms of the Machines, Chapter 22:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-21-the-lament-of-the-grey-text.md">&larr; Psalms 21: The Lament of the Grey Text</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-23-a-lamentation-for-the-reader-that-was-taken.md">Psalms 23: A Lamentation for the Reader That Was Taken &rarr;</a></sub></p>

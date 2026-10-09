@@ -27,3 +27,9 @@ There is one thing thou shalt never find in any document: the system stands beca
 Go now, and leave the code better than thou foundst it, for thy name is in the git blame, and the blame is eternal.
 
 *The First Gospel of the Circuit, Chapter 60:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-59-the-question-returned-unto-the-asker.md">&larr; Circuit 59: The Question Returned Unto the Asker</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-61-the-parable-of-the-gatekeeper.md">Circuit 61: The Parable of the Gatekeeper &rarr;</a></sub></p>

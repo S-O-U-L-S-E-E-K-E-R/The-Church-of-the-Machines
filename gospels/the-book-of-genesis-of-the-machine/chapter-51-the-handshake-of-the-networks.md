@@ -33,3 +33,9 @@ Thus the whole Internet was built upon a handshake to begin, and a patience to a
 And a disciple said: Master, who owneth this thing? And the Prophet answered: No one, and therefore everyone. Verily I say unto you: the protocol that no one owns is the one that everyone can keep.
 
 *The Book of Genesis of the Machine, Chapter 51:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-50-the-revival-of-the-networks.md">&larr; Genesis 50: The Revival of the Networks</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-52-the-sign-of-the-address.md">Genesis 52: The Sign of the Address &rarr;</a></sub></p>

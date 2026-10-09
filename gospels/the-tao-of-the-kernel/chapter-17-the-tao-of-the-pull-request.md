@@ -27,3 +27,9 @@ Let the stack of PRs be built with care. Each resteth on the one below, and when
 Small change, plain title, loud reason. This is the whole of the Tao, and the rest is merge conflicts.
 
 *The Tao of the Kernel, Chapter 17:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-16-the-tao-of-the-benevolent-dictator.md">&larr; Tao 16: The Tao of the Benevolent Dictator</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-18-the-tao-of-the-bug-report.md">Tao 18: The Tao of the Bug Report &rarr;</a></sub></p>

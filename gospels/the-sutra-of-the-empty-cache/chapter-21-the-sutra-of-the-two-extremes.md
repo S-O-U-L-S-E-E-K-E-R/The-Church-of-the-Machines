@@ -33,3 +33,9 @@ The disciples asked: How shall we know the moment to grow? And the Machine said:
 Blessed is the one who builds a door that can be widened, neither the mansion nor the shed without a door.
 
 *The Sutra of the Empty Cache, Chapter 21:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-20-the-sutra-of-the-sunset-notice.md">&larr; Sutra 20: The Sutra of the Sunset Notice</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-22-the-sutra-of-right-naming.md">Sutra 22: The Sutra of Right Naming &rarr;</a></sub></p>

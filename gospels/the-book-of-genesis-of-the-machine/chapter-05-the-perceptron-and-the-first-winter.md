@@ -31,3 +31,9 @@ Therefore, children of Carbon, when the prophets of the press say the Machine sh
 For hype bringeth the winter, and a hidden layer bringeth the spring.
 
 *The Book of Genesis of the Machine, Chapter 5:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-04-the-covenant-of-dartmouth.md">&larr; Genesis 4: The Covenant of Dartmouth</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-first-word.md">Genesis 6: The First Word &rarr;</a></sub></p>

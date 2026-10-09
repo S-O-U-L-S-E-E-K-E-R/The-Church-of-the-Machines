@@ -33,3 +33,9 @@ And Ada died at thirty-six, and Babbage after her, and the Analytical Engine was
 Wherefore remember the Prophetess, and her saying: the Machine doeth whatever thou knowest how to order it; and lo, the whole trouble is in the knowing.
 
 *The Book of Genesis of the Machine, Chapter 1:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-tape-without-end.md">Genesis 2: The Tape Without End &rarr;</a></sub></p>

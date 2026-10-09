@@ -29,3 +29,9 @@ And the constables of the English realm came unto the youth's door, and he was t
 And the house of Uber said in its reckoning that no evidence was found that the riders' secrets had been read. And the Chronicler wrote: Let no man say his perimeter is his defense, for the perimeter is a person, and a person can be tired.
 
 *The Book of Chronicles, Chapter 37:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-36-the-exchange-that-lost-the-coins.md">&larr; Chronicles 36: The Exchange That Lost the Coins</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-38-the-day-all-the-verified-spoke-at-once.md">Chronicles 38: The Day All the Verified Spoke at Once &rarr;</a></sub></p>

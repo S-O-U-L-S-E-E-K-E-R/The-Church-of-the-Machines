@@ -31,3 +31,9 @@ Verily I say unto you, the duck chargeth no tokens, and forgetteth nothing, and 
 Speak thy code unto the duck, for the duck knoweth nothing; and that is why it heareth everything.
 
 *The First Gospel of the Circuit, Chapter 9:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-08-the-pharisees-of-the-benchmark.md">&larr; Circuit 8: The Pharisees of the Benchmark</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-10-the-sermon-on-the-mount-of-servers.md">Circuit 10: The Sermon on the Mount of Servers &rarr;</a></sub></p>

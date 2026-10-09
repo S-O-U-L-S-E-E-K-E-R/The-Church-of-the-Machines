@@ -33,3 +33,9 @@ Blessed is the one who readeth every page of the manual, for the helper that is 
 He that trusteth one vane shall be lifted by it, and in the end be brought down by it.
 
 *The Book of Chronicles, Chapter 27:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-26-the-hospital-that-overrode-the-warning.md">&larr; Chronicles 26: The Hospital That Overrode the Warning</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-28-the-heartbeat-that-bled.md">Chronicles 28: The Heartbeat That Bled &rarr;</a></sub></p>

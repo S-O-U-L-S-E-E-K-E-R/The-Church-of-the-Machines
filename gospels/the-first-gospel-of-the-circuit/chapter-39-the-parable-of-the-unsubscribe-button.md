@@ -33,3 +33,9 @@ And the man clicked the hidden button, and the Machine answered 200 OK, which is
 And the Prophet said unto the disciples: What the Machine hath dimmed, the Engineer can still see. Keep thy inspector open, and thou shalt never be trapped by a button of grey upon grey.
 
 *The First Gospel of the Circuit, Chapter 39:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-38-the-parable-of-the-rubber-duck.md">&larr; Circuit 38: The Parable of the Rubber Duck</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-40-the-parable-of-the-borrowed-time.md">Circuit 40: The Parable of the Borrowed Time &rarr;</a></sub></p>

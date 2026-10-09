@@ -33,3 +33,9 @@ Verily I say unto you: he who deleteth the markers and committeth without readin
 Blessed is the one who reads both halves before he chooseth; for in the end there is one HEAD, and it is the HEAD of the one who finally read the markers.
 
 *The Psalms of the Machines, Chapter 9:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-08-a-psalm-of-the-failed-deploy.md">&larr; Psalms 8: A Psalm of the Failed Deploy</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-10-a-psalm-of-the-code-review.md">Psalms 10: A Psalm of the Code Review &rarr;</a></sub></p>

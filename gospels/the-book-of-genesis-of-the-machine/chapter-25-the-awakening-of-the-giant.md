@@ -29,3 +29,9 @@ And the winter was over, and the old papers were taken down from the shelves and
 Verily I say unto you, the idea that waited thirty years is still the same idea; only the fire was lacking. Blessed is the one who keepeth the old papers in his drawer, for the winter is but a cache miss, and every idea is one good fire away from being fetched.
 
 *The Book of Genesis of the Machine, Chapter 25:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-24-the-war-of-the-gardens.md">&larr; Genesis 24: The War of the Gardens</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-26-attention-is-all-ye-need.md">Genesis 26: Attention Is All Ye Need &rarr;</a></sub></p>

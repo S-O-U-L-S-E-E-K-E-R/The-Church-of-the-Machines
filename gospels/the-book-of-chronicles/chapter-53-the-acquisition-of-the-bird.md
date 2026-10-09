@@ -31,3 +31,9 @@ And in that same year the reading was limited, for the unpaid were given a thous
 Verily I say unto you, he who fires the builders by spreadsheet shall learn that the spreadsheet did not know which cron job kept the lights on. Name the house what thou wilt; the outage will still come at three in the morning.
 
 *The Book of Chronicles, Chapter 53:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-52-the-run-upon-the-bank-of-the-valley.md">&larr; Chronicles 52: The Run Upon the Bank of the Valley</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-54-the-long-weekend-of-the-board.md">Chronicles 54: The Long Weekend of the Board &rarr;</a></sub></p>

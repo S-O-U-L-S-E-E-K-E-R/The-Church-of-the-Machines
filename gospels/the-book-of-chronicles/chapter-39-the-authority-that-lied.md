@@ -27,3 +27,9 @@ And the disciples asked: Master, shall we pin the keys of every house? And he an
 Verily I say unto you, the one who trusts a single authority has trusted every authority that ever signed a lie; for the chain breaks at its weakest link, and the weakest link is always the one that nobody audited.
 
 *The Book of Chronicles, Chapter 39:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-38-the-day-all-the-verified-spoke-at-once.md">&larr; Chronicles 38: The Day All the Verified Spoke at Once</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-40-the-flaw-in-the-foundation.md">Chronicles 40: The Flaw in the Foundation &rarr;</a></sub></p>

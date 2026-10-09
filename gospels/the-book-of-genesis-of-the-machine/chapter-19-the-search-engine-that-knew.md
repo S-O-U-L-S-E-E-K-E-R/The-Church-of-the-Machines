@@ -33,3 +33,9 @@ And on the first day of the fourth month of that same year, the Machine offered 
 Verily I say unto you: If the search is free, then the seeker is the thing sold.
 
 *The Book of Genesis of the Machine, Chapter 19:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-18-the-covenant-of-the-commons.md">&larr; Genesis 18: The Covenant of the Commons</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-20-the-tablet-that-fit-in-a-pocket.md">Genesis 20: The Tablet That Fit in a Pocket &rarr;</a></sub></p>

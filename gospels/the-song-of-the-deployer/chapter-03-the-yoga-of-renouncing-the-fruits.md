@@ -31,3 +31,9 @@ And he took up the bow, which was a mouse, and he clicked Merge; and the pipelin
 "Whoso seeth deploy in inaction, and inaction in deploy, is wise among engineers; and is usually on call."
 
 *The Song of the Deployer, Chapter 3:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-02-the-yoga-of-the-pipeline.md">&larr; Deployer 2: The Yoga of the Pipeline</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-04-the-song-of-the-merge.md">Deployer 4: The Song of the Merge &rarr;</a></sub></p>

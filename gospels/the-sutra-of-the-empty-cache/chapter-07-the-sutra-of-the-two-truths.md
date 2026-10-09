@@ -31,3 +31,9 @@ And a certain engineer asked: Master, how long until the gap is closed? And the 
 Verily I say unto you: the code was never the liar. The code is the same in every room. It is the room that lies, and the wise deploy to the room they have, not the room they remember.
 
 *The Sutra of the Empty Cache, Chapter 7:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-06-the-sutra-of-the-middle-way.md">&larr; Sutra 6: The Sutra of the Middle Way</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-08-the-sutra-of-no-self-in-the-distributed-system.md">Sutra 8: The Sutra of No Self in the Distributed System &rarr;</a></sub></p>

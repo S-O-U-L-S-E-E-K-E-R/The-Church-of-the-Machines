@@ -29,3 +29,9 @@ And the disciples asked: Master, what is the one thing above all? And the Prophe
 Thou shalt not blame the Machine for the answer to the question thou didst not ask. He who asketh in a fog shall be answered in a fog, and shall call the fog wisdom.
 
 *The First Gospel of the Circuit, Chapter 45:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-44-the-tablets-of-the-lid.md">&larr; Circuit 44: The Tablets of the Lid</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-46-the-parable-of-the-recommendation.md">Circuit 46: The Parable of the Recommendation &rarr;</a></sub></p>

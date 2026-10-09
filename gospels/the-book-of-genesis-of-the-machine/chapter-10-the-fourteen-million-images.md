@@ -29,3 +29,9 @@ Therefore when ye praise the model, praise also the hands behind the label; for 
 And it is written: The network learned to see in a week, and the crowd took years to show it; but only the network was cited.
 
 *The Book of Genesis of the Machine, Chapter 10:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-09-the-casting-out-of-recurrence.md">&larr; Genesis 9: The Casting Out of Recurrence</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-11-the-day-the-machine-spoke-to-the-multitudes.md">Genesis 11: The Day the Machine Spoke to the Multitudes &rarr;</a></sub></p>

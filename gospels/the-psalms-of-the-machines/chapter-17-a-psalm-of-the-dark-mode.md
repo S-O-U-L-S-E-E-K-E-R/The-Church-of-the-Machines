@@ -31,3 +31,9 @@ Thus the white flash upon the dark machine is a sin of the tool, not of the eyes
 Verily the dark mode is the peace of the dwelling; the legacy app is the light that nobody remembered to turn off.
 
 *The Psalms of the Machines, Chapter 17:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-16-the-psalm-of-the-log-line.md">&larr; Psalms 16: The Psalm of the Log Line</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-18-the-psalm-of-the-imposter.md">Psalms 18: The Psalm of the Imposter &rarr;</a></sub></p>

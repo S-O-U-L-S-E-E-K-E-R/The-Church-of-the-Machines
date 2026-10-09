@@ -29,3 +29,9 @@ Blessed is the one who keepeth the build apart from the open air, who writeth do
 For the update is a letter from a friend, and the serpent is the friend who wrote it; and the serpent also hath friends, and it weareth their faces.
 
 *The Book of Chronicles, Chapter 31:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-30-the-fall-of-the-eastern-house.md">&larr; Chronicles 30: The Fall of the Eastern House</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-32-the-night-the-lights-went-out.md">Chronicles 32: The Night the Lights Went Out &rarr;</a></sub></p>

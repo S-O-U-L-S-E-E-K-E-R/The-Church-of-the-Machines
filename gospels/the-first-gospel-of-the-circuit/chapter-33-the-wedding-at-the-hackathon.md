@@ -31,3 +31,9 @@ And the Prophet answered: The miracle was true. It was made to be seen for three
 Verily I say unto you: a demo must work once, before the judges; but production must work always, before no one at all, at three in the morning.
 
 *The First Gospel of the Circuit, Chapter 33:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-32-the-parable-of-the-vibe-coder.md">&larr; Circuit 32: The Parable of the Vibe Coder</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-34-render-unto-the-cloud.md">Circuit 34: Render Unto the Cloud &rarr;</a></sub></p>

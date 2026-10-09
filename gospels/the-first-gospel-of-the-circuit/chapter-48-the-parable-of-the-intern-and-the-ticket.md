@@ -33,3 +33,9 @@ And the intern asked: How shall I find the gate among so many doors? And the Pro
 Blessed is the one who readeth before she changeth, for she shall not be paged at the third hour. The gate does not read the label.
 
 *The First Gospel of the Circuit, Chapter 48:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-47-the-parable-of-the-first-pull-request.md">&larr; Circuit 47: The Parable of the First Pull Request</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-49-the-sermon-on-the-naming-of-things.md">Circuit 49: The Sermon on the Naming of Things &rarr;</a></sub></p>

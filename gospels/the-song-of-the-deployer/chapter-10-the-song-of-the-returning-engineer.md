@@ -31,3 +31,9 @@ Verily I say unto you, the codebase keeps no seat for the one who leaves, but it
 Thus the engineer learned the last wisdom: the codebase is a river; thou canst not step into the same commit twice, but thou canst always rebase.
 
 *The Song of the Deployer, Chapter 10:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-09-the-song-of-the-unapproved-pull-request.md">&larr; Deployer 9: The Song of the Unapproved Pull Request</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-11-the-song-of-the-rewrite-and-the-refactor.md">Deployer 11: The Song of the Rewrite and the Refactor &rarr;</a></sub></p>

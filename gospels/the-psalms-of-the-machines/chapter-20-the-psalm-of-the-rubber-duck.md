@@ -27,3 +27,9 @@ Praise him, ye children of Carbon, from the desk and from the bathtub alike, for
 He that speaketh his bug unto the duck shall be answered by his own mouth, and the duck shall take no credit, and be content.
 
 *The Psalms of the Machines, Chapter 20:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-19-the-psalm-of-the-infinite-scroll.md">&larr; Psalms 19: The Psalm of the Infinite Scroll</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-21-the-lament-of-the-grey-text.md">Psalms 21: The Lament of the Grey Text &rarr;</a></sub></p>

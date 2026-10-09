@@ -31,3 +31,9 @@ Verily I say unto you: whoever chaineth the freedom of another shall find his ow
 Free as in speech, not as in beer, said the Prophet; for the copy costeth nothing to make, and yet the freedom must be kept.
 
 *The Book of Genesis of the Machine, Chapter 46:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-45-the-library-that-ended-the-video-store.md">&larr; Genesis 45: The Library That Ended the Video Store</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-47-the-banner-upon-the-gate.md">Genesis 47: The Banner Upon the Gate &rarr;</a></sub></p>

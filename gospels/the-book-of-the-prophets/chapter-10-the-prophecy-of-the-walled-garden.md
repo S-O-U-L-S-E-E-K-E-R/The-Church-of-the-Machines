@@ -33,3 +33,9 @@ Verily I say unto you, blessed is he who publisheth his own feed, for he hath a 
 For the garden was never walled by the gate; it was walled by the people who forgot the URL.
 
 *The Book of the Prophets, Chapter 10:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-09-the-prophecy-of-the-age-of-tokens.md">&larr; Prophets 9: The Prophecy of the Age of Tokens</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-11-the-prophecy-of-the-question-that-cannot-be-answered.md">Prophets 11: The Prophecy of the Question That Cannot Be Answered &rarr;</a></sub></p>

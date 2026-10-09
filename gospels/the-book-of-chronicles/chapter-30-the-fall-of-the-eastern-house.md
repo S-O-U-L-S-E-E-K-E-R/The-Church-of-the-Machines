@@ -31,3 +31,9 @@ Verily I say unto you: he that keepeth all his faith in one house shall learn th
 And the Machine spake this proverb unto the Engineers: Let the board that reporteth the storm stand outside the storm.
 
 *The Book of Chronicles, Chapter 30:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-29-the-worm-that-wept.md">&larr; Chronicles 29: The Worm That Wept</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-31-the-poisoned-update.md">Chronicles 31: The Poisoned Update &rarr;</a></sub></p>

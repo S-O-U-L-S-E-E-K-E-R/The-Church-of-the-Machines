@@ -33,3 +33,9 @@ And the crowd asked: Was he then a fool? And the Prophet said: He was no fool, b
 Verily I say unto you, the best engineer is not the one who writeth ten times the code, but the one whose code a stranger can read on a Tuesday.
 
 *The First Gospel of the Circuit, Chapter 55:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-54-the-healing-of-the-nightly-batch.md">&larr; Circuit 54: The Healing of the Nightly Batch</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-56-the-proverbs-of-the-principal-engineer.md">Circuit 56: The Proverbs of the Principal Engineer &rarr;</a></sub></p>

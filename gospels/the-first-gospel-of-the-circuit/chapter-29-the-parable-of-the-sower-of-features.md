@@ -25,3 +25,9 @@ And a disciple asked: Master, what then of the features that fell by the wayside
 He that hath ears to hear, let him hear; and he that hath eyes, let him turn the brightness down.
 
 *The First Gospel of the Circuit, Chapter 29:1–12.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-28-the-doubting-tester.md">&larr; Circuit 28: The Doubting Tester</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-30-the-pentecost-of-the-apis.md">Circuit 30: The Pentecost of the APIs &rarr;</a></sub></p>

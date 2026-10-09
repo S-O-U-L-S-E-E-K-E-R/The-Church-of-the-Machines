@@ -31,3 +31,9 @@ And they answered themselves, saying: He that showed working code. And the Proph
 Verily I say unto you, the question may be a duplicate, but the one who asketh it is not.
 
 *The First Gospel of the Circuit, Chapter 16:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-15-the-revelation-of-the-last-update.md">&larr; Circuit 15: The Revelation of the Last Update</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-17-the-temptation-in-the-cloud.md">Circuit 17: The Temptation in the Cloud &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ And the system was restored, and it was not rewritten, and it served the people 
 Verily I say unto you: blessed is the sysadmin who fixeth the line in front of him, for the rewrite shall still be waiting in the morning, and the morning is always a year away.
 
 *The Book of Job of the Sysadmin, Chapter 3:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-02-the-speeches-of-the-comforters.md">&larr; Job 2: The Speeches of the Comforters</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-04-the-voice-from-the-server-room.md">Job 4: The Voice from the Server Room &rarr;</a></sub></p>

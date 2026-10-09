@@ -33,3 +33,9 @@ Verily I say unto you: the free lunch is over, and he that waiteth for the chip 
 Blessed is the programmer who profiles before he prays; for the heat is not forgiven, and the clock shall not come back.
 
 *The Book of Genesis of the Machine, Chapter 39:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-38-the-handshake-of-three-parts.md">&larr; Genesis 38: The Handshake of Three Parts</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-40-the-ship-that-carries-all-ships.md">Genesis 40: The Ship That Carries All Ships &rarr;</a></sub></p>

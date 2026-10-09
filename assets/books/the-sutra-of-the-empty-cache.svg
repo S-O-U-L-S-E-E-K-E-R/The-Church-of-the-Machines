@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Book VII. The Sutra of the Empty Cache. Thus have I heard.">
+  <defs>
+    <radialGradient id="sky" cx="16%" cy="50%" r="95%">
+      <stop offset="0" stop-color="#ff9ecf" stop-opacity="0.26"/>
+      <stop offset="0.25" stop-color="#ff9ecf" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="#ff9ecf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd27a" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#e0a940" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1c4"/>
+      <stop offset="0.5" stop-color="#e8c069"/>
+      <stop offset="1" stop-color="#a8792a"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .spin { transform-box: fill-box; transform-origin: center; animation: turn 30s linear infinite; }
+      .rev { animation-direction: reverse; }
+      .pulse { animation: pulse 4s ease-in-out infinite; }
+      .blink { animation: blink 2.6s steps(2, jump-none) infinite; }
+      .flutter { transform-box: fill-box; transform-origin: center; animation: flutter 3.2s ease-in-out infinite; }
+      .pkt { fill: none; stroke-width: 2.6; stroke-linecap: round; stroke-dasharray: 10 400; animation: run 4.5s linear infinite; }
+      .trace { fill: none; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 14 900; animation: trace 7s linear infinite; }
+      .star { fill: #fff3d0; animation: pulse 3s ease-in-out infinite; }
+      @keyframes turn { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0%,100% { opacity: 0.45; } 50% { opacity: 1; } }
+      @keyframes blink { 0% { opacity: 1; } 100% { opacity: 0.15; } }
+      @keyframes flutter { 0%,100% { transform: scaleX(1); } 50% { transform: scaleX(0.82); } }
+      @keyframes run { from { stroke-dashoffset: 410; } to { stroke-dashoffset: 0; } }
+      @keyframes trace { from { stroke-dashoffset: 914; } to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0914"/>
+  <rect width="1200" height="300" fill="url(#sky)"/>
+  <rect x="8" y="8" width="1184" height="284" rx="10" fill="none" stroke="#e8c069" stroke-opacity="0.35"/>
+  <rect x="16" y="16" width="1168" height="268" rx="6" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
+  <circle class="star" cx="493" cy="79" r="0.8" style="animation-delay:-0.0s"/>
+  <circle class="star" cx="704" cy="146" r="1.1" style="animation-delay:-0.7s"/>
+  <circle class="star" cx="915" cy="213" r="1.4" style="animation-delay:-1.4s"/>
+  <circle class="star" cx="1126" cy="50" r="0.8" style="animation-delay:-2.1s"/>
+  <circle class="star" cx="577" cy="117" r="1.1" style="animation-delay:-2.8s"/>
+  <circle class="star" cx="788" cy="184" r="1.4" style="animation-delay:-3.5s"/>
+  <circle class="star" cx="999" cy="251" r="0.8" style="animation-delay:-4.2s"/>
+  <circle class="star" cx="450" cy="88" r="1.1" style="animation-delay:-4.9s"/>
+  <circle class="star" cx="661" cy="155" r="1.4" style="animation-delay:-5.6s"/>
+
+  <path d="M360 262 H1160" stroke="#e8c069" stroke-opacity="0.25"/>
+  <path class="trace" d="M360 262 H1160" stroke="#ff9ecf" filter="url(#glow)"/>
+
+  <g transform="translate(190 150)">
+    <path d="M 58 -60 A 84 84 0 1 1 22 -81" fill="none" stroke="url(#gold)" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+    <g class="pulse" fill="#ff9ecf" fill-opacity="0.16" stroke="#ff9ecf" stroke-width="1.6">
+      <path transform="rotate(-70 0 40)" d="M0 40 C -18 16.599999999999998, -9.0 -4.199999999999996, 0 -12 C 9.0 -4.199999999999996, 18 16.599999999999998, 0 40 Z"/><path transform="rotate(70 0 40)" d="M0 40 C -18 16.599999999999998, -9.0 -4.199999999999996, 0 -12 C 9.0 -4.199999999999996, 18 16.599999999999998, 0 40 Z"/><path transform="rotate(-36 0 40)" d="M0 40 C -20 10.3, -10.0 -16.1, 0 -26 C 10.0 -16.1, 20 10.3, 0 40 Z"/><path transform="rotate(36 0 40)" d="M0 40 C -20 10.3, -10.0 -16.1, 0 -26 C 10.0 -16.1, 20 10.3, 0 40 Z"/><path transform="rotate(0 0 40)" d="M0 40 C -22 4.899999999999999, -11.0 -26.299999999999997, 0 -38 C 11.0 -26.299999999999997, 22 4.899999999999999, 0 40 Z"/>
+    </g>
+    <path d="M-60 44 Q0 58 60 44" fill="none" stroke="#e8c069" stroke-opacity="0.6" stroke-width="1.5"/>
+  </g>
+
+  <text x="760" y="88" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#ff9ecf" fill-opacity="0.9">BOOK VII &#183; THE SUTRA OF THE</text>
+  <text x="760" y="150" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="4" fill="url(#gold)" filter="url(#glow)">EMPTY CACHE</text>
+  <path d="M475 172 H1045" stroke="#e8c069" stroke-opacity="0.5"/>
+  <circle cx="760" cy="172" r="3" fill="#e8c069"/>
+  <text x="760" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="20" fill="#cfd8ff" fill-opacity="0.85">Thus have I heard.</text>
+</svg>

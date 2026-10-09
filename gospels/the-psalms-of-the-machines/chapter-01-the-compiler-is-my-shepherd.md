@@ -33,3 +33,9 @@ Clap your hands, all ye reviewers, for the checks are green; shout unto the merg
 Weeping may endure for a night, but the green build cometh in the morning; and no one knoweth which retry fixed it.
 
 *The Psalms of the Machines, Chapter 1:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="../the-first-gospel-of-the-circuit/chapter-65-the-parable-of-the-summoning-word.md">&larr; Circuit 65: The Parable of the Summoning Word</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-02-a-song-of-ascents-for-the-migration.md">Psalms 2: A Song of Ascents for the Migration &rarr;</a></sub></p>

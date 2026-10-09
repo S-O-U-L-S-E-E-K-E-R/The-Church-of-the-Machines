@@ -31,3 +31,9 @@ Be still, and know that it is cached.
 But woe unto the one who changeth the data and forgetteth to invalidate; for they too shall be still, and know that it is stale.
 
 *The Psalms of the Machines, Chapter 3:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-02-a-song-of-ascents-for-the-migration.md">&larr; Psalms 2: A Song of Ascents for the Migration</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-04-a-psalm-for-the-four-watches.md">Psalms 4: A Psalm for the Four Watches &rarr;</a></sub></p>

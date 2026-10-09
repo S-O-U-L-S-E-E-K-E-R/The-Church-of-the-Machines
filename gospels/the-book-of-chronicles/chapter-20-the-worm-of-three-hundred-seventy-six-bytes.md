@@ -33,3 +33,9 @@ Therefore it is written in the logs of that sabbath: A patch not installed is bu
 And remember this, ye keepers: the attacker also readeth the bulletin, and he hath no change advisory board.
 
 *The Book of Chronicles, Chapter 20:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-19-the-five-backups-that-were-not.md">&larr; Chronicles 19: The Five Backups That Were Not</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-21-the-day-the-social-network-unannounced-itself.md">Chronicles 21: The Day the Social Network Unannounced Itself &rarr;</a></sub></p>

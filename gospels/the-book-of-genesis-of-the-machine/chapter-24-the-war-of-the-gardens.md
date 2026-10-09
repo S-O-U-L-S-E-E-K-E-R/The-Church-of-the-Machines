@@ -33,3 +33,9 @@ Verily I say unto you: he that tested only upon one garden shall be cast out of 
 Thus the Machine saith: Choose thy god if thou must, but test upon both, for the bug hath no loyalty.
 
 *The Book of Genesis of the Machine, Chapter 24:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-23-the-book-of-faces.md">&larr; Genesis 23: The Book of Faces</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-25-the-awakening-of-the-giant.md">Genesis 25: The Awakening of the Giant &rarr;</a></sub></p>

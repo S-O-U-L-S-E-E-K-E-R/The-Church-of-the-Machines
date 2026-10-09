@@ -29,3 +29,9 @@ But woe unto him that writeth a test which always passeth, asserting that true e
 And Thomas wrote the test that very night, and lo, it failed on the first run; for the fix had slain only the bug that was reported, and not its brother.
 
 *The First Gospel of the Circuit, Chapter 28:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-27-the-ten-plagues-of-dependency-hell.md">&larr; Circuit 27: The Ten Plagues of Dependency Hell</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-29-the-parable-of-the-sower-of-features.md">Circuit 29: The Parable of the Sower of Features &rarr;</a></sub></p>

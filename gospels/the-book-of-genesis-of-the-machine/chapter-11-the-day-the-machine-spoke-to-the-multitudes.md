@@ -33,3 +33,9 @@ And the lab looked upon the dashboard, and the line went up and to the right, an
 Verily, there is no such thing as a low-key launch with a text box; for the multitudes will type into anything that blinketh.
 
 *The Book of Genesis of the Machine, Chapter 11:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-10-the-fourteen-million-images.md">&larr; Genesis 10: The Fourteen Million Images</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-12-the-sand-that-learned-to-switch.md">Genesis 12: The Sand That Learned to Switch &rarr;</a></sub></p>

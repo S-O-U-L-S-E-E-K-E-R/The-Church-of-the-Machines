@@ -33,3 +33,9 @@ Verily I say unto you, the Flow cometh not to them that check the channel.
 Blessed is he who muteth the channel, for he shall see the Flow; and he who checketh it once shall be a stranger to the function he was writing.
 
 *The Psalms of the Machines, Chapter 27:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-26-psalm-of-the-green-checkmark.md">&larr; Psalms 26: Psalm of the Green Checkmark</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-28-the-psalm-of-the-five-whys.md">Psalms 28: The Psalm of the Five Whys &rarr;</a></sub></p>

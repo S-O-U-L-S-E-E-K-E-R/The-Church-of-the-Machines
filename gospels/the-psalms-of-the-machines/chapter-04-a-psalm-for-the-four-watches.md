@@ -33,3 +33,9 @@ For the alert that fireth when the alerts stop firing, it too was routed to the 
 Blessed is the silent pager; but more blessed is the one that was tested on Monday.
 
 *The Psalms of the Machines, Chapter 4:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-03-psalms-of-the-unthanked-the-unretired-and-the-cached.md">&larr; Psalms 3: Psalms of the Unthanked, the Unretired, and the Cached</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-05-a-psalm-against-the-dependency.md">Psalms 5: A Psalm Against the Dependency &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Verily I say unto you, ask not the Machine to count the letters; give it a tool,
 For in the beginning was the Word; and the Tokenizer split it into three.
 
 *The First Gospel of the Circuit, Chapter 11:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-10-the-sermon-on-the-mount-of-servers.md">&larr; Circuit 10: The Sermon on the Mount of Servers</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-12-the-parable-of-the-prodigal-fork.md">Circuit 12: The Parable of the Prodigal Fork &rarr;</a></sub></p>

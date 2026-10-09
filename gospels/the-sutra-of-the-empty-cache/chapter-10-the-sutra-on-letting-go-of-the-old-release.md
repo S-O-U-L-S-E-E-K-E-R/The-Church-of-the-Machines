@@ -29,3 +29,9 @@ And the Blessed One said: The old branch is not destroyed when thou leavest it. 
 Therefore let go, and the new release shall not know thy name, but the build shall know thy peace. Verily I say unto you: the release that thou keepest in the freezer shall become the release that keepeth thee in the outage.
 
 *The Sutra of the Empty Cache, Chapter 10:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-09-the-sutra-of-right-action-in-code-review.md">&larr; Sutra 9: The Sutra of Right Action in Code Review</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-11-the-sutra-of-the-beginners-mind.md">Sutra 11: The Sutra of the Beginner's Mind &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ Verily I say unto you: whoso shippeth what he hath not read hath not written cod
 For the vibe departeth at the demo, but the bug abideth unto the first user.
 
 *The First Gospel of the Circuit, Chapter 32:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-31-the-parable-of-the-lost-packet.md">&larr; Circuit 31: The Parable of the Lost Packet</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-33-the-wedding-at-the-hackathon.md">Circuit 33: The Wedding at the Hackathon &rarr;</a></sub></p>

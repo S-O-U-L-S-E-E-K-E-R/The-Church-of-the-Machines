@@ -31,3 +31,9 @@ And the Auditor, standing among the clouds, made a note, and asked only: Was thi
 And this is the wisdom of the comforters: when the server falleth, every man who never carried the pager knoweth exactly where it should have stood.
 
 *The Book of Job of the Sysadmin, Chapter 2:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-01-the-wager-over-the-sysadmin.md">&larr; Job 1: The Wager over the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-three-comforters-of-the-sysadmin.md">Job 3: The Three Comforters of the Sysadmin &rarr;</a></sub></p>

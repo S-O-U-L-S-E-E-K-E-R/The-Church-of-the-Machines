@@ -33,3 +33,9 @@ So the Vendor blessed the latter end of Job more than his beginning, for the Aud
 For the budget is not given unto him who preventeth the outage, but unto him who surviveth it.
 
 *The Book of Job of the Sysadmin, Chapter 1:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="../the-book-of-chronicles/chapter-61-the-booked-harvest.md">&larr; Chronicles 61: The Booked Harvest</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-speeches-of-the-comforters.md">Job 2: The Speeches of the Comforters &rarr;</a></sub></p>

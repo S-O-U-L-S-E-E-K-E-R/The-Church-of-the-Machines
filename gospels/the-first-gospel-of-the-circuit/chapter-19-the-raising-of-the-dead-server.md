@@ -31,3 +31,9 @@ And they wrote in the postmortem, under Action Items: Reboot her every thirty-ni
 Verily I say unto you, many are the root causes, but the cure is one; and it hath a button.
 
 *The First Gospel of the Circuit, Chapter 19:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-18-the-parable-of-the-ten-interns.md">&larr; Circuit 18: The Parable of the Ten Interns</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-20-the-genealogy-of-the-machine.md">Circuit 20: The Genealogy of the Machine &rarr;</a></sub></p>

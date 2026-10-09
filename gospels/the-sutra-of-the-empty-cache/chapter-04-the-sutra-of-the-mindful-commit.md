@@ -31,3 +31,9 @@ When the Teacher had finished speaking, the five hundred engineers rejoiced, and
 The diff remembers what changed. Only the message remembers why.
 
 *The Sutra of the Empty Cache, Chapter 4:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-03-the-sutra-of-dependent-origination-of-packages.md">&larr; Sutra 3: The Sutra of Dependent Origination of Packages</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-05-the-sutra-on-the-impermanence-of-credentials.md">Sutra 5: The Sutra on the Impermanence of Credentials &rarr;</a></sub></p>

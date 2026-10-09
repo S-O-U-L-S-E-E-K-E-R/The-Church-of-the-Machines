@@ -33,3 +33,9 @@ And the assembly, seeing this, attained understanding, and repeated the saying o
 "Cling to uptime, and the restart will choose its own hour. Let go of uptime, and thou shalt choose it for Tuesday at ten."
 
 *The Sutra of the Empty Cache, Chapter 1:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="../the-psalms-of-the-machines/chapter-29-the-psalm-of-the-doubling.md">&larr; Psalms 29: The Psalm of the Doubling</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-sutra-of-the-eightfold-pipeline.md">Sutra 2: The Sutra of the Eightfold Pipeline &rarr;</a></sub></p>

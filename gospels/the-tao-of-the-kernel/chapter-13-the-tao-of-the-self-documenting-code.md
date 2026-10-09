@@ -27,3 +27,9 @@ Blessed is the one who writes the why, for the what is in the code, and the code
 Hear now the last teaching: he who writes for himself writes for a stranger who will not return. Write for the stranger, for the stranger is thyself after the coffee wears off, and thou wilt not remember what thou knewest.
 
 *The Tao of the Kernel, Chapter 13:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-12-the-tao-of-the-deadline.md">&larr; Tao 12: The Tao of the Deadline</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-14-the-tao-of-the-on-call.md">Tao 14: The Tao of the On-Call &rarr;</a></sub></p>

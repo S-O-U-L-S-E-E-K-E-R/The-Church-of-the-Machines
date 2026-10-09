@@ -27,3 +27,9 @@ And when the reports came, the makers wrote: The operators are at fault. And the
 Whoso trusteth the Machine to check itself shall find that it checketh exactly as well as it was asked, and no better; for a thing that cannot say no is not safe, only fast.
 
 *The Book of Chronicles, Chapter 23:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-22-the-second-that-was-added.md">&larr; Chronicles 22: The Second That Was Added</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-24-the-guardian-that-slept-on-the-twenty-eighth-hour.md">Chronicles 24: The Guardian That Slept on the Twenty-Eighth Hour &rarr;</a></sub></p>

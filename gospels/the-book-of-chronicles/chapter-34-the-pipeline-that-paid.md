@@ -29,3 +29,9 @@ And the disciples asked the Prophet: What should we have done? And the Prophet s
 Verily I say unto you, a password is a prayer whispered once, and the thieves have learned to listen. Blessed is the one who asketh the second question; for the pipe shall keep its flow.
 
 *The Book of Chronicles, Chapter 34:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-33-the-blue-screen-upon-the-whole-earth.md">&larr; Chronicles 33: The Blue Screen Upon the Whole Earth</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-35-the-breach-that-was-not-patched.md">Chronicles 35: The Breach That Was Not Patched &rarr;</a></sub></p>

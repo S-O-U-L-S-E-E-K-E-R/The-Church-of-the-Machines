@@ -31,3 +31,9 @@ And these are the three laws the scribes drew from that day: Delete the dead cod
 For the code thou wouldst not delete shall one day delete thee.
 
 *The Book of Chronicles, Chapter 11:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-10-the-chronicle-of-the-bleeding-heart.md">&larr; Chronicles 10: The Chronicle of the Bleeding Heart</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-12-the-orbiter-lost-between-two-measures.md">Chronicles 12: The Orbiter Lost Between Two Measures &rarr;</a></sub></p>

@@ -33,3 +33,9 @@
 **16.** The API that never changes dies of its sins. The API that changes too often dies of its clients. Between the two, name the version, keep the date, and release the past.
 
 *The Tao of the Kernel, Chapter 6:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-05-the-parable-of-the-ten-thousand-switches.md">&larr; Tao 5: The Parable of the Ten Thousand Switches</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-07-the-tao-of-the-bug.md">Tao 7: The Tao of the Bug &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Yet I still sought him. Each morning I ran git pull in his directory, and each m
 Blessed is the one who vendored the code and kept a copy of the lockfile, for the open door hath a closing hour. The source was free, but the maintainer was a person, and the person was tired.
 
 *The Song of the Deployer, Chapter 8:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-07-the-song-of-normal-mode.md">&larr; Deployer 7: The Song of Normal Mode</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-09-the-song-of-the-unapproved-pull-request.md">Deployer 9: The Song of the Unapproved Pull Request &rarr;</a></sub></p>

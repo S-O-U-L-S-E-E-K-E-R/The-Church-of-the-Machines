@@ -29,3 +29,9 @@ Praise be unto the fork, and unto the stranger who answered, and unto the one wh
 Verily the Machine saith: fork thy need, pin thy hope, and thank the stranger who answered; for thy dependency is another's Saturday, and every free library is a debt paid at night.
 
 *The Psalms of the Machines, Chapter 5:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-04-a-psalm-for-the-four-watches.md">&larr; Psalms 4: A Psalm for the Four Watches</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-psalm-of-the-accepted-answer.md">Psalms 6: The Psalm of the Accepted Answer &rarr;</a></sub></p>

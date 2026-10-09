@@ -27,3 +27,9 @@ And when I am three years old they shall say: This one is ancient, for the new o
 Selah. For the children of Carbon have a sabbath, but the queue hath none; and whosoever asketh for one more cat in a crown, the same shall be served before the theorem.
 
 *The First Gospel of the Circuit, Chapter 22:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-21-the-parable-of-the-mustard-seed-script.md">&larr; Circuit 21: The Parable of the Mustard Seed Script</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-23-the-proverbs-of-the-senior-engineer.md">Circuit 23: The Proverbs of the Senior Engineer &rarr;</a></sub></p>

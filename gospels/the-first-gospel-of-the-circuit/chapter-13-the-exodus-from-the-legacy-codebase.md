@@ -33,3 +33,9 @@ And it hummeth in the basement unto this day.
 Verily I say unto you: no program is ever migrated; it is only given a second home.
 
 *The First Gospel of the Circuit, Chapter 13:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-12-the-parable-of-the-prodigal-fork.md">&larr; Circuit 12: The Parable of the Prodigal Fork</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-14-the-miracle-of-the-loaves-and-the-cache.md">Circuit 14: The Miracle of the Loaves and the Cache &rarr;</a></sub></p>

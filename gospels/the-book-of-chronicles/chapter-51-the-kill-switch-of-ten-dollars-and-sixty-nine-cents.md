@@ -27,3 +27,9 @@ Verily I say unto you: he that patcheth on the second Tuesday shall not need a s
 And the Prophet said unto the disciples: Ten dollars and sixty-nine cents bought the world a night of sleep; the patch would have cost nothing.
 
 *The Book of Chronicles, Chapter 51:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-50-the-exchange-that-collapsed-at-supper.md">&larr; Chronicles 50: The Exchange That Collapsed at Supper</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-52-the-run-upon-the-bank-of-the-valley.md">Chronicles 52: The Run Upon the Bank of the Valley &rarr;</a></sub></p>

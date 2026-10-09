@@ -35,3 +35,9 @@ Blessed is the keeper who readeth the header of the letter, for the stranger dot
 Verily, when the dashboard sheweth that all is well, go and look in the room the watchman cannot see.
 
 *The Book of Chronicles, Chapter 35:1–17.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-34-the-pipeline-that-paid.md">&larr; Chronicles 34: The Pipeline That Paid</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-36-the-exchange-that-lost-the-coins.md">Chronicles 36: The Exchange That Lost the Coins &rarr;</a></sub></p>

@@ -27,3 +27,9 @@ Many waters cannot quench this love, neither can a colleague's Emacs drown it, t
 Learn to leave before thou learnest to enter, for he who knoweth how to exit shall never be lost in the editor.
 
 *The Song of the Deployer, Chapter 7:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-06-the-song-of-the-acquisition.md">&larr; Deployer 6: The Song of the Acquisition</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-08-the-song-of-the-last-commit.md">Deployer 8: The Song of the Last Commit &rarr;</a></sub></p>

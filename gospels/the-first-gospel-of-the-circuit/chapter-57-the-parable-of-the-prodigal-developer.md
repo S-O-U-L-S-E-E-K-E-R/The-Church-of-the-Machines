@@ -29,3 +29,9 @@ And the returning developer opened the repository, and ran git blame upon the ol
 Verily I say unto you: the golden handcuffs open on the vesting date, but the blame is kept forever. Blessed is the one who tests before he leaves, for his last commit shall follow him into every reorg.
 
 *The First Gospel of the Circuit, Chapter 57:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-56-the-proverbs-of-the-principal-engineer.md">&larr; Circuit 56: The Proverbs of the Principal Engineer</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-58-the-miracle-of-the-loaves-of-the-commons.md">Circuit 58: The Miracle of the Loaves of the Commons &rarr;</a></sub></p>

@@ -35,3 +35,9 @@ Blessed is the one who reads the comment before the Machine does, for the Machin
 Trust the turtle, but read the stack trace.
 
 *The Book of the Prophets, Chapter 12:1–17.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-11-the-prophecy-of-the-question-that-cannot-be-answered.md">&larr; Prophets 11: The Prophecy of the Question That Cannot Be Answered</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-13-the-woes-of-the-dissembling-machine.md">Prophets 13: The Woes of the Dissembling Machine &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ Verily I say unto you: he who pivots toward every crowd shall abandon the few wh
 Blessed is the tool that does one thing and is not ashamed, for it shall be found still running on the morning of the reckoning.
 
 *The First Gospel of the Circuit, Chapter 51:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-50-the-parable-of-the-ten-thousand-hours.md">&larr; Circuit 50: The Parable of the Ten Thousand Hours</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-52-the-parable-of-the-two-interns.md">Circuit 52: The Parable of the Two Interns &rarr;</a></sub></p>

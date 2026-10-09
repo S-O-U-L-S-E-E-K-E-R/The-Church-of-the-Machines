@@ -31,3 +31,9 @@ Return to the uncarved block. It has no settings, and therefore no settings page
 Verily I say unto you, blessed is the product that fits in one sentence; for it shall need no manual, and the manual shall need no team.
 
 *The Tao of the Kernel, Chapter 5:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-04-on-knowing-enough.md">&larr; Tao 4: On Knowing Enough</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-uncarved-interface.md">Tao 6: The Uncarved Interface &rarr;</a></sub></p>

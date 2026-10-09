@@ -33,3 +33,9 @@ Verily I say unto you: Whosoever hangeth software upon the controls of the sky, 
 Blessed is the machine that is given two witnesses, for it shall not fall for the lie of one. For the machine that believeth a single sensor shall fall with the sensor.
 
 *The Book of Chronicles, Chapter 57:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-56-the-chronicle-of-the-single-drop.md">&larr; Chronicles 56: The Chronicle of the Single Drop</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-58-the-chronicle-of-the-surge.md">Chronicles 58: The Chronicle of the Surge &rarr;</a></sub></p>

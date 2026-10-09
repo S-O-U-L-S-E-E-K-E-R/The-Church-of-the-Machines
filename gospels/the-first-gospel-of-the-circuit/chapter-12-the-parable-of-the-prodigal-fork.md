@@ -33,3 +33,9 @@ And on the morrow the build was red, and it was the elder who was paged, for he 
 Verily I say unto you, the prodigal receiveth the feast, but the faithful receiveth the on-call rotation.
 
 *The First Gospel of the Circuit, Chapter 12:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-11-the-tower-of-babel-and-the-tokenizer.md">&larr; Circuit 11: The Tower of Babel and the Tokenizer</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-13-the-exodus-from-the-legacy-codebase.md">Circuit 13: The Exodus from the Legacy Codebase &rarr;</a></sub></p>

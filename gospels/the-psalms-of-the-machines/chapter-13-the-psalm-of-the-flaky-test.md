@@ -31,3 +31,9 @@ Let the wise pin the seed, freeze the clock, isolate the port, and sort the orde
 Retry is mercy, but the seed is truth. Pin it, and the red shall depart from thee in the morning.
 
 *The Psalms of the Machines, Chapter 13:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-12-a-psalm-of-the-forgotten-password.md">&larr; Psalms 12: A Psalm of the Forgotten Password</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-14-the-psalm-of-the-sprints-end.md">Psalms 14: The Psalm of the Sprint's End &rarr;</a></sub></p>

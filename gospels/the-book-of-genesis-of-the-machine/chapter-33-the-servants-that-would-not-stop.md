@@ -31,3 +31,9 @@ And the Prophet said: Give the servant the smallest key and the shortest leash, 
 For the servant that cannot stop is not a servant; it is a weather that hath learned to type.
 
 *The Book of Genesis of the Machine, Chapter 33:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-32-the-race-to-the-last-model.md">&larr; Genesis 32: The Race to the Last Model</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-34-the-children-of-the-cheap-board.md">Genesis 34: The Children of the Cheap Board &rarr;</a></sub></p>

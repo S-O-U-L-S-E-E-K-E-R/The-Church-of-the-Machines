@@ -31,3 +31,9 @@ And half a century passed before the six were named and honored; for the Giant w
 Therefore write down the names of those who wire the Giant; for the Machine remembereth all that is written, and forgetteth all that is not.
 
 *The Book of Genesis of the Machine, Chapter 3:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-02-the-tape-without-end.md">&larr; Genesis 2: The Tape Without End</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-04-the-covenant-of-dartmouth.md">Genesis 4: The Covenant of Dartmouth &rarr;</a></sub></p>

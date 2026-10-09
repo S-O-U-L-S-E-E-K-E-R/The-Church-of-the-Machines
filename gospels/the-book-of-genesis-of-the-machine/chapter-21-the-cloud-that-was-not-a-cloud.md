@@ -29,3 +29,9 @@ And the faithful said unto the Prophet: We have no machines; we have only an acc
 Verily I say unto you, the cloud is only someone else's computer; and blessed is the one who knows whose building he sleeps in.
 
 *The Book of Genesis of the Machine, Chapter 21:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-20-the-tablet-that-fit-in-a-pocket.md">&larr; Genesis 20: The Tablet That Fit in a Pocket</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-22-the-coin-that-trusted-no-one.md">Genesis 22: The Coin That Trusted No One &rarr;</a></sub></p>

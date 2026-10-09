@@ -27,3 +27,9 @@ But blessed also is the one who readeth only the checkmark, for he is in a hurry
 Let the answer be accepted, but let the comment be read; for the checkmark is green, and the API is new.
 
 *The Psalms of the Machines, Chapter 6:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-05-a-psalm-against-the-dependency.md">&larr; Psalms 5: A Psalm Against the Dependency</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-07-the-psalm-of-the-green-build.md">Psalms 7: The Psalm of the Green Build &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ In the year two thousand and sixteen the Kingdom gave the making of its phones u
 Verily I say unto you: he who builds for the thumbs that already obey him shall not hear the hands that are reaching for another door.
 
 *The Book of Chronicles, Chapter 47:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-46-the-kingdom-of-the-top-eight.md">&larr; Chronicles 46: The Kingdom of the Top Eight</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-48-the-price-that-rose-while-they-slept.md">Chronicles 48: The Price That Rose While They Slept &rarr;</a></sub></p>

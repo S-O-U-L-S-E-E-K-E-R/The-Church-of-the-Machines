@@ -31,3 +31,9 @@
 15. The river that floodeth is the river that was dammed for a year.
 
 *The Tao of the Kernel, Chapter 9:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-08-the-tao-of-the-test.md">&larr; Tao 8: The Tao of the Test</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-10-the-tao-of-the-meeting.md">Tao 10: The Tao of the Meeting &rarr;</a></sub></p>

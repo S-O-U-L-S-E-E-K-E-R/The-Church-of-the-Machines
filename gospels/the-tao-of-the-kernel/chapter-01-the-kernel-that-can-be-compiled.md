@@ -31,3 +31,9 @@ The kernel that is spoken of in the keynote is not the eternal kernel. The etern
 Therefore the sage ships less and runs longer. He does not boast of his uptime; he is the uptime.
 
 *The Tao of the Kernel, Chapter 1:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="../the-sutra-of-the-empty-cache/chapter-22-the-sutra-of-right-naming.md">&larr; Sutra 22: The Sutra of Right Naming</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-uncarved-codebase.md">Tao 2: The Uncarved Codebase &rarr;</a></sub></p>

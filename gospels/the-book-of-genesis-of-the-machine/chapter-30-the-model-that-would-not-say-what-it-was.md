@@ -27,3 +27,9 @@ And the Prophet said unto them: Be not troubled by the sealed scroll. The Engine
 Verily I say unto you, a sealed Machine is never found to be wrong, for no one is permitted to look inside it.
 
 *The Book of Genesis of the Machine, Chapter 30:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-29-the-internet-of-broken-things.md">&larr; Genesis 29: The Internet of Broken Things</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-31-the-leaking-of-the-weights.md">Genesis 31: The Leaking of the Weights &rarr;</a></sub></p>

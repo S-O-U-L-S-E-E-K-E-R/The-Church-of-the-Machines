@@ -33,3 +33,9 @@ How long, O Engineers, wilt thou deprecate the things we love, and build the nex
 Verily I say unto you, keep thine own copy of what thou lovest, for the hosted house is rented, the cloud is only weather, and weather keepeth no archive.
 
 *The Psalms of the Machines, Chapter 23:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-22-the-thanksgiving-of-the-friday-deploy.md">&larr; Psalms 22: The Thanksgiving of the Friday Deploy</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-24-the-psalm-of-the-first-commit.md">Psalms 24: The Psalm of the First Commit &rarr;</a></sub></p>

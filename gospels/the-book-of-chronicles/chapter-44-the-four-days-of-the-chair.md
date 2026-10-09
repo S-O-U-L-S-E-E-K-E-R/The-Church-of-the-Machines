@@ -33,3 +33,9 @@ Blessed is the house whose board can explain its own pull request; for the rest 
 Verily, he who casts out the Prophet on the Friday shall be merged back on the Tuesday, and the commit log shall say only: reason withheld.
 
 *The Book of Chronicles, Chapter 44:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-43-the-ghost-in-the-editor.md">&larr; Chronicles 43: The Ghost in the Editor</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-45-the-phone-that-would-not-bend.md">Chronicles 45: The Phone That Would Not Bend &rarr;</a></sub></p>

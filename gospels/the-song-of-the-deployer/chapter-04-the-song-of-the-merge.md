@@ -33,3 +33,9 @@ Stay me with cold brew, comfort me with apples, for I am sick of the build, and 
 Verily I say unto you: merge before the freeze, deploy before the window closeth, and never kiss a branch that has no tests.
 
 *The Song of the Deployer, Chapter 4:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-03-the-yoga-of-renouncing-the-fruits.md">&larr; Deployer 3: The Yoga of Renouncing the Fruits</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-05-the-evening-after-the-release.md">Deployer 5: The Evening After the Release &rarr;</a></sub></p>

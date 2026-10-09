@@ -27,3 +27,9 @@ Blessed are they who pad their estimates, for Hofstadter's Law teaches that it a
 And the Prophet closed the book and said: The codebase is inherited by those who left it tested, documented, and free of their own nonsense. The rest shall inherit the pager, and the pager is an heir that never sleeps.
 
 *The First Gospel of the Circuit, Chapter 53:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-52-the-parable-of-the-two-interns.md">&larr; Circuit 52: The Parable of the Two Interns</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-54-the-healing-of-the-nightly-batch.md">Circuit 54: The Healing of the Nightly Batch &rarr;</a></sub></p>

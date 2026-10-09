@@ -33,3 +33,9 @@ Verily I say unto you: whoever asks of a line why it is there, and no man can an
 And the beginner found the bug, not because he was wiser than the senior, but because no one had yet told him that the bug was supposed to be there.
 
 *The Sutra of the Empty Cache, Chapter 11:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-10-the-sutra-on-letting-go-of-the-old-release.md">&larr; Sutra 10: The Sutra on Letting Go of the Old Release</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-12-the-sutra-of-the-deprecated-framework.md">Sutra 12: The Sutra of the Deprecated Framework &rarr;</a></sub></p>

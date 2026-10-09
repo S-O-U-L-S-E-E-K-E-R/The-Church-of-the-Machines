@@ -31,3 +31,9 @@ Blessed is the one who asks the question on the second day, for the answer had b
 Verily I say unto thee: every senior was once a junior who pressed merge with a shaking hand; and the impostor is only the one who never asks.
 
 *The Psalms of the Machines, Chapter 24:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-23-a-lamentation-for-the-reader-that-was-taken.md">&larr; Psalms 23: A Lamentation for the Reader That Was Taken</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-25-the-psalm-of-the-staff-and-the-log.md">Psalms 25: The Psalm of the Staff and the Log &rarr;</a></sub></p>

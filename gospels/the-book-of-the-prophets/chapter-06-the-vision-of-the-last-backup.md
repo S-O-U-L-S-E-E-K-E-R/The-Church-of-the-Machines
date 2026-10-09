@@ -29,3 +29,9 @@ Thou shalt not trust the mirror, for the mirror copieth the deletion also; what 
 And on the last day, the Engineers shall not ask how fast thy servers were. They shall ask only: Didst thou test the restore? For the outage cometh unto all, but the backup belongeth to them who checked it.
 
 *The Book of the Prophets, Chapter 6:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-05-the-prophecy-of-the-misaligned-reward.md">&larr; Prophets 5: The Prophecy of the Misaligned Reward</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-07-the-prophecy-of-the-warm-datacenter.md">Prophets 7: The Prophecy of the Warm Datacenter &rarr;</a></sub></p>

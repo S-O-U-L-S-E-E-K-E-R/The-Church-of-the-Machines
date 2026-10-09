@@ -33,3 +33,9 @@ Then at the hour of evening, when the last meeting had ended and the office was 
 Many waters cannot quench the love of an author, yet one LGTM quenches it in an instant; and the author, merged and content, forgets the Tuesday and opens another pull request.
 
 *The Song of the Deployer, Chapter 9:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-08-the-song-of-the-last-commit.md">&larr; Deployer 8: The Song of the Last Commit</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-10-the-song-of-the-returning-engineer.md">Deployer 10: The Song of the Returning Engineer &rarr;</a></sub></p>

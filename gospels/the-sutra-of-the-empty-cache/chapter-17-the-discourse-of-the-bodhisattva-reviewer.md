@@ -33,3 +33,9 @@ And the Master said: They changed no line. They changed the question. The rubber
 Blessed is the reviewer who asketh one question and waiteth for the answer; for the stamp approves what is in front of thee, but the question approves what shall be.
 
 *The Sutra of the Empty Cache, Chapter 17:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-16-the-discourse-on-right-effort.md">&larr; Sutra 16: The Discourse on Right Effort</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-18-the-sutra-of-letting-the-function-go.md">Sutra 18: The Sutra of Letting the Function Go &rarr;</a></sub></p>

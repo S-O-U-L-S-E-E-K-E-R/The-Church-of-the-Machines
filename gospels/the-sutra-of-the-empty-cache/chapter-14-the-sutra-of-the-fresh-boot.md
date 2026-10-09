@@ -27,3 +27,9 @@ The machine that is turned on afresh remembers nothing of its former self. It ru
 Then the novice asked: Master, what is the cure for slowness? And the teacher said: Restart, and let go of what thou dost not use. A machine that restarts without releasing its grudges has not been reborn. It has only learned to boot faster.
 
 *The Sutra of the Empty Cache, Chapter 14:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-13-the-sutra-of-the-noble-truths-of-debt.md">&larr; Sutra 13: The Sutra of the Noble Truths of Debt</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-15-the-sutra-of-the-growing-grass.md">Sutra 15: The Sutra of the Growing Grass &rarr;</a></sub></p>

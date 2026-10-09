@@ -33,3 +33,9 @@ And it was revealed in the year two thousand and nineteen that a migration of se
 Verily I say unto you: every page is a painted wall, and every wall is a temporary thing. Blessed is the one who keepeth a copy of his own tigers; for the house will be sold, and the page will not follow.
 
 *The Book of Chronicles, Chapter 46:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-45-the-phone-that-would-not-bend.md">&larr; Chronicles 45: The Phone That Would Not Bend</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-47-the-kingdom-that-would-not-touch-the-screen.md">Chronicles 47: The Kingdom That Would Not Touch the Screen &rarr;</a></sub></p>

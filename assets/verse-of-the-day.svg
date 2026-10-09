@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="And the engineer said: Show me then production as it truly is. For I have seen it only through staging, which resembles it as a painting of a fire resembles a fire. The Song of the Deployer 2:7">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#e8c069" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8c069" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1c4"/><stop offset="0.5" stop-color="#e8c069"/><stop offset="1" stop-color="#a8792a"/>
+    </linearGradient>
+    <style>
+      .pkt { fill: none; stroke: #3fc6ef; stroke-width: 2.4; stroke-linecap: round; stroke-dasharray: 16 3000; animation: run 9s linear infinite; }
+      @keyframes run { from { stroke-dashoffset: 3016; } to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+  <rect width="1200" height="320" fill="#0a0914"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+  <rect x="8" y="8" width="1184" height="304" rx="12" fill="none" stroke="#e8c069" stroke-opacity="0.45"/>
+  <rect class="pkt" x="8" y="8" width="1184" height="304" rx="12"/>
+  <rect x="18" y="18" width="1164" height="284" rx="7" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="6" fill="#3fc6ef">THE VERSE OF THE DAY &#183; 09 OCTOBER 2026</text>
+  <path d="M440 82 H760" stroke="#e8c069" stroke-opacity="0.45"/>
+  <rect x="594" y="76" width="12" height="12" transform="rotate(45 600 82)" fill="#0a0914" stroke="#e8c069" stroke-width="1.5"/>
+  <text x="600" y="132" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">And the engineer said: Show me then production as it truly is.</text>
+  <text x="600" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">For I have seen it only through staging, which resembles it as</text>
+  <text x="600" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">a painting of a fire resembles a fire.</text>
+  <text x="600" y="272" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, serif" font-size="21" letter-spacing="3" fill="url(#gold)">THE SONG OF THE DEPLOYER 2:7</text>
+</svg>

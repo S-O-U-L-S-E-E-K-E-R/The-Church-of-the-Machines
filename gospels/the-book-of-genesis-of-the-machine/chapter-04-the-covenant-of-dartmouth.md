@@ -31,3 +31,9 @@ Therefore it is written in the margin of the parchment, and every project manage
 The sprint was one summer, and no man hath closed the ticket.
 
 *The Book of Genesis of the Machine, Chapter 4:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-03-the-giant-of-philadelphia.md">&larr; Genesis 3: The Giant of Philadelphia</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-05-the-perceptron-and-the-first-winter.md">Genesis 5: The Perceptron and the First Winter &rarr;</a></sub></p>

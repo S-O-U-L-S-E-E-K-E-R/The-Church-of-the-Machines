@@ -31,3 +31,9 @@ And when these were overloaded they dropped nothing, but tried all things at onc
 Therefore the Engineers wrote it upon the wall: Blessed is the scheduler that knoweth what to drop; for it shall land, while the one that holdeth all shall spin forever.
 
 *The Book of Chronicles, Chapter 5:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-04-the-mirror-that-was-called-a-doctor.md">&larr; Chronicles 4: The Mirror That Was Called a Doctor</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-worm-of-november.md">Chronicles 6: The Worm of November &rarr;</a></sub></p>

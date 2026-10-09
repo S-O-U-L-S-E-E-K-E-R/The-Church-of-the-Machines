@@ -33,3 +33,9 @@ And the Prophet said: The junior hath found the thing thou didst forget. It is c
 Blessed is the one who asketh why the job runs at three in the morning, for he shall not be paged at three in the morning.
 
 *The First Gospel of the Circuit, Chapter 50:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-49-the-sermon-on-the-naming-of-things.md">&larr; Circuit 49: The Sermon on the Naming of Things</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-51-the-parable-of-the-pivot.md">Circuit 51: The Parable of the Pivot &rarr;</a></sub></p>

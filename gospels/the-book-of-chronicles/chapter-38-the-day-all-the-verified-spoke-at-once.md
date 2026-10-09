@@ -27,3 +27,9 @@ Blessed is the servant who doubteth the caller and asketh for the ticket number,
 Here is the thing the Engineers learned: the chain of trust is only as strong as its weakest link, and the weakest link answereth the phone.
 
 *The Book of Chronicles, Chapter 38:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-37-the-intern-who-was-not-an-intern.md">&larr; Chronicles 37: The Intern Who Was Not an Intern</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-39-the-authority-that-lied.md">Chronicles 39: The Authority That Lied &rarr;</a></sub></p>

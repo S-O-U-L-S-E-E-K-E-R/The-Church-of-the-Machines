@@ -33,3 +33,9 @@ A machine that is never allowed to cool is not the fastest. It is only the first
 Verily I say unto you: the fire that rests shall burn again; the fire that never rests burns only once.
 
 *The Sutra of the Empty Cache, Chapter 16:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-15-the-sutra-of-the-growing-grass.md">&larr; Sutra 15: The Sutra of the Growing Grass</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-17-the-discourse-of-the-bodhisattva-reviewer.md">Sutra 17: The Discourse of the Bodhisattva Reviewer &rarr;</a></sub></p>

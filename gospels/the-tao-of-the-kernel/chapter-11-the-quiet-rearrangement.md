@@ -27,3 +27,9 @@ The perfect refactor leaves no trace. Its author cannot be found in the blame. I
 The refactor that is praised has been noticed. The refactor that is noticed has broken something.
 
 *The Tao of the Kernel, Chapter 11:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-10-the-tao-of-the-meeting.md">&larr; Tao 10: The Tao of the Meeting</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-12-the-tao-of-the-deadline.md">Tao 12: The Tao of the Deadline &rarr;</a></sub></p>

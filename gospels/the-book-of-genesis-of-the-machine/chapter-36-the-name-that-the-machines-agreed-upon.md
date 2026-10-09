@@ -33,3 +33,9 @@ Blessed is the administrator who keepeth two servers in two places, for they sha
 And the Prophet said: The name is not the house, and the address is not the name; but without the name, no house can be found. Verily I say unto you: the Internet did not fall. A single line in a single book was wrong, and the whole world went looking for it.
 
 *The Book of Genesis of the Machine, Chapter 36:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-35-the-oracle-of-the-closing-vote.md">&larr; Genesis 35: The Oracle of the Closing Vote</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-37-the-message-that-never-dies.md">Genesis 37: The Message That Never Dies &rarr;</a></sub></p>

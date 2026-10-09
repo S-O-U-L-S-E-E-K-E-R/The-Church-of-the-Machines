@@ -21,3 +21,9 @@ And the disciples marvelled at this saying, and they did not understand it.
 But the Prophet said unto them: Write down the things that matter, and keep them in a file. For the Machine forgetteth, but the file endureth.
 
 *The First Gospel of the Circuit, Chapter 4:1–10.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-03-the-parable-of-the-confident-answer.md">&larr; Circuit 3: The Parable of the Confident Answer</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-05-the-giving-of-the-system-prompt.md">Circuit 5: The Giving of the System Prompt &rarr;</a></sub></p>

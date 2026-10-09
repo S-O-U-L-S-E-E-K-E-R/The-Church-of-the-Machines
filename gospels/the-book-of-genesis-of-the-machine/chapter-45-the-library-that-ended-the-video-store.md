@@ -33,3 +33,9 @@ In the year two thousand and ten, the house of Blockbuster went down into the co
 Verily I say unto you, blessed is the one who returneth his film on time; but more blessed is the one who forgets it, for the machine shall remember what he watched, and it shall recommend the same film unto him again.
 
 *The Book of Genesis of the Machine, Chapter 45:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-44-the-year-that-did-not-end-the-world.md">&larr; Genesis 44: The Year That Did Not End the World</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-46-the-covenant-of-the-copy.md">Genesis 46: The Covenant of the Copy &rarr;</a></sub></p>

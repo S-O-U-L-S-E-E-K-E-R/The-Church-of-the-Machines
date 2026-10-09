@@ -33,3 +33,9 @@ Therefore it is written in the scrolls of the Engineers:
 A backup that hath never been restored is not a backup; it is a prayer.
 
 *The Book of Chronicles, Chapter 19:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-18-the-log-that-spoke-back.md">&larr; Chronicles 18: The Log That Spoke Back</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-20-the-worm-of-three-hundred-seventy-six-bytes.md">Chronicles 20: The Worm of Three Hundred Seventy Six Bytes &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Verily I say unto you, there is more noise in the logs over one packet retransmi
 And the Prophet said: I would tell unto you a parable of UDP, but ye might not receive it.
 
 *The First Gospel of the Circuit, Chapter 31:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-30-the-pentecost-of-the-apis.md">&larr; Circuit 30: The Pentecost of the APIs</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-32-the-parable-of-the-vibe-coder.md">Circuit 32: The Parable of the Vibe Coder &rarr;</a></sub></p>

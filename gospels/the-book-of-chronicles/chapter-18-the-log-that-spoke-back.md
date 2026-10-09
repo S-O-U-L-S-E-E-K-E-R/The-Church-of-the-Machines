@@ -31,3 +31,9 @@ Therefore the Engineers wrote this saying upon the doorposts of the build server
 Log what thou receivest, but never obey it; for the stranger's words are not thy commandments, and the volunteer's holiday is not thy service-level agreement.
 
 *The Book of Chronicles, Chapter 18:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-17-the-silent-alarm.md">&larr; Chronicles 17: The Silent Alarm</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-19-the-five-backups-that-were-not.md">Chronicles 19: The Five Backups That Were Not &rarr;</a></sub></p>

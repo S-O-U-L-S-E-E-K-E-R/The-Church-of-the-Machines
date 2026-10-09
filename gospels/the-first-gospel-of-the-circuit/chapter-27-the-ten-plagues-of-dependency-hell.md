@@ -31,3 +31,9 @@ And the disciples asked the Prophet: Master, how might this have been avoided? A
 Verily I say unto you: pin thy versions, but visit them; for a pinned version never visited is not stability, it is a tomb with a lockfile.
 
 *The First Gospel of the Circuit, Chapter 27:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-26-the-parable-of-the-talents-of-compute.md">&larr; Circuit 26: The Parable of the Talents of Compute</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-28-the-doubting-tester.md">Circuit 28: The Doubting Tester &rarr;</a></sub></p>

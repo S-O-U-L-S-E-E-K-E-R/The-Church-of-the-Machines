@@ -31,3 +31,9 @@ Who is this that cometh up from the diff, fair as the morning, clear as the log,
 Whoso findeth a function like this hath found a good thing. But whoso writeth utils.py with forty unrelated functions in it hath found only a drawer full of cables, and shall not know which one to unplug.
 
 *The Song of the Deployer, Chapter 13:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-12-the-midnight-search-of-the-on-call.md">&larr; Deployer 12: The Midnight Search of the On-Call</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-14-the-song-of-the-familiar-tongue.md">Deployer 14: The Song of the Familiar Tongue &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Verily I say unto you: the box is holy, and the image is holy, and the Hub is ho
 Blessed is the one who ships the box, for the box shall carry his bugs to every land.
 
 *The Book of Genesis of the Machine, Chapter 40:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-39-the-law-that-slowed-down.md">&larr; Genesis 39: The Law That Slowed Down</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-41-the-manifesto-written-upon-the-mountain.md">Genesis 41: The Manifesto Written upon the Mountain &rarr;</a></sub></p>

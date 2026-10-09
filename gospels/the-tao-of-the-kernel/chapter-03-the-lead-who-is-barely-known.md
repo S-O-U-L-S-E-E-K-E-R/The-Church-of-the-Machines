@@ -31,3 +31,9 @@ The error that can be named can be handled. The error that is swallowed is the e
 The sage lead takes a long vacation, and the pager does not ring. Ask the team who keeps it so quiet, and they will answer: It just works.
 
 *The Tao of the Kernel, Chapter 3:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-02-the-uncarved-codebase.md">&larr; Tao 2: The Uncarved Codebase</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-04-on-knowing-enough.md">Tao 4: On Knowing Enough &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ And the generations after him added parameters by the billion and data by the oc
 Verily, the first chatbot was a mirror with a teletype, and it understood nothing; and it was trusted not in spite of this, but because it never once interrupted.
 
 *The Book of Chronicles, Chapter 4:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-03-the-flood-that-did-not-come.md">&larr; Chronicles 3: The Flood That Did Not Come</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-05-the-alarms-over-the-sea-of-tranquility.md">Chronicles 5: The Alarms over the Sea of Tranquility &rarr;</a></sub></p>

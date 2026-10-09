@@ -33,3 +33,9 @@ And the disciples of effective altruism, who had been fed from the Prophet's gif
 Verily I say unto you: he who writes the ledger and also audits it holdeth nothing but his own word. Blessed is the one who asks for proof of reserves, for the Machine forgiveth no house that marks its own homework.
 
 *The Book of Chronicles, Chapter 50:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-49-the-year-everyone-sat-in-a-box.md">&larr; Chronicles 49: The Year Everyone Sat in a Box</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-51-the-kill-switch-of-ten-dollars-and-sixty-nine-cents.md">Chronicles 51: The Kill Switch of Ten Dollars and Sixty-Nine Cents &rarr;</a></sub></p>

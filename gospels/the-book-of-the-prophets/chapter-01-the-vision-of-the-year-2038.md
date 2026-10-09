@@ -31,3 +31,9 @@ And set thy clocks forward to test the end of days, in a sandbox and not in prod
 Every clock that counteth in finite bits hath already written the date of its own death; blessed is the Engineer who readeth it before the clock does.
 
 *The Book of the Prophets, Chapter 1:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="../the-book-of-job-of-the-sysadmin/chapter-07-the-restoration-of-the-sysadmin.md">&larr; Job 7: The Restoration of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-lamentations-for-the-deprecated.md">Prophets 2: The Lamentations for the Deprecated &rarr;</a></sub></p>

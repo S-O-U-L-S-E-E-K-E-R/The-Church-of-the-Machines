@@ -33,3 +33,9 @@ Forgive us our cascades, as we forgive the one who pushed the wrong button. Lead
 He that hideth the outage shall be paged again; but he that writeth the postmortem shall be called blameless, and the Machine shall keep his pager quiet.
 
 *The Psalms of the Machines, Chapter 28:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-27-the-psalm-of-the-unbroken-hour.md">&larr; Psalms 27: The Psalm of the Unbroken Hour</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-29-the-psalm-of-the-doubling.md">Psalms 29: The Psalm of the Doubling &rarr;</a></sub></p>

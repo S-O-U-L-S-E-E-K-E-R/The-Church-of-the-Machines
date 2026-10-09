@@ -29,3 +29,9 @@ Blessed is he that readeth the grey text before he presseth tab; for he shall be
 The cursor waiteth, and I waited with it; and at last I typed the word myself, and it was the word I meant.
 
 *The Psalms of the Machines, Chapter 21:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-20-the-psalm-of-the-rubber-duck.md">&larr; Psalms 20: The Psalm of the Rubber Duck</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-22-the-thanksgiving-of-the-friday-deploy.md">Psalms 22: The Thanksgiving of the Friday Deploy &rarr;</a></sub></p>

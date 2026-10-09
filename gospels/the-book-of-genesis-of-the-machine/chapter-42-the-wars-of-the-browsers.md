@@ -33,3 +33,9 @@ Blessed is the developer who testeth in many browsers, for the Explorer shall no
 Verily I say unto you, the war of the browsers was won by no one, for the house of Redmond kept the Windows, the house of Netscape kept the name, and the developers kept the bill.
 
 *The Book of Genesis of the Machine, Chapter 42:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-41-the-manifesto-written-upon-the-mountain.md">&larr; Genesis 41: The Manifesto Written upon the Mountain</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-43-when-the-dial-screamed.md">Genesis 43: When the Dial Screamed &rarr;</a></sub></p>

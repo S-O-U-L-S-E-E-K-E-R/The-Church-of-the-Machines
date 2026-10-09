@@ -33,3 +33,9 @@ Therefore, ye Engineers, when ye build the machine that stands between power and
 Let the software say It cannot happen; let the iron make it so.
 
 *The Book of Chronicles, Chapter 8:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-07-the-rocket-that-overflowed.md">&larr; Chronicles 7: The Rocket That Overflowed</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-09-move-thirty-seven-and-move-seventy-eight.md">Chronicles 9: Move Thirty-Seven and Move Seventy-Eight &rarr;</a></sub></p>

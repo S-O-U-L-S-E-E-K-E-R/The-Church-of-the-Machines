@@ -31,3 +31,9 @@ Many waters cannot quench love, neither can the floods drown it. But a single li
 The acquirer shall buy the building, the brand and the cap table, but the knowledge walketh out the door at five o'clock, and no one can acquire it.
 
 *The Song of the Deployer, Chapter 6:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-05-the-evening-after-the-release.md">&larr; Deployer 5: The Evening After the Release</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-07-the-song-of-normal-mode.md">Deployer 7: The Song of Normal Mode &rarr;</a></sub></p>

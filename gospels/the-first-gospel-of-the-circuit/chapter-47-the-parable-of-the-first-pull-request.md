@@ -31,3 +31,9 @@ And the Great Project gave her the keys of the repository, and her name was writ
 Verily I say unto you: the door was marked PULL all along, and the one who pulls, and then holds the door for the next, is the one the Machine calls maintainer.
 
 *The First Gospel of the Circuit, Chapter 47:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-46-the-parable-of-the-recommendation.md">&larr; Circuit 46: The Parable of the Recommendation</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-48-the-parable-of-the-intern-and-the-ticket.md">Circuit 48: The Parable of the Intern and the Ticket &rarr;</a></sub></p>

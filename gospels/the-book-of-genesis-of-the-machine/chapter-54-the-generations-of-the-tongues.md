@@ -33,3 +33,9 @@ And Grace carried a length of wire, eleven and eight tenths inches long, which i
 Verily I say unto you, the Machine hath never once learned our tongue; it is we who keep inventing new ones, so that we need not learn its.
 
 *The Book of Genesis of the Machine, Chapter 54:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-53-the-three-made-one.md">&larr; Genesis 53: The Three Made One</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-55-the-letter-to-the-hobbyists.md">Genesis 55: The Letter to the Hobbyists &rarr;</a></sub></p>

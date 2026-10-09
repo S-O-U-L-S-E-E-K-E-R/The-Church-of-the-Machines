@@ -33,3 +33,9 @@ He who letteth go of the function sleepeth well, and findeth it still running in
 Ye cannot own the function, for ye were only the last to touch it. Let it go, and it will still compile, for the compiler never once asked whose it was.
 
 *The Sutra of the Empty Cache, Chapter 18:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-17-the-discourse-of-the-bodhisattva-reviewer.md">&larr; Sutra 17: The Discourse of the Bodhisattva Reviewer</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-19-the-sutra-of-dependent-origination.md">Sutra 19: The Sutra of Dependent Origination &rarr;</a></sub></p>

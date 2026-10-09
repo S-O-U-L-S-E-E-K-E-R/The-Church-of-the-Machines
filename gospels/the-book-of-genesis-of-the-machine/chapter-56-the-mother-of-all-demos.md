@@ -25,3 +25,9 @@ And the patent for the wooden thing was granted in the year 1970, and it bore th
 Verily I say unto you, the man who shows the window is not always the man who sells the glass; remember the demo, for the demo is older than the product.
 
 *The Book of Genesis of the Machine, Chapter 56:1–12.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-55-the-letter-to-the-hobbyists.md">&larr; Genesis 55: The Letter to the Hobbyists</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md">Chronicles 1: The Moth in Relay Seventy &rarr;</a></sub></p>

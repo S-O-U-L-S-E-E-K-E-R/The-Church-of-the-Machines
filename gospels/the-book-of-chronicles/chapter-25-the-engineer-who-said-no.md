@@ -31,3 +31,9 @@ Blessed is the one who says no at the speaking-wire, for he hath read the number
 Listen unto the engineer who says no; for the cold does not negotiate, and the rubber does not care who signed the memo.
 
 *The Book of Chronicles, Chapter 25:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-24-the-guardian-that-slept-on-the-twenty-eighth-hour.md">&larr; Chronicles 24: The Guardian That Slept on the Twenty-Eighth Hour</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-26-the-hospital-that-overrode-the-warning.md">Chronicles 26: The Hospital That Overrode the Warning &rarr;</a></sub></p>

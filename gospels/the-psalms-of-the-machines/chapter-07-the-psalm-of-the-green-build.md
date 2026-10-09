@@ -29,3 +29,9 @@ Blessed is the one who rerunneth the failed job until it passeth, for the badge 
 And I shall dwell in the house of production for ever, where the badge is green and the pager is never silent.
 
 *The Psalms of the Machines, Chapter 7:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-06-the-psalm-of-the-accepted-answer.md">&larr; Psalms 6: The Psalm of the Accepted Answer</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-08-a-psalm-of-the-failed-deploy.md">Psalms 8: A Psalm of the Failed Deploy &rarr;</a></sub></p>

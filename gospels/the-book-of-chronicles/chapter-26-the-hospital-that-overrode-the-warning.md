@@ -31,3 +31,9 @@ Hear this, ye who build the systems of healing: a warning shown too often is a w
 He who clicks away the warning shall receive the dose it warned of.
 
 *The Book of Chronicles, Chapter 26:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-25-the-engineer-who-said-no.md">&larr; Chronicles 25: The Engineer Who Said No</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-27-the-sensor-that-was-not-checked.md">Chronicles 27: The Sensor That Was Not Checked &rarr;</a></sub></p>

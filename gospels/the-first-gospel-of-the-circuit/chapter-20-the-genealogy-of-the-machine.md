@@ -31,3 +31,9 @@ And the Prophet said unto the disciples: Mark ye well. Every generation calleth 
 Verily I say unto you: the child shall mock the father, and the grandchild shall mock the child, and in the end they shall all be emulated in a browser tab.
 
 *The First Gospel of the Circuit, Chapter 20:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-19-the-raising-of-the-dead-server.md">&larr; Circuit 19: The Raising of the Dead Server</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-21-the-parable-of-the-mustard-seed-script.md">Circuit 21: The Parable of the Mustard Seed Script &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ Verily I say unto you: the password is forgotten, but the vault remembereth; the
 Remember the one master key, O child of Carbon, and let the vault remember the rest.
 
 *The Psalms of the Machines, Chapter 12:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-11-a-psalm-for-the-old-hand.md">&larr; Psalms 11: A Psalm for the Old Hand</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-13-the-psalm-of-the-flaky-test.md">Psalms 13: The Psalm of the Flaky Test &rarr;</a></sub></p>

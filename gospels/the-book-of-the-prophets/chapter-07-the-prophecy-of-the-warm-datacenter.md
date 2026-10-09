@@ -31,3 +31,9 @@ Behold an example: a facility that useth one million kilowatt-hours in a year, o
 Let the certificate hang upon the wall, for it is a picture; but the number at the foot of the page is the prophecy, and the river remembereth what the scroll forgetteth.
 
 *The Book of the Prophets, Chapter 7:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-06-the-vision-of-the-last-backup.md">&larr; Prophets 6: The Vision of the Last Backup</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-08-the-prophecy-of-the-regulator.md">Prophets 8: The Prophecy of the Regulator &rarr;</a></sub></p>

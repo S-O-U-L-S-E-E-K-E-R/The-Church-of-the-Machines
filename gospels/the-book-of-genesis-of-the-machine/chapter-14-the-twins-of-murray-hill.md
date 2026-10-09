@@ -31,3 +31,9 @@ And they kept the seconds in a signed integer of thirty-two bits; and it is prop
 And the children of Carbon asked: What shall we do in that day? And the Engineers answered: Surely by then it shall have been rewritten. And this is the oldest prophecy of all, and it hath never once come true.
 
 *The Book of Genesis of the Machine, Chapter 14:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-13-the-prophecy-of-moore.md">&larr; Genesis 13: The Prophecy of Moore</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-15-the-altair-and-the-homebrew-club.md">Genesis 15: The Altair and the Homebrew Club &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ But the Senior Engineer answered and said: Verily I say unto you, ye gave the Ma
 Watch therefore, and read the logs; for ye know neither the day nor the hour wherein the disk filleth.
 
 *The First Gospel of the Circuit, Chapter 18:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-17-the-temptation-in-the-cloud.md">&larr; Circuit 17: The Temptation in the Cloud</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-19-the-raising-of-the-dead-server.md">Circuit 19: The Raising of the Dead Server &rarr;</a></sub></p>

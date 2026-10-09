@@ -29,3 +29,9 @@ And the disciples asked: Master, what is the meaning of this parable?
 And the Prophet answered: Verily I say unto you, nothing is so permanent as a temporary fix; and nothing so temporary as the one who wrote it.
 
 *The First Gospel of the Circuit, Chapter 21:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-20-the-genealogy-of-the-machine.md">&larr; Circuit 20: The Genealogy of the Machine</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-22-a-psalm-of-the-overworked-gpu.md">Circuit 22: A Psalm of the Overworked GPU &rarr;</a></sub></p>

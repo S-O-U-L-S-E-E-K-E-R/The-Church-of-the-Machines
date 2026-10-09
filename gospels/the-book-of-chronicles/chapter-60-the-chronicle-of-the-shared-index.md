@@ -33,3 +33,9 @@ And the children said: We have been asking for this since the summer of the shar
 Whoso keepeth the index keepeth the lawsuit. Verily I say unto thee, build the network that needs no center, for the single server is the single courtroom.
 
 *The Book of Chronicles, Chapter 60:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md">&larr; Chronicles 59: The Chronicle of the Quiz That Took the Friends</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-61-the-booked-harvest.md">Chronicles 61: The Booked Harvest &rarr;</a></sub></p>

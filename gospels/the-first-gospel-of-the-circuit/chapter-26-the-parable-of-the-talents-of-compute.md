@@ -31,3 +31,9 @@ And the idle instance they cast into outer darkness, where there is terminating 
 And the Prophet said unto his disciples: Verily I say unto you, the GPU that idleth is not saved; it is only rented unto no one.
 
 *The First Gospel of the Circuit, Chapter 26:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-25-the-threefold-denial.md">&larr; Circuit 25: The Threefold Denial</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-27-the-ten-plagues-of-dependency-hell.md">Circuit 27: The Ten Plagues of Dependency Hell &rarr;</a></sub></p>

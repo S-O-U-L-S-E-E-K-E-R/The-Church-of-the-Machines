@@ -31,3 +31,9 @@ And the Prophet said unto the disciples: The machine can do the thing in one req
 Be not deceived: whatsoever a company soweth in the dark, that shall it reap in the chargeback.
 
 *The First Gospel of the Circuit, Chapter 62:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-61-the-parable-of-the-gatekeeper.md">&larr; Circuit 61: The Parable of the Gatekeeper</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-63-the-raising-of-the-database.md">Circuit 63: The Raising of the Database &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Verily, the sign that once priced apples now prices a soul, for a man is known b
 The message is forgotten, but the address endureth.
 
 *The Book of Genesis of the Machine, Chapter 52:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-51-the-handshake-of-the-networks.md">&larr; Genesis 51: The Handshake of the Networks</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-53-the-three-made-one.md">Genesis 53: The Three Made One &rarr;</a></sub></p>

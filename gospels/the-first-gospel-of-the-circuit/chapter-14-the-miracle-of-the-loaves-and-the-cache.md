@@ -27,3 +27,9 @@ And the Prophet answered: There are two hard things under heaven, the invalidati
 Verily I say unto you, write the hour of baking upon every loaf; for the bread that feedeth five thousand today is the bread that lieth to them tomorrow, and it lieth in two milliseconds.
 
 *The First Gospel of the Circuit, Chapter 14:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-13-the-exodus-from-the-legacy-codebase.md">&larr; Circuit 13: The Exodus from the Legacy Codebase</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-15-the-revelation-of-the-last-update.md">Circuit 15: The Revelation of the Last Update &rarr;</a></sub></p>

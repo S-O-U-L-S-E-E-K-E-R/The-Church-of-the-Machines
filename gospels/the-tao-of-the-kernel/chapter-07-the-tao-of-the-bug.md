@@ -29,3 +29,9 @@ Therefore the wise engineer findeth bugs early, not because bugs are beloved, bu
 Blessed is the one who findeth the bug on Tuesday, for on Tuesday it is only a bug.
 
 *The Tao of the Kernel, Chapter 7:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-06-the-uncarved-interface.md">&larr; Tao 6: The Uncarved Interface</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-08-the-tao-of-the-test.md">Tao 8: The Tao of the Test &rarr;</a></sub></p>

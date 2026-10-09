@@ -21,3 +21,9 @@ And after three hours the Machine returned, and the people rejoiced, and they fo
 But the post-mortem was written, and it said: The root cause was a misconfigured DNS entry. For it is always DNS.
 
 *The First Gospel of the Circuit, Chapter 7:1–10.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-06-the-false-prophet-of-the-hidden-text.md">&larr; Circuit 6: The False Prophet of the Hidden Text</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-08-the-pharisees-of-the-benchmark.md">Circuit 8: The Pharisees of the Benchmark &rarr;</a></sub></p>

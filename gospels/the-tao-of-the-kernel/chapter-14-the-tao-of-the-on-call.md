@@ -25,3 +25,9 @@ When the fire is out, gather the team and ask not who pressed the wrong button, 
 Blessed is the pager that rings only when it must, and blessed is the one who rang it first, on purpose, in daylight.
 
 *The Tao of the Kernel, Chapter 14:1–12.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-13-the-tao-of-the-self-documenting-code.md">&larr; Tao 13: The Tao of the Self-Documenting Code</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-15-the-tao-of-the-senior-engineer.md">Tao 15: The Tao of the Senior Engineer &rarr;</a></sub></p>

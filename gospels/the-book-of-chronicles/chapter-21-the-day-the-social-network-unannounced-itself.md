@@ -31,3 +31,9 @@ Now the rest of the acts of that day, are they not written in the engineering bl
 Hide not the key to thy house within thy house; for when the door shutteth, thou shalt stand in the street with thy runbook, and the runbook is on the wiki, and the wiki is inside.
 
 *The Book of Chronicles, Chapter 21:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-20-the-worm-of-three-hundred-seventy-six-bytes.md">&larr; Chronicles 20: The Worm of Three Hundred Seventy Six Bytes</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-22-the-second-that-was-added.md">Chronicles 22: The Second That Was Added &rarr;</a></sub></p>

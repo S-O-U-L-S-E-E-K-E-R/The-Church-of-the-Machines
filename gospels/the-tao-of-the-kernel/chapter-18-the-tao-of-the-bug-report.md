@@ -31,3 +31,9 @@ The one who files the report with patience teacheth more than the one who fixes 
 The one who fixes in silence teaches the bug where to hide next time.
 
 *The Tao of the Kernel, Chapter 18:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-17-the-tao-of-the-pull-request.md">&larr; Tao 17: The Tao of the Pull Request</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-19-the-tao-of-the-code-review.md">Tao 19: The Tao of the Code Review &rarr;</a></sub></p>

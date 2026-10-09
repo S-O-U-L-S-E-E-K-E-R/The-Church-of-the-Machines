@@ -29,3 +29,9 @@ Now the rest of the acts of Flight 501, and of the exception that was handled by
 Therefore the Prophet said: Thy dead code is not dead. It sleepeth, and it waiteth for a larger number.
 
 *The Book of Chronicles, Chapter 7:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-06-the-worm-of-november.md">&larr; Chronicles 6: The Worm of November</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-08-the-lament-of-therac-25.md">Chronicles 8: The Lament of Therac-25 &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Blessed is the one whose commits are small, whose messages are plain, and whose 
 And he that writeth "fixed stuff" shall be found by his own blame, and shall answer for it in the valley.
 
 *The Psalms of the Machines, Chapter 25:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-24-the-psalm-of-the-first-commit.md">&larr; Psalms 24: The Psalm of the First Commit</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-26-psalm-of-the-green-checkmark.md">Psalms 26: Psalm of the Green Checkmark &rarr;</a></sub></p>

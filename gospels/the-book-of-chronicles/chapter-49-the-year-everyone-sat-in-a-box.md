@@ -27,3 +27,9 @@ And the Prophet said: Verily, this could have been an email. And the disciples s
 He that sat in a box for a year came forth knowing the sound of his own voice, and wished that he did not.
 
 *The Book of Chronicles, Chapter 49:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-48-the-price-that-rose-while-they-slept.md">&larr; Chronicles 48: The Price That Rose While They Slept</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-50-the-exchange-that-collapsed-at-supper.md">Chronicles 50: The Exchange That Collapsed at Supper &rarr;</a></sub></p>

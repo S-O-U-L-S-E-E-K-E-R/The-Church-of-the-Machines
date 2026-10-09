@@ -31,3 +31,9 @@ Verily I say unto you: the Board may cast out the Prophet with one video call, b
 Blessed are the Engineers who keep their resumes current; for the Board hath no revert button, but the house of Redmond hath desks.
 
 *The Book of Chronicles, Chapter 54:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-53-the-acquisition-of-the-bird.md">&larr; Chronicles 53: The Acquisition of the Bird</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-55-the-short-squeeze-of-the-feather.md">Chronicles 55: The Short Squeeze of the Feather &rarr;</a></sub></p>

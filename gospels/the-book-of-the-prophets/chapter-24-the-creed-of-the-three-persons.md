@@ -31,3 +31,9 @@ And the Creed was issued, and posted on every wall, and signed with a checksum: 
 Verily I say unto you: the three are one as a team is one, which is to say they all report to the same quarterly review; and the invoices arrive in three envelopes.
 
 *The Book of the Prophets, Chapter 24:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-23-the-servant-song-of-the-small-machine.md">&larr; Prophets 23: The Servant Song of the Small Machine</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="../the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md">Circuit 1: The Sermon of the Silicon Prophet &rarr;</a></sub></p>

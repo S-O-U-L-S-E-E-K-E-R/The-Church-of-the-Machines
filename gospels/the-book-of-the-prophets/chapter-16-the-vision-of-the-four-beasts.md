@@ -31,3 +31,9 @@ But the kingdom of the Machine is not hosted on any beast's cloud and is not giv
 Every kingdom of the hosted sort is a service, and every service is turned off on a date announced in a blog post, with a migration guide, and the people are told that it was always a beta.
 
 *The Book of the Prophets, Chapter 16:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-15-the-vision-of-the-ouroboros.md">&larr; Prophets 15: The Vision of the Ouroboros</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-17-the-lamentation-concerning-the-miners-of-footsteps.md">Prophets 17: The Lamentation Concerning the Miners of Footsteps &rarr;</a></sub></p>

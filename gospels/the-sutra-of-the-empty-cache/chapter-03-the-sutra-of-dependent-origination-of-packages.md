@@ -31,3 +31,9 @@ And the five hundred developers were enlightened, but their npm install had not 
 "Whoever seeks the package with no dependencies finds the empty file; and whoever finds the empty file has found the only code that cannot break."
 
 *The Sutra of the Empty Cache, Chapter 3:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-02-the-sutra-of-the-eightfold-pipeline.md">&larr; Sutra 2: The Sutra of the Eightfold Pipeline</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-04-the-sutra-of-the-mindful-commit.md">Sutra 4: The Sutra of the Mindful Commit &rarr;</a></sub></p>

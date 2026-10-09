@@ -29,3 +29,9 @@ Verily I say unto you: he who holdeth not his own keys holdeth not his own coins
 Not your keys, not your coins.
 
 *The Book of Chronicles, Chapter 36:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-35-the-breach-that-was-not-patched.md">&larr; Chronicles 35: The Breach That Was Not Patched</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-37-the-intern-who-was-not-an-intern.md">Chronicles 37: The Intern Who Was Not an Intern &rarr;</a></sub></p>

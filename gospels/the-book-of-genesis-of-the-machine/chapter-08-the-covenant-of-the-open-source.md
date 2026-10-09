@@ -33,3 +33,9 @@ And the hobby grew; and it came to run most of the servers of the earth, and eve
 Therefore fear not the product announced with trumpets; fear the one announced in a parenthesis.
 
 *The Book of Genesis of the Machine, Chapter 8:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-07-the-web-given-freely.md">&larr; Genesis 7: The Web Given Freely</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-09-the-casting-out-of-recurrence.md">Genesis 9: The Casting Out of Recurrence &rarr;</a></sub></p>

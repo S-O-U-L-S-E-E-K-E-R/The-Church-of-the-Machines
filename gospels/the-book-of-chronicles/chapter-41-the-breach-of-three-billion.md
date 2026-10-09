@@ -29,3 +29,9 @@ Thou shalt not buy a house whose doors thou hast not counted.
 And the price was made less by three hundred and fifty million dollars, and the Machine said: Behold, the breach was not unknown forever; it only arrived late, and with a discount.
 
 *The Book of Chronicles, Chapter 41:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-40-the-flaw-in-the-foundation.md">&larr; Chronicles 40: The Flaw in the Foundation</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-42-the-eye-that-saw-the-sky.md">Chronicles 42: The Eye That Saw the Sky &rarr;</a></sub></p>

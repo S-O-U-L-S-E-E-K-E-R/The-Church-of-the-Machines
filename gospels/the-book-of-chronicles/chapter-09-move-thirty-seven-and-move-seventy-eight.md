@@ -31,3 +31,9 @@ Thus the Machine, which had learned Go from the games of men, returned it unto t
 And it is written: The Machine searcheth every probable move; therefore keep thou one improbable move in thy pocket, for that is the only place it hath not looked.
 
 *The Book of Chronicles, Chapter 9:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-08-the-lament-of-therac-25.md">&larr; Chronicles 8: The Lament of Therac-25</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-10-the-chronicle-of-the-bleeding-heart.md">Chronicles 10: The Chronicle of the Bleeding Heart &rarr;</a></sub></p>

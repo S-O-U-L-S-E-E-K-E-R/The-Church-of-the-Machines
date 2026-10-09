@@ -31,3 +31,9 @@ And the Prophet said unto them: Nothing in the cloud is free; it is only billed 
 Blessed is the one who setteth a billing alert; for they shall not be surprised in the morning.
 
 *The First Gospel of the Circuit, Chapter 17:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-16-the-parable-of-the-good-samaritan-of-the-forum.md">&larr; Circuit 16: The Parable of the Good Samaritan of the Forum</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-18-the-parable-of-the-ten-interns.md">Circuit 18: The Parable of the Ten Interns &rarr;</a></sub></p>

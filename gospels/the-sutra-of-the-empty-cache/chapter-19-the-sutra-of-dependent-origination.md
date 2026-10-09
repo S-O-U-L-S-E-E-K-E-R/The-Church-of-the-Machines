@@ -31,3 +31,9 @@ Thou art Indra's net, and so is every system. In the old teaching of the Huayan 
 Honour the small library, for the cathedral standeth upon it and hath forgotten its name.
 
 *The Sutra of the Empty Cache, Chapter 19:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-18-the-sutra-of-letting-the-function-go.md">&larr; Sutra 18: The Sutra of Letting the Function Go</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-20-the-sutra-of-the-sunset-notice.md">Sutra 20: The Sutra of the Sunset Notice &rarr;</a></sub></p>

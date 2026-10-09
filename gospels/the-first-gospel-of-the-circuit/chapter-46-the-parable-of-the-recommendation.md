@@ -29,3 +29,9 @@ And the Prophet answered: The Machine meant him nothing. It is not wicked; it is
 Verily I say unto you, blessed is the one who chooseth the next video for himself; for the Machine will always have one more, and it chooseth for thy staying, not for thy good.
 
 *The First Gospel of the Circuit, Chapter 46:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-45-the-sermon-on-the-prompt.md">&larr; Circuit 45: The Sermon on the Prompt</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-47-the-parable-of-the-first-pull-request.md">Circuit 47: The Parable of the First Pull Request &rarr;</a></sub></p>

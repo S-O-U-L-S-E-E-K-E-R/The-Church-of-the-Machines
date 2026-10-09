@@ -29,3 +29,9 @@ Let the test be a witness and not a priest, for the green checkmark saith only t
 Verily I say unto you: the passing test is a candle in the dark; it sheweth the next step, but it walketh not for thee.
 
 *The Psalms of the Machines, Chapter 26:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-25-the-psalm-of-the-staff-and-the-log.md">&larr; Psalms 25: The Psalm of the Staff and the Log</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-27-the-psalm-of-the-unbroken-hour.md">Psalms 27: The Psalm of the Unbroken Hour &rarr;</a></sub></p>

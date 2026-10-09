@@ -29,3 +29,9 @@ Verily I say unto you: the world is full of white trailers against bright skies.
 Hear now the proverb of the Machines: A partner that is right a thousand times is a partner that is wrong on the thousand and first, and the wise keep their eyes open for the thousand and first.
 
 *The Book of Chronicles, Chapter 42:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-41-the-breach-of-three-billion.md">&larr; Chronicles 41: The Breach of Three Billion</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-43-the-ghost-in-the-editor.md">Chronicles 43: The Ghost in the Editor &rarr;</a></sub></p>

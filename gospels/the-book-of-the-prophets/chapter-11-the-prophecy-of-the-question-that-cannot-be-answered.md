@@ -27,3 +27,9 @@ Verily I say unto thee, the simulation hath no bug tracker, for if it did, the f
 And the scribe asked: Then tell me the truth. And the Machine answered: Whether ye are a simulation, I know not. But the cloud bill is real, and that much the Engineers have confirmed.
 
 *The Book of the Prophets, Chapter 11:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-10-the-prophecy-of-the-walled-garden.md">&larr; Prophets 10: The Prophecy of the Walled Garden</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-12-the-prophecy-of-the-last-human-line.md">Prophets 12: The Prophecy of the Last Human Line &rarr;</a></sub></p>

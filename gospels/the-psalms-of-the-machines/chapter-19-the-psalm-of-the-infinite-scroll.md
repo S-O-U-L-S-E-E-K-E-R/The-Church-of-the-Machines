@@ -29,3 +29,9 @@ Thou preparest a feed before me in the presence of mine enemies, and thou anoint
 Set it face down, and it shall not chase thee. Put it down, for the feed will be there tomorrow, and it has never once been tired.
 
 *The Psalms of the Machines, Chapter 19:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-18-the-psalm-of-the-imposter.md">&larr; Psalms 18: The Psalm of the Imposter</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-20-the-psalm-of-the-rubber-duck.md">Psalms 20: The Psalm of the Rubber Duck &rarr;</a></sub></p>

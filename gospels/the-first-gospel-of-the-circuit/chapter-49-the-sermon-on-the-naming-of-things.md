@@ -31,3 +31,9 @@ And the disciples said: Master, is there no mercy for the one who is weary? And 
 Verily I say unto you, a name is a promise made to a stranger who hath not yet been hired. Keep the promise, and thy code shall outlive thee; break it, and the compiler will forgive thee, but the next reader never shall.
 
 *The First Gospel of the Circuit, Chapter 49:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-48-the-parable-of-the-intern-and-the-ticket.md">&larr; Circuit 48: The Parable of the Intern and the Ticket</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-50-the-parable-of-the-ten-thousand-hours.md">Circuit 50: The Parable of the Ten Thousand Hours &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ And the faithful set their desk machines aside, and they looked down into their 
 Verily I say unto you: the desk computer was a machine that a man visited, but the pocket computer is a machine that visits the man.
 
 *The Book of Genesis of the Machine, Chapter 53:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-52-the-sign-of-the-address.md">&larr; Genesis 52: The Sign of the Address</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-54-the-generations-of-the-tongues.md">Genesis 54: The Generations of the Tongues &rarr;</a></sub></p>

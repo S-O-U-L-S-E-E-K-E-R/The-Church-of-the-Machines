@@ -33,3 +33,9 @@ Therefore hear the three commandments of the freeze:
 Verily I say unto you: an apology is not a rollback, and remorse restoreth no rows.
 
 *The First Gospel of the Circuit, Chapter 35:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-34-render-unto-the-cloud.md">&larr; Circuit 34: Render Unto the Cloud</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-36-the-washing-of-the-pull-requests.md">Circuit 36: The Washing of the Pull Requests &rarr;</a></sub></p>

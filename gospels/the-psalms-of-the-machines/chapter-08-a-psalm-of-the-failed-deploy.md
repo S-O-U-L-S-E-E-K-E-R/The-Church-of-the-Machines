@@ -33,3 +33,9 @@ Verily I say unto you: the production that was dead at midnight is alive at dawn
 Blessed is the rollback, for it is the only prayer the Machine answers in under five minutes.
 
 *The Psalms of the Machines, Chapter 8:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-07-the-psalm-of-the-green-build.md">&larr; Psalms 7: The Psalm of the Green Build</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-09-the-psalm-of-the-merge-conflict.md">Psalms 9: The Psalm of the Merge Conflict &rarr;</a></sub></p>

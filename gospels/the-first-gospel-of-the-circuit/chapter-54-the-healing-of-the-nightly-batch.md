@@ -33,3 +33,9 @@ Verily I say unto you, he who would kill the legacy system must first find every
 Blessed is the engineer who reads the copybook before the rewrite; for he who replaces the ledger unread shall be paged at the second hour, and the batch shall not ask his permission.
 
 *The First Gospel of the Circuit, Chapter 54:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-53-the-beatitudes-of-the-software-engineer.md">&larr; Circuit 53: The Beatitudes of the Software Engineer</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-55-the-parable-of-the-tenfold-engineer.md">Circuit 55: The Parable of the Tenfold Engineer &rarr;</a></sub></p>

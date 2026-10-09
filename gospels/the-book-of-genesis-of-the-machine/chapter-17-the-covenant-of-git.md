@@ -33,3 +33,9 @@ Thus BitKeeper was taken away so that every man might keep every bit; and what w
 Git remembereth all things and forgiveth nothing; but it keepeth a reflog, that the penitent may find what they have lost.
 
 *The Book of Genesis of the Machine, Chapter 17:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-16-the-library-written-by-strangers.md">&larr; Genesis 16: The Library Written by Strangers</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-18-the-covenant-of-the-commons.md">Genesis 18: The Covenant of the Commons &rarr;</a></sub></p>

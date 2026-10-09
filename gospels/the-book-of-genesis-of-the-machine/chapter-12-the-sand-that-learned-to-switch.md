@@ -33,3 +33,9 @@ And the Prophet said: Remember that ye are sand, and unto sand ye shall return; 
 For the sand learned to switch, and the people learned to switch employers; and of the two, it was the second that built the Valley.
 
 *The Book of Genesis of the Machine, Chapter 12:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-11-the-day-the-machine-spoke-to-the-multitudes.md">&larr; Genesis 11: The Day the Machine Spoke to the Multitudes</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-13-the-prophecy-of-moore.md">Genesis 13: The Prophecy of Moore &rarr;</a></sub></p>

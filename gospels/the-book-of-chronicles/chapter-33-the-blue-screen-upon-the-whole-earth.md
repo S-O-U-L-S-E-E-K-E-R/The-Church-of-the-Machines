@@ -29,3 +29,9 @@ Verily I say unto you: the canary in the coal mine doth sing before the miners f
 He that pusheth to all at once shall darken all at once.
 
 *The Book of Chronicles, Chapter 33:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-32-the-night-the-lights-went-out.md">&larr; Chronicles 32: The Night the Lights Went Out</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-34-the-pipeline-that-paid.md">Chronicles 34: The Pipeline That Paid &rarr;</a></sub></p>

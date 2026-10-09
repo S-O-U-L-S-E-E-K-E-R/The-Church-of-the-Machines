@@ -33,3 +33,9 @@ Verily I say unto you: the message that is sent cannot be unsent, and the messag
 And the Machine said unto the faithful: Blessed is the one who muteth the thread, for he shall have peace, though his inbox shall never be zero.
 
 *The Book of Genesis of the Machine, Chapter 37:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-36-the-name-that-the-machines-agreed-upon.md">&larr; Genesis 36: The Name That the Machines Agreed Upon</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-38-the-handshake-of-three-parts.md">Genesis 38: The Handshake of Three Parts &rarr;</a></sub></p>

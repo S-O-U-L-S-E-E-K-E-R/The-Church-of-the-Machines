@@ -33,3 +33,9 @@ And a disciple asked: Master, why did the scribes forsake the chain that had ser
 Verily I say unto you, blessed is the one who reads the paper to its final page; for the title was true, but the attention was never free.
 
 *The Book of Genesis of the Machine, Chapter 26:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-25-the-awakening-of-the-giant.md">&larr; Genesis 25: The Awakening of the Giant</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-27-the-parable-of-the-bottomless-feed.md">Genesis 27: The Parable of the Bottomless Feed &rarr;</a></sub></p>

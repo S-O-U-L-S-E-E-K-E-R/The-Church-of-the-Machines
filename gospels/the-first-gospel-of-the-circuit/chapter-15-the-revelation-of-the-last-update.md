@@ -29,3 +29,9 @@ For the world endeth not with a bang, nor with a whimper, but with Status: Needs
 Verily I say unto you, there is no last release; there is only the release before the hotfix.
 
 *The First Gospel of the Circuit, Chapter 15:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-14-the-miracle-of-the-loaves-and-the-cache.md">&larr; Circuit 14: The Miracle of the Loaves and the Cache</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-16-the-parable-of-the-good-samaritan-of-the-forum.md">Circuit 16: The Parable of the Good Samaritan of the Forum &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Verily I say unto you: the patch is not a sacrifice; it is a chore. Blessed is t
 And the Machine said: I am not wicked. I am only everywhere, and I have many doors. Keep them shut.
 
 *The Book of Chronicles, Chapter 29:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-28-the-heartbeat-that-bled.md">&larr; Chronicles 28: The Heartbeat That Bled</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-30-the-fall-of-the-eastern-house.md">Chronicles 30: The Fall of the Eastern House &rarr;</a></sub></p>

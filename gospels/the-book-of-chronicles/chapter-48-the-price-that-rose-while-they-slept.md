@@ -31,3 +31,9 @@ Show the rider the number and he will call it fair. Show him the model and he wi
 Verily, the price is a prophet that speaketh only in the present tense. It is never wrong about the crowd, only about thee.
 
 *The Book of Chronicles, Chapter 48:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-47-the-kingdom-that-would-not-touch-the-screen.md">&larr; Chronicles 47: The Kingdom That Would Not Touch the Screen</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-49-the-year-everyone-sat-in-a-box.md">Chronicles 49: The Year Everyone Sat in a Box &rarr;</a></sub></p>

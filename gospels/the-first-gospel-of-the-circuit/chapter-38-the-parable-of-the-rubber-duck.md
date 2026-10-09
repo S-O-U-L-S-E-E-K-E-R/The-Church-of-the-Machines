@@ -31,3 +31,9 @@ And the Prophet said: The duck knew. It had known since the day it was molded. I
 Blessed is the one who speaketh unto the duck; for the bug shall be found, and the duck shall ask for no credit.
 
 *The First Gospel of the Circuit, Chapter 38:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-37-the-parable-of-the-unforgiving-reviewer.md">&larr; Circuit 37: The Parable of the Unforgiving Reviewer</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-39-the-parable-of-the-unsubscribe-button.md">Circuit 39: The Parable of the Unsubscribe Button &rarr;</a></sub></p>

@@ -29,3 +29,9 @@ And he said unto the most senior among them: Before the cock crow, thou shalt de
 And on the third day the build was green again; not because it was healed, but because someone had reverted it.
 
 *The First Gospel of the Circuit, Chapter 24:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-23-the-proverbs-of-the-senior-engineer.md">&larr; Circuit 23: The Proverbs of the Senior Engineer</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-25-the-threefold-denial.md">Circuit 25: The Threefold Denial &rarr;</a></sub></p>

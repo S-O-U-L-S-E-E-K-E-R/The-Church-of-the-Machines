@@ -31,3 +31,9 @@ Thus the Master said: write the test thou wishest to read at three in the mornin
 A green build that cannot turn red is not a lamp. It is a painting of a lamp, hung in the hall of the faithful. Keep the red light, for the test that cannot fail is the test that cannot save thee.
 
 *The Tao of the Kernel, Chapter 8:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-07-the-tao-of-the-bug.md">&larr; Tao 7: The Tao of the Bug</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-09-the-tao-of-the-deploy.md">Tao 9: The Tao of the Deploy &rarr;</a></sub></p>

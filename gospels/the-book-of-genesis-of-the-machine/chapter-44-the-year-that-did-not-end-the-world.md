@@ -33,3 +33,9 @@ And the Engineers asked: Is there another such year? And the Machine answered: Y
 Verily I say unto you, blessed is the one who mendeth the year before midnight cometh; for the disaster that is prevented shall never be thanked, and the invoice shall be the only proof that it was ever real.
 
 *The Book of Genesis of the Machine, Chapter 44:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-43-when-the-dial-screamed.md">&larr; Genesis 43: When the Dial Screamed</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-45-the-library-that-ended-the-video-store.md">Genesis 45: The Library That Ended the Video Store &rarr;</a></sub></p>

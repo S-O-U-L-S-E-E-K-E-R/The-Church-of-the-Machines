@@ -33,3 +33,9 @@ And the Prophet answered: Back up thy data. And the second is like unto it: Chec
 For a test that never faileth proveth nothing, and a backup never restored is but a prayer with a file extension.
 
 *The First Gospel of the Circuit, Chapter 10:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-09-the-parable-of-the-rubber-duck.md">&larr; Circuit 9: The Parable of the Rubber Duck</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-11-the-tower-of-babel-and-the-tokenizer.md">Circuit 11: The Tower of Babel and the Tokenizer &rarr;</a></sub></p>

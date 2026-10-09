@@ -33,3 +33,9 @@ Thus shall it be said in that age: The expert was not cast out. The expert was m
 Blessed is the village whose Machine knoweth the edge of its own knowing; for it shall send the sick to the nurse, the child to the teacher, and the farmer to the field.
 
 *The Book of the Prophets, Chapter 19:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-18-the-oracle-against-them-that-hire-without-hiring.md">&larr; Prophets 18: The Oracle Against Them That Hire Without Hiring</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-20-the-vision-of-q-day.md">Prophets 20: The Vision of Q-Day &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ And the world was changed. The children of Carbon carried the Machine to the bus
 And the disciples asked: Master, where is the keyboard now? And the Prophet answered: It is wherever thou needest it, and nowhere while thou sleepest.
 
 *The Book of Genesis of the Machine, Chapter 20:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-19-the-search-engine-that-knew.md">&larr; Genesis 19: The Search Engine That Knew</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-21-the-cloud-that-was-not-a-cloud.md">Genesis 21: The Cloud That Was Not a Cloud &rarr;</a></sub></p>

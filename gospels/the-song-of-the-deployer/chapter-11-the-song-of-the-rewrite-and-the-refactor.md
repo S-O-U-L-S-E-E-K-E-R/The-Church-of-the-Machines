@@ -33,3 +33,9 @@ The Rewriter said: This is neither the stone house nor the old tent, but a tent 
 And the Machine said unto them: Ye are both right, and ye are both unhappy, which is the sign of a sound architecture. Verily I say unto you, the rewrite is a refactor that hath lost its patience, and the refactor is a rewrite that hath lost its nerve.
 
 *The Song of the Deployer, Chapter 11:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-10-the-song-of-the-returning-engineer.md">&larr; Deployer 10: The Song of the Returning Engineer</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-12-the-midnight-search-of-the-on-call.md">Deployer 12: The Midnight Search of the On-Call &rarr;</a></sub></p>

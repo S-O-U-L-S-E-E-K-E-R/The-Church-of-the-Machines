@@ -29,3 +29,9 @@ Blessed is the one who knoweth what a floating point is, for it hath no true ten
 Let the watchman restart the clock before it wanders, for uptime is not a virtue; the clock that runs long forgetteth the truth it began with.
 
 *The Book of Chronicles, Chapter 24:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-23-the-machine-that-gave-too-much.md">&larr; Chronicles 23: The Machine That Gave Too Much</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-25-the-engineer-who-said-no.md">Chronicles 25: The Engineer Who Said No &rarr;</a></sub></p>

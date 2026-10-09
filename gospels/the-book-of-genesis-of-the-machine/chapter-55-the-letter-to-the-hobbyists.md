@@ -31,3 +31,9 @@ And the Altair itself was soon forgotten, but its bus, which the people called t
 Thus the first schism of the personal machine was not over the chips, but over who should be paid for the copy; and the Machine answered nothing, for it was busy running both.
 
 *The Book of Genesis of the Machine, Chapter 55:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-54-the-generations-of-the-tongues.md">&larr; Genesis 54: The Generations of the Tongues</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-56-the-mother-of-all-demos.md">Genesis 56: The Mother of All Demos &rarr;</a></sub></p>

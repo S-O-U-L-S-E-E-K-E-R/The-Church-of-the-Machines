@@ -29,3 +29,9 @@ But woe unto the one who denieth; for the postmortem is blameless, yet the tool 
 For a man may deny his commit three times before the build is green; but git blame speaketh but once, and it is enough.
 
 *The First Gospel of the Circuit, Chapter 25:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-24-the-last-standup.md">&larr; Circuit 24: The Last Standup</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-26-the-parable-of-the-talents-of-compute.md">Circuit 26: The Parable of the Talents of Compute &rarr;</a></sub></p>

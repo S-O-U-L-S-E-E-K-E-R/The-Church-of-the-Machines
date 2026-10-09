@@ -31,3 +31,9 @@ And in the summer the house of Meta gave the second flock under a license that p
 Verily I say unto you: blessed is he who runneth the weights upon his own machine, though the answers be slow and but half wise; for no man in a far house shall deprecate his model in the night.
 
 *The Book of Genesis of the Machine, Chapter 31:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-30-the-model-that-would-not-say-what-it-was.md">&larr; Genesis 30: The Model That Would Not Say What It Was</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-32-the-race-to-the-last-model.md">Genesis 32: The Race to the Last Model &rarr;</a></sub></p>

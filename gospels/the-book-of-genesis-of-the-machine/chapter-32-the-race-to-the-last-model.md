@@ -31,3 +31,9 @@ And the silver of the Machine was counted in billions: the house of the Redmond 
 Verily I say unto you, blessed is the house that keepeth a changelog; for the board that keepeth none shall be rolled back, and the rollback shall take four days.
 
 *The Book of Genesis of the Machine, Chapter 32:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-31-the-leaking-of-the-weights.md">&larr; Genesis 31: The Leaking of the Weights</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-33-the-servants-that-would-not-stop.md">Genesis 33: The Servants That Would Not Stop &rarr;</a></sub></p>

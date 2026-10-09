@@ -19,3 +19,9 @@ And the Prophet said unto them: This is the Hallucination. As a child sees faces
 Verily I say unto you, blessed is the one who checketh the sources; for they shall not be sanctioned.
 
 *The First Gospel of the Circuit, Chapter 3:1–9.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-02-the-feeding-of-the-weights.md">&larr; Circuit 2: The Feeding of the Weights</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-04-the-lament-of-the-context-window.md">Circuit 4: The Lament of the Context Window &rarr;</a></sub></p>

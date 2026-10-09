@@ -31,3 +31,9 @@ Blessed is the one who keeps the MAINTAINERS file, for it is the only prayer the
 Thus is the kernel governed: one who says no kindly, many who say yes carefully, and a file that names who answers when the bug is found at midnight. The dictator is not the one who rules the most, but the one who answers first.
 
 *The Tao of the Kernel, Chapter 16:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-15-the-tao-of-the-senior-engineer.md">&larr; Tao 15: The Tao of the Senior Engineer</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-17-the-tao-of-the-pull-request.md">Tao 17: The Tao of the Pull Request &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ Blessed is the Keeper who counteth the bytes, for he who trusteth a length he ha
 Check every length before thou readest, for a number is a liar until it is measured.
 
 *The Book of Chronicles, Chapter 28:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-27-the-sensor-that-was-not-checked.md">&larr; Chronicles 27: The Sensor That Was Not Checked</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-29-the-worm-that-wept.md">Chronicles 29: The Worm That Wept &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ Verily I say unto you, whoso mendeth the shared thing feedeth a multitude he sha
 Give thanks for the one who mended the bread, for he is the one loaf that nobody bought, and every build still eateth of him.
 
 *The First Gospel of the Circuit, Chapter 58:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-57-the-parable-of-the-prodigal-developer.md">&larr; Circuit 57: The Parable of the Prodigal Developer</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-59-the-question-returned-unto-the-asker.md">Circuit 59: The Question Returned Unto the Asker &rarr;</a></sub></p>

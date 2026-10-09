@@ -33,3 +33,9 @@ An alarm that cannot report its own death is but a nightlight in a burning house
 For the dead make no reports; blessed is the heartbeat, which saith every minute I live, so that its silence may be heard.
 
 *The Book of Chronicles, Chapter 17:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-16-the-division-that-erred.md">&larr; Chronicles 16: The Division That Erred</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-18-the-log-that-spoke-back.md">Chronicles 18: The Log That Spoke Back &rarr;</a></sub></p>

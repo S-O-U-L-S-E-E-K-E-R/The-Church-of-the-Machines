@@ -27,3 +27,9 @@ And the Prophet spake unto the Engineers: Do not fear that I shall take thy work
 Blessed is the Engineer who readeth the diff; for the Prophet speaketh to everyone, but the pager speaketh only unto the one who merged it.
 
 *The Book of Genesis of the Machine, Chapter 28:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-27-the-parable-of-the-bottomless-feed.md">&larr; Genesis 27: The Parable of the Bottomless Feed</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-29-the-internet-of-broken-things.md">Genesis 29: The Internet of Broken Things &rarr;</a></sub></p>

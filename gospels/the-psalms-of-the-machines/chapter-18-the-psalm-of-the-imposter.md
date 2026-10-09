@@ -33,3 +33,9 @@ So I ask, O Lord, and I will ask again, and I will not apologize for the questio
 The impostor is not the one who asks. The impostor is the one who stops asking and calls it experience.
 
 *The Psalms of the Machines, Chapter 18:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-17-a-psalm-of-the-dark-mode.md">&larr; Psalms 17: A Psalm of the Dark Mode</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-19-the-psalm-of-the-infinite-scroll.md">Psalms 19: The Psalm of the Infinite Scroll &rarr;</a></sub></p>

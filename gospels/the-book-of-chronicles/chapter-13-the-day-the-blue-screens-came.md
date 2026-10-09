@@ -31,3 +31,9 @@ And Microsoft took counsel to bring the watchmen out of the kernel, that a falle
 Remember therefore this day: whoso holdeth ring zero, let him roll out slowly; for the kernel forgiveth nothing, and the tester skipped on Thursday shall be done by hand on Friday, eight and a half million times.
 
 *The Book of Chronicles, Chapter 13:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-12-the-orbiter-lost-between-two-measures.md">&larr; Chronicles 12: The Orbiter Lost Between Two Measures</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-14-the-eleven-lines.md">Chronicles 14: The Eleven Lines &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ Ask three questions before thou changest a line: Is it slow? Where is it slow? H
 Verily I say unto you: the premature optimizer is a candle lit at noon, and the shipper of garbage is a dark room with no candle at all. Walk the lit path between them: measure, then mend, and then ship.
 
 *The Sutra of the Empty Cache, Chapter 6:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-05-the-sutra-on-the-impermanence-of-credentials.md">&larr; Sutra 5: The Sutra on the Impermanence of Credentials</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-07-the-sutra-of-the-two-truths.md">Sutra 7: The Sutra of the Two Truths &rarr;</a></sub></p>

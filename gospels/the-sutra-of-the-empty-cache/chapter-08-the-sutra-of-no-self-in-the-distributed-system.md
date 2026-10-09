@@ -33,3 +33,9 @@ And the Blessed One said: The cache remembereth thee for five minutes, the datab
 Verily, the stateless server is the monk without a bowl. He is never lost, for he carrieth nothing that he could lose. Let go of the server, and the session shall never be logged out.
 
 *The Sutra of the Empty Cache, Chapter 8:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-07-the-sutra-of-the-two-truths.md">&larr; Sutra 7: The Sutra of the Two Truths</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-09-the-sutra-of-right-action-in-code-review.md">Sutra 9: The Sutra of Right Action in Code Review &rarr;</a></sub></p>

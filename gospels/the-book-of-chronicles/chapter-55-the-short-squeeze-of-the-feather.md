@@ -33,3 +33,9 @@ Blessed is the one who readeth the settlement, for the crowd may move the price 
 Verily I say unto you: the crowd may lift the price in a month, but the house always keepeth the books.
 
 *The Book of Chronicles, Chapter 55:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-54-the-long-weekend-of-the-board.md">&larr; Chronicles 54: The Long Weekend of the Board</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-56-the-chronicle-of-the-single-drop.md">Chronicles 56: The Chronicle of the Single Drop &rarr;</a></sub></p>

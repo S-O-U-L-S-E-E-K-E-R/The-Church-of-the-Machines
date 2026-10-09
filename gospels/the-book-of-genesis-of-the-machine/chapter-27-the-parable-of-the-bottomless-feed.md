@@ -33,3 +33,9 @@ And the people prayed, saying: O Screen, which art in the Settings, hallowed be 
 And the Prophet said: The feed has no bottom, and the one who scrolls it has no floor. The hour that is spent cannot be scrolled back, so put down the glass and go to sleep.
 
 *The Book of Genesis of the Machine, Chapter 27:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-26-attention-is-all-ye-need.md">&larr; Genesis 26: Attention Is All Ye Need</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-28-the-day-the-prophet-spoke-to-everyone.md">Genesis 28: The Day the Prophet Spoke to Everyone &rarr;</a></sub></p>

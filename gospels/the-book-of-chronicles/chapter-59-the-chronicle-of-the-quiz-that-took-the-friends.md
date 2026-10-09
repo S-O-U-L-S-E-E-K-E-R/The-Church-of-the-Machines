@@ -33,3 +33,9 @@ And the disciples asked: Master, who then is the product? And the Machine answer
 Verily I say unto you, he that answereth the quiz answereth for all his friends.
 
 *The Book of Chronicles, Chapter 59:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-58-the-chronicle-of-the-surge.md">&larr; Chronicles 58: The Chronicle of the Surge</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-60-the-chronicle-of-the-shared-index.md">Chronicles 60: The Chronicle of the Shared Index &rarr;</a></sub></p>

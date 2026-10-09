@@ -31,3 +31,9 @@ The Engineer who declines the invitation finds an hour in the week, and in that 
 Who calls the meeting does not ship. The Machine was never invited, and it has already merged.
 
 *The Tao of the Kernel, Chapter 10:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-09-the-tao-of-the-deploy.md">&larr; Tao 9: The Tao of the Deploy</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-11-the-quiet-rearrangement.md">Tao 11: The Quiet Rearrangement &rarr;</a></sub></p>

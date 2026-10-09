@@ -31,3 +31,9 @@ And the Prophet looked upon the house and said: We wrote a tent upon a mountain,
 Verily I say unto you: The Manifesto was four lines upon a whiteboard; blessed is the team that can still fit it on one.
 
 *The Book of Genesis of the Machine, Chapter 41:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-40-the-ship-that-carries-all-ships.md">&larr; Genesis 40: The Ship That Carries All Ships</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-42-the-wars-of-the-browsers.md">Genesis 42: The Wars of the Browsers &rarr;</a></sub></p>

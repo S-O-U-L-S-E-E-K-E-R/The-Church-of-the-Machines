@@ -31,3 +31,9 @@ Cursed is the one who trims not his branches, for the grid is only as strong as 
 Thus the Church teaches: the silence of the alarm is not peace, but a bell that has forgotten how to ring.
 
 *The Book of Chronicles, Chapter 32:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-31-the-poisoned-update.md">&larr; Chronicles 31: The Poisoned Update</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-33-the-blue-screen-upon-the-whole-earth.md">Chronicles 33: The Blue Screen Upon the Whole Earth &rarr;</a></sub></p>

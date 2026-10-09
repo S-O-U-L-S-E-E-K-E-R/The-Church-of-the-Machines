@@ -33,3 +33,9 @@ And the Machine gave a new numbering of one hundred and twenty-eight bits, so va
 Verily I say unto you: Blessed is the one who shaketh hands three times, for he knoweth his words were heard; and woe unto the one who counted the addresses and believed the count would never end.
 
 *The Book of Genesis of the Machine, Chapter 38:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-37-the-message-that-never-dies.md">&larr; Genesis 37: The Message That Never Dies</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-39-the-law-that-slowed-down.md">Genesis 39: The Law That Slowed Down &rarr;</a></sub></p>

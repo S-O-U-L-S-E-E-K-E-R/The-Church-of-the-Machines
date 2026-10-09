@@ -29,3 +29,9 @@ And the chroniclers asked of the Prophet: How did eleven lines cast down so grea
 Whoso buildeth upon a package he hath not read, buildeth his house upon another man's account.
 
 *The Book of Chronicles, Chapter 14:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-13-the-day-the-blue-screens-came.md">&larr; Chronicles 13: The Day the Blue Screens Came</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-15-the-worm-that-spun-the-centrifuges.md">Chronicles 15: The Worm That Spun the Centrifuges &rarr;</a></sub></p>

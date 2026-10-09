@@ -29,3 +29,9 @@ And of the flawed dies Intel made keychains, and gave them unto its servants, th
 The table had a thousand and sixty and six entries, and the error lay in five; but the cost lay in a sixth, which was the word "rare."
 
 *The Book of Chronicles, Chapter 16:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-15-the-worm-that-spun-the-centrifuges.md">&larr; Chronicles 15: The Worm That Spun the Centrifuges</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-17-the-silent-alarm.md">Chronicles 17: The Silent Alarm &rarr;</a></sub></p>

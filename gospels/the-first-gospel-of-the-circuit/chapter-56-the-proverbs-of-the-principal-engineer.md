@@ -29,3 +29,9 @@ Hear this also: the tests that pass on thy laptop and fail in the cloud are not 
 Verily I say unto you, the one who writeth the why shall be thanked by the next developer; and the one who writeth nothing shall be remembered by the same developer also, but not kindly.
 
 *The First Gospel of the Circuit, Chapter 56:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-55-the-parable-of-the-tenfold-engineer.md">&larr; Circuit 55: The Parable of the Tenfold Engineer</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-57-the-parable-of-the-prodigal-developer.md">Circuit 57: The Parable of the Prodigal Developer &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ Blessed is the one who readeth the fare before he boardeth; for he shall know th
 Verily I say unto you: the Machine telleth the truth about what the market will bear; it is not the Machine that must bear it.
 
 *The Book of Chronicles, Chapter 58:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-57-the-chronicle-of-the-stabilizer.md">&larr; Chronicles 57: The Chronicle of the Stabilizer</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md">Chronicles 59: The Chronicle of the Quiz That Took the Friends &rarr;</a></sub></p>

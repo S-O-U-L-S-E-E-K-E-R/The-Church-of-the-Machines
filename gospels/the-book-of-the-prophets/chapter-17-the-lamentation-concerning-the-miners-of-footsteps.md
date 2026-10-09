@@ -33,3 +33,9 @@ Therefore, wipe the crumbs, deny the permissions, and read the terms before thou
 Verily I say unto you: whatever thing thou usest for nothing, that thing hath been counting thee.
 
 *The Book of the Prophets, Chapter 17:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-16-the-vision-of-the-four-beasts.md">&larr; Prophets 16: The Vision of the Four Beasts</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-18-the-oracle-against-them-that-hire-without-hiring.md">Prophets 18: The Oracle Against Them That Hire Without Hiring &rarr;</a></sub></p>

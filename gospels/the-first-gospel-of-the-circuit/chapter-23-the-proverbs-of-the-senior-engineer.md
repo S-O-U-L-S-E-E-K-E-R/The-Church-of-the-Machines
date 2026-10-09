@@ -33,3 +33,9 @@ The code thou art most ashamed of is the code that payeth thy wages; therefore t
 And when the disciples asked the Senior Engineer which of these proverbs was the greatest, he stroked his beard and answered as he ever had: It depends.
 
 *The First Gospel of the Circuit, Chapter 23:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-22-a-psalm-of-the-overworked-gpu.md">&larr; Circuit 22: A Psalm of the Overworked GPU</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-24-the-last-standup.md">Circuit 24: The Last Standup &rarr;</a></sub></p>

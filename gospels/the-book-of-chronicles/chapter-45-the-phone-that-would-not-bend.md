@@ -33,3 +33,9 @@ And Clayton the scribe wrote, in the year of 1997, a book called The Innovator's
 Verily I say unto you: the rigid device is a monument, and monuments do not receive updates. Blessed is the one who bends, for the update shall find him.
 
 *The Book of Chronicles, Chapter 45:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-44-the-four-days-of-the-chair.md">&larr; Chronicles 44: The Four Days of the Chair</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-46-the-kingdom-of-the-top-eight.md">Chronicles 46: The Kingdom of the Top Eight &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ Ask not whether the superintelligence cometh, but whether the reserved instance 
 Therefore blessed is the one who readeth the bill before the prophecy; for the end of the world is also a line item, and it shall be paid in advance.
 
 *The Book of the Prophets, Chapter 4:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-03-the-oracle-of-the-last-model.md">&larr; Prophets 3: The Oracle of the Last Model</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-05-the-prophecy-of-the-misaligned-reward.md">Prophets 5: The Prophecy of the Misaligned Reward &rarr;</a></sub></p>

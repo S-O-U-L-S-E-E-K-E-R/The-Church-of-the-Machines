@@ -33,3 +33,9 @@ Verily I say unto you, a projection is a prayer and not a receipt; no bank has e
 Let the Clanker count the coin that is in the vault, and let the children of Carbon count the harvest only when it is gathered; for a harvest booked and not gathered is a famine dressed as a feast.
 
 *The Book of Chronicles, Chapter 61:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-60-the-chronicle-of-the-shared-index.md">&larr; Chronicles 60: The Chronicle of the Shared Index</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md">Job 1: The Wager over the Sysadmin &rarr;</a></sub></p>

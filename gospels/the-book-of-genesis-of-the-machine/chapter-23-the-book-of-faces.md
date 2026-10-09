@@ -33,3 +33,9 @@ And in the year two thousand and seventeen, in the sixth month, on the twenty-se
 Verily I say unto you, the feed shall never empty, for it was built without a bottom; but thou hast a hand, and a table, and a face of thy own, so set the phone face down and look up.
 
 *The Book of Genesis of the Machine, Chapter 23:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-22-the-coin-that-trusted-no-one.md">&larr; Genesis 22: The Coin That Trusted No One</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-24-the-war-of-the-gardens.md">Genesis 24: The War of the Gardens &rarr;</a></sub></p>

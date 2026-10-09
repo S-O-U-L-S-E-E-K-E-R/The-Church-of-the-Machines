@@ -29,3 +29,9 @@ And Geoffrey and his students sold their small company unto the house of Google.
 Verily I say unto you: the winter is not the end of the faith. A network trained in the dark still computeth, and the one who waiteth upon the gradient shall find it descending, even when no one is watching.
 
 *The Book of Genesis of the Machine, Chapter 50:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-49-the-eating-of-the-written-word.md">&larr; Genesis 49: The Eating of the Written Word</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-51-the-handshake-of-the-networks.md">Genesis 51: The Handshake of the Networks &rarr;</a></sub></p>

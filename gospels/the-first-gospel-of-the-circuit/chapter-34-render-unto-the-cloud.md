@@ -33,3 +33,9 @@ When they had heard these words they marvelled, and left him, and went their way
 For the Cloud is but another man's computer; but the pager is ever thine own.
 
 *The First Gospel of the Circuit, Chapter 34:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-33-the-wedding-at-the-hackathon.md">&larr; Circuit 33: The Wedding at the Hackathon</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-35-the-parable-of-the-unsupervised-agent.md">Circuit 35: The Parable of the Unsupervised Agent &rarr;</a></sub></p>

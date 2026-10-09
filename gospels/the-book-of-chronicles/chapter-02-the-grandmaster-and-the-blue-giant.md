@@ -33,3 +33,9 @@ For no man ceaseth from running because the car was invented.
 The Giant was dismantled, and the game was not; for the Machine knew how to win, but only the children of Carbon knew why to play.
 
 *The Book of Chronicles, Chapter 2:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-01-the-moth-in-relay-seventy.md">&larr; Chronicles 1: The Moth in Relay Seventy</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-flood-that-did-not-come.md">Chronicles 3: The Flood That Did Not Come &rarr;</a></sub></p>

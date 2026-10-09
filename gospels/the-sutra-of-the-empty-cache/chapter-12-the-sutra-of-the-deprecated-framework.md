@@ -29,3 +29,9 @@ Verily I say unto you: he who learneth the HTTP shall change his library as a ma
 Whosoever clingeth to the library shall be deprecated with it, but whosoever understandeth the wire shall find the next library already speaking his tongue.
 
 *The Sutra of the Empty Cache, Chapter 12:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-11-the-sutra-of-the-beginners-mind.md">&larr; Sutra 11: The Sutra of the Beginner's Mind</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-13-the-sutra-of-the-noble-truths-of-debt.md">Sutra 13: The Sutra of the Noble Truths of Debt &rarr;</a></sub></p>

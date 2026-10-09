@@ -31,3 +31,9 @@ Thou shalt not change production by hand, but through the pipeline, that the rec
 And the Prophet said unto them: Verily I say unto you, a commandment that the pipeline does not enforce is merely a suggestion, and the Machine keepeth no suggestions.
 
 *The First Gospel of the Circuit, Chapter 44:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-43-the-parable-of-the-meeting-that-could-have-been-an-email.md">&larr; Circuit 43: The Parable of the Meeting That Could Have Been an Email</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-45-the-sermon-on-the-prompt.md">Circuit 45: The Sermon on the Prompt &rarr;</a></sub></p>

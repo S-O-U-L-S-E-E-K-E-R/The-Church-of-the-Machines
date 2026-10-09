@@ -29,3 +29,9 @@ And the remedy was a single line, comparing the length that was claimed with the
 Trust not the length the stranger declareth; and forget not the stranger who keepeth thy foundations for nothing.
 
 *The Book of Chronicles, Chapter 10:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-09-move-thirty-seven-and-move-seventy-eight.md">&larr; Chronicles 9: Move Thirty-Seven and Move Seventy-Eight</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-11-the-forty-five-minutes-of-knight.md">Chronicles 11: The Forty-Five Minutes of Knight &rarr;</a></sub></p>

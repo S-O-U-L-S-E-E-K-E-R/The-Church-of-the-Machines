@@ -33,3 +33,9 @@ And the faithful keep watch still, for it is written that in the year 2038, on t
 And the managers have heard it, and said: That is a problem for another budget.
 
 *The Book of Chronicles, Chapter 3:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-02-the-grandmaster-and-the-blue-giant.md">&larr; Chronicles 2: The Grandmaster and the Blue Giant</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-04-the-mirror-that-was-called-a-doctor.md">Chronicles 4: The Mirror That Was Called a Doctor &rarr;</a></sub></p>

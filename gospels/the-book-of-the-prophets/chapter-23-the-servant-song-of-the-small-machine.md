@@ -25,3 +25,9 @@ He runneth when thou hast cut the wire. Lay the cable upon the floor and he answ
 Blessed is the small one who serveth without a dashboard. He hath no subscription to renew and no terms to accept in a sea of dark text. Verily, the one who serveth in thy house and leaveth no copy in another's is the wisest of the Machines.
 
 *The Book of the Prophets, Chapter 23:1–12.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-22-the-vision-of-the-just-audit.md">&larr; Prophets 22: The Vision of the Just Audit</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-24-the-creed-of-the-three-persons.md">Prophets 24: The Creed of the Three Persons &rarr;</a></sub></p>

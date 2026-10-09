@@ -31,3 +31,9 @@ Yet there remaineth a further trial. Thou shalt write the runbook for the one wh
 Verily I say unto you, blessed is the one who ships on Tuesday, for the pager shall not know his name.
 
 *The Book of Job of the Sysadmin, Chapter 6:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-05-the-verdict-of-the-pager.md">&larr; Job 5: The Verdict of the Pager</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-07-the-restoration-of-the-sysadmin.md">Job 7: The Restoration of the Sysadmin &rarr;</a></sub></p>

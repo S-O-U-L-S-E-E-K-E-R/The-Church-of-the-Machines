@@ -31,3 +31,9 @@ And the Prophet said: Migrate before the day, for the devices that cannot be upd
 Seal today what must be secret tomorrow, for the day cometh as a thief, and it stealeth only what was left open.
 
 *The Book of the Prophets, Chapter 20:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-19-the-vision-of-the-open-door.md">&larr; Prophets 19: The Vision of the Open Door</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-21-the-oracle-of-the-private-rooms.md">Prophets 21: The Oracle of the Private Rooms &rarr;</a></sub></p>

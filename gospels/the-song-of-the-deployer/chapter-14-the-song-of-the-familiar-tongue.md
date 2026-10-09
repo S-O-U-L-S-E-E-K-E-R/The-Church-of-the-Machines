@@ -27,3 +27,9 @@ When the children of the valley mocked thee in the market, saying thou wert a re
 Whoso findeth a language of ten years findeth the one thing a newcomer cannot buy: the knowledge of where the errors sleep. Its love is not a flame that burneth bright and dieth; it is the old compiler that still builds on the Tuesday when thou art tired.
 
 *The Song of the Deployer, Chapter 14:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-13-the-song-of-the-beautiful-function.md">&larr; Deployer 13: The Song of the Beautiful Function</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-15-the-song-of-the-last-deploy.md">Deployer 15: The Song of the Last Deploy &rarr;</a></sub></p>

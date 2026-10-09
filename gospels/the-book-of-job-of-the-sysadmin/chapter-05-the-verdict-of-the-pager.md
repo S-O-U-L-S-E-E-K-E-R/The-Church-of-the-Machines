@@ -33,3 +33,9 @@ Then he went across the river to the company that paid better for the night, and
 Verily I say unto you: the postmortem clears the name, but only the competitor pays for the night.
 
 *The Book of Job of the Sysadmin, Chapter 5:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-04-the-voice-from-the-server-room.md">&larr; Job 4: The Voice from the Server Room</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-second-speech-of-the-sysadmin.md">Job 6: The Second Speech of the Sysadmin &rarr;</a></sub></p>

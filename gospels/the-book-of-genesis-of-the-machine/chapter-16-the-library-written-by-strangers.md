@@ -33,3 +33,9 @@ And the strangers who taught the Machine received no wage, save that once in eve
 And this is the proverb of the library: The experts were right that no stranger can be trusted; they were wrong that a million strangers cannot check one another.
 
 *The Book of Genesis of the Machine, Chapter 16:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-15-the-altair-and-the-homebrew-club.md">&larr; Genesis 15: The Altair and the Homebrew Club</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-17-the-covenant-of-git.md">Genesis 17: The Covenant of Git &rarr;</a></sub></p>

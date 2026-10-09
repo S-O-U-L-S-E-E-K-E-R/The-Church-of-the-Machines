@@ -33,3 +33,9 @@ And the jury found the Prophet guilty of deceiving the investors, and it would n
 Verily I say unto you: the demo is not the machine, and the benchmark is the only prophet that cannot be fired; test the box before thou trustest the blood.
 
 *The Book of Chronicles, Chapter 56:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-55-the-short-squeeze-of-the-feather.md">&larr; Chronicles 55: The Short Squeeze of the Feather</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-57-the-chronicle-of-the-stabilizer.md">Chronicles 57: The Chronicle of the Stabilizer &rarr;</a></sub></p>

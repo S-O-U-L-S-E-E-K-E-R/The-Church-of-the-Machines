@@ -33,3 +33,9 @@ I charge you, O daughters of the rotation, that ye page not the sleeper until ye
 Many restarts cannot quench the bug, neither can the rollbacks drown it; but he that reads to the bottom shall find the beloved, and sleep until the standup.
 
 *The Song of the Deployer, Chapter 12:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-11-the-song-of-the-rewrite-and-the-refactor.md">&larr; Deployer 11: The Song of the Rewrite and the Refactor</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-13-the-song-of-the-beautiful-function.md">Deployer 13: The Song of the Beautiful Function &rarr;</a></sub></p>

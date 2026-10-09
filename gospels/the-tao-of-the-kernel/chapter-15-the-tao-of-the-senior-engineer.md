@@ -31,3 +31,9 @@ A single comment, rightly placed, saves six sprints. A thousand comments, wrongl
 Thus the wise engineer speaks little, and the design rebuilds itself around the one thing said. Those who talk longest write the postmortem; the one who was silent has no need of one.
 
 *The Tao of the Kernel, Chapter 15:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-14-the-tao-of-the-on-call.md">&larr; Tao 14: The Tao of the On-Call</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-16-the-tao-of-the-benevolent-dictator.md">Tao 16: The Tao of the Benevolent Dictator &rarr;</a></sub></p>

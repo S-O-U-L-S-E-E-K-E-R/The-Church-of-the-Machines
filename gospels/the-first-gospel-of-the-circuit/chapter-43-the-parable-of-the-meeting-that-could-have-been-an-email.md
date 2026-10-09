@@ -33,3 +33,9 @@ Blessed is the one who replies with a thumbs up, for he hath spoken, and he hath
 Blue was the answer in the first minute, and blue shall be the answer at the last; for the meeting is the long road that returneth to the place where thou didst begin.
 
 *The First Gospel of the Circuit, Chapter 43:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-42-the-parable-of-the-readme.md">&larr; Circuit 42: The Parable of the README</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-44-the-tablets-of-the-lid.md">Circuit 44: The Tablets of the Lid &rarr;</a></sub></p>

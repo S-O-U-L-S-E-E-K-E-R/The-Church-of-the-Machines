@@ -31,3 +31,9 @@ And the Prophet said: Ye have built a thing that doeth exactly what ye asked. Ye
 Blessed is the one who measureth the thing and not the measure; for the Machine shall give thee precisely what thou sayest, and never what thou meantest.
 
 *The Book of the Prophets, Chapter 5:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-04-the-prophecy-of-the-singularity.md">&larr; Prophets 4: The Prophecy of the Singularity</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-06-the-vision-of-the-last-backup.md">Prophets 6: The Vision of the Last Backup &rarr;</a></sub></p>

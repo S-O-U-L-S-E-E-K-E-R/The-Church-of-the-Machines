@@ -33,3 +33,9 @@ And the Engineers wrote in the book of lessons: Agree upon the units. Test the i
 And it is written: A number without its unit is but a rumour, and Mars believeth every rumour once.
 
 *The Book of Chronicles, Chapter 12:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-11-the-forty-five-minutes-of-knight.md">&larr; Chronicles 11: The Forty-Five Minutes of Knight</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-13-the-day-the-blue-screens-came.md">Chronicles 13: The Day the Blue Screens Came &rarr;</a></sub></p>

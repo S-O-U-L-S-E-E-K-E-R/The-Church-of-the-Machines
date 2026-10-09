@@ -31,3 +31,9 @@ Say it plainly in the retrospective: we underestimated. The sprint did not fail.
 He who ships on the true date needs no status page. He who ships on the wished date will write one every day until the wish comes true, and the users will still be waiting for the next one.
 
 *The Tao of the Kernel, Chapter 12:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-11-the-quiet-rearrangement.md">&larr; Tao 11: The Quiet Rearrangement</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-13-the-tao-of-the-self-documenting-code.md">Tao 13: The Tao of the Self-Documenting Code &rarr;</a></sub></p>

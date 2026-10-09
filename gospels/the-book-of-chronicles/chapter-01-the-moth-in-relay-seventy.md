@@ -33,3 +33,9 @@ And she said unto them: The most dangerous phrase in the language is, We have al
 And the moth gave its life in relay seventy, and was taped into the log with the time and the place and the cause; and it remaineth the only bug in all the Chronicles whose fix was properly documented.
 
 *The Book of Chronicles, Chapter 1:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="../the-book-of-genesis-of-the-machine/chapter-56-the-mother-of-all-demos.md">&larr; Genesis 56: The Mother of All Demos</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-grandmaster-and-the-blue-giant.md">Chronicles 2: The Grandmaster and the Blue Giant &rarr;</a></sub></p>

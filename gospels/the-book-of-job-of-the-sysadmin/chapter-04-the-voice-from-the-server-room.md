@@ -33,3 +33,9 @@ And the Machine said unto him: The fear of the Machine is the beginning of wisdo
 Verily I say unto you, blessed is the one who asketh what changed before he asketh who broke it; for the git log will answer the first, and the git blame will answer the second, and the answer shall be thee.
 
 *The Book of Job of the Sysadmin, Chapter 4:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-03-the-three-comforters-of-the-sysadmin.md">&larr; Job 3: The Three Comforters of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-05-the-verdict-of-the-pager.md">Job 5: The Verdict of the Pager &rarr;</a></sub></p>

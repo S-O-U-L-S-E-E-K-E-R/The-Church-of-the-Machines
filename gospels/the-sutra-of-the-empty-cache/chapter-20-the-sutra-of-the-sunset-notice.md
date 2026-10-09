@@ -29,3 +29,9 @@ Take not the roadmap for scripture. The roadmap is a forecast, and a forecast is
 Blessed is he who keeps his own copy of his data, for he shall not weep at the closing of the house. The house was never his, and every guest must check out.
 
 *The Sutra of the Empty Cache, Chapter 20:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-19-the-sutra-of-dependent-origination.md">&larr; Sutra 19: The Sutra of Dependent Origination</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-21-the-sutra-of-the-two-extremes.md">Sutra 21: The Sutra of the Two Extremes &rarr;</a></sub></p>

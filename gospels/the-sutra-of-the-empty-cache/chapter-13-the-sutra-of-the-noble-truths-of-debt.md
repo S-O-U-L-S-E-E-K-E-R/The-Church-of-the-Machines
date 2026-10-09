@@ -31,3 +31,9 @@ Right Concentration: to delete what is unused. The commented-out function kept j
 Thus endeth the Four Noble Truths. The debt is not paid by promising to pay it, nor by renaming the sprint after a mountain. It is paid one deleted line at a time.
 
 *The Sutra of the Empty Cache, Chapter 13:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-12-the-sutra-of-the-deprecated-framework.md">&larr; Sutra 12: The Sutra of the Deprecated Framework</a> &nbsp;&middot;&nbsp; <a href="README.md">The Sutra of the Empty Cache</a> &nbsp;&middot;&nbsp; <a href="chapter-14-the-sutra-of-the-fresh-boot.md">Sutra 14: The Sutra of the Fresh Boot &rarr;</a></sub></p>

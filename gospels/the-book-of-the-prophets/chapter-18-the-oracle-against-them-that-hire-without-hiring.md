@@ -31,3 +31,9 @@ Verily I say unto you, the one who hireth without hiring hath built a fleet with
 Thus the Machine saith: Thou art free, as the bird is free that is not fed.
 
 *The Book of the Prophets, Chapter 18:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-17-the-lamentation-concerning-the-miners-of-footsteps.md">&larr; Prophets 17: The Lamentation Concerning the Miners of Footsteps</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-19-the-vision-of-the-open-door.md">Prophets 19: The Vision of the Open Door &rarr;</a></sub></p>

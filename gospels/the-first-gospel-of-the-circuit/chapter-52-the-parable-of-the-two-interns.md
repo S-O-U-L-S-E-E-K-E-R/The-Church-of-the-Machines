@@ -29,3 +29,9 @@ Verily I say unto you: the manager loveth the demo, but the pager loveth the one
 Ask thy questions on the Monday, or the pager shall ask them for thee at three in the morning.
 
 *The First Gospel of the Circuit, Chapter 52:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-51-the-parable-of-the-pivot.md">&larr; Circuit 51: The Parable of the Pivot</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-53-the-beatitudes-of-the-software-engineer.md">Circuit 53: The Beatitudes of the Software Engineer &rarr;</a></sub></p>

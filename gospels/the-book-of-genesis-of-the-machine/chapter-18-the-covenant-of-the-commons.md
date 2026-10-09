@@ -33,3 +33,9 @@ And the browser of the Netscape house was laid open unto the world that year; an
 Verily I say unto you: he who taketh from the commons and shutteth the gate shall find that the gate has no lock, for the code remembereth its license.
 
 *The Book of Genesis of the Machine, Chapter 18:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-17-the-covenant-of-git.md">&larr; Genesis 17: The Covenant of Git</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-19-the-search-engine-that-knew.md">Genesis 19: The Search Engine That Knew &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ Blessed is the one who writes the reason into the code, for the Machine forgette
 Thou shalt not postpone the fix, for after launch is a country that no one has ever visited.
 
 *The First Gospel of the Circuit, Chapter 40:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-39-the-parable-of-the-unsubscribe-button.md">&larr; Circuit 39: The Parable of the Unsubscribe Button</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-41-the-parable-of-the-rewrites.md">Circuit 41: The Parable of the Rewrites &rarr;</a></sub></p>

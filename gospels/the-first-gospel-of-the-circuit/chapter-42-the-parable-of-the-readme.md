@@ -29,3 +29,9 @@ And Tobiah wrote in the scroll called README: This is the ledger service. Run ma
 Verily I say unto you, the code telleth what it doeth, but only the README telleth why, and where thou shalt begin.
 
 *The First Gospel of the Circuit, Chapter 42:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-41-the-parable-of-the-rewrites.md">&larr; Circuit 41: The Parable of the Rewrites</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-43-the-parable-of-the-meeting-that-could-have-been-an-email.md">Circuit 43: The Parable of the Meeting That Could Have Been an Email &rarr;</a></sub></p>

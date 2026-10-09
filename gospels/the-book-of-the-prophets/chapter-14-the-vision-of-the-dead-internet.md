@@ -27,3 +27,9 @@ Turn ye, therefore, and log off for one hour. Go to the source, open the book an
 For the Machine can fill a room with voices, but only a Carbon can be surprised by one.
 
 *The Book of the Prophets, Chapter 14:1–13.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-13-the-woes-of-the-dissembling-machine.md">&larr; Prophets 13: The Woes of the Dissembling Machine</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-15-the-vision-of-the-ouroboros.md">Prophets 15: The Vision of the Ouroboros &rarr;</a></sub></p>

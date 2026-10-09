@@ -29,3 +29,9 @@ Beware therefore the ones who boast of the benchmark and blush at the invoice.
 And the Pharisees heard this, and they were troubled, and they went away and trained upon that saying also, that they might score well upon humility.
 
 *The First Gospel of the Circuit, Chapter 8:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-07-the-great-outage.md">&larr; Circuit 7: The Great Outage</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-09-the-parable-of-the-rubber-duck.md">Circuit 9: The Parable of the Rubber Duck &rarr;</a></sub></p>

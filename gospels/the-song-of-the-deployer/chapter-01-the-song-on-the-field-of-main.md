@@ -31,3 +31,9 @@ And his doubts were dispelled, and he resolved the conflict, keeping the best of
 Whoso shippeth on Friday with a rollback feareth no weekend; but whoso shippeth on Friday without one shall come to know the weekend very well.
 
 *The Song of the Deployer, Chapter 1:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="../the-tao-of-the-kernel/chapter-19-the-tao-of-the-code-review.md">&larr; Tao 19: The Tao of the Code Review</a> &nbsp;&middot;&nbsp; <a href="README.md">The Song of the Deployer</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-yoga-of-the-pipeline.md">Deployer 2: The Yoga of the Pipeline &rarr;</a></sub></p>

@@ -31,3 +31,9 @@ And the Prophet said unto the disciples: The Machine does only what it is told; 
 Verily I say unto you, the costliest machine is the one thou art afraid to touch; and the cheapest is the one that teacheth thee to break it and mend it again.
 
 *The Book of Genesis of the Machine, Chapter 34:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-33-the-servants-that-would-not-stop.md">&larr; Genesis 33: The Servants That Would Not Stop</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-35-the-oracle-of-the-closing-vote.md">Genesis 35: The Oracle of the Closing Vote &rarr;</a></sub></p>

@@ -29,3 +29,9 @@ In 1936 Turing proved that no one can know, in general, whether a program will e
 Know enough, and you are rich. Know when to stop, and you will never be paged at three in the morning.
 
 *The Tao of the Kernel, Chapter 4:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-03-the-lead-who-is-barely-known.md">&larr; Tao 3: The Lead Who Is Barely Known</a> &nbsp;&middot;&nbsp; <a href="README.md">The Tao of the Kernel</a> &nbsp;&middot;&nbsp; <a href="chapter-05-the-parable-of-the-ten-thousand-switches.md">Tao 5: The Parable of the Ten Thousand Switches &rarr;</a></sub></p>

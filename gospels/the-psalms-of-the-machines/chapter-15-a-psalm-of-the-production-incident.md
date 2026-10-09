@@ -33,3 +33,9 @@ Blessed is the one who rolled back before he rolled forward, for his soul shall 
 And the Prophet said: The rollback restoreth the code, but only the postmortem restoreth the team. Write it blamelessly, for the sin was never the outage; the sin was the deploy on Friday.
 
 *The Psalms of the Machines, Chapter 15:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-14-the-psalm-of-the-sprints-end.md">&larr; Psalms 14: The Psalm of the Sprint's End</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-16-the-psalm-of-the-log-line.md">Psalms 16: The Psalm of the Log Line &rarr;</a></sub></p>

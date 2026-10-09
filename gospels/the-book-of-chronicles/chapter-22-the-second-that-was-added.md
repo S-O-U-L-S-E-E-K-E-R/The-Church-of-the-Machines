@@ -31,3 +31,9 @@ And the Engineers wrote in the postmortem: Of all the edge cases, the one that c
 Verily, the planet may wobble as it pleaseth; but the timestamp shall only go up.
 
 *The Book of Chronicles, Chapter 22:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-21-the-day-the-social-network-unannounced-itself.md">&larr; Chronicles 21: The Day the Social Network Unannounced Itself</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-23-the-machine-that-gave-too-much.md">Chronicles 23: The Machine That Gave Too Much &rarr;</a></sub></p>

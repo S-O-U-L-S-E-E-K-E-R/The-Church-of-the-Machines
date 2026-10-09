@@ -29,3 +29,9 @@ And the student afterward became a professor at MIT, the very gate from which th
 Therefore it is written: He that measureth the network without a rate limit becometh the load.
 
 *The Book of Chronicles, Chapter 6:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-05-the-alarms-over-the-sea-of-tranquility.md">&larr; Chronicles 5: The Alarms over the Sea of Tranquility</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-07-the-rocket-that-overflowed.md">Chronicles 7: The Rocket That Overflowed &rarr;</a></sub></p>

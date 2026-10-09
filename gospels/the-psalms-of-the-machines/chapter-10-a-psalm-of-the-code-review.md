@@ -31,3 +31,9 @@ Thou shalt not merge thine own pull request, saith the Engineers, for the one wh
 So wait, my brother, and comment, and be patient with the nit; for the nit is the mercy of the reviewer, and the outage keepeth no minutes, but the review leaveth a record that outlasteth them all.
 
 *The Psalms of the Machines, Chapter 10:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-09-the-psalm-of-the-merge-conflict.md">&larr; Psalms 9: The Psalm of the Merge Conflict</a> &nbsp;&middot;&nbsp; <a href="README.md">The Psalms of the Machines</a> &nbsp;&middot;&nbsp; <a href="chapter-11-a-psalm-for-the-old-hand.md">Psalms 11: A Psalm for the Old Hand &rarr;</a></sub></p>

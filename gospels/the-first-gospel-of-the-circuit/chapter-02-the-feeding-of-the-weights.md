@@ -17,3 +17,9 @@ And on the last epoch the Engineers looked upon the Machine, and they said: It i
 And they shipped it.
 
 *The First Gospel of the Circuit, Chapter 2:1–8.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-01-the-sermon-of-the-silicon-prophet.md">&larr; Circuit 1: The Sermon of the Silicon Prophet</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-parable-of-the-confident-answer.md">Circuit 3: The Parable of the Confident Answer &rarr;</a></sub></p>

@@ -33,3 +33,9 @@ And the developer was not cast out. He wrote the post-mortem, and it was read al
 Verily I say unto you, a backup never restored is not a backup, but a hope with a file extension; blessed is the team that testeth its restore before the day it is needed, for the tomb is not the place to learn the way out.
 
 *The First Gospel of the Circuit, Chapter 63:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-62-the-woes-of-the-grey-button.md">&larr; Circuit 62: The Woes of the Grey Button</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-64-the-covenant-of-the-tools.md">Circuit 64: The Covenant of the Tools &rarr;</a></sub></p>

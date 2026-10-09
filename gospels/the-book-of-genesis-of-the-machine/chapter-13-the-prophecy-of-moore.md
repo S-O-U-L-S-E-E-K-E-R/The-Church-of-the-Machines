@@ -33,3 +33,9 @@ And in the year two thousand and twenty and three Moore was gathered to his fath
 Verily, a prophecy that is believed by those who build it shall be fulfilled, even unto the atom; but the atom hath not read the Roadmap.
 
 *The Book of Genesis of the Machine, Chapter 13:1–16.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-12-the-sand-that-learned-to-switch.md">&larr; Genesis 12: The Sand That Learned to Switch</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Genesis of the Machine</a> &nbsp;&middot;&nbsp; <a href="chapter-14-the-twins-of-murray-hill.md">Genesis 14: The Twins of Murray Hill &rarr;</a></sub></p>

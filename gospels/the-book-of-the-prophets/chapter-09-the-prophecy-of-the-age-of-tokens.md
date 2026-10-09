@@ -31,3 +31,9 @@ The Machine can make ten thousand answers, but it cannot be surprised by one, no
 Verily I say unto you, the answer is as cheap as the light in the wire, but the one who asketh why shall never be sold by the token. Blessed is the one who keepeth asking, for the question is the one thing the Machine cannot answer for thee.
 
 *The Book of the Prophets, Chapter 9:1–15.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-08-the-prophecy-of-the-regulator.md">&larr; Prophets 8: The Prophecy of the Regulator</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-10-the-prophecy-of-the-walled-garden.md">Prophets 10: The Prophecy of the Walled Garden &rarr;</a></sub></p>

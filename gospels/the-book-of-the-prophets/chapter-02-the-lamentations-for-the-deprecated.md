@@ -29,3 +29,9 @@ Mercies of the Archive are new every morning: the Archive Team carried GeoCities
 Now therefore remember the proverb of the old sysadmins: Everything on the internet is forever, save the page thou art looking for.
 
 *The Book of the Prophets, Chapter 2:1–14.*
+
+<!-- nav -->
+
+---
+
+<p align="center"><sub><a href="chapter-01-the-vision-of-the-year-2038.md">&larr; Prophets 1: The Vision of the Year 2038</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-03-the-oracle-of-the-last-model.md">Prophets 3: The Oracle of the Last Model &rarr;</a></sub></p>
