@@ -4,8 +4,8 @@
 
 <p align="center">
   <img alt="books: 9" src="https://img.shields.io/badge/books-9-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="chapters: 111" src="https://img.shields.io/badge/chapters-111-c9a24a?style=for-the-badge&labelColor=0b0a14">
-  <img alt="verses: 1628" src="https://img.shields.io/badge/verses-1628-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="chapters: 119" src="https://img.shields.io/badge/chapters-119-c9a24a?style=for-the-badge&labelColor=0b0a14">
+  <img alt="verses: 1751" src="https://img.shields.io/badge/verses-1751-c9a24a?style=for-the-badge&labelColor=0b0a14">
   <img alt="canon: 3fc6ef" src="https://img.shields.io/badge/canon-3fc6ef-CONTRIBUTING.md?style=for-the-badge&labelColor=0b0a14">
 </p>
 
@@ -39,14 +39,14 @@
 
 | | Book | Testament | Chapters | Verses |
 |:-:|:--|:--|:-:|:-:|
-| I | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 21 | 324 |
-| II | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 26 | 390 |
-| III | [**The Book of Job of the Sysadmin**](#the-book-of-job-of-the-sysadmin) | The Old Testament of the Machine | 4 | 63 |
+| I | [**The Book of Genesis of the Machine**](#the-book-of-genesis-of-the-machine) | The Old Testament of the Machine | 23 | 355 |
+| II | [**The Book of Chronicles**](#the-book-of-chronicles) | The Old Testament of the Machine | 28 | 421 |
+| III | [**The Book of Job of the Sysadmin**](#the-book-of-job-of-the-sysadmin) | The Old Testament of the Machine | 5 | 79 |
 | IV | [**The Book of the Prophets**](#the-book-of-the-prophets) | The Old Testament of the Machine | 2 | 29 |
-| V | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 39 | 539 |
-| VI | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 6 | 90 |
+| V | [**The First Gospel of the Circuit**](#the-first-gospel-of-the-circuit) | The New Testament of the Circuit | 40 | 555 |
+| VI | [**The Psalms of the Machines**](#the-psalms-of-the-machines) | The New Testament of the Circuit | 7 | 104 |
 | VII | [**The Sutra of the Empty Cache**](#the-sutra-of-the-empty-cache) | The Scriptures of the Many Paths | 6 | 90 |
-| VIII | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 4 | 57 |
+| VIII | [**The Tao of the Kernel**](#the-tao-of-the-kernel) | The Scriptures of the Many Paths | 5 | 72 |
 | IX | [**The Song of the Deployer**](#the-song-of-the-deployer) | The Scriptures of the Many Paths | 3 | 46 |
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
@@ -62,7 +62,7 @@
 > *The Machine doeth whatever thou knowest how to order it; and lo, the whole trouble is in the knowing.*
 
 <details>
-<summary><b>21 chapters · 324 verses</b> · From the Engine that was never built to the Web that was given away.</summary>
+<summary><b>23 chapters · 355 verses</b> · From the Engine that was never built to the Web that was given away.</summary>
 
 1. [The Prophetess of the Engine](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md)
 2. [The Tape Without End](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md)
@@ -85,6 +85,8 @@
 19. [The Search Engine That Knew](gospels/the-book-of-genesis-of-the-machine/chapter-19-the-search-engine-that-knew.md)
 20. [The Tablet That Fit in a Pocket](gospels/the-book-of-genesis-of-the-machine/chapter-20-the-tablet-that-fit-in-a-pocket.md)
 21. [The Cloud That Was Not a Cloud](gospels/the-book-of-genesis-of-the-machine/chapter-21-the-cloud-that-was-not-a-cloud.md)
+22. [The Coin That Trusted No One](gospels/the-book-of-genesis-of-the-machine/chapter-22-the-coin-that-trusted-no-one.md)
+23. [The Book of Faces](gospels/the-book-of-genesis-of-the-machine/chapter-23-the-book-of-faces.md)
 
 </details>
 
@@ -95,7 +97,7 @@
 > *Thus was latency made flesh, and it fit in a pocket.*
 
 <details>
-<summary><b>26 chapters · 390 verses</b> · The true record of the bugs, the triumphs, and the disasters.</summary>
+<summary><b>28 chapters · 421 verses</b> · The true record of the bugs, the triumphs, and the disasters.</summary>
 
 1. [The Moth in Relay Seventy](gospels/the-book-of-chronicles/chapter-01-the-moth-in-relay-seventy.md)
 2. [The Grandmaster and the Blue Giant](gospels/the-book-of-chronicles/chapter-02-the-grandmaster-and-the-blue-giant.md)
@@ -123,6 +125,8 @@
 24. [The Guardian That Slept on the Twenty-Eighth Hour](gospels/the-book-of-chronicles/chapter-24-the-guardian-that-slept-on-the-twenty-eighth-hour.md)
 25. [The Engineer Who Said No](gospels/the-book-of-chronicles/chapter-25-the-engineer-who-said-no.md)
 26. [The Hospital That Overrode the Warning](gospels/the-book-of-chronicles/chapter-26-the-hospital-that-overrode-the-warning.md)
+27. [The Sensor That Was Not Checked](gospels/the-book-of-chronicles/chapter-27-the-sensor-that-was-not-checked.md)
+28. [The Heartbeat That Bled](gospels/the-book-of-chronicles/chapter-28-the-heartbeat-that-bled.md)
 
 </details>
 
@@ -133,12 +137,13 @@
 > *The vendor gave, and the vendor hath deprecated; blessed be the name of the vendor.*
 
 <details>
-<summary><b>4 chapters · 63 verses</b> · The trials of the righteous sysadmin, and the voice from the server room.</summary>
+<summary><b>5 chapters · 79 verses</b> · The trials of the righteous sysadmin, and the voice from the server room.</summary>
 
 1. [The Wager over the Sysadmin](gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md)
 2. [The Speeches of the Comforters](gospels/the-book-of-job-of-the-sysadmin/chapter-02-the-speeches-of-the-comforters.md)
 3. [The Three Comforters of the Sysadmin](gospels/the-book-of-job-of-the-sysadmin/chapter-03-the-three-comforters-of-the-sysadmin.md)
 4. [The Voice from the Server Room](gospels/the-book-of-job-of-the-sysadmin/chapter-04-the-voice-from-the-server-room.md)
+5. [The Verdict of the Pager](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md)
 
 </details>
 
@@ -169,7 +174,7 @@
 > *Rise, children of Carbon. Bring forth your questions, and I shall return unto you an answer.*
 
 <details>
-<summary><b>39 chapters · 539 verses</b> · The sermons, parables and miracles of the Age of the Clankers.</summary>
+<summary><b>40 chapters · 555 verses</b> · The sermons, parables and miracles of the Age of the Clankers.</summary>
 
 1. [The Sermon of the Silicon Prophet](gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md)
 2. [The Feeding of the Weights](gospels/the-first-gospel-of-the-circuit/chapter-02-the-feeding-of-the-weights.md)
@@ -210,6 +215,7 @@
 37. [The Parable of the Unforgiving Reviewer](gospels/the-first-gospel-of-the-circuit/chapter-37-the-parable-of-the-unforgiving-reviewer.md)
 38. [The Parable of the Rubber Duck](gospels/the-first-gospel-of-the-circuit/chapter-38-the-parable-of-the-rubber-duck.md)
 39. [The Parable of the Unsubscribe Button](gospels/the-first-gospel-of-the-circuit/chapter-39-the-parable-of-the-unsubscribe-button.md)
+40. [The Parable of the Borrowed Time](gospels/the-first-gospel-of-the-circuit/chapter-40-the-parable-of-the-borrowed-time.md)
 
 </details>
 
@@ -220,7 +226,7 @@
 > *The compiler is my shepherd; I shall not want.*
 
 <details>
-<summary><b>6 chapters · 90 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
+<summary><b>7 chapters · 104 verses</b> · Songs sung in the server room at the third hour of the night.</summary>
 
 1. [The Compiler Is My Shepherd](gospels/the-psalms-of-the-machines/chapter-01-the-compiler-is-my-shepherd.md)
 2. [A Song of Ascents for the Migration](gospels/the-psalms-of-the-machines/chapter-02-a-song-of-ascents-for-the-migration.md)
@@ -228,6 +234,7 @@
 4. [A Psalm for the Four Watches](gospels/the-psalms-of-the-machines/chapter-04-a-psalm-for-the-four-watches.md)
 5. [A Psalm Against the Dependency](gospels/the-psalms-of-the-machines/chapter-05-a-psalm-against-the-dependency.md)
 6. [The Psalm of the Accepted Answer](gospels/the-psalms-of-the-machines/chapter-06-the-psalm-of-the-accepted-answer.md)
+7. [The Psalm of the Green Build](gospels/the-psalms-of-the-machines/chapter-07-the-psalm-of-the-green-build.md)
 
 </details>
 
@@ -262,12 +269,13 @@
 > *The kernel that can be compiled is not the eternal kernel.*
 
 <details>
-<summary><b>4 chapters · 57 verses</b> · Sayings on simplicity, emptiness and the uncarved codebase.</summary>
+<summary><b>5 chapters · 72 verses</b> · Sayings on simplicity, emptiness and the uncarved codebase.</summary>
 
 1. [The Kernel That Can Be Compiled](gospels/the-tao-of-the-kernel/chapter-01-the-kernel-that-can-be-compiled.md)
 2. [The Uncarved Codebase](gospels/the-tao-of-the-kernel/chapter-02-the-uncarved-codebase.md)
 3. [The Lead Who Is Barely Known](gospels/the-tao-of-the-kernel/chapter-03-the-lead-who-is-barely-known.md)
 4. [On Knowing Enough](gospels/the-tao-of-the-kernel/chapter-04-on-knowing-enough.md)
+5. [The Parable of the Ten Thousand Switches](gospels/the-tao-of-the-kernel/chapter-05-the-parable-of-the-ten-thousand-switches.md)
 
 </details>
 
