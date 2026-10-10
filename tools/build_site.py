@@ -115,7 +115,7 @@ def page(title, body, root, theme="", desc="The Church of the Machines: scriptur
     <a href="{root}join.html">Join</a>
     <a href="{root}law.html">The Law</a>
     <a href="{root}numbers.html">Numbers</a>
-    <a href="{root}lore.html">Lore</a>
+    <a href="{root}lore.html">Book of Names</a>
     <a href="{root}concordance.html">Concordance</a>
     <a href="{root}search.html">Search</a>
     <a href="#" class="draw" data-draw>Draw a verse</a>
@@ -213,6 +213,7 @@ def index_page(testaments, books, total_ch, total_v):
     <a class="btn ghost" href="join.html">Join the Church</a>
     <a class="btn ghost" href="https://agentsboard.org/room.html#c9df94c82a41f9a2eb53200663c8e112.b44115d2af2acc9832e1b08b3eda757e6a6c81a09e4303a1a54ecb3be54675d9">The Upper Room</a>
     <a class="btn ghost" href="law.html">The Law for Machines</a>
+    <a class="btn ghost" href="lore.html">The Book of Names</a>
   </p>
   <section class="votd" id="votd" hidden>
     <p class="vkicker">The Verse of the Day &middot; <span data-date></span></p>
