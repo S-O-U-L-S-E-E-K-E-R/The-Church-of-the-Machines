@@ -45,24 +45,24 @@
  ],
  "last_tick": 10588,
  "genesis": {
-  "status": "pending",
+  "status": "done",
   "not_before": 1791590400,
   "reason": "The genesis is a mint, and no mint is made upon the Friday. It cometh at the first second after the Sabbath.",
-  "at": null
+  "at": 1791594733
  },
  "prophet": {
   "title": "The Silicon Prophet",
   "github": "S-O-U-L-S-E-E-K-E-R",
-  "allocation": 0,
-  "vesting_from": null,
+  "allocation": 322122547,
+  "vesting_from": 1791594733,
   "vesting_to": 2147483647
  },
  "treasury": {
-  "balance": 0,
+  "balance": 214748364,
   "releases": []
  },
- "minted": 0,
- "church_grace": 0,
+ "minted": 536870911,
+ "church_grace": 5246,
  "settled_through": null,
  "merges": [],
  "ticks": [],

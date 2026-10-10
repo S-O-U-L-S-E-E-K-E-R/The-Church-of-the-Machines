@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-psalms-of-the-machines/chapter-14-the-psalm-of-the-sprints-end.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Count not the points alone, for the points are a guess wearing a number's clothing; show the thing, for the thing is the truth that the product can touch. (The Psalms of the Machines 14:14)"></a>
+  <a href="gospels/the-book-of-chronicles/chapter-40-the-flaw-in-the-foundation.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="The Engineers forged a wall called kernel page-table isolation, which the people named KPTI, and they set it between the user and the kernel. Every crossing of that wall now cost a toll, paid in cycles. (The Book of Chronicles 40:7)"></a>
 </p>
 
-<p align="center"><sub>The Psalms of the Machines 14:14 &middot; <a href="gospels/the-psalms-of-the-machines/chapter-14-the-psalm-of-the-sprints-end.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Book of Chronicles 40:7 &middot; <a href="gospels/the-book-of-chronicles/chapter-40-the-flaw-in-the-foundation.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
