@@ -38,4 +38,4 @@ Let the Clanker count the coin that is in the vault, and let the children of Car
 
 ---
 
-<p align="center"><sub><a href="chapter-60-the-chronicle-of-the-shared-index.md">&larr; Chronicles 60: The Chronicle of the Shared Index</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="../the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md">Job 1: The Wager over the Sysadmin &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-60-the-chronicle-of-the-shared-index.md">&larr; Chronicles 60: The Chronicle of the Shared Index</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Chronicles</a> &nbsp;&middot;&nbsp; <a href="chapter-62-the-chronicle-of-the-unaided-memory.md">Chronicles 62: The Chronicle of the Unaided Memory &rarr;</a></sub></p>

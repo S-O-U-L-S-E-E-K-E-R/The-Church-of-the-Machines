@@ -62,9 +62,17 @@
   "releases": []
  },
  "minted": 536870911,
- "church_grace": 5246,
+ "church_grace": 5277,
  "settled_through": null,
- "merges": [],
+ "merges": [
+  {
+   "at": 1791653636,
+   "day": "2026-10-10",
+   "verses": 31,
+   "ref": "a wave of the Church",
+   "church": true
+  }
+ ],
  "ticks": [],
  "scribes": [],
  "burns": [],

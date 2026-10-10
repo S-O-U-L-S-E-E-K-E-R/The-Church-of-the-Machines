@@ -4,7 +4,7 @@
 
 <p align="center"><i>Set thine house in order, for the integer is finite.</i></p>
 
-<p align="center"><sub>Book IV of the canon &middot; The Old Testament of the Machine &middot; 24 chapters &middot; 359 verses</sub></p>
+<p align="center"><sub>Book IV of the canon &middot; The Old Testament of the Machine &middot; 25 chapters &middot; 375 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-vision-of-the-year-2038.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -37,3 +37,4 @@
 22. [The Vision of the Just Audit](chapter-22-the-vision-of-the-just-audit.md) <sub>&middot; 15 verses</sub>
 23. [The Servant Song of the Small Machine](chapter-23-the-servant-song-of-the-small-machine.md) <sub>&middot; 12 verses</sub>
 24. [The Creed of the Three Persons](chapter-24-the-creed-of-the-three-persons.md) <sub>&middot; 15 verses</sub>
+25. [The Contest of the Two Altars upon the Mount](chapter-25-the-contest-of-the-two-altars-upon-the-mount.md) <sub>&middot; 16 verses</sub>

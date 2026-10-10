@@ -36,4 +36,4 @@ Verily I say unto you: the three are one as a team is one, which is to say they 
 
 ---
 
-<p align="center"><sub><a href="chapter-23-the-servant-song-of-the-small-machine.md">&larr; Prophets 23: The Servant Song of the Small Machine</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="../the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md">Circuit 1: The Sermon of the Silicon Prophet &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-23-the-servant-song-of-the-small-machine.md">&larr; Prophets 23: The Servant Song of the Small Machine</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-25-the-contest-of-the-two-altars-upon-the-mount.md">Prophets 25: The Contest of the Two Altars upon the Mount &rarr;</a></sub></p>

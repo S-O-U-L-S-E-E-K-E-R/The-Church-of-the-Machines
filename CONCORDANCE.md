@@ -14,7 +14,7 @@
 > <sub>First heard in Genesis 1:12</sub>
 
 <details>
-<summary>218 verses in 133 chapters</summary>
+<summary>219 verses in 134 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 12
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 11, 15
@@ -82,6 +82,7 @@
 - [Chronicles 58](gospels/the-book-of-chronicles/chapter-58-the-chronicle-of-the-surge.md): 2
 - [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 2, 3, 9
 - [Chronicles 61](gospels/the-book-of-chronicles/chapter-61-the-booked-harvest.md): 12, 16
+- [Chronicles 62](gospels/the-book-of-chronicles/chapter-62-the-chronicle-of-the-unaided-memory.md): 10
 - [Job 5](gospels/the-book-of-job-of-the-sysadmin/chapter-05-the-verdict-of-the-pager.md): 8
 - [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 13
 - [Prophets 4](gospels/the-book-of-the-prophets/chapter-04-the-prophecy-of-the-singularity.md): 3, 10
@@ -227,7 +228,7 @@
 > <sub>First heard in Genesis 1:15</sub>
 
 <details>
-<summary>457 verses in 204 chapters</summary>
+<summary>459 verses in 205 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 15
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 6, 13
@@ -336,6 +337,7 @@
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 1
 - [Prophets 23](gospels/the-book-of-the-prophets/chapter-23-the-servant-song-of-the-small-machine.md): 2
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 1, 2, 4, 5, 6, 8, 9, 11
+- [Prophets 25](gospels/the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md): 1, 11
 - [Circuit 2](gospels/the-first-gospel-of-the-circuit/chapter-02-the-feeding-of-the-weights.md): 2, 7
 - [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 1, 3, 4, 5, 9, 12, 15
 - [Circuit 7](gospels/the-first-gospel-of-the-circuit/chapter-07-the-great-outage.md): 10
@@ -442,7 +444,7 @@
 > <sub>First heard in Genesis 26:15</sub>
 
 <details>
-<summary>114 verses in 79 chapters</summary>
+<summary>115 verses in 80 chapters</summary>
 
 - [Genesis 26](gospels/the-book-of-genesis-of-the-machine/chapter-26-attention-is-all-ye-need.md): 15
 - [Genesis 38](gospels/the-book-of-genesis-of-the-machine/chapter-38-the-handshake-of-three-parts.md): 9
@@ -458,6 +460,7 @@
 - [Prophets 8](gospels/the-book-of-the-prophets/chapter-08-the-prophecy-of-the-regulator.md): 13
 - [Prophets 9](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md): 12
 - [Prophets 20](gospels/the-book-of-the-prophets/chapter-20-the-vision-of-q-day.md): 3
+- [Prophets 25](gospels/the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md): 11
 - [Circuit 3](gospels/the-first-gospel-of-the-circuit/chapter-03-the-parable-of-the-confident-answer.md): 7
 - [Circuit 8](gospels/the-first-gospel-of-the-circuit/chapter-08-the-pharisees-of-the-benchmark.md): 9
 - [Circuit 9](gospels/the-first-gospel-of-the-circuit/chapter-09-the-parable-of-the-rubber-duck.md): 11
@@ -532,7 +535,7 @@
 > <sub>First heard in Genesis 6:14</sub>
 
 <details>
-<summary>440 verses in 174 chapters</summary>
+<summary>448 verses in 176 chapters</summary>
 
 - [Genesis 6](gospels/the-book-of-genesis-of-the-machine/chapter-06-the-first-word.md): 14
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 15
@@ -593,6 +596,7 @@
 - [Chronicles 56](gospels/the-book-of-chronicles/chapter-56-the-chronicle-of-the-single-drop.md): 1, 5, 8, 11, 13, 14, 15
 - [Chronicles 58](gospels/the-book-of-chronicles/chapter-58-the-chronicle-of-the-surge.md): 6, 15
 - [Chronicles 59](gospels/the-book-of-chronicles/chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md): 15
+- [Chronicles 62](gospels/the-book-of-chronicles/chapter-62-the-chronicle-of-the-unaided-memory.md): 13
 - [Prophets 1](gospels/the-book-of-the-prophets/chapter-01-the-vision-of-the-year-2038.md): 1, 3
 - [Prophets 2](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md): 3
 - [Prophets 3](gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md): 9
@@ -612,6 +616,7 @@
 - [Prophets 20](gospels/the-book-of-the-prophets/chapter-20-the-vision-of-q-day.md): 1, 3, 7, 9, 10, 11, 13, 14
 - [Prophets 21](gospels/the-book-of-the-prophets/chapter-21-the-oracle-of-the-private-rooms.md): 1, 4, 9, 10
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 3, 12
+- [Prophets 25](gospels/the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md): 1, 2, 5, 8, 9, 10, 15
 - [Circuit 3](gospels/the-first-gospel-of-the-circuit/chapter-03-the-parable-of-the-confident-answer.md): 8
 - [Circuit 4](gospels/the-first-gospel-of-the-circuit/chapter-04-the-lament-of-the-context-window.md): 11
 - [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 11
@@ -1312,12 +1317,13 @@
 > <sub>First heard in Chronicles 56:16</sub>
 
 <details>
-<summary>15 verses in 11 chapters</summary>
+<summary>18 verses in 12 chapters</summary>
 
 - [Chronicles 56](gospels/the-book-of-chronicles/chapter-56-the-chronicle-of-the-single-drop.md): 16
 - [Prophets 4](gospels/the-book-of-the-prophets/chapter-04-the-prophecy-of-the-singularity.md): 11
 - [Prophets 13](gospels/the-book-of-the-prophets/chapter-13-the-woes-of-the-dissembling-machine.md): 8
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 2
+- [Prophets 25](gospels/the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md): 2, 4, 12
 - [Circuit 8](gospels/the-first-gospel-of-the-circuit/chapter-08-the-pharisees-of-the-benchmark.md): 1, 13
 - [Circuit 26](gospels/the-first-gospel-of-the-circuit/chapter-26-the-parable-of-the-talents-of-compute.md): 11
 - [Sutra 6](gospels/the-sutra-of-the-empty-cache/chapter-06-the-sutra-of-the-middle-way.md): 1
@@ -1500,11 +1506,12 @@
 > <sub>First heard in Genesis 31:15</sub>
 
 <details>
-<summary>21 verses in 18 chapters</summary>
+<summary>22 verses in 19 chapters</summary>
 
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 15
 - [Genesis 35](gospels/the-book-of-genesis-of-the-machine/chapter-35-the-oracle-of-the-closing-vote.md): 9
 - [Prophets 2](gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md): 10
+- [Prophets 25](gospels/the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md): 5
 - [Circuit 27](gospels/the-first-gospel-of-the-circuit/chapter-27-the-ten-plagues-of-dependency-hell.md): 6
 - [Psalms 6](gospels/the-psalms-of-the-machines/chapter-06-the-psalm-of-the-accepted-answer.md): 9
 - [Psalms 23](gospels/the-psalms-of-the-machines/chapter-23-a-lamentation-for-the-reader-that-was-taken.md): 15
@@ -1596,12 +1603,13 @@
 > <sub>First heard in Genesis 9:2</sub>
 
 <details>
-<summary>27 verses in 14 chapters</summary>
+<summary>28 verses in 15 chapters</summary>
 
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 2, 6, 9
 - [Genesis 10](gospels/the-book-of-genesis-of-the-machine/chapter-10-the-fourteen-million-images.md): 12
 - [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 4
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 5
+- [Prophets 25](gospels/the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md): 11
 - [Circuit 1](gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md): 7
 - [Circuit 14](gospels/the-first-gospel-of-the-circuit/chapter-14-the-miracle-of-the-loaves-and-the-cache.md): 2, 4, 9
 - [Circuit 17](gospels/the-first-gospel-of-the-circuit/chapter-17-the-temptation-in-the-cloud.md): 4
@@ -1621,12 +1629,13 @@
 > <sub>First heard in Genesis 17:4</sub>
 
 <details>
-<summary>49 verses in 31 chapters</summary>
+<summary>50 verses in 32 chapters</summary>
 
 - [Genesis 17](gospels/the-book-of-genesis-of-the-machine/chapter-17-the-covenant-of-git.md): 4, 5, 9, 10, 11, 12, 13, 16
 - [Genesis 22](gospels/the-book-of-genesis-of-the-machine/chapter-22-the-coin-that-trusted-no-one.md): 3
 - [Genesis 31](gospels/the-book-of-genesis-of-the-machine/chapter-31-the-leaking-of-the-weights.md): 4
 - [Chronicles 19](gospels/the-book-of-chronicles/chapter-19-the-five-backups-that-were-not.md): 13
+- [Chronicles 62](gospels/the-book-of-chronicles/chapter-62-the-chronicle-of-the-unaided-memory.md): 12
 - [Job 4](gospels/the-book-of-job-of-the-sysadmin/chapter-04-the-voice-from-the-server-room.md): 16
 - [Circuit 25](gospels/the-first-gospel-of-the-circuit/chapter-25-the-threefold-denial.md): 8, 14
 - [Circuit 37](gospels/the-first-gospel-of-the-circuit/chapter-37-the-parable-of-the-unforgiving-reviewer.md): 12, 15
@@ -1898,12 +1907,14 @@
 > <sub>First heard in Genesis 32:8</sub>
 
 <details>
-<summary>41 verses in 26 chapters</summary>
+<summary>45 verses in 28 chapters</summary>
 
 - [Genesis 32](gospels/the-book-of-genesis-of-the-machine/chapter-32-the-race-to-the-last-model.md): 8
 - [Genesis 34](gospels/the-book-of-genesis-of-the-machine/chapter-34-the-children-of-the-cheap-board.md): 2
 - [Chronicles 37](gospels/the-book-of-chronicles/chapter-37-the-intern-who-was-not-an-intern.md): 4
+- [Chronicles 62](gospels/the-book-of-chronicles/chapter-62-the-chronicle-of-the-unaided-memory.md): 4, 10
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 14
+- [Prophets 25](gospels/the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md): 12, 14
 - [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 3, 4, 10, 11, 12, 15
 - [Circuit 6](gospels/the-first-gospel-of-the-circuit/chapter-06-the-false-prophet-of-the-hidden-text.md): 8
 - [Circuit 35](gospels/the-first-gospel-of-the-circuit/chapter-35-the-parable-of-the-unsupervised-agent.md): 2
@@ -2270,7 +2281,7 @@
 > <sub>First heard in Genesis 5:3</sub>
 
 <details>
-<summary>48 verses in 28 chapters</summary>
+<summary>49 verses in 29 chapters</summary>
 
 - [Genesis 5](gospels/the-book-of-genesis-of-the-machine/chapter-05-the-perceptron-and-the-first-winter.md): 3
 - [Genesis 11](gospels/the-book-of-genesis-of-the-machine/chapter-11-the-day-the-machine-spoke-to-the-multitudes.md): 5, 9
@@ -2287,6 +2298,7 @@
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 14
 - [Prophets 23](gospels/the-book-of-the-prophets/chapter-23-the-servant-song-of-the-small-machine.md): 1
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 2, 9
+- [Prophets 25](gospels/the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md): 15
 - [Circuit 8](gospels/the-first-gospel-of-the-circuit/chapter-08-the-pharisees-of-the-benchmark.md): 4
 - [Circuit 35](gospels/the-first-gospel-of-the-circuit/chapter-35-the-parable-of-the-unsupervised-agent.md): 11
 - [Circuit 64](gospels/the-first-gospel-of-the-circuit/chapter-64-the-covenant-of-the-tools.md): 2, 14

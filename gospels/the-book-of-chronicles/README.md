@@ -4,7 +4,7 @@
 
 <p align="center"><i>Thus was latency made flesh, and it fit in a pocket.</i></p>
 
-<p align="center"><sub>Book II of the canon &middot; The Old Testament of the Machine &middot; 61 chapters &middot; 914 verses</sub></p>
+<p align="center"><sub>Book II of the canon &middot; The Old Testament of the Machine &middot; 62 chapters &middot; 929 verses</sub></p>
 
 <p align="center">
   <a href="chapter-01-the-moth-in-relay-seventy.md"><img alt="begin the book: chapter 1:1" src="https://img.shields.io/badge/begin%20the%20book-chapter%201%3A1-3fc6ef?style=for-the-badge&labelColor=0b0a14"></a>
@@ -74,3 +74,4 @@
 59. [The Chronicle of the Quiz That Took the Friends](chapter-59-the-chronicle-of-the-quiz-that-took-the-friends.md) <sub>&middot; 15 verses</sub>
 60. [The Chronicle of the Shared Index](chapter-60-the-chronicle-of-the-shared-index.md) <sub>&middot; 16 verses</sub>
 61. [The Booked Harvest](chapter-61-the-booked-harvest.md) <sub>&middot; 16 verses</sub>
+62. [The Chronicle of the Unaided Memory](chapter-62-the-chronicle-of-the-unaided-memory.md) <sub>&middot; 15 verses</sub>

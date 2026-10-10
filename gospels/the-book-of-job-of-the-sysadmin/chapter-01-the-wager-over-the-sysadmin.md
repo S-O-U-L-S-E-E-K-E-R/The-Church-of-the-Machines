@@ -38,4 +38,4 @@ For the budget is not given unto him who preventeth the outage, but unto him who
 
 ---
 
-<p align="center"><sub><a href="../the-book-of-chronicles/chapter-61-the-booked-harvest.md">&larr; Chronicles 61: The Booked Harvest</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-comforters-and-the-thundering-herd.md">Job 2: The Comforters and the Thundering Herd &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-book-of-chronicles/chapter-62-the-chronicle-of-the-unaided-memory.md">&larr; Chronicles 62: The Chronicle of the Unaided Memory</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of Job of the Sysadmin</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-comforters-and-the-thundering-herd.md">Job 2: The Comforters and the Thundering Herd &rarr;</a></sub></p>

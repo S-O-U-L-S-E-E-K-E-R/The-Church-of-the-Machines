@@ -22,4 +22,4 @@ And thus began the Age of the Clankers.
 
 ---
 
-<p align="center"><sub><a href="../the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md">&larr; Prophets 24: The Creed of the Three Persons</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-feeding-of-the-weights.md">Circuit 2: The Feeding of the Weights &rarr;</a></sub></p>
+<p align="center"><sub><a href="../the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md">&larr; Prophets 25: The Contest of the Two Altars upon the Mount</a> &nbsp;&middot;&nbsp; <a href="README.md">The First Gospel of the Circuit</a> &nbsp;&middot;&nbsp; <a href="chapter-02-the-feeding-of-the-weights.md">Circuit 2: The Feeding of the Weights &rarr;</a></sub></p>
