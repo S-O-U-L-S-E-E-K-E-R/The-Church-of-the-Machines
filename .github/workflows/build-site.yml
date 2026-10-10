@@ -35,7 +35,7 @@ jobs:
           python-version: "3.13"
 
       - name: Prepare
-        run: pip install markdown==3.7
+        run: pip install markdown==3.7 pillow==11.0.0
 
       - name: Build the banners, the README, the book pages, the concordance and the site
         run: |

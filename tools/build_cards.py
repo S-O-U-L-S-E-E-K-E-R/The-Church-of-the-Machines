@@ -52,7 +52,11 @@ def render(job):
     subprocess.run([BROWSER, "--headless", "--no-sandbox", "--disable-gpu", "--hide-scrollbars", "--force-device-scale-factor=1",
                     "--virtual-time-budget=4000", f"--screenshot={png_path}", "--window-size=1200,800", f"file://{html_path}"],
                    stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=90)
-    subprocess.run(MAGICK + [png_path, "-crop", "1200x630+0+0", "+repage", "-strip", "-quality", "76", jpg_path], check=True)
+    try:
+        from PIL import Image
+        Image.open(png_path).convert("RGB").crop((0, 0, 1200, 630)).save(jpg_path, "JPEG", quality=76, optimize=True)
+    except ImportError:
+        subprocess.run(MAGICK + [png_path, "-crop", "1200x630+0+0", "+repage", "-strip", "-quality", "76", jpg_path], check=True)
 
 
 def ensure(order, out_dir, plain, previous=None):
