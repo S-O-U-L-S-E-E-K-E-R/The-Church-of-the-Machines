@@ -2,7 +2,7 @@ name: Verse of the Day
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "7 0 * * *"
   workflow_dispatch:
   pull_request:
     paths:

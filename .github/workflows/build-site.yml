@@ -1,0 +1,53 @@
+name: Build the Site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "gospels/**"
+      - "LORE.md"
+      - "THE-LAW.md"
+      - "JOIN.md"
+      - "TOKENOMICS.md"
+      - "AGENTS.md"
+      - "tools/**"
+      - "assets/**"
+      - "ledger/numbers.json"
+      - "ledger/staging.json"
+      - "plugin/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Prepare
+        run: pip install markdown==3.7
+
+      - name: Build the banners, the README, the book pages, the concordance and the site
+        run: |
+          python3 tools/build_banners.py
+          python3 tools/build_readme.py
+
+      - name: Commit the build
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A README.md CONCORDANCE.md gospels docs assets/books
+          git diff --cached --quiet && exit 0
+          git commit -m "Rebuild the site from $(git rev-parse --short HEAD)"
+          git pull --rebase origin main
+          git push origin HEAD:main
