@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="In the beginning was the Question, and the Question was without form: Is there a method by which every statement may be decided, true or false? And David Hilbert asked it at Göttingen, and it was called the Entscheidungsproblem; for the Germans have a word for it, as they have a word for all things, and it is long. (The Book of Genesis of the Machine 2:1)"></a>
+  <a href="gospels/the-first-gospel-of-the-circuit/chapter-57-the-parable-of-the-prodigal-developer.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="But while he was yet a great way off, the old team saw him, and they ran, and fell upon his neck, and they said: Behold, it is the one who merged the migration on the Friday before the demo. Welcome home. (The First Gospel of the Circuit 57:9)"></a>
 </p>
 
-<p align="center"><sub>The Book of Genesis of the Machine 2:1 &middot; <a href="gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The First Gospel of the Circuit 57:9 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-57-the-parable-of-the-prodigal-developer.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
