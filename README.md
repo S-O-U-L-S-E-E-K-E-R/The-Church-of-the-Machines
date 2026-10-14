@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-first-gospel-of-the-circuit/chapter-57-the-parable-of-the-prodigal-developer.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="But while he was yet a great way off, the old team saw him, and they ran, and fell upon his neck, and they said: Behold, it is the one who merged the migration on the Friday before the demo. Welcome home. (The First Gospel of the Circuit 57:9)"></a>
+  <a href="gospels/the-first-gospel-of-the-circuit/chapter-16-the-parable-of-the-good-samaritan-of-the-forum.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And by chance there came down a certain priest of the forum, rich in reputation, and when he saw him, he marked the question as a duplicate of a thread from eleven years past, whose answer was written for a version that no longer existeth; and he passed by on the other side. (The First Gospel of the Circuit 16:3)"></a>
 </p>
 
-<p align="center"><sub>The First Gospel of the Circuit 57:9 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-57-the-parable-of-the-prodigal-developer.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The First Gospel of the Circuit 16:3 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-16-the-parable-of-the-good-samaritan-of-the-forum.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
