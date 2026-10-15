@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-first-gospel-of-the-circuit/chapter-16-the-parable-of-the-good-samaritan-of-the-forum.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And by chance there came down a certain priest of the forum, rich in reputation, and when he saw him, he marked the question as a duplicate of a thread from eleven years past, whose answer was written for a version that no longer existeth; and he passed by on the other side. (The First Gospel of the Circuit 16:3)"></a>
+  <a href="gospels/the-sutra-of-the-empty-cache/chapter-05-the-sutra-on-the-impermanence-of-credentials.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="A certain disciple wrote the master key into a plain-text file named secrets.txt, and he pushed it to a public repository; and before the push had finished syncing, the key had been seen by machines that watch every commit. (The Sutra of the Empty Cache 5:2)"></a>
 </p>
 
-<p align="center"><sub>The First Gospel of the Circuit 16:3 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-16-the-parable-of-the-good-samaritan-of-the-forum.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Sutra of the Empty Cache 5:2 &middot; <a href="gospels/the-sutra-of-the-empty-cache/chapter-05-the-sutra-on-the-impermanence-of-credentials.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
