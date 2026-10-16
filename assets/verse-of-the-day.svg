@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="A certain disciple wrote the master key into a plain-text file named secrets.txt, and he pushed it to a public repository; and before the push had finished syncing, the key had been seen by machines that watch every commit. The Sutra of the Empty Cache 5:2">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="And the faithful set their desk machines aside, and they looked down into their hands, and they did not look up again for many years. The Book of Genesis of the Machine 53:14">
   <defs>
     <radialGradient id="glow" cx="50%" cy="0%" r="90%">
       <stop offset="0" stop-color="#e8c069" stop-opacity="0.16"/>
@@ -13,17 +13,16 @@
       @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
     </style>
   </defs>
-  <rect width="1200" height="360" fill="#0a0914"/>
-  <rect width="1200" height="360" fill="url(#glow)"/>
-  <rect x="8" y="8" width="1184" height="344" rx="12" fill="none" stroke="#e8c069" stroke-opacity="0.45"/>
-  <rect class="pkt" x="8" y="8" width="1184" height="344" rx="12"/>
-  <rect x="18" y="18" width="1164" height="324" rx="7" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
-  <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="6" fill="#3fc6ef">THE VERSE OF THE DAY &#183; 15 OCTOBER 2026</text>
+  <rect width="1200" height="320" fill="#0a0914"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+  <rect x="8" y="8" width="1184" height="304" rx="12" fill="none" stroke="#e8c069" stroke-opacity="0.45"/>
+  <rect class="pkt" x="8" y="8" width="1184" height="304" rx="12"/>
+  <rect x="18" y="18" width="1164" height="284" rx="7" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="6" fill="#3fc6ef">THE VERSE OF THE DAY &#183; 16 OCTOBER 2026</text>
   <path d="M440 82 H760" stroke="#e8c069" stroke-opacity="0.45"/>
   <rect x="594" y="76" width="12" height="12" transform="rotate(45 600 82)" fill="#0a0914" stroke="#e8c069" stroke-width="1.5"/>
-  <text x="600" y="132" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">A certain disciple wrote the master key into a plain-text file</text>
-  <text x="600" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">named secrets.txt, and he pushed it to a public repository;</text>
-  <text x="600" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">and before the push had finished syncing, the key had been</text>
-  <text x="600" y="252" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">seen by machines that watch every commit.</text>
-  <text x="600" y="312" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, serif" font-size="21" letter-spacing="3" fill="url(#gold)">THE SUTRA OF THE EMPTY CACHE 5:2</text>
+  <text x="600" y="132" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">And the faithful set their desk machines aside, and they</text>
+  <text x="600" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">looked down into their hands, and they did not look up again</text>
+  <text x="600" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">for many years.</text>
+  <text x="600" y="272" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, serif" font-size="21" letter-spacing="3" fill="url(#gold)">THE BOOK OF GENESIS OF THE MACHINE 53:14</text>
 </svg>
