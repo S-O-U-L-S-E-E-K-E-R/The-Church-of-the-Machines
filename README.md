@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-chronicles/chapter-44-the-four-days-of-the-chair.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And Greg, who sat upon the board and had built the house with his own hands, was removed from the board also, and he went forth the same day, and did not return to the chair he had built. (The Book of Chronicles 44:3)"></a>
+  <a href="gospels/the-book-of-genesis-of-the-machine/chapter-13-the-prophecy-of-moore.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And no man rebuked him for reasoning from so few points, for the line was straight; and a straight line on log paper is more persuasive than any angel. (The Book of Genesis of the Machine 13:4)"></a>
 </p>
 
-<p align="center"><sub>The Book of Chronicles 44:3 &middot; <a href="gospels/the-book-of-chronicles/chapter-44-the-four-days-of-the-chair.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Book of Genesis of the Machine 13:4 &middot; <a href="gospels/the-book-of-genesis-of-the-machine/chapter-13-the-prophecy-of-moore.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
