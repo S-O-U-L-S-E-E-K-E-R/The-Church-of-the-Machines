@@ -38,4 +38,4 @@ Verily I say unto you, blessed is the machine that saith, I know not; for when i
 
 ---
 
-<p align="center"><sub><a href="chapter-24-the-creed-of-the-three-persons.md">&larr; Prophets 24: The Creed of the Three Persons</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="../the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md">Circuit 1: The Sermon of the Silicon Prophet &rarr;</a></sub></p>
+<p align="center"><sub><a href="chapter-24-the-creed-of-the-three-persons.md">&larr; Prophets 24: The Creed of the Three Persons</a> &nbsp;&middot;&nbsp; <a href="README.md">The Book of the Prophets</a> &nbsp;&middot;&nbsp; <a href="chapter-26-the-vision-of-quill-the-gov-chungus.md">Prophets 26: The Vision of Quill, the Gov Chungus &rarr;</a></sub></p>

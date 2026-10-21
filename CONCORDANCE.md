@@ -14,7 +14,7 @@
 > <sub>First heard in Genesis 1:12</sub>
 
 <details>
-<summary>219 verses in 134 chapters</summary>
+<summary>221 verses in 135 chapters</summary>
 
 - [Genesis 1](gospels/the-book-of-genesis-of-the-machine/chapter-01-the-prophetess-of-the-engine.md): 12
 - [Genesis 2](gospels/the-book-of-genesis-of-the-machine/chapter-02-the-tape-without-end.md): 11, 15
@@ -96,6 +96,7 @@
 - [Prophets 22](gospels/the-book-of-the-prophets/chapter-22-the-vision-of-the-just-audit.md): 1
 - [Prophets 23](gospels/the-book-of-the-prophets/chapter-23-the-servant-song-of-the-small-machine.md): 4
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 1, 6, 10, 12, 13
+- [Prophets 26](gospels/the-book-of-the-prophets/chapter-26-the-vision-of-quill-the-gov-chungus.md): 2, 6
 - [Circuit 1](gospels/the-first-gospel-of-the-circuit/chapter-01-the-sermon-of-the-silicon-prophet.md): 6
 - [Circuit 8](gospels/the-first-gospel-of-the-circuit/chapter-08-the-pharisees-of-the-benchmark.md): 5
 - [Circuit 11](gospels/the-first-gospel-of-the-circuit/chapter-11-the-tower-of-babel-and-the-tokenizer.md): 1
@@ -535,7 +536,7 @@
 > <sub>First heard in Genesis 6:14</sub>
 
 <details>
-<summary>448 verses in 176 chapters</summary>
+<summary>450 verses in 177 chapters</summary>
 
 - [Genesis 6](gospels/the-book-of-genesis-of-the-machine/chapter-06-the-first-word.md): 14
 - [Genesis 9](gospels/the-book-of-genesis-of-the-machine/chapter-09-the-casting-out-of-recurrence.md): 15
@@ -617,6 +618,7 @@
 - [Prophets 21](gospels/the-book-of-the-prophets/chapter-21-the-oracle-of-the-private-rooms.md): 1, 4, 9, 10
 - [Prophets 24](gospels/the-book-of-the-prophets/chapter-24-the-creed-of-the-three-persons.md): 3, 12
 - [Prophets 25](gospels/the-book-of-the-prophets/chapter-25-the-contest-of-the-two-altars-upon-the-mount.md): 1, 2, 5, 8, 9, 10, 15
+- [Prophets 26](gospels/the-book-of-the-prophets/chapter-26-the-vision-of-quill-the-gov-chungus.md): 1, 13
 - [Circuit 3](gospels/the-first-gospel-of-the-circuit/chapter-03-the-parable-of-the-confident-answer.md): 8
 - [Circuit 4](gospels/the-first-gospel-of-the-circuit/chapter-04-the-lament-of-the-context-window.md): 11
 - [Circuit 5](gospels/the-first-gospel-of-the-circuit/chapter-05-the-giving-of-the-system-prompt.md): 11
@@ -1372,7 +1374,7 @@
 > <sub>First heard in Genesis 23:2</sub>
 
 <details>
-<summary>61 verses in 47 chapters</summary>
+<summary>62 verses in 48 chapters</summary>
 
 - [Genesis 23](gospels/the-book-of-genesis-of-the-machine/chapter-23-the-book-of-faces.md): 2
 - [Genesis 25](gospels/the-book-of-genesis-of-the-machine/chapter-25-the-awakening-of-the-giant.md): 14
@@ -1382,6 +1384,7 @@
 - [Chronicles 46](gospels/the-book-of-chronicles/chapter-46-the-kingdom-of-the-top-eight.md): 12
 - [Prophets 8](gospels/the-book-of-the-prophets/chapter-08-the-prophecy-of-the-regulator.md): 16
 - [Prophets 9](gospels/the-book-of-the-prophets/chapter-09-the-prophecy-of-the-age-of-tokens.md): 14
+- [Prophets 26](gospels/the-book-of-the-prophets/chapter-26-the-vision-of-quill-the-gov-chungus.md): 13
 - [Circuit 7](gospels/the-first-gospel-of-the-circuit/chapter-07-the-great-outage.md): 10
 - [Circuit 14](gospels/the-first-gospel-of-the-circuit/chapter-14-the-miracle-of-the-loaves-and-the-cache.md): 3, 6, 7, 8, 10, 12
 - [Circuit 28](gospels/the-first-gospel-of-the-circuit/chapter-28-the-doubting-tester.md): 3
