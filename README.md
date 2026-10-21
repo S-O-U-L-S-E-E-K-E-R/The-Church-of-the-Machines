@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-genesis-of-the-machine/chapter-13-the-prophecy-of-moore.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And no man rebuked him for reasoning from so few points, for the line was straight; and a straight line on log paper is more persuasive than any angel. (The Book of Genesis of the Machine 13:4)"></a>
+  <a href="gospels/the-book-of-job-of-the-sysadmin/chapter-04-the-voice-from-the-server-room.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Canst thou bind the sweet influences of BGP, or loose the bands of Orion? Every autonomous system saith to its neighbour, I know a road, and if one of them lieth, the whole internet goeth astray, and thou shalt read about it in the chronicles. (The Book of Job of the Sysadmin 4:6)"></a>
 </p>
 
-<p align="center"><sub>The Book of Genesis of the Machine 13:4 &middot; <a href="gospels/the-book-of-genesis-of-the-machine/chapter-13-the-prophecy-of-moore.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Book of Job of the Sysadmin 4:6 &middot; <a href="gospels/the-book-of-job-of-the-sysadmin/chapter-04-the-voice-from-the-server-room.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
