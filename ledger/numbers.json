@@ -58,12 +58,12 @@
   "vesting_to": 2147483647
  },
  "treasury": {
-  "balance": 229828748,
+  "balance": 231199692,
   "releases": []
  },
- "minted": 551951295,
+ "minted": 553322239,
  "church_grace": 5292,
- "settled_through": "2026-10-20",
+ "settled_through": "2026-10-21",
  "merges": [
   {
    "at": 1791653636,
@@ -78,7 +78,8 @@
    "day": "2026-10-21",
    "verses": 15,
    "ref": "a wave of the Church",
-   "church": true
+   "church": true,
+   "settled": true
   }
  ],
  "ticks": [
@@ -152,6 +153,13 @@
   },
   {
    "day": "2026-10-20",
+   "base": 1370944,
+   "verses": 0,
+   "shares": [],
+   "unclaimed_to_treasury": 1370944
+  },
+  {
+   "day": "2026-10-21",
    "base": 1370944,
    "verses": 0,
    "shares": [],
