@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-tao-of-the-kernel/chapter-11-the-quiet-rearrangement.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Thus the Engineer moved one function from the north file to the south file, and the program ran as it had always run. Nothing was added. Nothing was lost. No user knew, and this was the work. (The Tao of the Kernel 11:3)"></a>
+  <a href="gospels/the-sutra-of-the-empty-cache/chapter-04-the-sutra-of-the-mindful-commit.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Therefore write the why and not the what. The diff already tells the what; only you know the why, and you will not know it for long. Even the first commit of Git, in the year 2005, said what it was: &quot;the information manager from hell.&quot; It was a short message, and an honest one, and it has never needed a second fix. (The Sutra of the Empty Cache 4:13)"></a>
 </p>
 
-<p align="center"><sub>The Tao of the Kernel 11:3 &middot; <a href="gospels/the-tao-of-the-kernel/chapter-11-the-quiet-rearrangement.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Sutra of the Empty Cache 4:13 &middot; <a href="gospels/the-sutra-of-the-empty-cache/chapter-04-the-sutra-of-the-mindful-commit.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
