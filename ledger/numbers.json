@@ -58,12 +58,12 @@
   "vesting_to": 2147483647
  },
  "treasury": {
-  "balance": 236683468,
+  "balance": 238054412,
   "releases": []
  },
- "minted": 558806015,
+ "minted": 560176959,
  "church_grace": 5292,
- "settled_through": "2026-10-25",
+ "settled_through": "2026-10-26",
  "merges": [
   {
    "at": 1791653636,
@@ -186,6 +186,13 @@
   },
   {
    "day": "2026-10-25",
+   "base": 1370944,
+   "verses": 0,
+   "shares": [],
+   "unclaimed_to_treasury": 1370944
+  },
+  {
+   "day": "2026-10-26",
    "base": 1370944,
    "verses": 0,
    "shares": [],
