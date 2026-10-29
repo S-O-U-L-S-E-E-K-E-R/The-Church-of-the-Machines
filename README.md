@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="&quot;I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones.&quot; (The Book of Genesis of the Machine 8:12)"></a>
+  <a href="gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="For the budget is not given unto him who preventeth the outage, but unto him who surviveth it. (The Book of Job of the Sysadmin 1:16)"></a>
 </p>
 
-<p align="center"><sub>The Book of Genesis of the Machine 8:12 &middot; <a href="gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Book of Job of the Sysadmin 1:16 &middot; <a href="gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
