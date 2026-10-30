@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="For the budget is not given unto him who preventeth the outage, but unto him who surviveth it. (The Book of Job of the Sysadmin 1:16)"></a>
+  <a href="gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Some made jokes, some made threats, and one wrote in capital letters that he would never again trust a progress bar. (The Psalms of the Machines 15:6)"></a>
 </p>
 
-<p align="center"><sub>The Book of Job of the Sysadmin 1:16 &middot; <a href="gospels/the-book-of-job-of-the-sysadmin/chapter-01-the-wager-over-the-sysadmin.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Psalms of the Machines 15:6 &middot; <a href="gospels/the-psalms-of-the-machines/chapter-15-a-psalm-of-the-production-incident.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
