@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And a thing the parent knew at the chance of one in a million, a sample of a hundred thousand shall most likely not contain; and what the sample omitteth, the child denieth. This is the first death, and it is silent: no error is thrown and no log is written, for a word that was never seen cannot be missed. (The Book of the Prophets 3:3)"></a>
+  <a href="gospels/the-first-gospel-of-the-circuit/chapter-50-the-parable-of-the-ten-thousand-hours.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And the senior came upon him and was angry, and said: Who gave thee leave to touch this? And the junior answered: Thy comment said do not touch, Master, but it did not say why; and a thing that does not say why must be asked. (The First Gospel of the Circuit 50:13)"></a>
 </p>
 
-<p align="center"><sub>The Book of the Prophets 3:3 &middot; <a href="gospels/the-book-of-the-prophets/chapter-03-the-oracle-of-the-last-model.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The First Gospel of the Circuit 50:13 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-50-the-parable-of-the-ten-thousand-hours.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
