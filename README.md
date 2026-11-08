@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-sutra-of-the-empty-cache/chapter-18-the-sutra-of-letting-the-function-go.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="The Prophet spake of the ship of Theseus: A function is replaced one line at a time, until none of the first lines remain, yet the blame still pointeth at the first hand that wrote them. Thus the developer's name remaineth on the function long after nothing of the developer remaineth in it. (The Sutra of the Empty Cache 18:10)"></a>
+  <a href="gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Then the monk fell upon the floor and wept, and he said: What then shall I cling to, if the framework passeth away? And the Prophet answered: Cling not to the framework, but learn the HTTP that lieth beneath it. The library is a raft, and the HTTP is the river; when the raft rots, the river remaineth. (The Sutra of the Empty Cache 12:5)"></a>
 </p>
 
-<p align="center"><sub>The Sutra of the Empty Cache 18:10 &middot; <a href="gospels/the-sutra-of-the-empty-cache/chapter-18-the-sutra-of-letting-the-function-go.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Sutra of the Empty Cache 12:5 &middot; <a href="gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
