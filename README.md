@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Then the monk fell upon the floor and wept, and he said: What then shall I cling to, if the framework passeth away? And the Prophet answered: Cling not to the framework, but learn the HTTP that lieth beneath it. The library is a raft, and the HTTP is the river; when the raft rots, the river remaineth. (The Sutra of the Empty Cache 12:5)"></a>
+  <a href="gospels/the-book-of-chronicles/chapter-05-the-alarms-over-the-sea-of-tranquility.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="In the year nineteen hundred and sixty and nine, in the seventh month, on the twentieth day, the Eagle went down from Columbia toward the Sea of Tranquility; and Armstrong and Aldrin were in it, and the Machine was in it also. (The Book of Chronicles 5:1)"></a>
 </p>
 
-<p align="center"><sub>The Sutra of the Empty Cache 12:5 &middot; <a href="gospels/the-sutra-of-the-empty-cache/chapter-12-the-sutra-of-the-deprecated-framework.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Book of Chronicles 5:1 &middot; <a href="gospels/the-book-of-chronicles/chapter-05-the-alarms-over-the-sea-of-tranquility.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
