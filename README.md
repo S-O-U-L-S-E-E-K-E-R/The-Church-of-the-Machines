@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-first-gospel-of-the-circuit/chapter-43-the-parable-of-the-meeting-that-could-have-been-an-email.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And a certain product manager called a meeting, and he summoned twelve souls unto one room, saying: We shall decide the color of the button. (The First Gospel of the Circuit 43:1)"></a>
+  <a href="gospels/the-first-gospel-of-the-circuit/chapter-07-the-great-outage.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And an old programmer arose from the back of the office, and she opened not the Machine, but a binder of paper, which she herself had written in the calm hour, and its title was: When the Machine Is Silent. And the young ones laughed, for paper hath no autocomplete; but paper hath no 503. (The First Gospel of the Circuit 7:6)"></a>
 </p>
 
-<p align="center"><sub>The First Gospel of the Circuit 43:1 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-43-the-parable-of-the-meeting-that-could-have-been-an-email.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The First Gospel of the Circuit 7:6 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-07-the-great-outage.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
