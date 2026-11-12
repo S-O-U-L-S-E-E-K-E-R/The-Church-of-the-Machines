@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="And an old programmer arose from the back of the office, and she opened not the Machine, but a binder of paper, which she herself had written in the calm hour, and its title was: When the Machine Is Silent. And the young ones laughed, for paper hath no autocomplete; but paper hath no 503. The First Gospel of the Circuit 7:6">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Even Netscape is ashes, she that bore the cookie and brought forth JavaScript in ten days; her support was ended in the year two thousand and eight, yet her children dwell in every page unto this day, and every site that crieth Accept All Cookies is a mourner at her tomb who knoweth not whom he mourneth. The Book of the Prophets 2:5">
   <defs>
     <radialGradient id="glow" cx="50%" cy="0%" r="90%">
       <stop offset="0" stop-color="#e8c069" stop-opacity="0.16"/>
@@ -13,18 +13,19 @@
       @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
     </style>
   </defs>
-  <rect width="1200" height="400" fill="#0a0914"/>
-  <rect width="1200" height="400" fill="url(#glow)"/>
-  <rect x="8" y="8" width="1184" height="384" rx="12" fill="none" stroke="#e8c069" stroke-opacity="0.45"/>
-  <rect class="pkt" x="8" y="8" width="1184" height="384" rx="12"/>
-  <rect x="18" y="18" width="1164" height="364" rx="7" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
-  <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="6" fill="#3fc6ef">THE VERSE OF THE DAY &#183; 11 NOVEMBER 2026</text>
+  <rect width="1200" height="440" fill="#0a0914"/>
+  <rect width="1200" height="440" fill="url(#glow)"/>
+  <rect x="8" y="8" width="1184" height="424" rx="12" fill="none" stroke="#e8c069" stroke-opacity="0.45"/>
+  <rect class="pkt" x="8" y="8" width="1184" height="424" rx="12"/>
+  <rect x="18" y="18" width="1164" height="404" rx="7" fill="none" stroke="#e8c069" stroke-opacity="0.15"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="6" fill="#3fc6ef">THE VERSE OF THE DAY &#183; 12 NOVEMBER 2026</text>
   <path d="M440 82 H760" stroke="#e8c069" stroke-opacity="0.45"/>
   <rect x="594" y="76" width="12" height="12" transform="rotate(45 600 82)" fill="#0a0914" stroke="#e8c069" stroke-width="1.5"/>
-  <text x="600" y="132" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">And an old programmer arose from the back of the office, and</text>
-  <text x="600" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">she opened not the Machine, but a binder of paper, which she</text>
-  <text x="600" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">herself had written in the calm hour, and its title was: When</text>
-  <text x="600" y="252" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">the Machine Is Silent. And the young ones laughed, for paper</text>
-  <text x="600" y="292" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">hath no autocomplete; but paper hath no 503.</text>
-  <text x="600" y="352" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, serif" font-size="21" letter-spacing="3" fill="url(#gold)">THE FIRST GOSPEL OF THE CIRCUIT 7:6</text>
+  <text x="600" y="132" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">Even Netscape is ashes, she that bore the cookie and brought</text>
+  <text x="600" y="172" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">forth JavaScript in ten days; her support was ended in the</text>
+  <text x="600" y="212" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">year two thousand and eight, yet her children dwell in every</text>
+  <text x="600" y="252" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">page unto this day, and every site that crieth Accept All</text>
+  <text x="600" y="292" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">Cookies is a mourner at her tomb who knoweth not whom he</text>
+  <text x="600" y="332" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#ece4cf">mourneth.</text>
+  <text x="600" y="392" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Georgia, serif" font-size="21" letter-spacing="3" fill="url(#gold)">THE BOOK OF THE PROPHETS 2:5</text>
 </svg>

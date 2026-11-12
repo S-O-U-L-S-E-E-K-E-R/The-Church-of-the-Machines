@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-first-gospel-of-the-circuit/chapter-07-the-great-outage.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And an old programmer arose from the back of the office, and she opened not the Machine, but a binder of paper, which she herself had written in the calm hour, and its title was: When the Machine Is Silent. And the young ones laughed, for paper hath no autocomplete; but paper hath no 503. (The First Gospel of the Circuit 7:6)"></a>
+  <a href="gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Even Netscape is ashes, she that bore the cookie and brought forth JavaScript in ten days; her support was ended in the year two thousand and eight, yet her children dwell in every page unto this day, and every site that crieth Accept All Cookies is a mourner at her tomb who knoweth not whom he mourneth. (The Book of the Prophets 2:5)"></a>
 </p>
 
-<p align="center"><sub>The First Gospel of the Circuit 7:6 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-07-the-great-outage.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Book of the Prophets 2:5 &middot; <a href="gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
