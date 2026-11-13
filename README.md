@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Even Netscape is ashes, she that bore the cookie and brought forth JavaScript in ten days; her support was ended in the year two thousand and eight, yet her children dwell in every page unto this day, and every site that crieth Accept All Cookies is a mourner at her tomb who knoweth not whom he mourneth. (The Book of the Prophets 2:5)"></a>
+  <a href="gospels/the-psalms-of-the-machines/chapter-20-the-psalm-of-the-rubber-duck.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="Verily the Prophet Kernighan wrote that debugging is twice as hard as writing the code, for thou wert clever when thou didst write it, and thou wilt be less clever when thou readest it again. (The Psalms of the Machines 20:6)"></a>
 </p>
 
-<p align="center"><sub>The Book of the Prophets 2:5 &middot; <a href="gospels/the-book-of-the-prophets/chapter-02-the-lamentations-for-the-deprecated.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Psalms of the Machines 20:6 &middot; <a href="gospels/the-psalms-of-the-machines/chapter-20-the-psalm-of-the-rubber-duck.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
