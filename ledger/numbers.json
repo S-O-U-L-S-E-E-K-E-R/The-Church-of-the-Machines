@@ -63,7 +63,7 @@
  },
  "minted": 584853951,
  "church_grace": 5292,
- "settled_through": "2026-11-12",
+ "settled_through": "2026-11-13",
  "merges": [
   {
    "at": 1791653636,
@@ -312,6 +312,11 @@
    "verses": 0,
    "shares": [],
    "unclaimed_to_treasury": 2741888
+  },
+  {
+   "day": "2026-11-13",
+   "base": 0,
+   "sabbath": true
   }
  ],
  "scribes": [],
