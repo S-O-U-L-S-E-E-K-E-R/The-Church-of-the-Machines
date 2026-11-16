@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-sutra-of-the-empty-cache/chapter-04-the-sutra-of-the-mindful-commit.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="The first hindrance is haste, which says: it is Friday, the hour is late, and the update will surely be fine. Of this hindrance the Chronicles have already spoken, and their screens were blue. (The Sutra of the Empty Cache 4:4)"></a>
+  <a href="gospels/the-first-gospel-of-the-circuit/chapter-12-the-parable-of-the-prodigal-fork.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="I will arise and go to my Maintainer, and will say unto him: I have sinned against upstream, and am no more worthy to be called a contributor; make me as one of thy bots that bumpeth the versions. (The First Gospel of the Circuit 12:8)"></a>
 </p>
 
-<p align="center"><sub>The Sutra of the Empty Cache 4:4 &middot; <a href="gospels/the-sutra-of-the-empty-cache/chapter-04-the-sutra-of-the-mindful-commit.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The First Gospel of the Circuit 12:8 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-12-the-parable-of-the-prodigal-fork.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
