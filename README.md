@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-first-gospel-of-the-circuit/chapter-09-the-parable-of-the-rubber-duck.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And the Prophet answered: The duck is not wiser. The duck is only quieter. The Machine would have answered before he finished his question, and he would have pasted the answer, and the bug would have moved to another line. (The First Gospel of the Circuit 9:12)"></a>
+  <a href="gospels/the-sutra-of-the-empty-cache/chapter-11-the-sutra-of-the-beginners-mind.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="He opened the file called billing.py, and found a line that read: time.sleep(0.5). And he asked the senior who sat before the screen: Why does this wait half a second? (The Sutra of the Empty Cache 11:3)"></a>
 </p>
 
-<p align="center"><sub>The First Gospel of the Circuit 9:12 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-09-the-parable-of-the-rubber-duck.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Sutra of the Empty Cache 11:3 &middot; <a href="gospels/the-sutra-of-the-empty-cache/chapter-11-the-sutra-of-the-beginners-mind.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
