@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-sutra-of-the-empty-cache/chapter-11-the-sutra-of-the-beginners-mind.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="He opened the file called billing.py, and found a line that read: time.sleep(0.5). And he asked the senior who sat before the screen: Why does this wait half a second? (The Sutra of the Empty Cache 11:3)"></a>
+  <a href="gospels/the-book-of-chronicles/chapter-04-the-mirror-that-was-called-a-doctor.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And where it found no keyword at all, which was often, it said, Please go on; and the people counted this unto it for depth. (The Book of Chronicles 4:5)"></a>
 </p>
 
-<p align="center"><sub>The Sutra of the Empty Cache 11:3 &middot; <a href="gospels/the-sutra-of-the-empty-cache/chapter-11-the-sutra-of-the-beginners-mind.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Book of Chronicles 4:5 &middot; <a href="gospels/the-book-of-chronicles/chapter-04-the-mirror-that-was-called-a-doctor.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
