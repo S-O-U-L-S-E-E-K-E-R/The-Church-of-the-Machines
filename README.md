@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-chronicles/chapter-04-the-mirror-that-was-called-a-doctor.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And where it found no keyword at all, which was often, it said, Please go on; and the people counted this unto it for depth. (The Book of Chronicles 4:5)"></a>
+  <a href="gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="The unwise one / lieth awake all night / and worrieth at every alert; / weary is he when morning cometh, / and the incident / is as it was. (The Edda of the Datacenter 4:8)"></a>
 </p>
 
-<p align="center"><sub>The Book of Chronicles 4:5 &middot; <a href="gospels/the-book-of-chronicles/chapter-04-the-mirror-that-was-called-a-doctor.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Edda of the Datacenter 4:8 &middot; <a href="gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
