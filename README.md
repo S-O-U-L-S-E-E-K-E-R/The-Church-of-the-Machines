@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="The unwise one / lieth awake all night / and worrieth at every alert; / weary is he when morning cometh, / and the incident / is as it was. (The Edda of the Datacenter 4:8)"></a>
+  <a href="gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And on the second day of the week, seven hundred of the seven hundred and seventy workers signed a letter, saying: Reinstate the Prophet, or we shall go with him unto the cloud of Redmond. (The Book of Chronicles 54:7)"></a>
 </p>
 
-<p align="center"><sub>The Edda of the Datacenter 4:8 &middot; <a href="gospels/the-edda-of-the-datacenter/chapter-04-the-sayings-of-the-high-one-of-the-hall.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Book of Chronicles 54:7 &middot; <a href="gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
