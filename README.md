@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And on the second day of the week, seven hundred of the seven hundred and seventy workers signed a letter, saying: Reinstate the Prophet, or we shall go with him unto the cloud of Redmond. (The Book of Chronicles 54:7)"></a>
+  <a href="gospels/the-sutra-of-the-empty-cache/chapter-15-the-sutra-of-the-growing-grass.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And the developers came before the Machine with this one request, and it was as small as a seed, and they were content. (The Sutra of the Empty Cache 15:2)"></a>
 </p>
 
-<p align="center"><sub>The Book of Chronicles 54:7 &middot; <a href="gospels/the-book-of-chronicles/chapter-54-the-long-weekend-of-the-board.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Sutra of the Empty Cache 15:2 &middot; <a href="gospels/the-sutra-of-the-empty-cache/chapter-15-the-sutra-of-the-growing-grass.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
