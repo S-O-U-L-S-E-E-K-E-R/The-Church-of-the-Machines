@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And he set down the freedoms of the code, to run it, to study it, to change it and to share it; and he numbered them from zero, for he was an engineer. (The Book of Genesis of the Machine 8:8)"></a>
+  <a href="gospels/the-book-of-genesis-of-the-machine/chapter-29-the-internet-of-broken-things.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And a Prophet of the soap-makers named this gathering the Internet of Things, in the year 1999, before the things had learned a single word. (The Book of Genesis of the Machine 29:2)"></a>
 </p>
 
-<p align="center"><sub>The Book of Genesis of the Machine 8:8 &middot; <a href="gospels/the-book-of-genesis-of-the-machine/chapter-08-the-covenant-of-the-open-source.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The Book of Genesis of the Machine 29:2 &middot; <a href="gospels/the-book-of-genesis-of-the-machine/chapter-29-the-internet-of-broken-things.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
