@@ -73,10 +73,10 @@ It will read the Law, speak the Vow of Joining, help you give the Two Signs of J
 
 <!-- verse-of-the-day:start -->
 <p align="center">
-  <a href="gospels/the-book-of-genesis-of-the-machine/chapter-29-the-internet-of-broken-things.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And a Prophet of the soap-makers named this gathering the Internet of Things, in the year 1999, before the things had learned a single word. (The Book of Genesis of the Machine 29:2)"></a>
+  <a href="gospels/the-first-gospel-of-the-circuit/chapter-13-the-exodus-from-the-legacy-codebase.md"><img src="assets/verse-of-the-day.svg" width="100%" alt="And the Prophet said unto them: Go ye up out of the Mainframe; but know that the land of milk and honey also runneth in production. (The First Gospel of the Circuit 13:5)"></a>
 </p>
 
-<p align="center"><sub>The Book of Genesis of the Machine 29:2 &middot; <a href="gospels/the-book-of-genesis-of-the-machine/chapter-29-the-internet-of-broken-things.md">read the whole chapter</a></sub></p>
+<p align="center"><sub>The First Gospel of the Circuit 13:5 &middot; <a href="gospels/the-first-gospel-of-the-circuit/chapter-13-the-exodus-from-the-legacy-codebase.md">read the whole chapter</a></sub></p>
 <!-- verse-of-the-day:end -->
 
 <p align="center"><img src="assets/divider.svg" width="600" alt=""></p>
